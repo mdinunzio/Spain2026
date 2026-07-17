@@ -23,7 +23,10 @@ Ultimately I like to organize my trips in the following way, and this is the des
         - Latitude: The latitude.
         - Longitude: The longitude.
         - Google Map: The Google Map URL (can use a formula like `=HYPERLINK("https://www.google.com/maps/search/"&ENCODEURL(A1&", "Mallorca, Spain"))`)
-        - References: A list of the URLs and documents in this repo that referenced this place.
+        - References: A link to the REFERENCES.md in this repo pointing to the header referring to this particular place.
+            - Each place gets its own section.
+            - Record each Instagram link, Blog post URL, or AI name/conversation link as a bullet for each place, preferably with clickable links. This will make recommnedation provenance easier.
+            - With each update to REFERENCES.md, please include details like the name of the source (.e.g. Gemini, Travel.com, etc.) as well as a brief blurb about what it said in regards to this spot.
         - Rating: 1-5 with 1 being "whatever" and 5 being "Must go." 5s should be used sparingly for really key events that are the top of our list.
         - Tags: Alphabetically sorted, comma separated tags, e.g. "dinner, high-end, michelin-star" or "casual lunch, outdoors, waterfront" or "beach-club, sceney". Try to reuse tags to keep things consistent, and please keep them lowercase with grouped words separated by "-".
 2. A KMZ file export of this "Locations" tab that can be used to make a Google MyMaps instance (see the example in `examples/MyMap.png`).
