@@ -6,6 +6,31 @@ This guide compiles every venue and place featured across the 16 Instagram video
 
 ---
 
+## Source Provenance
+
+Every venue entry in this guide references a **Source Reel ID**, which maps to a canonical post URL and creator handle below.
+
+| Reel ID | Canonical Post URL | Creator Handle | Creator Display Name |
+|---------|--------------------|----------------|----------------------|
+| DK1hD4ro-21 | https://www.instagram.com/reel/DK1hD4ro-21/ | [@miss_heschteg](https://www.instagram.com/miss_heschteg/) | S. |
+| DXCXO-_DWUT | https://www.instagram.com/reel/DXCXO-_DWUT/ | [@explorersandwich](https://www.instagram.com/explorersandwich/) | Doina \| Mallorca Slow Living |
+| DY9_4GWItkl | https://www.instagram.com/reel/DY9_4GWItkl/ | [@hollymayland](https://www.instagram.com/hollymayland/) | Holly Mayland |
+| Dako0jSRR5U | https://www.instagram.com/reel/Dako0jSRR5U/ | [@nycfoodfaves](https://www.instagram.com/nycfoodfaves/) | Ali Chilton |
+| DZ5b-NuNBcS | https://www.instagram.com/reel/DZ5b-NuNBcS/ | [@sheerluxe](https://www.instagram.com/sheerluxe/) | SheerLuxe |
+| DajIgMZxL3D | https://www.instagram.com/reel/DajIgMZxL3D/ | [@jillianjaeger](https://www.instagram.com/jillianjaeger/) | Jillian Jaeger |
+| DXxV5EBp4OB | https://www.instagram.com/reel/DXxV5EBp4OB/ | [@jessiegranader](https://www.instagram.com/jessiegranader/) | Jessie Granader |
+| DZNcqIvRShi | https://www.instagram.com/reel/DZNcqIvRShi/ | [@theerichammer](https://www.instagram.com/theerichammer/) | Eric M. Hammer |
+| DYuzlPFzDK1 | https://www.instagram.com/reel/DYuzlPFzDK1/ | [@caitlinelizaxo](https://www.instagram.com/caitlinelizaxo/) | Caitlin Eliza |
+| DX2boDLtL3Q | https://www.instagram.com/reel/DX2boDLtL3Q/ | [@bellahoppa](https://www.instagram.com/bellahoppa/) | BellaHoppa |
+| DVjZzGUjAVw | https://www.instagram.com/reel/DVjZzGUjAVw/ | [@heroiisa](https://www.instagram.com/heroiisa/) | Iisa Hero \| Solo & Adventure Travel |
+| DaXj49tjFH7 | https://www.instagram.com/p/DaXj49tjFH7/ | [@mattconcierge](https://www.instagram.com/mattconcierge/) | Matthieu Schon |
+| DZYf_CBR6dH | https://www.instagram.com/reel/DZYf_CBR6dH/ | [@theerichammer](https://www.instagram.com/theerichammer/) | Eric M. Hammer |
+| DaITniSoMU9 | https://www.instagram.com/reel/DaITniSoMU9/ | [@mallorcaisland.spain](https://www.instagram.com/mallorcaisland.spain/) | MALLORCA ISLAND \| TRAVEL SPAIN |
+| DayupzqKZAy | https://www.instagram.com/reel/DayupzqKZAy/ | [@sarcar_](https://www.instagram.com/sarcar_/) | Sara Caroline Bridgers |
+| DXsTfQagcLm | https://www.instagram.com/reel/DXsTfQagcLm/ | [@maxfossat](https://www.instagram.com/maxfossat/) | Max Fossat |
+
+---
+
 ## Master Venue Table
 
 | # | Venue | Region | Town / Area | Type | Cost | Rating | Source Reel |
@@ -79,12 +104,14 @@ This guide compiles every venue and place featured across the 16 Instagram video
 
 ## Detailed Notes by Source Video
 
-### 1. Cooking Class Moltak (reel DK1hD4ro-21)
+### 1. Cooking Class Moltak
+**Source:** [instagram.com/reel/DK1hD4ro-21](https://www.instagram.com/reel/DK1hD4ro-21/) · **Creator:** @miss_heschteg (S.)
 - **Name:** Cooking Class Moltak · **Region:** Palma · **Type:** Cooking class / experience
 - **Description:** Promotional reel for a hands-on cooking class in a rustic stone-walled space in Palma. Chef "Vanesa" leads guests through traditional dishes: seafood paella (bomba rice), Padrón peppers, squid preparation, and a Crema Catalana-style dessert, ending with a communal meal with wine. No spoken dialogue; upbeat music.
 - **Cost:** not stated · **Address:** not stated (Palma old town setting) · **Rating:** 4 (inferred; promotional content, but the experience looks convivial and well-run)
 
-### 2. Mallorca Beach Tier List (reel DXCXO-_DWUT)
+### 2. Mallorca Beach Tier List
+**Source:** [instagram.com/reel/DXCXO-_DWUT](https://www.instagram.com/reel/DXCXO-_DWUT/) · **Creator:** @explorersandwich (Doina | Mallorca Slow Living)
 Creator has lived in Mallorca 4 years. Explicit tier ratings converted to 1–5:
 - **Magaluf** — F-tier → **1/5**. "No reason why you should travel to Mallorca and consciously choose to go on the beach in Magaluf."
 - **Cala Deià** — C-tier → **2.5/5**. Overhyped, busy, hard to access and park; only worth it combined with the restaurant (Ca's Patró March — which another creator, Jessie Granader, rated 5/5 for lunch).
@@ -92,10 +119,12 @@ Creator has lived in Mallorca 4 years. Explicit tier ratings converted to 1–5:
 - **Es Trenc** — B-tier → **3.5/5**. "Most beautiful beach in Mallorca… compared to the Maldives," transparent water, but extremely crowded for a natural reserve.
 - **Sa Ràpita** — A-tier → **4.5/5**. The stress-free alternative to Es Trenc: easy access and parking, easygoing local vibe.
 
-### 3. Cala Comtessa (reel DY9_4GWItkl, Holly Mayland)
+### 3. Cala Comtessa
+**Source:** [instagram.com/reel/DY9_4GWItkl](https://www.instagram.com/reel/DY9_4GWItkl/) · **Creator:** @hollymayland (Holly Mayland)
 - "POV: you found the best beach in Mallorca." Small pine-fringed cove at Ses Illetes (Calvià, southwest) with bright turquoise shallows, a white beach kiosk and thatched umbrellas. **€20 for 2 sunbeds all day.** Rating **5 (inferred)**. A kayaking school (Escola Balear de Piragüisme) operates beside the beach.
 
-### 4. Ali Chilton's Itinerary (reel Dako0jSRR5U)
+### 4. Ali Chilton's Itinerary
+**Source:** [instagram.com/reel/Dako0jSRR5U](https://www.instagram.com/reel/Dako0jSRR5U/) · **Creator:** @nycfoodfaves (Ali Chilton)
 - **Hotel Corazón** (between Sóller and Deià) — design-forward hotel with pool and courtyard breakfast. 4/5.
 - **Maksy Boats** — boat-day charter exploring private coves; "favorite day of the trip." 5/5.
 - **Ritma** (Fornalutx) — "not on any guides," super-fresh food (grilled octopus), jaw-dropping mountain-town views; top dinner of the trip. 5/5.
@@ -105,59 +134,71 @@ Creator has lived in Mallorca 4 years. Explicit tier ratings converted to 1–5:
 - Towns explored: Sóller, Deià, Valldemossa (4/5 each), Fornalutx ("gorgeous," 5/5), plus an unnamed hidden-gem rocky cove with easy parking (5/5; location deliberately not disclosed).
 - Full details are on her Substack (link in her bio).
 
-### 5. SheerLuxe Editor-in-Chief Guide (reel DZ5b-NuNBcS)
+### 5. SheerLuxe Editor-in-Chief Guide
+**Source:** [instagram.com/reel/DZ5b-NuNBcS](https://www.instagram.com/reel/DZ5b-NuNBcS/) · **Creator:** @sheerluxe (SheerLuxe)
 Palma / Santa Catalina: **Santa Catalina Market** (freshest produce, 5/5), **Spot** (epic, trendy, 4/5), **Rikito** (pizza/pasta, 4/5), **Sama** (cute coffee shop, 4/5), **Vandal** (elevated modern tapas, 4/5), **Forn** (traditional Spanish; "absolute favorite restaurant on the island," 5/5), **La Bodeguilla** (lamb shoulder / pork leg, 4/5), **DÔME** (modern, excellent sangria, 4/5), **Assaona** beach club (4/5).
 Southwest: **Gran Folies** beach club, Cala Llamp ("most iconic," 5/5), **Sumailla** sushi in Port d'Andratx (4/5), **Restaurant Illeta** in Camp de Mar (authentic paella lunch, 5/5).
 Mountains: **Hotel Corazón** ("biggest fan; food is amazing," 5/5), **Bens d'Avall** (fine dining; "one of my favorite restaurants in the world," 5/5).
 Hotels: **Can Bordoy** (gorgeous garden pool, 5/5), **Hotel Sant Francesc** (great rooftop pool bar, 4/5), **Mandarin Oriental Punta Negra** (opening; looks amazing, 4/5), **Hotel Cappuccino** Andratx (opening this summer, 3/5).
 Practical warning: Port de Sóller access road is often restricted/closed to cars in peak tourist periods — check before driving down.
 
-### 6. Jillian Jaeger's 3-Day Itinerary (reel DajIgMZxL3D)
+### 6. Jillian Jaeger's 3-Day Itinerary
+**Source:** [instagram.com/reel/DajIgMZxL3D](https://www.instagram.com/reel/DajIgMZxL3D/) · **Creator:** @jillianjaeger (Jillian Jaeger)
 - **Hotel Espléndido**, Port de Sóller — "absolutely amazing… never been so sad leaving a hotel." 5/5.
 - **Gran Folies Beach Club**, Cala Llamp — cliffside club with pool; "the perfect way to spend the day." 5/5.
 - **Restaurante Illeta**, Camp de Mar — "just magic… you're literally in the water, the food was amazing"; touristy but worth it. 5/5.
 - **Sails at Mallorca** — half-day boat trip with cliff jumping and snorkeling in "Gatorade water"; "the best day… a boat day is honestly a must." 5/5.
 - **Hotel Corazón** — dinner; "such a vibe… the food is really, really good." 5/5.
 
-### 7. Jessie Granader's 4-Day Trip (reel DXxV5EBp4OB)
+### 7. Jessie Granader's 4-Day Trip
+**Source:** [instagram.com/reel/DXxV5EBp4OB](https://www.instagram.com/reel/DXxV5EBp4OB/) · **Creator:** @jessiegranader (Jessie Granader)
 - **La Residencia** (Deià) — "cannot say more positive things about" the stay. 5/5.
 - **Nama** (Deià) — "the best Thai food"; standout meal. 5/5.
 - **Ca's Patró March** (Cala Deià) — beautiful seafood lunch on the water (shrimp, paprika octopus). 5/5.
 - Also featured: boat charter day and Tramuntana hiking (operators unnamed).
 
-### 8. Santanyí Market (reel DZNcqIvRShi, Eric M. Hammer)
+### 8. Santanyí Market
+**Source:** [instagram.com/reel/DZNcqIvRShi](https://www.instagram.com/reel/DZNcqIvRShi/) · **Creator:** @theerichammer (Eric M. Hammer)
 - Wednesday/Saturday street market in Santanyí (southeast). Stalls: fresh bread, ensaimadas, ceramics, wood crafts, truffle products, fans, clothing. Purchases shown: ceramic chopstick rests €6, apple empanada €7, Estrella Damm beer. Verdict: "a letdown in terms of range of vendors… still cool and something to do on the east side." **3/5 (explicit mixed)**.
 
-### 9. El Olivo Review (reel DZYf_CBR6dH, Eric M. Hammer)
+### 9. El Olivo Review
+**Source:** [instagram.com/reel/DZYf_CBR6dH](https://www.instagram.com/reel/DZYf_CBR6dH/) · **Creator:** @theerichammer (Eric M. Hammer)
 - **El Olivo**, fine dining at La Residencia, Deià. 8-course tasting menu **€195**, wine pairing €140, non-alcoholic pairing €120 (over €200/pp all-in). Dishes described as "fine," "meh," "sad," "weird"; signature pork a letdown; only the almond dessert impressed. "I wanted to love this place so badly…" **2/5**.
 - **La Residencia** property itself: "insane… one of the most beautiful properties I've ever seen." 5/5. Pre-dinner drinks at **Cafe Miro** with stunning views: 4/5.
 
-### 10. Playa del Mago (reel DaITniSoMU9)
+### 10. Playa del Mago
+**Source:** [instagram.com/reel/DaITniSoMU9](https://www.instagram.com/reel/DaITniSoMU9/) · **Creator:** @mallorcaisland.spain (MALLORCA ISLAND | TRAVEL SPAIN)
 - Small cove at Portals Vells, Calvià (southwest), 25–30 min drive from Palma. One of Mallorca's first official nudist beaches (featured in a 60s film); raw natural charm, crystal-clear water, great swimming/snorkeling. Free parking nearby but limited in summer — arrive early; bring water and snacks. Address commonly given as Playa Portal Vells s/n, 07181 Calvià. **4/5 (inferred)**.
 
-### 11. Iisa Hero's 1-Week Itinerary (reel DVjZzGUjAVw)
+### 11. Iisa Hero's 1-Week Itinerary
+**Source:** [instagram.com/reel/DVjZzGUjAVw](https://www.instagram.com/reel/DVjZzGUjAVw/) · **Creator:** @heroiisa (Iisa Hero | Solo & Adventure Travel)
 Split the week: east-coast beaches (rent a car; stay ~3–5 nights, e.g., in **Cala d'Or**) then northern towns (no car needed; buses are good).
 - Favorite beaches: **Caló del Moro**, **Cala s'Almonia**, **Cala Llombards** — all 5/5 (inferred).
 - **Palma** — half a day for the main sights. 4/5.
 - **Sóller** — best base in the north, 2–3 nights; visit **Port de Sóller**, **Valldemossa**, **Deià**, and if time allows **Fornalutx** (all reachable by bus). 4/5 each.
 
-### 12. BellaHoppa's Routing Strategy (reel DX2boDLtL3Q)
+### 12. BellaHoppa's Routing Strategy
+**Source:** [instagram.com/reel/DX2boDLtL3Q](https://www.instagram.com/reel/DX2boDLtL3Q/) · **Creator:** @bellahoppa (BellaHoppa)
 Not a venue review — a planning reel arguing Mallorca trips fail from bad routing. Use **three bases**: (1) Palma/southwest for an easy arrival and city beaches; (2) the north (e.g., Port de Pollença) to group Formentor, the Tramuntana and Sa Calobra in one phase; (3) the east (e.g., Cala d'Or) for flat roads and slow beach days. Warnings: Tramuntana roads are slow and draining; northern parking fills early; Formentor is restricted in peak season. ~30 map pins shown (Sa Calobra, Lluc Monastery, Sa Foradada, Son Marroig, Coves del Drach, Mondragó Natural Park, Cala Figuera, Cap de Ses Salines, Colònia de Sant Jordi, Cala Varques, etc.) as itinerary building blocks, without individual reviews.
 
-### 13. Hotel Es Molí / La Muleta Cove (reel DYuzlPFzDK1, Caitlin Eliza)
+### 13. Hotel Es Molí / La Muleta Cove
+**Source:** [instagram.com/reel/DYuzlPFzDK1](https://www.instagram.com/reel/DYuzlPFzDK1/) · **Creator:** @caitlinelizaxo (Caitlin Eliza)
 - Booked on a TikTok tip; "exceeds all expectations by a thousand… genuinely could not be happier — this is my dream."
 - Hotel in Deià with an "insane" **private beach cove (La Muleta)**: clear turquoise water, pine-backed cliffs, dining terraces, loungers in sun and shade, and steps straight into the sea. Food served at the cove (burger & fries, fish with salad shown). **5/5 (explicit rave)**.
 
-### 14. Sóller Vintage Train Day Trip (reel DayupzqKZAy, Sara Caroline Bridgers)
+### 14. Sóller Vintage Train Day Trip
+**Source:** [instagram.com/reel/DayupzqKZAy](https://www.instagram.com/reel/DayupzqKZAy/) · **Creator:** @sarcar_ (Sara Caroline Bridgers)
 - **Ferrocarril de Sóller** — 1912 wooden train, Palma → Sóller, ~1 hour, stunning mountain views. **~$46 round trip**; buy tickets a day ahead. "One of the best parts… do not miss this." 5/5.
 - **Sóller** — "a fairytale town straight out of a storybook"; famous for oranges ("best orange juice of my life"); leave time for the unique local shops. 5/5.
 - **El Guia** (Sóller) — local-recommended restaurant with vine-shaded patio; incredible seafood, no tourists, "hidden gem." 5/5.
 - **Miga de Nube** (Sóller) — "secret garden" slow-café for iced coffee and cake. 4/5.
 
-### 15. Cap Rocat Date Night (reel DXsTfQagcLm, Max Fossat)
+### 15. Cap Rocat Date Night
+**Source:** [instagram.com/reel/DXsTfQagcLm](https://www.instagram.com/reel/DXsTfQagcLm/) · **Creator:** @maxfossat (Max Fossat)
 - **Sea Club at Cap Rocat**, Cala Blava (Bay of Palma). "An absolute must… the dreamiest and most romantic date night dinner." Clifftop tables over the sea at sunset, lantern-lit path, stone archways; steak with green sauce and a fruit pastry dessert shown. Luxury pricing (roughly €70+ minimum per person). Address: Ctra. d'Enderrocat s/n, 07609 Cala Blava. **5/5 (explicit)**.
 
-### 16. Mallorca's Best Hotels (carousel post DaXj49tjFH7, @mattconcierge)
+### 16. Mallorca's Best Hotels (photo carousel)
+**Source:** [instagram.com/p/DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/) · **Creator:** @mattconcierge (Matthieu Schon)
 A curated list of the island's most exceptional hotels (all effectively presented as 5/5 picks, ultra-luxury €€€€–€€€€€):
 1. **La Residencia, A Belmond Hotel** — Deià. Iconic; mountain views, Mallorcan antiques, local art, olive groves, old-school Balearic glamour.
 2. **Cap Rocat** — Cala Blava, Bay of Palma. Former military fortress, now one of the Mediterranean's most private hotels; nature reserve, sea-facing suites, secret terraces.
