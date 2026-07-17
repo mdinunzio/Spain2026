@@ -89,6 +89,7 @@ def build_location_row(
     region: str,
 ) -> dict:
     """Shape one curated venue into a Locations-tab row with provenance."""
+    notes = venue.get("source_notes", {})
     references = []
     for shortcode in venue["sources"]:
         post = posts.get(shortcode)
@@ -103,6 +104,7 @@ def build_location_row(
                 "posted": post.posted,
                 "likes": post.likes,
                 "views": post.views,
+                "note": notes.get(shortcode, ""),
             }
         )
 
