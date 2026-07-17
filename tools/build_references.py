@@ -9,7 +9,8 @@ Merges across every batch in parsed/formatted, so re-running after a new
 batch lands rebuilds the whole file with the new sources folded in.
 
 Usage:
-    python tools/build_references.py [--formatted-dir parsed/formatted] [--out REFERENCES.md]
+    python tools/build_references.py
+        [--formatted-dir parsed/formatted] [--out REFERENCES.md]
 """
 
 import json
@@ -80,7 +81,16 @@ def format_reference(ref: dict) -> str:
 def format_venue(row: dict) -> str:
     """Render one venue section."""
     anchor = row["references_anchor"].split("#", 1)[-1]
-    lines = [f'<a id="{anchor}"></a>', "", f"## {row['emoji']} {row['name']}", ""]
+    # Both id and name: GitHub's sanitizer honors `name` on anchor tags, while
+    # local markdown viewers key off `id`. The explicit anchor also decouples us
+    # from GitHub's auto-generated heading slugs, which drop apostrophes and
+    # emoji and so would not match our slugify() output.
+    lines = [
+        f'<a id="{anchor}" name="{anchor}"></a>',
+        "",
+        f"## {row['emoji']} {row['name']}",
+        "",
+    ]
 
     facts = [
         f"**Region:** {row['region']}",

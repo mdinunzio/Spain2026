@@ -13,7 +13,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="bens-d-avall"></a>
+<a id="bens-d-avall" name="bens-d-avall"></a>
 
 ## ⭐ Bens d'Avall
 
@@ -28,7 +28,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="ca-s-patro-march"></a>
+<a id="ca-s-patro-march" name="ca-s-patro-march"></a>
 
 ## 🦐 Ca's Patró March
 
@@ -43,7 +43,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="ferrocarril-de-soller-1912-train"></a>
+<a id="ferrocarril-de-soller-1912-train" name="ferrocarril-de-soller-1912-train"></a>
 
 ## 🚂 Ferrocarril de Sóller (1912 train)
 
@@ -58,7 +58,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="fornalutx"></a>
+<a id="fornalutx" name="fornalutx"></a>
 
 ## 🏘️ Fornalutx
 
@@ -75,7 +75,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="gran-folies-beach-club"></a>
+<a id="gran-folies-beach-club" name="gran-folies-beach-club"></a>
 
 ## 🏖️ Gran Folies Beach Club
 
@@ -92,7 +92,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="hotel-corazon"></a>
+<a id="hotel-corazon" name="hotel-corazon"></a>
 
 ## 🏨 Hotel Corazón
 
@@ -111,7 +111,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="hotel-es-moli-la-muleta-cove"></a>
+<a id="hotel-es-moli-la-muleta-cove" name="hotel-es-moli-la-muleta-cove"></a>
 
 ## 🏖️ Hotel Es Molí (La Muleta cove)
 
@@ -126,7 +126,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="maksy-boats"></a>
+<a id="maksy-boats" name="maksy-boats"></a>
 
 ## ⛵ Maksy Boats
 
@@ -143,7 +143,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="ritma"></a>
+<a id="ritma" name="ritma"></a>
 
 ## 🍽️ Ritma
 
@@ -158,7 +158,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="sea-club-at-cap-rocat"></a>
+<a id="sea-club-at-cap-rocat" name="sea-club-at-cap-rocat"></a>
 
 ## 🕯️ Sea Club at Cap Rocat
 
@@ -175,7 +175,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="cafe-bar-miro-la-residencia"></a>
+<a id="cafe-bar-miro-la-residencia" name="cafe-bar-miro-la-residencia"></a>
 
 ## 🍸 Café / Bar Miro (La Residencia)
 
@@ -192,7 +192,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="cala-comtessa"></a>
+<a id="cala-comtessa" name="cala-comtessa"></a>
 
 ## 🏖️ Cala Comtessa
 
@@ -207,7 +207,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="cala-llombards"></a>
+<a id="cala-llombards" name="cala-llombards"></a>
 
 ## 🏖️ Cala Llombards
 
@@ -222,7 +222,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="cala-s-almonia"></a>
+<a id="cala-s-almonia" name="cala-s-almonia"></a>
 
 ## 🏖️ Cala s'Almonia
 
@@ -237,7 +237,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="calo-del-moro"></a>
+<a id="calo-del-moro" name="calo-del-moro"></a>
 
 ## 🏖️ Caló del Moro
 
@@ -252,7 +252,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="cap-rocat"></a>
+<a id="cap-rocat" name="cap-rocat"></a>
 
 ## 🏰 Cap Rocat
 
@@ -269,7 +269,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="deia"></a>
+<a id="deia" name="deia"></a>
 
 ## 🏘️ Deià
 
@@ -286,7 +286,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="el-guia"></a>
+<a id="el-guia" name="el-guia"></a>
 
 ## 🦐 El Guia
 
@@ -301,7 +301,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="forn-de-sant-joan"></a>
+<a id="forn-de-sant-joan" name="forn-de-sant-joan"></a>
 
 ## 🍽️ Forn de Sant Joan
 
@@ -316,7 +316,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="hotel-esplendido"></a>
+<a id="hotel-esplendido" name="hotel-esplendido"></a>
 
 ## 🏨 Hotel Espléndido
 
@@ -331,7 +331,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="la-residencia-a-belmond-hotel"></a>
+<a id="la-residencia-a-belmond-hotel" name="la-residencia-a-belmond-hotel"></a>
 
 ## 🏨 La Residencia, A Belmond Hotel
 
@@ -350,7 +350,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="nama"></a>
+<a id="nama" name="nama"></a>
 
 ## 🍜 Nama
 
@@ -365,7 +365,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="restaurante-illeta"></a>
+<a id="restaurante-illeta" name="restaurante-illeta"></a>
 
 ## 🥘 Restaurante Illeta
 
@@ -382,7 +382,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="sa-rapita"></a>
+<a id="sa-rapita" name="sa-rapita"></a>
 
 ## 🏖️ Sa Ràpita
 
@@ -397,7 +397,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="sails-at-mallorca"></a>
+<a id="sails-at-mallorca" name="sails-at-mallorca"></a>
 
 ## ⛵ Sails at Mallorca
 
@@ -414,7 +414,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="santa-catalina-market"></a>
+<a id="santa-catalina-market" name="santa-catalina-market"></a>
 
 ## 🧺 Santa Catalina Market
 
@@ -429,7 +429,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="soller"></a>
+<a id="soller" name="soller"></a>
 
 ## 🏘️ Sóller
 
@@ -448,7 +448,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="valldemossa"></a>
+<a id="valldemossa" name="valldemossa"></a>
 
 ## 🏘️ Valldemossa
 
@@ -465,7 +465,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="assaona"></a>
+<a id="assaona" name="assaona"></a>
 
 ## 🏖️ Assaona
 
@@ -480,7 +480,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="cala-d-or"></a>
+<a id="cala-d-or" name="cala-d-or"></a>
 
 ## 🏘️ Cala d'Or
 
@@ -497,7 +497,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="can-bordoy-grand-house-garden"></a>
+<a id="can-bordoy-grand-house-garden" name="can-bordoy-grand-house-garden"></a>
 
 ## 🏨 Can Bordoy Grand House & Garden
 
@@ -512,7 +512,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="can-ferrereta"></a>
+<a id="can-ferrereta" name="can-ferrereta"></a>
 
 ## 🏨 Can Ferrereta
 
@@ -527,7 +527,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="castell-son-claret"></a>
+<a id="castell-son-claret" name="castell-son-claret"></a>
 
 ## 🏰 Castell Son Claret
 
@@ -542,7 +542,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="cooking-class-moltak"></a>
+<a id="cooking-class-moltak" name="cooking-class-moltak"></a>
 
 ## 👩‍🍳 Cooking Class Moltak
 
@@ -559,7 +559,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="dome"></a>
+<a id="dome" name="dome"></a>
 
 ## 🍷 DÔME
 
@@ -574,7 +574,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="es-trenc"></a>
+<a id="es-trenc" name="es-trenc"></a>
 
 ## 🏖️ Es Trenc
 
@@ -589,7 +589,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="finca-serena"></a>
+<a id="finca-serena" name="finca-serena"></a>
 
 ## 🏨 Finca Serena
 
@@ -604,7 +604,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="four-seasons-resort-mallorca-at-formentor"></a>
+<a id="four-seasons-resort-mallorca-at-formentor" name="four-seasons-resort-mallorca-at-formentor"></a>
 
 ## 🏨 Four Seasons Resort Mallorca at Formentor
 
@@ -619,7 +619,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="grand-hotel-son-net"></a>
+<a id="grand-hotel-son-net" name="grand-hotel-son-net"></a>
 
 ## 🏨 Grand Hotel Son Net
 
@@ -634,7 +634,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="hotel-sant-francesc"></a>
+<a id="hotel-sant-francesc" name="hotel-sant-francesc"></a>
 
 ## 🏨 Hotel Sant Francesc
 
@@ -649,7 +649,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="jumeirah-mallorca"></a>
+<a id="jumeirah-mallorca" name="jumeirah-mallorca"></a>
 
 ## 🏨 Jumeirah Mallorca
 
@@ -664,7 +664,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="la-bodeguilla"></a>
+<a id="la-bodeguilla" name="la-bodeguilla"></a>
 
 ## 🍖 La Bodeguilla
 
@@ -679,7 +679,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="mandarin-oriental-punta-negra"></a>
+<a id="mandarin-oriental-punta-negra" name="mandarin-oriental-punta-negra"></a>
 
 ## 🏨 Mandarin Oriental Punta Negra
 
@@ -696,7 +696,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="miga-de-nube"></a>
+<a id="miga-de-nube" name="miga-de-nube"></a>
 
 ## ☕ Miga de Nube
 
@@ -711,7 +711,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="palma"></a>
+<a id="palma" name="palma"></a>
 
 ## 🏙️ Palma
 
@@ -728,7 +728,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="platja-de-formentor"></a>
+<a id="platja-de-formentor" name="platja-de-formentor"></a>
 
 ## 🏖️ Platja de Formentor
 
@@ -745,7 +745,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="playa-del-mago"></a>
+<a id="playa-del-mago" name="playa-del-mago"></a>
 
 ## 🏖️ Playa del Mago
 
@@ -760,7 +760,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="port-de-pollenca"></a>
+<a id="port-de-pollenca" name="port-de-pollenca"></a>
 
 ## 🏘️ Port de Pollença
 
@@ -775,7 +775,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="port-de-soller"></a>
+<a id="port-de-soller" name="port-de-soller"></a>
 
 ## ⛵ Port de Sóller
 
@@ -792,7 +792,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="rikito"></a>
+<a id="rikito" name="rikito"></a>
 
 ## 🍕 Rikito
 
@@ -807,7 +807,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="sama"></a>
+<a id="sama" name="sama"></a>
 
 ## ☕ Sama
 
@@ -824,7 +824,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="santanyi-market"></a>
+<a id="santanyi-market" name="santanyi-market"></a>
 
 ## 🧺 Santanyí Market
 
@@ -841,7 +841,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="son-brull-hotel-spa"></a>
+<a id="son-brull-hotel-spa" name="son-brull-hotel-spa"></a>
 
 ## 🏨 Son Brull Hotel & Spa
 
@@ -856,7 +856,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="son-bunyola-hotel-villas"></a>
+<a id="son-bunyola-hotel-villas" name="son-bunyola-hotel-villas"></a>
 
 ## 🏨 Son Bunyola Hotel & Villas
 
@@ -871,7 +871,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="spot"></a>
+<a id="spot" name="spot"></a>
 
 ## 🍽️ Spot
 
@@ -888,7 +888,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="sumailla"></a>
+<a id="sumailla" name="sumailla"></a>
 
 ## 🍣 Sumailla
 
@@ -903,7 +903,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="vandal"></a>
+<a id="vandal" name="vandal"></a>
 
 ## 🍽️ Vandal
 
@@ -918,7 +918,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="cala-deia"></a>
+<a id="cala-deia" name="cala-deia"></a>
 
 ## 🏖️ Cala Deià
 
@@ -935,7 +935,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="el-olivo"></a>
+<a id="el-olivo" name="el-olivo"></a>
 
 ## ⚠️ El Olivo
 
@@ -952,7 +952,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="escola-balear-de-piraguisme"></a>
+<a id="escola-balear-de-piraguisme" name="escola-balear-de-piraguisme"></a>
 
 ## 🛶 Escola Balear de Piragüisme
 
@@ -967,7 +967,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="hotel-cappuccino-andratx"></a>
+<a id="hotel-cappuccino-andratx" name="hotel-cappuccino-andratx"></a>
 
 ## 🏨 Hotel Cappuccino Andratx
 
@@ -984,7 +984,7 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="magaluf-beach"></a>
+<a id="magaluf-beach" name="magaluf-beach"></a>
 
 ## ❌ Magaluf Beach
 

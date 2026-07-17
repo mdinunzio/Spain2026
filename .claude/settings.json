@@ -9,7 +9,10 @@
       "Bash(.venv/Scripts/python.exe tools/build_references.py)",
       "Bash(.venv/Scripts/mgdio.exe sheets *)",
       "Bash(.venv/Scripts/mgdio.exe drive *)",
-      "Bash(.venv/Scripts/mgdio.exe auth *)"
+      "Bash(.venv/Scripts/mgdio.exe auth *)",
+      "Bash(.venv/Scripts/python.exe -c ' *)",
+      "Bash(.venv/Scripts/python.exe tools/push_locations.py --dry-run)",
+      "Bash(.venv/Scripts/python.exe tools/push_locations.py --apply)"
     ]
   }
 }

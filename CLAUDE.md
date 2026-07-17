@@ -80,7 +80,7 @@ What do you suggest based on our tastes and previous travel?
 
 # Resources
 - [Google Drive Spain Folder (RO)](https://drive.google.com/drive/u/0/folders/1x6HB0PnJOh59pXSZUWEwfdzgflqyp__S)
-- [Inspiration Raw Sheet (RW)](https://docs.google.com/spreadsheets/d/1L7ZT-ahqt6GCgEozHlVzfL4Ld_pmhqg-c_8bh3iRaeQ/edit?gid=1331344583#gid=1331344583) (Idea Dump)
+- [Inspiration Raw Sheet (RW)](https://docs.google.com/spreadsheets/d/1L7ZT-ahqt6GCgEozHlVzfL4Ld_pmhqg-c_8bh3iRaeQ/edit?gid=1726627139#gid=1726627139) (Idea Dump)
 - [Mapitquick.com](https://www.mapitquick.com/)
     - You can find the codebase here when I am working on Windows: `C:\Users\mdinu\Code\kmzconvert`
 - `examples/Example Geocoder File.xlsx`: Format required for Google MyMaps conversion by Mapitquick.com
