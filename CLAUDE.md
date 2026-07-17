@@ -60,6 +60,7 @@ Specifically for this part of the process, I'd like it to go like this:
 - For each reference in our newly parsed data:
     - If a reference to it already exists, merge any new data from our recent run into the current row. This includes any updates to the description as well as appending this latest run's source the the references.
     - If a reference does not exist, simply append the new row to our Spreadsheet.
+- We should also skip any sources that have already been processed.
 
 We can create a skill or some code tools for this if necessary to simplify.
 
