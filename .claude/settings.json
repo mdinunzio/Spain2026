@@ -1,0 +1,10 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(.venv/Scripts/python.exe -c \"import mgdio; print\\(mgdio.__version__ if hasattr\\(mgdio,'__version__'\\) else 'ok'\\)\")",
+      "Bash(.venv/Scripts/python.exe tools/enrich_venues.py \"C:/Users/mdinu/AppData/Local/Temp/claude/c--Users-mdinu-Code-Spain2026/4458dc3d-0a21-40ef-b03e-969fc5ebbd13/scratchpad/curated_venues.json\" \"staging/dataset_instagram-scraper_2026-07-16_23-19-01-753.json\" \"parsed/formatted/2026-07-17_mallorca-instagram-16.json\")",
+      "Bash(mv \"staging/dataset_instagram-scraper_2026-07-16_23-19-01-753.json\" \"parsed/raw/2026-07-17_apify_instagram-scraper-16-posts.json\")",
+      "Bash(cp \"C:/Users/mdinu/AppData/Local/Temp/claude/c--Users-mdinu-Code-Spain2026/4458dc3d-0a21-40ef-b03e-969fc5ebbd13/scratchpad/curated_venues.json\" \"parsed/raw/2026-07-17_curated-venues-input.json\")"
+    ]
+  }
+}

@@ -1,0 +1,1363 @@
+{
+  "batch": "2026-07-17_mallorca-instagram-16",
+  "venues": [
+    {
+      "name": "Sea Club at Cap Rocat",
+      "neighborhood": "Cala Blava",
+      "type": "Dinner Restaurant",
+      "emoji": "🕯️",
+      "cost_range": "$$$$",
+      "rating": 5,
+      "manus_rating": "5 (explicit: \"absolute must\")",
+      "tags": [
+        "cliffside",
+        "dinner",
+        "high-end",
+        "romantic",
+        "sunset",
+        "waterfront"
+      ],
+      "geo": "Cap Rocat, Ctra. d'Enderrocat s/n, Cala Blava, Mallorca, Spain",
+      "address_stated": "Ctra. d'Enderrocat s/n, 07609 Cala Blava",
+      "sources": [
+        "DXsTfQagcLm",
+        "Dako0jSRR5U"
+      ],
+      "description": "Clifftop restaurant inside the Cap Rocat fortress hotel on the Bay of Palma. Tables sit directly over the sea; lantern-lit path in through stone archways. Called \"the dreamiest and most romantic date night dinner\" and \"an absolute must\" by Max Fossat; Ali Chilton loved it as a seaside lunch. Steak with green sauce and a fruit pastry dessert shown. Roughly €70+ per person minimum. Endorsed across 3 of the 16 reels."
+    },
+    {
+      "name": "Bens d'Avall",
+      "neighborhood": "Sóller / Deià coast",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "cost_range": "$$$$",
+      "rating": 5,
+      "manus_rating": "5 (explicit)",
+      "tags": [
+        "cliffside",
+        "dinner",
+        "fine-dining",
+        "high-end",
+        "scenic",
+        "tramuntana"
+      ],
+      "geo": "Bens d'Avall, Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Coastal fine-dining restaurant on the cliffs between Sóller and Deià. SheerLuxe's Editor-in-Chief called it \"one of my favorite restaurants in the world.\" Single-source but the strongest superlative in the batch for a proper fine-dining meal."
+    },
+    {
+      "name": "Hotel Corazón",
+      "neighborhood": "Between Sóller & Deià",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$",
+      "rating": 5,
+      "manus_rating": "5 (multiple creators)",
+      "tags": [
+        "boutique",
+        "design-forward",
+        "dinner",
+        "hotel",
+        "tramuntana"
+      ],
+      "geo": "Hotel Corazon, Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS",
+        "DajIgMZxL3D",
+        "Dako0jSRR5U"
+      ],
+      "description": "Design-forward boutique hotel between Sóller and Deià, with a pool and courtyard breakfast. The most consistently endorsed property in the batch — 3 of 16 reels, all positive on both vibe and food. SheerLuxe: \"biggest fan; food is amazing.\" Jillian Jaeger on dinner: \"such a vibe… the food is really, really good.\" Worth considering as a stay or just a dinner."
+    },
+    {
+      "name": "Ritma",
+      "neighborhood": "Fornalutx",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "cost_range": "$$",
+      "rating": 5,
+      "manus_rating": "5 (explicit: top dinner of trip)",
+      "tags": [
+        "dinner",
+        "hidden-gem",
+        "mountain-views",
+        "tramuntana"
+      ],
+      "geo": "Ritma, Fornalutx, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "Dako0jSRR5U"
+      ],
+      "description": "Ali Chilton's top dinner of her whole trip — \"not on any guides,\" super-fresh food (grilled octopus), jaw-dropping views over the mountain town of Fornalutx. Single-source, but exactly the non-touristy hidden-gem profile you're after."
+    },
+    {
+      "name": "Ca's Patró March",
+      "neighborhood": "Cala Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🦐",
+      "cost_range": "$$$",
+      "rating": 5,
+      "manus_rating": "5 (explicit: standout meal)",
+      "tags": [
+        "lunch",
+        "seafood",
+        "waterfront"
+      ],
+      "geo": "Ca's Patro March, Cala Deia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DXxV5EBp4OB"
+      ],
+      "description": "Seafood restaurant built onto the rocks at Cala Deià, right on the water. Jessie Granader's standout meal — shrimp and paprika octopus. Note the tension in the sources: the beach at Cala Deià itself was rated C-tier and called overhyped and hard to park at, but that same creator said the cove is \"only worth it combined with the restaurant.\" Go for lunch here, not for the beach."
+    },
+    {
+      "name": "Gran Folies Beach Club",
+      "neighborhood": "Cala Llamp, Andratx",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "cost_range": "$$$",
+      "rating": 5,
+      "manus_rating": "5 (multiple creators)",
+      "tags": [
+        "beach-club",
+        "cliffside",
+        "pool",
+        "sceney"
+      ],
+      "geo": "Gran Folies Beach Club, Cala Llamp, Andratx, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS",
+        "DajIgMZxL3D"
+      ],
+      "description": "Cliffside beach club with a pool above Cala Llamp near Port d'Andratx. SheerLuxe called it \"the most iconic\" on the island; Jillian Jaeger: \"the perfect way to spend the day.\" 2 of 16 reels. This is the closest analog in the batch to La Fontelina / Arienzo from your Amalfi trip."
+    },
+    {
+      "name": "Hotel Es Molí (La Muleta cove)",
+      "neighborhood": "Deià",
+      "type": "Hotel",
+      "emoji": "🏖️",
+      "cost_range": "$$$",
+      "rating": 5,
+      "manus_rating": "5 (explicit rave)",
+      "tags": [
+        "hotel",
+        "private-beach",
+        "swimming",
+        "tramuntana",
+        "waterfront"
+      ],
+      "geo": "Hotel Es Moli, Deia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DYuzlPFzDK1"
+      ],
+      "description": "Deià hotel whose draw is its private beach cove, La Muleta: clear turquoise water, pine-backed cliffs, dining terraces, loungers in sun and shade, steps straight into the sea, food served down at the cove. Caitlin Eliza booked it on a tip and said it \"exceeds all expectations by a thousand — this is my dream.\" Single-source rave. The private-cove setup is the Arienzo Beach Club analog."
+    },
+    {
+      "name": "Ferrocarril de Sóller (1912 train)",
+      "neighborhood": "Palma → Sóller",
+      "type": "Attraction",
+      "emoji": "🚂",
+      "cost_range": "$",
+      "rating": 5,
+      "manus_rating": "5 (explicit: \"do not miss\")",
+      "tags": [
+        "anchor-activity",
+        "attraction",
+        "scenic",
+        "transport",
+        "vintage"
+      ],
+      "geo": "Estacio del Ferrocarril de Soller, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DayupzqKZAy"
+      ],
+      "description": "Vintage 1912 wooden train from Palma to Sóller, about 1 hour through the Tramuntana mountains. Roughly $46 round trip; buy tickets a day ahead. Sara Caroline Bridgers: \"one of the best parts… do not miss this.\" A natural anchor event for a Sóller day — scenic, low-effort, and it solves the Tramuntana driving problem the other reels warn about."
+    },
+    {
+      "name": "Maksy Boats",
+      "neighborhood": "Coast-wide",
+      "type": "Activity",
+      "emoji": "⛵",
+      "cost_range": "$$$",
+      "rating": 5,
+      "manus_rating": "5 (explicit: favorite day of trip)",
+      "tags": [
+        "anchor-activity",
+        "boat",
+        "private-charter",
+        "swimming"
+      ],
+      "geo": "Port de Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "Dako0jSRR5U"
+      ],
+      "description": "Private boat charter exploring coves not reachable by road. Ali Chilton's \"favorite day of the trip.\" A boat day was independently called the best day of the trip by 3 of the 16 creators — the single strongest cross-video signal in the batch. Private charter suits you better than the group option; book well ahead for early September.",
+      "geo_approx": "charter operator, no fixed address in source; pinned at Port de Soller"
+    },
+    {
+      "name": "Fornalutx",
+      "neighborhood": "Fornalutx",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "cost_range": "",
+      "rating": 5,
+      "manus_rating": "5 (inferred: \"gorgeous\")",
+      "tags": [
+        "mountain-views",
+        "scenic",
+        "town",
+        "tramuntana",
+        "village"
+      ],
+      "geo": "Fornalutx, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw",
+        "Dako0jSRR5U"
+      ],
+      "description": "Stone mountain village above Sóller, repeatedly called the most beautiful on the island; 3 of 16 reels. Home to Ritma. Of everything in this batch this is the strongest Ravello analog — small, elevated, scenic, and not a cruise-ship stop."
+    },
+    {
+      "name": "Sails at Mallorca",
+      "neighborhood": "Coast-wide",
+      "type": "Activity",
+      "emoji": "⛵",
+      "cost_range": "$$$",
+      "rating": 4,
+      "manus_rating": "5 (explicit: \"the best day\")",
+      "tags": [
+        "boat",
+        "group-tour",
+        "snorkeling",
+        "swimming"
+      ],
+      "geo": "Port de Andratx, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DajIgMZxL3D"
+      ],
+      "description": "Half-day boat tour with cliff jumping and snorkeling in what Jillian Jaeger called \"Gatorade water\": \"the best day… a boat day is honestly a must.\" Rated below Maksy only because it's a shared group tour rather than a private charter — same activity, less privacy.",
+      "geo_approx": "charter operator, no fixed address in source; pinned at Port d'Andratx"
+    },
+    {
+      "name": "La Residencia, A Belmond Hotel",
+      "neighborhood": "Deià",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$$",
+      "rating": 4,
+      "manus_rating": "5 (multiple creators)",
+      "tags": [
+        "hotel",
+        "luxury",
+        "mountain-views",
+        "tramuntana"
+      ],
+      "geo": "Belmond La Residencia, Deia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7",
+        "DXxV5EBp4OB",
+        "DZYf_CBR6dH"
+      ],
+      "description": "Iconic Belmond property in Deià — mountain views, Mallorcan antiques, local art, olive groves, old-school Balearic glamour. The property itself is unanimously praised across 3 reels (\"one of the most beautiful properties I've ever seen\"). Important split: its fine-dining restaurant El Olivo got a scathing review, but its Café Miro bar is well liked. Visit for a drink even if you don't stay."
+    },
+    {
+      "name": "Café / Bar Miro (La Residencia)",
+      "neighborhood": "Deià",
+      "type": "Wine Bar",
+      "emoji": "🍸",
+      "cost_range": "$$$",
+      "rating": 4,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "cocktails",
+        "scenic",
+        "sunset",
+        "terrace",
+        "tramuntana"
+      ],
+      "geo": "Belmond La Residencia, Deia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZYf_CBR6dH",
+        "Dako0jSRR5U"
+      ],
+      "description": "Bar and restaurant at La Residencia with stunning valley views. Ali Chilton recommends arriving early for a cocktail and backgammon on the terrace; Eric Hammer rated the pre-dinner drinks 4/5 even while panning the hotel's El Olivo restaurant. The low-commitment way to experience La Residencia."
+    },
+    {
+      "name": "Cap Rocat",
+      "neighborhood": "Cala Blava",
+      "type": "Hotel",
+      "emoji": "🏰",
+      "cost_range": "$$$$$",
+      "rating": 4,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "fortress",
+        "hotel",
+        "luxury",
+        "private",
+        "waterfront"
+      ],
+      "geo": "Cap Rocat, Cala Blava, Mallorca, Spain",
+      "address_stated": "Ctra. d'Enderrocat s/n, 07609 Cala Blava",
+      "sources": [
+        "DaXj49tjFH7",
+        "DXsTfQagcLm"
+      ],
+      "description": "Former military fortress carved into the cliffs on the Bay of Palma, now one of the Mediterranean's most private hotels — nature reserve setting, sea-facing suites, secret terraces. Featured in 2 reels. Its Sea Club restaurant is separately rated 5 and is reachable without staying here."
+    },
+    {
+      "name": "Restaurante Illeta",
+      "neighborhood": "Camp de Mar",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "cost_range": "$$$",
+      "rating": 4,
+      "manus_rating": "5 (multiple creators)",
+      "tags": [
+        "lunch",
+        "paella",
+        "seafood",
+        "touristy",
+        "waterfront"
+      ],
+      "geo": "Restaurante Illeta, Camp de Mar, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS",
+        "DajIgMZxL3D"
+      ],
+      "description": "Seafood and paella restaurant on a tiny islet at Camp de Mar, reached by a footbridge. Jillian Jaeger: \"just magic… you're literally in the water, the food was amazing\" — while conceding it's touristy but worth it. SheerLuxe rated the paella lunch 5/5. 2 of 16 reels. Held at 4 rather than 5 because both sources flag the tourist volume, which is your stated dealbreaker."
+    },
+    {
+      "name": "Nama",
+      "neighborhood": "Deià",
+      "type": "Dinner Restaurant",
+      "emoji": "🍜",
+      "cost_range": "$$$",
+      "rating": 4,
+      "manus_rating": "5 (explicit: \"best Thai food\")",
+      "tags": [
+        "dinner",
+        "thai",
+        "tramuntana"
+      ],
+      "geo": "Nama Deia, Deia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DXxV5EBp4OB"
+      ],
+      "description": "Thai restaurant in Deià. Jessie Granader called it \"the best Thai food\" and a standout meal of her 4-day trip. Single-source; a change of pace from the Mallorcan seafood rotation."
+    },
+    {
+      "name": "El Guia",
+      "neighborhood": "Sóller",
+      "type": "Lunch Restaurant",
+      "emoji": "🦐",
+      "cost_range": "$$",
+      "rating": 4,
+      "manus_rating": "5 (inferred: \"hidden gem\")",
+      "tags": [
+        "hidden-gem",
+        "local",
+        "lunch",
+        "seafood",
+        "tramuntana"
+      ],
+      "geo": "Restaurante El Guia, Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DayupzqKZAy"
+      ],
+      "description": "Locally-recommended restaurant in Sóller with a vine-shaded patio. Sara Caroline Bridgers: incredible seafood, no tourists, \"hidden gem.\" Pairs naturally with the Sóller train as a lunch stop."
+    },
+    {
+      "name": "Forn de Sant Joan",
+      "neighborhood": "Palma Centre",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "cost_range": "$$$",
+      "rating": 4,
+      "manus_rating": "5 (explicit: \"absolute favorite on the island\")",
+      "tags": [
+        "dinner",
+        "palma",
+        "tapas",
+        "traditional"
+      ],
+      "geo": "Forn de Sant Joan, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Traditional Spanish restaurant in central Palma. SheerLuxe's Editor-in-Chief called it her \"absolute favorite restaurant on the island.\" Single-source but an unambiguous superlative; the best dinner candidate for a Palma night."
+    },
+    {
+      "name": "Santa Catalina Market",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Market",
+      "emoji": "🧺",
+      "cost_range": "$",
+      "rating": 4,
+      "manus_rating": "5 (inferred)",
+      "tags": [
+        "food-market",
+        "local",
+        "morning",
+        "palma"
+      ],
+      "geo": "Mercat de Santa Catalina, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Palma's produce market in the Santa Catalina neighborhood — SheerLuxe rated it 5/5 for the freshest produce on the island. The surrounding blocks hold Spot, Rikito, Sama and Vandal, so this anchors a whole Santa Catalina morning."
+    },
+    {
+      "name": "Sa Ràpita",
+      "neighborhood": "Campos",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "",
+      "rating": 4,
+      "manus_rating": "4.5 (explicit: A-tier)",
+      "tags": [
+        "beach",
+        "easy-parking",
+        "local",
+        "uncrowded"
+      ],
+      "geo": "Sa Rapita, Campos, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DXCXO-_DWUT"
+      ],
+      "description": "Rated A-tier and the highest-ranked beach by the creator who has lived on Mallorca for 4 years — explicitly the stress-free alternative to Es Trenc: easy access, easy parking, easygoing local vibe. Free. The insider pick over the famous beaches."
+    },
+    {
+      "name": "Cala Comtessa",
+      "neighborhood": "Ses Illetes, Calvià",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "$",
+      "rating": 4,
+      "manus_rating": "5 (inferred)",
+      "tags": [
+        "beach",
+        "cove",
+        "sunbeds",
+        "swimming",
+        "turquoise"
+      ],
+      "geo": "Cala Comtessa, Illetes, Calvia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DY9_4GWItkl"
+      ],
+      "description": "Small pine-fringed cove at Ses Illetes with bright turquoise shallows, a white beach kiosk and thatched umbrellas. €20 for 2 sunbeds all day — the rare cove in this batch where you can actually rent a lounger. Holly Mayland: \"POV: you found the best beach in Mallorca.\" A kayaking school operates beside it."
+    },
+    {
+      "name": "Caló del Moro",
+      "neighborhood": "Near Santanyí",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "",
+      "rating": 4,
+      "manus_rating": "5 (inferred)",
+      "tags": [
+        "arrive-early",
+        "beach",
+        "cove",
+        "crowded",
+        "scenic",
+        "turquoise"
+      ],
+      "geo": "Calo del Moro, Santanyi, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw"
+      ],
+      "description": "One of Iisa Hero's three favorite beaches on the island — the postcard turquoise cove of the southeast. Free. Major caveat carried in the sources: extreme crowding in summer, arrive very early. Late August/early September will not be forgiving here."
+    },
+    {
+      "name": "Cala s'Almonia",
+      "neighborhood": "Near Santanyí",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "",
+      "rating": 4,
+      "manus_rating": "5 (inferred)",
+      "tags": [
+        "beach",
+        "cove",
+        "swimming",
+        "turquoise"
+      ],
+      "geo": "Cala s'Almunia, Santanyi, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw"
+      ],
+      "description": "One of Iisa Hero's three favorite southeast beaches — a rocky swimming cove with boathouses, next door to Caló del Moro. Free."
+    },
+    {
+      "name": "Cala Llombards",
+      "neighborhood": "Santanyí",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "",
+      "rating": 4,
+      "manus_rating": "5 (inferred)",
+      "tags": [
+        "beach",
+        "cove",
+        "swimming",
+        "turquoise"
+      ],
+      "geo": "Cala Llombards, Santanyi, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw"
+      ],
+      "description": "Third of Iisa Hero's favorite southeast beaches. Sheltered sandy cove near Santanyí. Free."
+    },
+    {
+      "name": "Playa del Mago",
+      "neighborhood": "Portals Vells, Calvià",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "arrive-early",
+        "beach",
+        "cove",
+        "nudist",
+        "snorkeling"
+      ],
+      "geo": "Playa del Mago, Portals Vells, Calvia, Mallorca, Spain",
+      "address_stated": "Playa Portal Vells s/n, 07181 Calvià",
+      "sources": [
+        "DaITniSoMU9"
+      ],
+      "description": "Small cove at Portals Vells, 25–30 min from Palma. One of Mallorca's first official nudist beaches (it featured in a 1960s film); raw natural charm, crystal-clear water, good swimming and snorkeling. Free parking nearby but limited in summer — arrive early, bring water and snacks. Sourced from a tourism-account reel rather than a personal recommendation, so weight accordingly."
+    },
+    {
+      "name": "Hotel Espléndido",
+      "neighborhood": "Port de Sóller",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$",
+      "rating": 4,
+      "manus_rating": "5 (explicit rave)",
+      "tags": [
+        "hotel",
+        "retro",
+        "tramuntana",
+        "waterfront"
+      ],
+      "geo": "Hotel Esplendido, Port de Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DajIgMZxL3D"
+      ],
+      "description": "Waterfront hotel in Port de Sóller. Jillian Jaeger: \"absolutely amazing… never been so sad leaving a hotel.\" Single-source rave. Note the access warning that recurs in the sources: the road down into Port de Sóller is frequently restricted or closed to cars at peak tourist times."
+    },
+    {
+      "name": "Sóller",
+      "neighborhood": "Sóller",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "cost_range": "",
+      "rating": 4,
+      "manus_rating": "5 (multiple creators)",
+      "tags": [
+        "base",
+        "oranges",
+        "scenic",
+        "shopping",
+        "town",
+        "tramuntana"
+      ],
+      "geo": "Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DayupzqKZAy",
+        "DVjZzGUjAVw",
+        "Dako0jSRR5U"
+      ],
+      "description": "The most-mentioned town in the batch — 4 of 16 reels. \"A fairytale town straight out of a storybook,\" famous for its oranges (\"best orange juice of my life\"), with genuinely local shops worth leaving time for. Iisa Hero recommends it as the best northern base at 2–3 nights, with Port de Sóller, Valldemossa, Deià and Fornalutx all reachable by bus — no car needed."
+    },
+    {
+      "name": "Deià",
+      "neighborhood": "Deià",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "cost_range": "",
+      "rating": 4,
+      "manus_rating": "4 (recommended)",
+      "tags": [
+        "artsy",
+        "scenic",
+        "town",
+        "tramuntana",
+        "village"
+      ],
+      "geo": "Deia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw",
+        "Dako0jSRR5U"
+      ],
+      "description": "Cliffside artists' village in the Tramuntana, recommended in 2 reels. The densest cluster of good venues in the batch sits here or just below it: La Residencia and Café Miro, Nama, Hotel Es Molí's La Muleta cove, and Ca's Patró March down at Cala Deià."
+    },
+    {
+      "name": "Valldemossa",
+      "neighborhood": "Valldemossa",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "cost_range": "",
+      "rating": 4,
+      "manus_rating": "4 (recommended)",
+      "tags": [
+        "scenic",
+        "town",
+        "tramuntana",
+        "village"
+      ],
+      "geo": "Valldemossa, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw",
+        "Dako0jSRR5U"
+      ],
+      "description": "Tramuntana village recommended in 2 reels, reachable by bus from Sóller. Typically combined with Deià on the same day."
+    },
+    {
+      "name": "Spot",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "cost_range": "$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "dinner",
+        "palma",
+        "trendy"
+      ],
+      "geo": "Spot restaurant, Santa Catalina, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Trendy restaurant in Santa Catalina; SheerLuxe called it epic. One of nine Palma venues from a single rapid-fire guide reel, so the detail is thin — treat as a shortlist candidate, not a booking.",
+      "geo_approx": "geocoder fell back to Santa Catalina centroid; generic name, not resolved"
+    },
+    {
+      "name": "Rikito",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍕",
+      "cost_range": "$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "casual",
+        "dinner",
+        "italian",
+        "palma"
+      ],
+      "geo": "Rikito, Santa Catalina, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Pizza and pasta in Santa Catalina, recommended by SheerLuxe. Thin single-source detail."
+    },
+    {
+      "name": "Sama",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Cafe",
+      "emoji": "☕",
+      "cost_range": "$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "cafe",
+        "coffee",
+        "morning",
+        "palma"
+      ],
+      "geo": "Sama coffee, Santa Catalina, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Coffee shop in Santa Catalina, described by SheerLuxe as cute. Pairs with the Santa Catalina Market morning.",
+      "geo_approx": "geocoder fell back to Santa Catalina centroid; generic name, not resolved"
+    },
+    {
+      "name": "Vandal",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "cost_range": "$$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "dinner",
+        "modern",
+        "palma",
+        "tapas"
+      ],
+      "geo": "Vandal restaurant, Santa Catalina, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Elevated modern tapas in Santa Catalina, per SheerLuxe. Thin single-source detail."
+    },
+    {
+      "name": "La Bodeguilla",
+      "neighborhood": "Palma Centre",
+      "type": "Dinner Restaurant",
+      "emoji": "🍖",
+      "cost_range": "$$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "dinner",
+        "palma",
+        "traditional"
+      ],
+      "geo": "La Bodeguilla, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Traditional Spanish restaurant in central Palma; SheerLuxe singled out the lamb shoulder and pork leg."
+    },
+    {
+      "name": "DÔME",
+      "neighborhood": "Palma Centre",
+      "type": "Dinner Restaurant",
+      "emoji": "🍷",
+      "cost_range": "$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "dinner",
+        "modern",
+        "palma",
+        "sangria"
+      ],
+      "geo": "DOME restaurant, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Modern restaurant in central Palma; SheerLuxe called out excellent sangria."
+    },
+    {
+      "name": "Assaona",
+      "neighborhood": "Portixol, Palma",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "cost_range": "$$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "beach-club",
+        "palma",
+        "waterfront"
+      ],
+      "geo": "Assaona, Portixol, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Beach club on the Palma beachfront at Portixol, recommended by SheerLuxe. The convenient city-adjacent option rather than a destination — Gran Folies is the better club in this batch."
+    },
+    {
+      "name": "Sumailla",
+      "neighborhood": "Port d'Andratx",
+      "type": "Dinner Restaurant",
+      "emoji": "🍣",
+      "cost_range": "$$$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "dinner",
+        "high-end",
+        "japanese",
+        "sushi"
+      ],
+      "geo": "Sumailla, Port d'Andratx, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Japanese/sushi restaurant in Port d'Andratx, per SheerLuxe. Sits near Gran Folies, so it's a plausible dinner pairing with a beach club day at Cala Llamp."
+    },
+    {
+      "name": "Miga de Nube",
+      "neighborhood": "Sóller",
+      "type": "Cafe",
+      "emoji": "☕",
+      "cost_range": "$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "cafe",
+        "garden",
+        "morning",
+        "tramuntana"
+      ],
+      "geo": "Miga de Nube, Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DayupzqKZAy"
+      ],
+      "description": "\"Secret garden\" slow-café in Sóller for iced coffee and cake, per Sara Caroline Bridgers. A pleasant filler for a Sóller train day rather than a destination."
+    },
+    {
+      "name": "Can Bordoy Grand House & Garden",
+      "neighborhood": "Palma Old Town",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$",
+      "rating": 3,
+      "manus_rating": "5 (inferred)",
+      "tags": [
+        "boutique",
+        "garden",
+        "hotel",
+        "palma",
+        "pool"
+      ],
+      "geo": "Can Bordoy Grand House and Garden, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Boutique hotel in Palma's old town with a garden pool SheerLuxe called gorgeous. The strongest Palma stay in the batch if you want a city night on either end of the trip."
+    },
+    {
+      "name": "Hotel Sant Francesc",
+      "neighborhood": "Palma Old Town",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred)",
+      "tags": [
+        "boutique",
+        "hotel",
+        "palma",
+        "rooftop"
+      ],
+      "geo": "Hotel Sant Francesc, Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Boutique hotel in Palma's old town; SheerLuxe liked the rooftop pool bar. Worth a rooftop drink even without staying."
+    },
+    {
+      "name": "Es Trenc",
+      "neighborhood": "Campos",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "",
+      "rating": 3,
+      "manus_rating": "3.5 (explicit: B-tier)",
+      "tags": [
+        "arrive-early",
+        "beach",
+        "crowded",
+        "nature-reserve",
+        "turquoise"
+      ],
+      "geo": "Es Trenc, Campos, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DXCXO-_DWUT"
+      ],
+      "description": "The island's most famous natural beach — \"most beautiful in Mallorca… compared to the Maldives,\" transparent water. But the resident creator rated it only B-tier because it gets extremely crowded for a nature reserve, and pointed to Sa Ràpita nearby as the stress-free alternative. Free, paid parking."
+    },
+    {
+      "name": "Platja de Formentor",
+      "neighborhood": "Formentor",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "",
+      "rating": 3,
+      "manus_rating": "3.5 (explicit: B-tier)",
+      "tags": [
+        "beach",
+        "car-restricted",
+        "expensive-parking",
+        "scenic"
+      ],
+      "geo": "Platja de Formentor, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DXCXO-_DWUT",
+        "DX2boDLtL3Q"
+      ],
+      "description": "Beautiful natural surroundings, rated B-tier. Two hard logistics warnings from separate reels: it has the most expensive parking on the island, and private driving is banned in peak summer with fines enforced — take public transport. Peak season restrictions will be in force during your window."
+    },
+    {
+      "name": "Santanyí Market",
+      "neighborhood": "Santanyí",
+      "type": "Market",
+      "emoji": "🧺",
+      "cost_range": "$",
+      "rating": 3,
+      "manus_rating": "3 (explicit: \"a letdown… still cool\")",
+      "tags": [
+        "ceramics",
+        "market",
+        "morning",
+        "shopping"
+      ],
+      "geo": "Santanyi, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZNcqIvRShi"
+      ],
+      "description": "Wednesday and Saturday street market in Santanyí — fresh bread, ensaïmadas, ceramics, wood crafts, truffle products, fans, clothing. Eric Hammer's verdict was explicitly mixed: \"a letdown in terms of range of vendors… still cool and something to do on the east side.\" One of the few honest negatives in the batch. Check the day — it only runs Wed/Sat.",
+      "geo_approx": "street market, no fixed address; pinned at Santanyi town"
+    },
+    {
+      "name": "Palma",
+      "neighborhood": "Palma",
+      "type": "Town/Village",
+      "emoji": "🏙️",
+      "cost_range": "",
+      "rating": 3,
+      "manus_rating": "4 (recommended half-day)",
+      "tags": [
+        "base",
+        "city",
+        "cathedral",
+        "palma"
+      ],
+      "geo": "Palma, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw",
+        "DX2boDLtL3Q"
+      ],
+      "description": "The capital. Notably, Iisa Hero budgets only half a day for the main sights, and BellaHoppa treats Palma mainly as an easy arrival base rather than a destination. Consistent with your preference for scenery over city touring — useful on arrival/departure, not worth a large block."
+    },
+    {
+      "name": "Port de Sóller",
+      "neighborhood": "Port de Sóller",
+      "type": "Town/Village",
+      "emoji": "⛵",
+      "cost_range": "",
+      "rating": 3,
+      "manus_rating": "4 (recommended)",
+      "tags": [
+        "beach-town",
+        "car-restricted",
+        "town",
+        "tramuntana",
+        "waterfront"
+      ],
+      "geo": "Port de Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw",
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Horseshoe bay beach town below Sóller, connected to it by a vintage tram. Recurring warning across sources: the access road is frequently restricted or closed to cars during peak tourist periods — check before driving down, or take the tram."
+    },
+    {
+      "name": "Cala d'Or",
+      "neighborhood": "Cala d'Or",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "cost_range": "",
+      "rating": 3,
+      "manus_rating": "4 (recommended base, 3–5 nights)",
+      "tags": [
+        "base",
+        "beach-town",
+        "resort",
+        "southeast"
+      ],
+      "geo": "Cala d'Or, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DVjZzGUjAVw",
+        "DX2boDLtL3Q"
+      ],
+      "description": "Resort town recommended in 2 reels as the eastern base — Iisa Hero suggests 3–5 nights here for the southeast beaches, BellaHoppa for its flat roads and slow beach days. Logistics pick rather than a charm pick; as a purpose-built resort town it may read closer to Positano-touristy than Ravello."
+    },
+    {
+      "name": "Port de Pollença",
+      "neighborhood": "Pollença",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "cost_range": "",
+      "rating": 3,
+      "manus_rating": "4 (recommended base)",
+      "tags": [
+        "base",
+        "north",
+        "town"
+      ],
+      "geo": "Port de Pollenca, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DX2boDLtL3Q"
+      ],
+      "description": "BellaHoppa's recommended northern base — the point being to group Formentor, the Tramuntana and Sa Calobra into one phase rather than day-tripping to them from Palma."
+    },
+    {
+      "name": "Mandarin Oriental Punta Negra",
+      "neighborhood": "Portals Nous",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$$",
+      "rating": 3,
+      "manus_rating": "4 (inferred, not yet open)",
+      "tags": [
+        "hotel",
+        "luxury",
+        "new-opening",
+        "waterfront"
+      ],
+      "geo": "Mandarin Oriental Punta Negra, Portals Nous, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS",
+        "DaXj49tjFH7"
+      ],
+      "description": "New Mandarin Oriental on a private peninsula at Portals Nous. Mentioned in 2 sources but neither had stayed — SheerLuxe flagged it as opening and \"looks amazing,\" and a commenter on the hotels carousel said \"lush so far.\" Unverified by anyone who's been; confirm it's actually open for your dates before considering."
+    },
+    {
+      "name": "Cooking Class Moltak",
+      "neighborhood": "Palma Old Town",
+      "type": "Activity",
+      "emoji": "👩‍🍳",
+      "cost_range": "",
+      "rating": 3,
+      "manus_rating": "4 (inferred, promo)",
+      "tags": [
+        "activity",
+        "cooking-class",
+        "food",
+        "palma"
+      ],
+      "geo": "Palma Old Town, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DK1hD4ro-21"
+      ],
+      "description": "Hands-on cooking class in a rustic stone-walled space in Palma. Chef \"Vanesa\" leads traditional dishes — seafood paella with bomba rice, Padrón peppers, squid, a Crema Catalana-style dessert — ending in a communal meal with wine. Cost not stated. Two caveats: this is promotional content with no spoken review, and it's by far the weakest source in the batch (June 2025, 50 likes, 2.4k views, versus six figures for everything else). Listed because a cooking class was a highlight of your Amalfi trip (Mamma Agata) — but this specific operator is unvetted and worth replacing with a better-reviewed one.",
+      "geo_approx": "exact venue not stated in reel; pinned at Palma Old Town"
+    },
+    {
+      "name": "Cala Deià",
+      "neighborhood": "Deià",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "cost_range": "",
+      "rating": 2,
+      "manus_rating": "2.5 (explicit: C-tier)",
+      "tags": [
+        "beach",
+        "cove",
+        "hard-parking",
+        "overhyped",
+        "rocky",
+        "tramuntana"
+      ],
+      "geo": "Cala Deia, Deia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DXCXO-_DWUT",
+        "DXxV5EBp4OB"
+      ],
+      "description": "Rocky cove below Deià. Rated C-tier by the resident creator — overhyped, busy, hard to access and park — who said it's only worth it combined with the restaurant. Go for lunch at Ca's Patró March (rated 5); don't plan a beach day around the cove itself."
+    },
+    {
+      "name": "El Olivo",
+      "neighborhood": "Deià (La Residencia)",
+      "type": "Dinner Restaurant",
+      "emoji": "⚠️",
+      "cost_range": "$$$$$",
+      "rating": 2,
+      "manus_rating": "2 (inferred, critical review)",
+      "tags": [
+        "dinner",
+        "fine-dining",
+        "overpriced",
+        "tasting-menu",
+        "tramuntana"
+      ],
+      "geo": "El Olivo, Belmond La Residencia, Deia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZYf_CBR6dH",
+        "Dako0jSRR5U"
+      ],
+      "description": "Instagram-famous fine dining at La Residencia, and the clearest \"don't\" in the batch. Eric Hammer's detailed review of the 8-course €195 tasting menu (wine pairing €140, non-alcoholic €120 — over €200pp all-in) described dishes as \"fine,\" \"meh,\" \"sad,\" and \"weird,\" the signature pork a letdown, and only the almond dessert impressive: \"I wanted to love this place so badly.\" Ali Chilton couldn't get a reservation. Recorded specifically so it doesn't get re-suggested — go to Café Miro at the same hotel instead."
+    },
+    {
+      "name": "Hotel Cappuccino Andratx",
+      "neighborhood": "Andratx",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$",
+      "rating": 2,
+      "manus_rating": "3 (neutral mention)",
+      "tags": [
+        "hotel",
+        "new-opening"
+      ],
+      "geo": "Andratx, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DZ5b-NuNBcS"
+      ],
+      "description": "Mentioned by SheerLuxe only as opening in summer 2026 — a neutral aside with no review attached. Placeholder entry; nothing here recommends it yet.",
+      "geo_approx": "not yet open, no address; pinned at Andratx"
+    },
+    {
+      "name": "Escola Balear de Piragüisme",
+      "neighborhood": "Ses Illetes",
+      "type": "Activity",
+      "emoji": "🛶",
+      "cost_range": "",
+      "rating": 2,
+      "manus_rating": "3 (background only)",
+      "tags": [
+        "activity",
+        "kayaking",
+        "watersports"
+      ],
+      "geo": "Escola Balear de Piraguisme, Illetes, Calvia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DY9_4GWItkl"
+      ],
+      "description": "Kayaking school operating beside Cala Comtessa. Appeared only in the background of Holly Mayland's beach reel with no review — logged for completeness in case you want a paddle from that cove."
+    },
+    {
+      "name": "Magaluf Beach",
+      "neighborhood": "Magaluf, Calvià",
+      "type": "Beach",
+      "emoji": "❌",
+      "cost_range": "",
+      "rating": 1,
+      "manus_rating": "1 (explicit: F-tier)",
+      "tags": [
+        "avoid",
+        "beach",
+        "party",
+        "tourist-trap"
+      ],
+      "geo": "Platja de Magaluf, Calvia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DXCXO-_DWUT"
+      ],
+      "description": "Rated F-tier, the only bottom-ranked entry in the batch: \"no reason why you should travel to Mallorca and consciously choose to go on the beach in Magaluf.\" This is the Times Square of Mallorca and the exact vibe you said you're avoiding. Recorded as an explicit avoid."
+    },
+    {
+      "name": "Son Bunyola Hotel & Villas",
+      "neighborhood": "Banyalbufar",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$$",
+      "rating": 3,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "estate",
+        "hotel",
+        "luxury",
+        "tramuntana",
+        "unvetted"
+      ],
+      "geo": "Son Bunyola, Banyalbufar, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7"
+      ],
+      "description": "Richard Branson's UNESCO-listed Tramuntana estate — 27 rooms plus 3 villas, olive groves, vineyards, rugged coastline. From @mattconcierge's curated hotels carousel; listicle placement only, no first-hand stay review behind it."
+    },
+    {
+      "name": "Four Seasons Resort Mallorca at Formentor",
+      "neighborhood": "Formentor",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$$",
+      "rating": 3,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "beach",
+        "hotel",
+        "luxury",
+        "north",
+        "unvetted"
+      ],
+      "geo": "Four Seasons Resort Mallorca at Formentor, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7"
+      ],
+      "description": "The legendary Hotel Formentor reborn as a Four Seasons — pine forest, beach and mountains; one of the island's most anticipated openings. From the hotels carousel; no first-hand review. Note the Formentor peninsula driving restrictions in peak season."
+    },
+    {
+      "name": "Can Ferrereta",
+      "neighborhood": "Santanyí",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$",
+      "rating": 3,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "boutique",
+        "hotel",
+        "luxury",
+        "southeast",
+        "spa",
+        "unvetted"
+      ],
+      "geo": "Can Ferrereta, Santanyi, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7"
+      ],
+      "description": "Restored 17th-century mansion in Santanyí — 32 rooms, calm and minimal, garden pool, spa, hammam, near the best southern beaches. From the hotels carousel; no first-hand review. Its location makes it the natural luxury base if you do the southeast beach cluster (Caló del Moro, s'Almonia, Llombards)."
+    },
+    {
+      "name": "Grand Hotel Son Net",
+      "neighborhood": "Puigpunyent",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$$",
+      "rating": 3,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "estate",
+        "hotel",
+        "luxury",
+        "tramuntana",
+        "unvetted"
+      ],
+      "geo": "Grand Hotel Son Net, Puigpunyent, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7"
+      ],
+      "description": "17th-century manor in the Tramuntana foothills — frescoes, gardens, art-filled slow luxury. From the hotels carousel; no first-hand review."
+    },
+    {
+      "name": "Son Brull Hotel & Spa",
+      "neighborhood": "Pollença",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$",
+      "rating": 3,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "hotel",
+        "luxury",
+        "north",
+        "relais-chateaux",
+        "spa",
+        "unvetted"
+      ],
+      "geo": "Son Brull Hotel and Spa, Pollenca, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7"
+      ],
+      "description": "Former monastery near Pollença, now Relais & Châteaux — vineyards and olive trees, removed from the summer noise. From the hotels carousel; no first-hand review. Would pair with BellaHoppa's northern-base strategy."
+    },
+    {
+      "name": "Finca Serena",
+      "neighborhood": "Montuïri",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$",
+      "rating": 3,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "adults-only",
+        "countryside",
+        "hotel",
+        "luxury",
+        "unvetted"
+      ],
+      "geo": "Finca Serena, Montuiri, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7"
+      ],
+      "description": "Adults-only 45-hectare countryside estate in the island's interior — olive trees, lavender, vineyards; feels more like a private finca than a hotel. From the hotels carousel; no first-hand review. Inland, so it trades sea access for quiet."
+    },
+    {
+      "name": "Castell Son Claret",
+      "neighborhood": "Es Capdellà, Calvià",
+      "type": "Hotel",
+      "emoji": "🏰",
+      "cost_range": "$$$$$",
+      "rating": 3,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "castle",
+        "countryside",
+        "hotel",
+        "luxury",
+        "spa",
+        "unvetted"
+      ],
+      "geo": "Castell Son Claret, Es Capdella, Calvia, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7"
+      ],
+      "description": "Restored castle estate near Es Capdellà — 43 rooms, gardens, parkland, spa. From the hotels carousel; no first-hand review."
+    },
+    {
+      "name": "Jumeirah Mallorca",
+      "neighborhood": "Port de Sóller",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "cost_range": "$$$$$",
+      "rating": 3,
+      "manus_rating": "5 (featured as exceptional)",
+      "tags": [
+        "clifftop",
+        "hotel",
+        "luxury",
+        "sunset",
+        "tramuntana",
+        "unvetted"
+      ],
+      "geo": "Jumeirah Mallorca, Port de Soller, Mallorca, Spain",
+      "address_stated": null,
+      "sources": [
+        "DaXj49tjFH7"
+      ],
+      "description": "Clifftop hotel above Port de Sóller — sea, mountain and sunset-terrace views on the northwest coast. From the hotels carousel; no first-hand review. Same Port de Sóller road-access caveat applies."
+    }
+  ]
+}
