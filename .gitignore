@@ -218,3 +218,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Twemoji icon cache (KMZ toolkit)
+.twemoji-cache/

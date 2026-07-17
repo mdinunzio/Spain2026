@@ -12,7 +12,21 @@
       "Bash(.venv/Scripts/mgdio.exe auth *)",
       "Bash(.venv/Scripts/python.exe -c ' *)",
       "Bash(.venv/Scripts/python.exe tools/push_locations.py --dry-run)",
-      "Bash(.venv/Scripts/python.exe tools/push_locations.py --apply)"
+      "Bash(.venv/Scripts/python.exe tools/push_locations.py --apply)",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --source json --split-by none --out parsed/kmz)",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --source json --split-by type --out parsed/kmz/by-type)",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --source sheet --split-by none --out parsed/kmz/from-sheet)",
+      "Bash(.venv/Scripts/python.exe -c \"import pytest; print\\(pytest.__version__\\)\")",
+      "Bash(.venv/Scripts/python.exe -m pytest tests/test_kmz.py -q)",
+      "Edit(/.claude/skills/kmz-export/**)",
+      "Bash(rm -rf parsed/kmz/by-type parsed/kmz/from-sheet)",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --source sheet --out parsed/kmz)",
+      "Bash(.venv/Scripts/python.exe -m pytest tests/ -q)",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --source sheet --upload)",
+      "Bash(cd \"c:/Users/mdinu/AppData/Local/mgdio/mgdio\" && ls -R . 2>/dev/null | head -40)",
+      "Read(//c/Users/mdinu/AppData/Local/mgdio/mgdio/**)",
+      "Bash(.venv/Scripts/python.exe)",
+      "Bash(cd \"c:/Users/mdinu/AppData/Local/mgdio/mgdio\" && python -c \" *)"
     ]
   }
 }

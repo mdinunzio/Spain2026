@@ -11,3 +11,8 @@ dependencies = [
 
 [tool.uv.sources]
 mgdio = { git = "ssh://git@github.com/mdinunzio/mgdio.git" }
+
+[dependency-groups]
+dev = [
+    "pytest>=9.1.1",
+]
