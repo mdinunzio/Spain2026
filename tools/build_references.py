@@ -59,8 +59,8 @@ def merge_locations(locations: list[dict]) -> dict[str, dict]:
     return merged
 
 
-def format_reference(ref: dict) -> str:
-    """Render one source as a markdown bullet."""
+def format_instagram_reference(ref: dict) -> str:
+    """Render an Instagram source (shortcode + creator + engagement)."""
     creator = ref.get("creator") or ref.get("handle", "")
     handle = ref.get("handle", "")
     who = f"{creator} ({handle})" if creator and handle else creator or handle
@@ -72,7 +72,26 @@ def format_reference(ref: dict) -> str:
     if ref.get("likes"):
         stats.append(f"{ref['likes']:,} likes")
     meta = f" · {' · '.join(stats)}" if stats else ""
-    bullet = f"- **Instagram — {who}**{meta} · [{ref['shortcode']}]({ref['url']})"
+    return f"- **Instagram — {who}**{meta} · [{ref['shortcode']}]({ref['url']})"
+
+
+def format_generic_reference(ref: dict) -> str:
+    """Render a non-Instagram source (Gemini, blog, article, …).
+
+    Expects ``source`` (label), ``url``, and optional ``date``.
+    """
+    source = ref.get("source", "Source")
+    date = f" · {ref['date']}" if ref.get("date") else ""
+    link = f" · [link]({ref['url']})" if ref.get("url") else ""
+    return f"- **{source}**{date}{link}"
+
+
+def format_reference(ref: dict) -> str:
+    """Render one source as a markdown bullet, dispatching on its shape."""
+    if ref.get("shortcode"):
+        bullet = format_instagram_reference(ref)
+    else:
+        bullet = format_generic_reference(ref)
     if ref.get("note"):
         bullet += f"\n  - {ref['note']}"
     return bullet

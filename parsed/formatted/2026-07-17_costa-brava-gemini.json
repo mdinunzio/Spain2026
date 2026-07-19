@@ -1,0 +1,264 @@
+{
+  "batch": "2026-07-17_costa-brava-gemini",
+  "region": "Costa Brava",
+  "source_count": 1,
+  "venue_count": 9,
+  "locations": [
+    {
+      "name": "Cala Sa Tuna",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Tiny, postcard cove below Begur, ringed by old fishermen's houses with brightly painted doors. Deep emerald water off a rocky shore, excellent for snorkeling. A quiet tavern sits right on the water for a drink or lunch between swims (Gemini didn't name it — worth pinning down before the trip). One of the three calas Gemini put at the top of the Begur list, and the closest Costa Brava analog to the intimate, non-touristy coves you're after.",
+      "cost_range": "",
+      "address": "Cala Sa Tuna, 17255 Sa Tuna, Girona, Spain",
+      "latitude": 41.9605402,
+      "longitude": 3.2295286,
+      "google_map": "https://www.google.com/maps/search/Cala+Sa+Tuna%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#cala-sa-tuna",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "A tiny, incredibly picturesque cove surrounded by old fishermen's houses with colorful doors. It has a fantastic, quiet tavern right on the water."
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cove, hidden-gem, scenic, snorkeling, tavern",
+      "source_rating_raw": null,
+      "geocode_query": "Cala Sa Tuna, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cala Aiguablava",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "One of the rare Costa Brava calas with genuinely fine sand rather than pebbles, and famous for vivid bright-blue water. Home to the beach restaurant Toc al Mar right on the sand, so it pairs a swim with a proper long lunch. A natural anchor for a Begur beach day.",
+      "cost_range": "",
+      "address": "Begur,platja D'aiguablava, 17255, Girona, Spain",
+      "latitude": 41.932742,
+      "longitude": 3.21498,
+      "google_map": "https://www.google.com/maps/search/Cala+Aiguablava%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#cala-aiguablava",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "One of the few calas with finer sand. The water here is famously bright blue, and it is home to the restaurant Toc al Mar."
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cove, snorkeling, swimming, turquoise",
+      "source_rating_raw": null,
+      "geocode_query": "Cala Aiguablava, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Toc al Mar",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguablava, Begur",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "This is the Costa Brava's version of a beach club — the luxury is culinary, not bottle service. A rustic chiringuito directly on the sand at Cala Aiguablava, known for whole fish roasted over an oak-wood fire across a long two-hour lunch. Reservations are coveted; book well ahead for early September. This is exactly the culinary-beach experience Gemini flagged as the signature Costa Brava move, and a strong flagship-meal candidate.",
+      "cost_range": "$$$",
+      "address": "Carrer Platja d'Aiguablava, 8, 17255 Begur, Girona, Spain",
+      "latitude": 41.9337333,
+      "longitude": 3.2163528,
+      "google_map": "https://www.google.com/maps/search/Toc+al+Mar%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#toc-al-mar",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "The chiringuito example: a rustic beach restaurant sitting literally on the sand at Aiguablava, serving whole fish roasted over an oak-wood fire. A highly coveted reservation."
+        }
+      ],
+      "rating": 4,
+      "tags": "chiringuito, lunch, reservation-required, seafood, waterfront, wood-fired",
+      "source_rating_raw": null,
+      "geocode_query": "Toc al Mar restaurant, Platja de Aiguablava, Begur, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cala s'Alguer",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "A 16th-century fishermen's cove near Palamós with no commercial development at all — just historic stone huts with colored doors above a tiny beach. Visually stunning and very quiet precisely because you have to walk in to reach it. On-brand with what you loved about Ravello: scenic, uncrowded, and earned by a short hike rather than handed to a tour bus.",
+      "cost_range": "",
+      "address": "Ctra. Sant Esteve, 2, 17230 Palamós, Girona, Spain",
+      "latitude": 41.8620988,
+      "longitude": 3.1518504,
+      "google_map": "https://www.google.com/maps/search/Cala+s%27Alguer%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#cala-s-alguer",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "A 16th-century settlement with no commercial development. It is visually stunning, incredibly quiet, and requires a scenic walk to access."
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cove, historic, quiet, scenic, walk-in-access",
+      "source_rating_raw": null,
+      "geocode_query": "Cala s'Alguer, Palamos, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Begur",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "Hilltop town crowned by a castle, and the natural base for the best Begur-area calas — Sa Tuna and Aiguablava are both a short drive down to the water. A strong candidate for the Costa Brava leg's home base if you want to be among the coves rather than in a resort town.",
+      "cost_range": "",
+      "address": "Begur, Girona, Spain",
+      "latitude": 41.9535354,
+      "longitude": 3.2025863,
+      "google_map": "https://www.google.com/maps/search/Begur%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#begur",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "The hilltop anchor town for the top calas (Sa Tuna, Aiguablava)."
+        }
+      ],
+      "rating": 3,
+      "tags": "base, hilltop, scenic, town, village",
+      "source_rating_raw": null,
+      "geocode_query": "Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Llafranc",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell",
+      "type": "Town/Village",
+      "emoji": "⛵",
+      "description": "Elegant, low-key beach town with a curved bay and seafront promenade, part of Palafrugell. Gemini names it as a departure point to hire a small private boat with a skipper — the frictionless way to reach coves inaccessible by land. Sits on the Camí de Ronda between Calella de Palafrugell and Tamariu.",
+      "cost_range": "",
+      "address": "Llafranc, Girona, Spain",
+      "latitude": 41.8947345,
+      "longitude": 3.1935945,
+      "google_map": "https://www.google.com/maps/search/Llafranc%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#llafranc",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "One of the towns Gemini recommends for hiring a small private boat with a skipper for the day."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach-town, boat, scenic, town, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Llafranc, Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Palamós",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Town/Village",
+      "emoji": "⛵",
+      "description": "Working fishing port and the other boat-charter departure point Gemini names. Also famous in its own right for Palamós prawns (gambes de Palamós), some of the most prized seafood in Spain — worth a foodie stop even aside from the boat. Cala s'Alguer sits just south of town.",
+      "cost_range": "",
+      "address": "Palamós, Girona, Spain",
+      "latitude": 41.8503998,
+      "longitude": 3.1297006,
+      "google_map": "https://www.google.com/maps/search/Palam%C3%B3s%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#palamos",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "One of the towns Gemini recommends for hiring a small private boat with a skipper for the day."
+        }
+      ],
+      "rating": 3,
+      "tags": "boat, fishing-port, prawns, town, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Palamos, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Camí de Ronda",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Attraction",
+      "emoji": "🥾",
+      "description": "The coastal hiking path connecting the best calas — you walk cliff-top through pine forest and keep dropping down to hidden, pristine beaches. This is the Costa Brava equivalent of the Ravello-to-Amalfi hike you loved: scenic, exploratory, and it strings together swims and lunches into one day. The Begur and Palafrugell (Calella–Llafranc–Tamariu) sections are the most celebrated.",
+      "cost_range": "",
+      "address": "Camí de Ronda, Girona, Spain",
+      "latitude": 41.9629628,
+      "longitude": 3.2285717,
+      "google_map": "https://www.google.com/maps/search/Cam%C3%AD+de+Ronda%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#cami-de-ronda",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "The coastal hiking path connecting the best calas — walk cliff-top through pine forest and suddenly look down on a hidden, pristine beach."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, coastal, hiking, scenic, snorkeling",
+      "source_rating_raw": null,
+      "geocode_query": "Cami de Ronda, Begur, Girona, Spain",
+      "geo_note": "The Cami de Ronda runs for miles along the coast; this pin marks the Sa Tuna / Begur section, not a single point.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Private Boat Charter (Costa Brava)",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Activity",
+      "emoji": "⛵",
+      "description": "Hire a small private boat with a skipper out of Llafranc or Palamós to reach hidden coves that are inaccessible by land, swim and lounge in total privacy away from crowds, then get dropped at a coastal village for dinner. Gemini pitched this as the Costa Brava echo of the Croatia yacht day you loved — and a boat day was independently the single strongest signal from the Mallorca research too. No operator named yet; the next info to gather is a specific skipper/charter to book.",
+      "cost_range": "$$$",
+      "address": "Llafranc, Girona, Spain",
+      "latitude": 41.8947345,
+      "longitude": 3.1935945,
+      "google_map": "https://www.google.com/maps/search/Private+Boat+Charter+%28Costa+Brava%29%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#private-boat-charter-costa-brava",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-17",
+          "note": "The absolute best way to experience the Costa Brava beaches is from the water: hire a small private boat with a skipper out of Llafranc or Palamós, reach hidden coves inaccessible by land, then get dropped at a coastal village for a Michelin-starred dinner. The Croatia-yacht alternative."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, boat, private-charter, snorkeling, swimming",
+      "source_rating_raw": null,
+      "geocode_query": "Llafranc, Palafrugell, Girona, Spain",
+      "geo_note": "No operator identified yet — pinned at Llafranc, one of the two suggested departure towns. Booking research still needed.",
+      "flags": [
+        "location-approximate"
+      ]
+    }
+  ]
+}

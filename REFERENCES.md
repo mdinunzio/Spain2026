@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_mallorca-instagram-16*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16*
 
-*62 venues · 83 sources*
+*71 venues · 92 sources*
 
 ---
 
@@ -192,6 +192,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cala-aiguablava" name="cala-aiguablava"></a>
+
+## 🏖️ Cala Aiguablava
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Cala+Aiguablava%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - One of the few calas with finer sand. The water here is famously bright blue, and it is home to the restaurant Toc al Mar.
+
+---
+
 <a id="cala-comtessa" name="cala-comtessa"></a>
 
 ## 🏖️ Cala Comtessa
@@ -222,6 +237,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cala-s-alguer" name="cala-s-alguer"></a>
+
+## 🏖️ Cala s'Alguer
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Cala+s%27Alguer%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - A 16th-century settlement with no commercial development. It is visually stunning, incredibly quiet, and requires a scenic walk to access.
+
+---
+
 <a id="cala-s-almonia" name="cala-s-almonia"></a>
 
 ## 🏖️ Cala s'Almonia
@@ -237,6 +267,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cala-sa-tuna" name="cala-sa-tuna"></a>
+
+## 🏖️ Cala Sa Tuna
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Cala+Sa+Tuna%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - A tiny, incredibly picturesque cove surrounded by old fishermen's houses with colorful doors. It has a fantastic, quiet tavern right on the water.
+
+---
+
 <a id="calo-del-moro" name="calo-del-moro"></a>
 
 ## 🏖️ Caló del Moro
@@ -249,6 +294,23 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Iisa Hero | Solo & Adventure Travel (@heroiisa)** · 2026-03-06 · 997,233 views · 25,908 likes · [DVjZzGUjAVw](https://www.instagram.com/p/DVjZzGUjAVw/)
   - One of her three favorite beaches on the island, on the southeast coast.
+
+---
+
+<a id="cami-de-ronda" name="cami-de-ronda"></a>
+
+## 🥾 Camí de Ronda
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Attraction · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Cam%C3%AD+de+Ronda%2C+Costa+Brava%2C+Spain)
+
+> ⚠️ **Approximate location** — The Cami de Ronda runs for miles along the coast; this pin marks the Sa Tuna / Begur section, not a single point.
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The coastal hiking path connecting the best calas — walk cliff-top through pine forest and suddenly look down on a hidden, pristine beach.
 
 ---
 
@@ -365,6 +427,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="private-boat-charter-costa-brava" name="private-boat-charter-costa-brava"></a>
+
+## ⛵ Private Boat Charter (Costa Brava)
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Private+Boat+Charter+%28Costa+Brava%29%2C+Costa+Brava%2C+Spain)
+
+> ⚠️ **Approximate location** — No operator identified yet — pinned at Llafranc, one of the two suggested departure towns. Booking research still needed.
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The absolute best way to experience the Costa Brava beaches is from the water: hire a small private boat with a skipper out of Llafranc or Palamós, reach hidden coves inaccessible by land, then get dropped at a coastal village for a Michelin-starred dinner. The Croatia-yacht alternative.
+
+---
+
 <a id="restaurante-illeta" name="restaurante-illeta"></a>
 
 ## 🥘 Restaurante Illeta
@@ -448,6 +527,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="toc-al-mar" name="toc-al-mar"></a>
+
+## 🐟 Toc al Mar
+
+**Region:** Costa Brava · **Neighborhood:** Aiguablava, Begur · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Toc+al+Mar%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The chiringuito example: a rustic beach restaurant sitting literally on the sand at Aiguablava, serving whole fish roasted over an oak-wood fire. A highly coveted reservation.
+
+---
+
 <a id="valldemossa" name="valldemossa"></a>
 
 ## 🏘️ Valldemossa
@@ -477,6 +571,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Beach club on the Palma beachfront at Portixol. 4/5.
+
+---
+
+<a id="begur" name="begur"></a>
+
+## 🏘️ Begur
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Begur%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The hilltop anchor town for the top calas (Sa Tuna, Aiguablava).
 
 ---
 
@@ -679,6 +788,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="llafranc" name="llafranc"></a>
+
+## ⛵ Llafranc
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Llafranc%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - One of the towns Gemini recommends for hiring a small private boat with a skipper for the day.
+
+---
+
 <a id="mandarin-oriental-punta-negra" name="mandarin-oriental-punta-negra"></a>
 
 ## 🏨 Mandarin Oriental Punta Negra
@@ -708,6 +832,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Sara Caroline Bridgers (@sarcar_)** · 2026-07-15 · 34,979 views · 3 likes · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
   - A "secret garden" slow-café in Sóller for iced coffee and cake. 4/5.
+
+---
+
+<a id="palamos" name="palamos"></a>
+
+## ⛵ Palamós
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Palam%C3%B3s%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - One of the towns Gemini recommends for hiring a small private boat with a skipper for the day.
 
 ---
 
