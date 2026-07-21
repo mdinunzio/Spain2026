@@ -139,10 +139,40 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
         return
 
     if existing:
-        raise click.ClickException(
-            "Locations tab already has rows; in-place update is not implemented "
-            "yet. Re-run once that path exists, or clear the tab first."
+        # In-place update: rewrite each matched row at its current position
+        # (grouped into contiguous runs to keep the write count low), append
+        # new venues below the table, and leave unmatched rows untouched.
+        updates_by_row = sorted((existing[r["name"].strip()], r) for r in updates)
+        runs: list[list[tuple[int, dict]]] = []
+        for row_number, row in updates_by_row:
+            if runs and row_number == runs[-1][-1][0] + 1:
+                runs[-1].append((row_number, row))
+            else:
+                runs.append([(row_number, row)])
+
+        total_cells = 0
+        for run in runs:
+            start, end = run[0][0], run[-1][0]
+            payload = [build_row(row, row_number) for row_number, row in run]
+            total_cells += write_values(SPREADSHEET_ID, f"{TAB}!A{start}:N{end}", payload)
+        click.echo(
+            f"Updated {len(updates)} rows in place ({len(runs)} contiguous writes)"
         )
+
+        if appends:
+            first_new = len(existing_values) + 1
+            payload = [
+                build_row(row, first_new + i) for i, row in enumerate(appends)
+            ]
+            end_row = first_new + len(payload) - 1
+            total_cells += write_values(
+                SPREADSHEET_ID, f"{TAB}!A{first_new}:N{end_row}", payload
+            )
+            click.echo(
+                f"Appended {len(appends)} new rows at {TAB}!A{first_new}:N{end_row}"
+            )
+        click.echo(f"Wrote {total_cells} cells total.")
+        return
 
     payload = [COLUMNS]
     payload.extend(build_row(row, i + 2) for i, row in enumerate(ordered))

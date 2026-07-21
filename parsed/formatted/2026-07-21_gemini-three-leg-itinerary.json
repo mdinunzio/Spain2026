@@ -1,0 +1,362 @@
+{
+  "batch": "2026-07-21_gemini-three-leg-itinerary",
+  "region": "Mallorca + Costa Brava",
+  "source_count": 1,
+  "venue_count": 12,
+  "locations": [
+    {
+      "name": "Son Moragues",
+      "region": "Mallorca",
+      "neighborhood": "Valldemossa",
+      "type": "Activity",
+      "emoji": "🫒",
+      "description": "Meticulously restored, centuries-old olive grove estate in the Tramuntana above Valldemossa, a 15-minute drive from Deià. Bookable as a private guided walk through the ancient stone terraces followed by a tasting of their organic, cold-pressed oils paired with local produce. Gemini's flagship 'agricultural roots' pick for the Deià leg — the closest Mallorca analog to the estate/farm experiences you loved around Ravello. Book ahead; visits are private and small-group.",
+      "cost_range": "$$$",
+      "address": "Diseminado Son Moragues, 1, 07170 Valldemossa, Illes Balears, Spain",
+      "latitude": 39.7138453,
+      "longitude": 2.6117174,
+      "google_map": "https://www.google.com/maps/search/Son+Moragues%2C+Valldemossa%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#son-moragues",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "The Olive Grove Visit for the Deià leg: a meticulously restored, centuries-old olive grove in Valldemossa. Book a private, guided walk through the ancient terraces followed by a tasting of organic, cold-pressed oils paired with local produce."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, historic-estate, olive-oil, tasting, tramuntana, walking-tour",
+      "source_rating_raw": null,
+      "geocode_query": "Son Moragues, Valldemossa",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bodega Ribas",
+      "region": "Mallorca",
+      "neighborhood": "Consell (Binissalem wine region)",
+      "type": "Winery",
+      "emoji": "🍷",
+      "description": "Historic family winery in the Binissalem wine region on Mallorca's central plain — an afternoon drive down from Deià. Intimate tastings held in a stunning 18th-century courtyard; the region's climate produces dry, fruit-forward reds from Manto Negro blends and Syrah. Gemini's winery pick for the Deià leg, and a natural echo of the impromptu wine shopping you loved in Ravello.",
+      "cost_range": "$$$",
+      "address": "Carrer de Muntanya, 2, 07330 Consell, Illes Balears, Spain",
+      "latitude": 39.6675997,
+      "longitude": 2.8143671,
+      "google_map": "https://www.google.com/maps/search/Bodega+Ribas%2C+Consell%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bodega-ribas",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "The Winery Trip for the Deià leg: drive into the central plains to the Binissalem wine region, where Bodega Ribas offers intimate tastings in a stunning 18th-century courtyard."
+        }
+      ],
+      "rating": 3,
+      "tags": "courtyard, historic, tasting, wine, winery",
+      "source_rating_raw": null,
+      "geocode_query": "Ribas, Consell, Illes Balears",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "S'Amarador",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí (Mondragó Natural Park)",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Broad white-sand beach inside Mondragó Natural Park on the southeast coast, backed by pine forest and dunes rather than development. Electric-blue, shallow water — one of the two beaches Gemini names for the classic lay-on-a-towel Santanyí beach day (with Cala Llombards). Arrive early in season; the natural-park setting keeps it unbuilt but not unknown.",
+      "cost_range": "",
+      "address": "Platja de s'Amarador, Carrer B M, 6, 07690 Santanyí, Illes Balears, Spain",
+      "latitude": 39.3496269,
+      "longitude": 3.1855249,
+      "google_map": "https://www.google.com/maps/search/Platja+de+s%27Amarador%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#s-amarador",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "Named with Cala Llombards as the beaches for the Santanyí leg: 'the exact white-sand, electric-blue water experience you want.' Hit the sand early."
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, natural-park, swimming, turquoise, white-sand",
+      "source_rating_raw": null,
+      "geocode_query": "s'Amarador, Santanyí",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Santanyí",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "Honey-stone market town on Mallorca's southeast corner, proposed by Gemini as the 3-night base for Leg 2 — lazy white-sand beach days plus lively village atmosphere. Home of the famous Wednesday/Saturday morning market and the launch point for Cala Llombards, S'Amarador, Caló del Moro and the Mondragó calas. Can Ferrereta (already on the hotel list) is here.",
+      "cost_range": "",
+      "address": "07650 Santanyí, Balearic Islands, Spain",
+      "latitude": 39.3549119,
+      "longitude": 3.1277273,
+      "google_map": "https://www.google.com/maps/search/Santany%C3%AD%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#santanyi",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "Leg 2 base (3 nights): 'Pristine water, soft sand, and local culture.' A short east-coast stint dedicated to the ultimate lazy beach days and soaking up the lively village atmosphere."
+        }
+      ],
+      "rating": 3,
+      "tags": "base, market-town, southeast-coast, town, village",
+      "source_rating_raw": null,
+      "geocode_query": "Santanyí, Illes Balears, España",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Vespa Rental (Costa Brava)",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Activity",
+      "emoji": "🛵",
+      "description": "Rent a vintage-style scooter from Llafranc and spend a day zipping the scenic, easy roads connecting Llafranc, Calella de Palafrugell and Begur — beach-hopping from Aiguablava to Sa Tuna while skipping the parking hassle entirely. Gemini's land-based counterpart to the boat charter for the Costa Brava leg, and a good match for the exploratory Ravello-to-Amalfi energy. No rental operator named yet — next step is finding a specific shop in Llafranc/Palafrugell.",
+      "cost_range": "$$",
+      "address": "Llafranc, Girona, Spain",
+      "latitude": 41.8947345,
+      "longitude": 3.1935945,
+      "google_map": "https://www.google.com/maps/search/Vespa+rental+Llafranc%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#vespa-rental-costa-brava",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "The Vespa Rentals: renting a vintage-style scooter here is brilliant. The roads connecting Llafranc, Calella de Palafrugell, and Begur are scenic and relatively easy to navigate — beach-hop from Aiguablava to Sa Tuna, bypassing rental-car parking hassle."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, beach-hopping, coastal, scenic-drive, scooter",
+      "source_rating_raw": null,
+      "geocode_query": "Llafranc, Palafrugell, Girona, Spain",
+      "geo_note": "No rental operator identified yet — pinned at Llafranc town; specific shop research still needed.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "El Olivo",
+      "region": "Mallorca",
+      "neighborhood": "Deià (La Residencia)",
+      "type": "Dinner Restaurant",
+      "emoji": "⚠️",
+      "description": "Fine-dining restaurant at Belmond La Residencia in Deià. Gemini recommends it for the elevated, romantic dinner slot of the Deià leg — breathtaking sunset views, menus built on fresh local vegetables and Mediterranean fish. Note the conflict on file: a detailed firsthand Instagram review rated it 2/5 (€200+pp tasting menu described as underwhelming), so treat Gemini's praise as the generic-AI take vs. a critical eyewitness.",
+      "cost_range": "$$$$$",
+      "address": "Carrer son Canals, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7493656,
+      "longitude": 2.6489815,
+      "google_map": "https://www.google.com/maps/search/El+Olivo%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#el-olivo",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "Recommended for the Deià leg's elevated, romantic dinners: 'breathtaking sunset views and menus built around fresh, vibrant local vegetables and Mediterranean fish, entirely free of heavy, red-meat-centric dishes.'"
+        }
+      ],
+      "rating": 2,
+      "tags": "dinner, fine-dining, overpriced, sunset, tasting-menu, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Santanyí Market",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Market",
+      "emoji": "🧺",
+      "description": "Open-air market every Wednesday and Saturday morning — Gemini calls it one of the most famous and beautiful on the island: the entire village center closes to traffic and fills with stalls of local ceramics, tailored linen clothing, artisanal leather goods, and fresh produce. Pitched as the perfect morning before a beach day. (Firsthand Instagram review on file was more mixed: 'a letdown in terms of range of vendors… still cool,' 3/5.)",
+      "cost_range": "$",
+      "address": "Plaça Major, 07650 Santanyí, Illes Balears, Spain",
+      "latitude": 39.3549119,
+      "longitude": 3.1277273,
+      "google_map": "https://www.google.com/maps/search/Santany%C3%AD+Market%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#santanyi-market",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "The Town Market: one of the most famous and beautiful open-air markets on the island, every Wednesday and Saturday morning. Village center shuts to traffic; stalls sell local ceramics, tailored linen, artisanal leather, fresh produce. Perfect morning activity before the beach."
+        }
+      ],
+      "rating": 3,
+      "tags": "ceramics, market, morning, shopping",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry",
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Cala Llombards",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Sheltered white-sand cove near Santanyí with electric-blue water, flanked by low cliffs and boathouses. One of Gemini's two named beaches for the lazy-beach-day Santanyí leg (with S'Amarador) — 'hit the sand early.'",
+      "cost_range": "",
+      "address": "07690 Cala Llombards, Illes Balears, Spain",
+      "latitude": 39.31937569999999,
+      "longitude": 3.1359362,
+      "google_map": "https://www.google.com/maps/search/Cala+Llombards%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cala-llombards",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "Named with S'Amarador as the beaches for the Santanyí leg: 'the exact white-sand, electric-blue water experience you want.' Hit the sand early."
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cove, swimming, turquoise, white-sand",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Toc al Mar",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguablava, Begur",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "Beach restaurant directly on the sand at Cala Aiguablava — whole fish roasted over an oak-wood fire, grilled coastal vegetables, long barefoot-luxury lunches. Second independent Gemini conversation to flag it as the signature Costa Brava beach-dining move ('book a table right on the sand'). Reservations coveted; book well ahead for early September.",
+      "cost_range": "$$$",
+      "address": "Carrer Platja d'Aiguablava, 8, 17255 Begur, Girona, Spain",
+      "latitude": 41.9337333,
+      "longitude": 3.2163528,
+      "google_map": "https://www.google.com/maps/search/Toc+al+Mar%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#toc-al-mar",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "The Beach Clubs & Dining pick for the Llafranc leg: book a table right on the sand at Toc al Mar in Aiguablava for a massive lunch of whole, oak-wood-fired fish and grilled coastal vegetables — 'a spectacular way to eat beautifully clean, high-protein meals right on the water.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "chiringuito, lunch, reservation-required, seafood, waterfront, wood-fired",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Private Boat Charter (Costa Brava)",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Activity",
+      "emoji": "⛵",
+      "description": "Charter a boat with skipper out of Llafranc or Palamós to reach coves invisible from the road. New detail from this conversation: consider a traditional wooden llaüt (Balearic/Catalan fishing boat) instead of a modern motorboat for the vintage-romance version — skipper takes you north along the rugged, pine-fringed cliffs to drop anchor in secluded coves. Still no operator identified; that's the outstanding booking research.",
+      "cost_range": "$$$",
+      "address": "Llafranc, Girona, Spain",
+      "latitude": 41.8947345,
+      "longitude": 3.1935945,
+      "google_map": "https://www.google.com/maps/search/Private+Boat+Charter+%28Costa+Brava%29%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#private-boat-charter-costa-brava",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "The Boat Charter for the Llafranc leg: replicate the Croatia experience by chartering a traditional wooden llaüt (or sleek modern motorboat) out of Palamós or Llafranc marina; a skipper takes you north along the pine-fringed cliffs to anchor in secluded coves invisible from the road."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, boat, llaut, private-charter, snorkeling, swimming",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry",
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Deià",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "Artists' village in the Tramuntana, proposed by Gemini as the 4-night base for Leg 1 — 'dramatic views, quiet luxury, and agricultural roots.' The launch point for the Son Moragues olive estate (15 min to Valldemossa), the Bodega Ribas winery drive, and elevated romantic dinners like El Olivo. The Tramuntana climate produces dry, fruit-forward reds (Syrah, Manto Negro blends).",
+      "cost_range": "",
+      "address": "07179 Deià, Balearic Islands, Spain",
+      "latitude": 39.7479394,
+      "longitude": 2.6483743,
+      "google_map": "https://www.google.com/maps/search/Dei%C3%A0%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#deia",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "Leg 1 base (4 nights): 'Dramatic views, quiet luxury, and agricultural roots.' Best leg for historic estates and wine — Son Moragues olive estate, Bodega Ribas winery trip, romantic sunset dinners."
+        }
+      ],
+      "rating": 4,
+      "tags": "artsy, base, scenic, town, tramuntana, village",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Llafranc",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell",
+      "type": "Town/Village",
+      "emoji": "⛵",
+      "description": "Elegant, low-key beach town with a curved bay and seafront promenade, proposed by Gemini as the 7-night base for Leg 3 — 'effortless beach access, coastal exploration, and world-class seafood.' Basing right on the water makes it the launchpad for the Vespa coastal loop (Calella de Palafrugell–Begur), the llaüt boat charter, and Toc al Mar lunches, while staying highly curated.",
+      "cost_range": "",
+      "address": "Llafranc, Girona, Spain",
+      "latitude": 41.8947345,
+      "longitude": 3.1935945,
+      "google_map": "https://www.google.com/maps/search/Llafranc%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#llafranc",
+      "references": [
+        {
+          "source": "Gemini",
+          "url": "https://gemini.google.com/app/8d0301803614e4d9",
+          "date": "2026-07-21",
+          "note": "Leg 3 base (7 nights): 'Effortless beach access, coastal exploration, and world-class seafood.' Basing on the water in Llafranc is the launchpad for the active, exploratory half of the trip while still offering highly curated luxury."
+        }
+      ],
+      "rating": 3,
+      "tags": "base, beach-town, boat, scenic, town, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

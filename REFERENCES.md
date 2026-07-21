@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-21_gemini-three-leg-itinerary*
 
-*71 venues · 92 sources*
+*76 venues · 104 sources*
 
 ---
 
@@ -230,8 +230,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Cala+Llombards%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Named with S'Amarador as the beaches for the Santanyí leg: 'the exact white-sand, electric-blue water experience you want.' Hit the sand early.
 - **Instagram — Iisa Hero | Solo & Adventure Travel (@heroiisa)** · 2026-03-06 · 997,233 views · 25,908 likes · [DVjZzGUjAVw](https://www.instagram.com/p/DVjZzGUjAVw/)
   - One of her three favorite southeast beaches, near Santanyí.
 
@@ -339,8 +341,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Dei%C3%A0%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Leg 1 base (4 nights): 'Dramatic views, quiet luxury, and agricultural roots.' Best leg for historic estates and wine — Son Moragues olive estate, Bodega Ribas winery trip, romantic sunset dinners.
 - **Instagram — Iisa Hero | Solo & Adventure Travel (@heroiisa)** · 2026-03-06 · 997,233 views · 25,908 likes · [DVjZzGUjAVw](https://www.instagram.com/p/DVjZzGUjAVw/)
   - Recommended as a bus-reachable day trip from Sóller. 4/5.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
@@ -437,10 +441,12 @@ Each section is linked from that tab's `References` column.
 
 > ⚠️ **Approximate location** — No operator identified yet — pinned at Llafranc, one of the two suggested departure towns. Booking research still needed.
 
-### Sources (1)
+### Sources (2)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The absolute best way to experience the Costa Brava beaches is from the water: hire a small private boat with a skipper out of Llafranc or Palamós, reach hidden coves inaccessible by land, then get dropped at a coastal village for a Michelin-starred dinner. The Croatia-yacht alternative.
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The Boat Charter for the Llafranc leg: replicate the Croatia experience by chartering a traditional wooden llaüt (or sleek modern motorboat) out of Palamós or Llafranc marina; a skipper takes you north along the pine-fringed cliffs to anchor in secluded coves invisible from the road.
 
 ---
 
@@ -458,6 +464,21 @@ Each section is linked from that tab's `References` column.
   - Her Camp de Mar pick for an authentic paella lunch. 5/5.
 - **Instagram — Jillian Jaeger (@jillianjaeger)** · 2026-07-08 · 19,980 views · 416 likes · [DajIgMZxL3D](https://www.instagram.com/p/DajIgMZxL3D/)
   - "Just magic… you're literally in the water, the food was amazing." Concedes it's touristy but says it's worth it. 5/5.
+
+---
+
+<a id="s-amarador" name="s-amarador"></a>
+
+## 🏖️ S'Amarador
+
+**Region:** Mallorca · **Neighborhood:** Santanyí (Mondragó Natural Park) · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Platja+de+s%27Amarador%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Named with Cala Llombards as the beaches for the Santanyí leg: 'the exact white-sand, electric-blue water experience you want.' Hit the sand early.
 
 ---
 
@@ -508,6 +529,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="son-moragues" name="son-moragues"></a>
+
+## 🫒 Son Moragues
+
+**Region:** Mallorca · **Neighborhood:** Valldemossa · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Son+Moragues%2C+Valldemossa%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The Olive Grove Visit for the Deià leg: a meticulously restored, centuries-old olive grove in Valldemossa. Book a private, guided walk through the ancient terraces followed by a tasting of organic, cold-pressed oils paired with local produce.
+
+---
+
 <a id="soller" name="soller"></a>
 
 ## 🏘️ Sóller
@@ -535,10 +571,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Toc+al+Mar%2C+Costa+Brava%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The chiringuito example: a rustic beach restaurant sitting literally on the sand at Aiguablava, serving whole fish roasted over an oak-wood fire. A highly coveted reservation.
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The Beach Clubs & Dining pick for the Llafranc leg: book a table right on the sand at Toc al Mar in Aiguablava for a massive lunch of whole, oak-wood-fired fish and grilled coastal vegetables — 'a spectacular way to eat beautifully clean, high-protein meals right on the water.'
 
 ---
 
@@ -556,6 +594,23 @@ Each section is linked from that tab's `References` column.
   - Recommended as a bus-reachable day trip from Sóller. 4/5.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
   - One of the towns she explored and recommends. 4/5.
+
+---
+
+<a id="vespa-rental-costa-brava" name="vespa-rental-costa-brava"></a>
+
+## 🛵 Vespa Rental (Costa Brava)
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Vespa+rental+Llafranc%2C+Costa+Brava%2C+Spain)
+
+> ⚠️ **Approximate location** — No rental operator identified yet — pinned at Llafranc town; specific shop research still needed.
+
+### Sources (1)
+
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The Vespa Rentals: renting a vintage-style scooter here is brilliant. The roads connecting Llafranc, Calella de Palafrugell, and Begur are scenic and relatively easy to navigate — beach-hop from Aiguablava to Sa Tuna, bypassing rental-car parking hassle.
 
 ---
 
@@ -586,6 +641,21 @@ Each section is linked from that tab's `References` column.
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The hilltop anchor town for the top calas (Sa Tuna, Aiguablava).
+
+---
+
+<a id="bodega-ribas" name="bodega-ribas"></a>
+
+## 🍷 Bodega Ribas
+
+**Region:** Mallorca · **Neighborhood:** Consell (Binissalem wine region) · **Type:** Winery · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Bodega+Ribas%2C+Consell%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The Winery Trip for the Deià leg: drive into the central plains to the Binissalem wine region, where Bodega Ribas offers intimate tastings in a stunning 18th-century courtyard.
 
 ---
 
@@ -796,10 +866,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Llafranc%2C+Costa+Brava%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - One of the towns Gemini recommends for hiring a small private boat with a skipper for the day.
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Leg 3 base (7 nights): 'Effortless beach access, coastal exploration, and world-class seafood.' Basing on the water in Llafranc is the launchpad for the active, exploratory half of the trip while still offering highly curated luxury.
 
 ---
 
@@ -963,6 +1035,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="santanyi" name="santanyi"></a>
+
+## 🏘️ Santanyí
+
+**Region:** Mallorca · **Neighborhood:** Santanyí · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Santany%C3%AD%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Leg 2 base (3 nights): 'Pristine water, soft sand, and local culture.' A short east-coast stint dedicated to the ultimate lazy beach days and soaking up the lively village atmosphere.
+
+---
+
 <a id="santanyi-market" name="santanyi-market"></a>
 
 ## 🧺 Santanyí Market
@@ -973,8 +1060,10 @@ Each section is linked from that tab's `References` column.
 
 > ⚠️ **Approximate location** — street market, no fixed address; pinned at Santanyi town
 
-### Sources (1)
+### Sources (2)
 
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The Town Market: one of the most famous and beautiful open-air markets on the island, every Wednesday and Saturday morning. Village center shuts to traffic; stalls sell local ceramics, tailored linen, artisanal leather, fresh produce. Perfect morning activity before the beach.
 - **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-05 · 48,798 views · 1,150 likes · [DZNcqIvRShi](https://www.instagram.com/p/DZNcqIvRShi/)
   - Wed/Sat street market — bread, ensaïmadas, ceramics, wood crafts, truffle products, fans, clothing. Bought ceramic chopstick rests (€6), an apple empanada (€7), an Estrella Damm. Verdict was explicitly mixed: "a letdown in terms of range of vendors… still cool and something to do on the east side." 3/5.
 
@@ -1082,8 +1171,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/El+Olivo%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Recommended for the Deià leg's elevated, romantic dinners: 'breathtaking sunset views and menus built around fresh, vibrant local vegetables and Mediterranean fish, entirely free of heavy, red-meat-centric dishes.'
 - **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-09 · 70,543 views · 1,429 likes · [DZYf_CBR6dH](https://www.instagram.com/p/DZYf_CBR6dH/)
   - Detailed critical review. 8-course tasting menu €195, wine pairing €140, non-alcoholic €120 — over €200pp all-in. Dishes described as "fine," "meh," "sad," "weird"; the signature pork a letdown; only the almond dessert impressed. "I wanted to love this place so badly…" 2/5.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)

@@ -39,11 +39,40 @@ def load_batches(formatted_dir: Path) -> tuple[list[dict], list[str]]:
     return locations, batches
 
 
-def merge_locations(locations: list[dict]) -> dict[str, dict]:
-    """Collapse rows describing the same venue, unioning their references.
+# Scalar fields where a later batch's non-empty value supersedes an earlier
+# one (batches load in filename order, so later == more recent capture).
+_OVERRIDE_FIELDS = (
+    "region",
+    "neighborhood",
+    "type",
+    "emoji",
+    "description",
+    "cost_range",
+    "address",
+    "latitude",
+    "longitude",
+    "google_map",
+    "rating",
+    "geo_note",
+)
 
-    Keyed on the anchor, which is the venue-name slug — so a venue that shows
-    up in two batches lands in one section with both batches' sources.
+
+def _split_tags(tags: str | None) -> set[str]:
+    return {t.strip() for t in (tags or "").split(",") if t.strip()}
+
+
+def _ref_key(ref: dict) -> tuple:
+    # Not url alone: two excerpts captured from the same conversation on
+    # different days are distinct sources.
+    return (ref.get("url"), ref.get("date"), ref.get("note"))
+
+
+def merge_locations(locations: list[dict]) -> dict[str, dict]:
+    """Collapse rows describing the same venue across batches.
+
+    Keyed on the anchor, which is the venue-name slug. A later batch's
+    non-empty scalar fields supersede earlier ones, tags and flags union,
+    and references append (deduped on url + date + note).
     """
     merged: dict[str, dict] = {}
     for row in locations:
@@ -51,11 +80,22 @@ def merge_locations(locations: list[dict]) -> dict[str, dict]:
         if key not in merged:
             merged[key] = {**row, "references": list(row["references"])}
             continue
-        seen = {r["url"] for r in merged[key]["references"]}
+        current = merged[key]
+        for field in _OVERRIDE_FIELDS:
+            value = row.get(field)
+            if value not in (None, ""):
+                current[field] = value
+        current["tags"] = ", ".join(
+            sorted(_split_tags(current.get("tags")) | _split_tags(row.get("tags")))
+        )
+        current["flags"] = sorted(
+            set(current.get("flags") or []) | set(row.get("flags") or [])
+        )
+        seen = {_ref_key(r) for r in current["references"]}
         for ref in row["references"]:
-            if ref["url"] not in seen:
-                merged[key]["references"].append(ref)
-                seen.add(ref["url"])
+            if _ref_key(ref) not in seen:
+                current["references"].append(ref)
+                seen.add(_ref_key(ref))
     return merged
 
 

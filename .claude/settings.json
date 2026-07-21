@@ -27,7 +27,9 @@
       "Read(//c/Users/mdinu/AppData/Local/mgdio/mgdio/**)",
       "Bash(.venv/Scripts/python.exe)",
       "Bash(cd \"c:/Users/mdinu/AppData/Local/mgdio/mgdio\" && python -c \" *)",
-      "Bash(.venv/Scripts/python.exe \"C:/Users/mdinu/AppData/Local/Temp/claude/c--Users-mdinu-Code-Spain2026/4458dc3d-0a21-40ef-b03e-969fc5ebbd13/scratchpad/build_costa_brava.py\")"
+      "Bash(.venv/Scripts/python.exe \"C:/Users/mdinu/AppData/Local/Temp/claude/c--Users-mdinu-Code-Spain2026/4458dc3d-0a21-40ef-b03e-969fc5ebbd13/scratchpad/build_costa_brava.py\")",
+      "Bash(awk '/^## ⚠️ El Olivo/,/^## [^#]/{print}' REFERENCES.md)",
+      "Bash(awk '/^## 🧺 Santanyí Market/,0{print; if \\(++n>20\\) exit}' REFERENCES.md)"
     ]
   }
 }
