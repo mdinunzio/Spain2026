@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-21_gemini-three-leg-itinerary*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list*
 
-*76 venues · 104 sources*
+*87 venues · 123 sources*
 
 ---
 
@@ -36,8 +36,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Ca%27s+Patr%C3%B3+March%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — rustic, open-air seafood built directly into the cliffside above Cala Deià. Famous (heavily featured in The Night Manager); reservations notoriously difficult. Do a late lunch after swimming in the cove.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - A standout meal of her 4-day trip — beautiful seafood lunch on the water at Cala Deià (shrimp, paprika octopus). 5/5.
 
@@ -100,8 +102,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Hotel+Coraz%C3%B3n%2C+Mallorca%2C+Spain)
 
-### Sources (3)
+### Sources (4)
 
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - If the Belmond is full: a newly opened, highly curated luxury boutique hotel between Deià and Sóller, with a slightly more bohemian, design-forward luxury vibe.
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - "Biggest fan; food is amazing." Listed under her mountain recommendations. 5/5.
 - **Instagram — Jillian Jaeger (@jillianjaeger)** · 2026-07-08 · 19,980 views · 416 likes · [DajIgMZxL3D](https://www.instagram.com/p/DajIgMZxL3D/)
@@ -316,6 +320,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="can-ferrereta" name="can-ferrereta"></a>
+
+## 🏨 Can Ferrereta
+
+**Region:** Mallorca · **Neighborhood:** Santanyí · **Type:** Hotel · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Can+Ferrereta%2C+Santany%C3%AD%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — in the heart of Santanyí village, a meticulously restored 17th-century mansion that feels like a private luxury estate. Stunning courtyard pool, incredible design, walking distance to local boutiques. Manus's advice: secure a room here immediately once flights are locked.
+- **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
+  - #5 on his best-hotels list. Restored 17th-century mansion in Santanyí — 32 rooms, calm, minimal, refined; garden pool, spa, hammam; near the best southern beaches.
+
+---
+
 <a id="cap-rocat" name="cap-rocat"></a>
 
 ## 🏰 Cap Rocat
@@ -330,6 +351,23 @@ Each section is linked from that tab's `References` column.
   - Featured as the setting for his Sea Club date night; showed the fortress approach, stone archways and lantern-lit path.
 - **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
   - #2 on his best-hotels list. Former military fortress, now one of the Mediterranean's most private hotels — nature reserve, sea-facing suites, secret terraces.
+
+---
+
+<a id="cooking-class-soqueta" name="cooking-class-soqueta"></a>
+
+## 👩‍🍳 Cooking Class Soqueta
+
+**Region:** Mallorca · **Neighborhood:** Palma · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Soqueta+cooking+class%2C+Palma%2C+Mallorca%2C+Spain)
+
+> ⚠️ **Approximate location** — Geocoder resolved Soqueta's registered address out in Platja de Palma; the experience itself starts at Mercat de l'Olivar in central Palma. Confirm the meeting point when booking.
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — your 'Mamma Agata' equivalent, in Palma. A private, highly curated experience starting with a tour of the Mercat de l'Olivar to buy ingredients, followed by cooking in a gorgeous private kitchen.
 
 ---
 
@@ -405,8 +443,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/La+Residencia%2C+A+Belmond+Hotel%2C+Mallorca%2C+Spain)
 
-### Sources (3)
+### Sources (4)
 
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — the gold standard of the island. Romantic, deeply authentic but ultra-luxurious, with an incredible art collection and impeccable service. Rooms for late August will disappear quickly. Manus's advice: reach out immediately once flights are locked.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - Stayed here on her 4-day trip: "cannot say more positive things about" it. 5/5.
 - **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-09 · 70,543 views · 1,429 likes · [DZYf_CBR6dH](https://www.instagram.com/p/DZYf_CBR6dH/)
@@ -416,16 +456,50 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="llaut-charter-southeast-mallorca" name="llaut-charter-southeast-mallorca"></a>
+
+## ⛵ Llaüt Charter (Southeast Mallorca)
+
+**Region:** Mallorca · **Neighborhood:** Portopetro · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Lla%C3%BCt+charter+Portopetro%2C+Mallorca%2C+Spain)
+
+> ⚠️ **Approximate location** — No operator identified yet — pinned at Portopetro, the marina hub closest to the Santanyí coves.
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The southeast's stunning coves (Caló des Moro, Cala Llombards) get crowded. The luxury hack: charter a llaüt (traditional Mallorcan wooden boat) with a captain to go cove-hopping by water and swim without fighting for towel space.
+
+---
+
+<a id="mhares-sea-club" name="mhares-sea-club"></a>
+
+## 🏖️ Mhares Sea Club
+
+**Region:** Mallorca · **Neighborhood:** Puig de Ros, Llucmajor · **Type:** Beach Club · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Mhares+Sea+Club%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — in Llucmajor, a great stop between Deià and Santanyí. Carved into a former marine quarry with a massive pool overlooking the sea. Adults-only, highly refined; reserve a front-row 'Bali bed' well in advance.
+
+---
+
 <a id="nama" name="nama"></a>
 
 ## 🍜 Nama
 
 **Region:** Mallorca · **Neighborhood:** Deià · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Nama%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Nama%2C+Dei%C3%A0%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Right in Deià village — incredible Asian-Mediterranean fusion with a stunning outdoor terrace overlooking the valley. Great for a break from traditional Spanish food.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - "The best Thai food" — a standout meal of her Deià stay. 5/5.
 
@@ -447,6 +521,23 @@ Each section is linked from that tab's `References` column.
   - The absolute best way to experience the Costa Brava beaches is from the water: hire a small private boat with a skipper out of Llafranc or Palamós, reach hidden coves inaccessible by land, then get dropped at a coastal village for a Michelin-starred dinner. The Croatia-yacht alternative.
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The Boat Charter for the Llafranc leg: replicate the Croatia experience by chartering a traditional wooden llaüt (or sleek modern motorboat) out of Palamós or Llafranc marina; a skipper takes you north along the pine-fringed cliffs to anchor in secluded coves invisible from the road.
+
+---
+
+<a id="private-sunset-sail-port-de-soller" name="private-sunset-sail-port-de-soller"></a>
+
+## 🌅 Private Sunset Sail (Port de Sóller)
+
+**Region:** Mallorca · **Neighborhood:** Port de Sóller · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Private+Sunset+Sail+Port+de+S%C3%B3ller%2C+Mallorca%2C+Spain)
+
+> ⚠️ **Approximate location** — No charter operator chosen yet — pinned at Port de Sóller marina (coordinates reused from the Port de Sóller entry).
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — skip the crowded group catamarans; charter a private classic sailboat out of Port de Sóller to sail the dramatic northern coastline at sunset with local wine and tapas.
 
 ---
 
@@ -614,6 +705,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="voro" name="voro"></a>
+
+## ⭐ VORO
+
+**Region:** Mallorca · **Neighborhood:** Canyamel, Capdepera · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/VORO%2C+Canyamel%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — 2 Michelin stars, a brilliant, theatrical tasting menu. A bit further east in Canyamel but absolutely worth the drive; book a private driver for this night.
+
+---
+
 <a id="assaona" name="assaona"></a>
 
 ## 🏖️ Assaona
@@ -652,10 +758,27 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Bodega+Ribas%2C+Consell%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The Winery Trip for the Deià leg: drive into the central plains to the Binissalem wine region, where Bodega Ribas offers intimate tastings in a stunning 18th-century courtyard.
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Wine tasting in Binissalem on the transfer day: Bodega Ribas is the oldest winery on the island, a stunning heritage estate — book a private tasting and vineyard tour.
+
+---
+
+<a id="cal-reiet" name="cal-reiet"></a>
+
+## 🧘 Cal Reiet
+
+**Region:** Mallorca · **Neighborhood:** Santanyí · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Cal+Reiet%2C+Santany%C3%AD%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - A boutique holistic retreat just outside Santanyí. Incredibly peaceful, set in lush gardens, and feels very exclusive. The alternative to Can Ferrereta.
 
 ---
 
@@ -691,18 +814,33 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="can-ferrereta" name="can-ferrereta"></a>
+<a id="cassai" name="cassai"></a>
 
-## 🏨 Can Ferrereta
+## 🥘 Cassai
 
-**Region:** Mallorca · **Neighborhood:** Santanyí · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$
+**Region:** Mallorca · **Neighborhood:** Ses Salines · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Can+Ferrereta%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Cassai%2C+Ses+Salines%2C+Mallorca%2C+Spain)
 
 ### Sources (1)
 
-- **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
-  - #5 on his best-hotels list. Restored 17th-century mansion in Santanyí — 32 rooms, calm, minimal, refined; garden pool, spa, hammam; near the best southern beaches.
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - In the nearby village of Ses Salines. A gorgeous, rustic-chic interior courtyard and excellent Mediterranean food.
+
+---
+
+<a id="cassai-beach-house" name="cassai-beach-house"></a>
+
+## 🏖️ Cassai Beach House
+
+**Region:** Mallorca · **Neighborhood:** Colònia de Sant Jordi · **Type:** Beach Club · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Cassai+Beach+House%2C+Col%C3%B2nia+de+Sant+Jordi%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - In Colònia de Sant Jordi with a chic, nautical vibe right on the water. Great for a long, rosé-fueled lunch.
 
 ---
 
@@ -1003,6 +1141,36 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="purobeach-illetas" name="purobeach-illetas"></a>
+
+## 🏖️ Purobeach Illetas
+
+**Region:** Mallorca · **Neighborhood:** Illetes, Calvià · **Type:** Beach Club · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Purobeach+Illetas%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The Tramuntana coast is rugged — no plush beach clubs. For a true luxury beach club with plush daybeds and table service on that side of the island, drive toward Palma to Purobeach Illetas.
+
+---
+
+<a id="restaurant-laudat" name="restaurant-laudat"></a>
+
+## 🍽️ Restaurant Laudat
+
+**Region:** Mallorca · **Neighborhood:** Santanyí · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Restaurant+Laudat%2C+Santany%C3%AD%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - In Santanyí, a beautiful, romantic courtyard and an exceptional wine list. Perfect for a high-end, relaxed dinner where you can just walk back to Can Ferrereta afterward.
+
+---
+
 <a id="rikito" name="rikito"></a>
 
 ## 🍕 Rikito
@@ -1060,10 +1228,12 @@ Each section is linked from that tab's `References` column.
 
 > ⚠️ **Approximate location** — street market, no fixed address; pinned at Santanyi town
 
-### Sources (2)
+### Sources (3)
 
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The Town Market: one of the most famous and beautiful open-air markets on the island, every Wednesday and Saturday morning. Village center shuts to traffic; stalls sell local ceramics, tailored linen, artisanal leather, fresh produce. Perfect morning activity before the beach.
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - One of the best markets on the island (Wednesdays & Saturdays) — takes over the whole village. Perfect for the 'impromptu shopping and exploring' you loved in Ravello: local ceramics, linens, artisan foods.
 - **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-05 · 48,798 views · 1,150 likes · [DZNcqIvRShi](https://www.instagram.com/p/DZNcqIvRShi/)
   - Wed/Sat street market — bread, ensaïmadas, ceramics, wood crafts, truffle products, fans, clothing. Bought ceramic chopstick rests (€6), an apple empanada (€7), an Estrella Damm. Verdict was explicitly mixed: "a letdown in terms of range of vendors… still cool and something to do on the east side." 3/5.
 
@@ -1131,6 +1301,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="tianna-negre" name="tianna-negre"></a>
+
+## 🍷 Tianna Negre
+
+**Region:** Mallorca · **Neighborhood:** Binissalem · **Type:** Winery · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Tianna+Negre%2C+Binissalem%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Wine tasting in Binissalem on the transfer day: Tianna Negre is modern, architectural, with excellent bold reds — named alongside Bodega Ribas as the two wineries to book a private tasting and vineyard tour at.
+
+---
+
 <a id="vandal" name="vandal"></a>
 
 ## 🍽️ Vandal
@@ -1171,10 +1356,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/El+Olivo%2C+Mallorca%2C+Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - Recommended for the Deià leg's elevated, romantic dinners: 'breathtaking sunset views and menus built around fresh, vibrant local vegetables and Mediterranean fish, entirely free of heavy, red-meat-centric dishes.'
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — at the Belmond; book a terrace table right at sunset. 'Arguably the most romantic dining room on the island.'
 - **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-09 · 70,543 views · 1,429 likes · [DZYf_CBR6dH](https://www.instagram.com/p/DZYf_CBR6dH/)
   - Detailed critical review. 8-course tasting menu €195, wine pairing €140, non-alcoholic €120 — over €200pp all-in. Dishes described as "fine," "meh," "sad," "weird"; the signature pork a letdown; only the almond dessert impressed. "I wanted to love this place so badly…" 2/5.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)

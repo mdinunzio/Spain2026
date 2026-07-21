@@ -1,0 +1,562 @@
+{
+  "batch": "2026-07-21_manus-deia-santanyi-curated-list",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 19,
+  "locations": [
+    {
+      "name": "Purobeach Illetas",
+      "region": "Mallorca",
+      "neighborhood": "Illetes, Calvià",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "description": "The plush, Miami-style luxury beach club the Tramuntana coast doesn't have — daybeds, table service, and a polished scene on the water at Illetes, a drive toward Palma from Deià. Manus offers it as the answer if you want a true beach-club day during the Deià leg. Near Cala Comtessa, already on the beach list.",
+      "cost_range": "$$$",
+      "address": "Passeig Illetes, 58B, 07181 Cas Català-Illetes, Illes Balears, Spain",
+      "latitude": 39.5377519,
+      "longitude": 2.5915926,
+      "google_map": "https://www.google.com/maps/search/Purobeach+Illetas%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#purobeach-illetas",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "The Tramuntana coast is rugged — no plush beach clubs. For a true luxury beach club with plush daybeds and table service on that side of the island, drive toward Palma to Purobeach Illetas."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach-club, daybeds, sceney, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Purobeach Illetas, Illetes, Calvia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Private Sunset Sail (Port de Sóller)",
+      "region": "Mallorca",
+      "neighborhood": "Port de Sóller",
+      "type": "Activity",
+      "emoji": "🌅",
+      "description": "Charter a private classic sailboat out of Port de Sóller (about 20 minutes from Deià) to sail the dramatic northern coastline at sunset with local wine and tapas — Manus's book-immediately activity for the Deià leg, explicitly instead of the crowded group catamarans. No operator chosen yet; Maksy Boats and Sails at Mallorca (both already on the list from Instagram research) are candidate operators to compare.",
+      "cost_range": "$$$",
+      "address": "Port de Sóller, Balearic Islands, Spain",
+      "latitude": 39.7951743,
+      "longitude": 2.6974736,
+      "google_map": "https://www.google.com/maps/search/Private+Sunset+Sail+Port+de+S%C3%B3ller%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#private-sunset-sail-port-de-soller",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "BOOK IMMEDIATELY — skip the crowded group catamarans; charter a private classic sailboat out of Port de Sóller to sail the dramatic northern coastline at sunset with local wine and tapas."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, boat, book-asap, private-charter, sunset, tramuntana",
+      "source_rating_raw": "BOOK IMMEDIATELY",
+      "geocode_query": null,
+      "geo_note": "No charter operator chosen yet — pinned at Port de Sóller marina (coordinates reused from the Port de Sóller entry).",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Cal Reiet",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Hotel",
+      "emoji": "🧘",
+      "description": "Boutique holistic retreat just outside Santanyí village — incredibly peaceful, set in lush gardens, with an exclusive, wellness-forward feel. Manus's backup pick for the Santanyí leg if Can Ferrereta is full (or if a quieter, more retreat-like base appeals).",
+      "cost_range": "$$$$",
+      "address": "Carrer de Cal Reiet, 80, 07650 Santanyí, Illes Balears, Spain",
+      "latitude": 39.35541250000001,
+      "longitude": 3.1349868,
+      "google_map": "https://www.google.com/maps/search/Cal+Reiet%2C+Santany%C3%AD%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cal-reiet",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "A boutique holistic retreat just outside Santanyí. Incredibly peaceful, set in lush gardens, and feels very exclusive. The alternative to Can Ferrereta."
+        }
+      ],
+      "rating": 3,
+      "tags": "boutique, holistic, hotel, peaceful, retreat, southeast",
+      "source_rating_raw": null,
+      "geocode_query": "Cal Reiet Holistic Retreat, Santanyi, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "VORO",
+      "region": "Mallorca",
+      "neighborhood": "Canyamel, Capdepera",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "Two-Michelin-star restaurant at Cap Vermell in Canyamel, on the east coast — a drive from Santanyí but, per Manus, absolutely worth it for the brilliant, theatrical tasting menu. Their advice: make it a set-piece night and book a private driver. The strongest fine-dining flagship candidate for the Santanyí leg; book immediately for early September.",
+      "cost_range": "$$$$$",
+      "address": "Urb. Atalaya de Canyamel, Vial A2, 12, 07589 Canyamel, Illes Balears, Spain",
+      "latitude": 39.6687045,
+      "longitude": 3.4392146,
+      "google_map": "https://www.google.com/maps/search/VORO%2C+Canyamel%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#voro",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "BOOK IMMEDIATELY — 2 Michelin stars, a brilliant, theatrical tasting menu. A bit further east in Canyamel but absolutely worth the drive; book a private driver for this night."
+        }
+      ],
+      "rating": 4,
+      "tags": "book-asap, dinner, fine-dining, michelin-star, tasting-menu",
+      "source_rating_raw": "BOOK IMMEDIATELY",
+      "geocode_query": "VORO restaurant, Canyamel, Capdepera, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Restaurant Laudat",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "High-end but relaxed dinner spot in Santanyí village with a beautiful, romantic courtyard and an exceptional wine list. Manus's pick for a night where you can simply walk back to Can Ferrereta afterward — the low-logistics romantic dinner of the Santanyí leg.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Sant Andreu, 18, 07650 Santanyí, Illes Balears, Spain",
+      "latitude": 39.3545389,
+      "longitude": 3.1297919,
+      "google_map": "https://www.google.com/maps/search/Restaurant+Laudat%2C+Santany%C3%AD%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#restaurant-laudat",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "In Santanyí, a beautiful, romantic courtyard and an exceptional wine list. Perfect for a high-end, relaxed dinner where you can just walk back to Can Ferrereta afterward."
+        }
+      ],
+      "rating": 3,
+      "tags": "courtyard, dinner, romantic, wine-list",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Laudat, Santanyi, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cassai",
+      "region": "Mallorca",
+      "neighborhood": "Ses Salines",
+      "type": "Dinner Restaurant",
+      "emoji": "🥘",
+      "description": "Mediterranean restaurant in the village of Ses Salines, a short drive west of Santanyí, with a gorgeous rustic-chic interior courtyard. A relaxed, design-conscious dinner option in an authentic village setting; same family as Cassai Beach House on the water in Colònia de Sant Jordi.",
+      "cost_range": "$$$",
+      "address": "Carrer Sitjar, 5, 07640 Ses Salines, Illes Balears, Spain",
+      "latitude": 39.339265,
+      "longitude": 3.0558959,
+      "google_map": "https://www.google.com/maps/search/Cassai%2C+Ses+Salines%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cassai",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "In the nearby village of Ses Salines. A gorgeous, rustic-chic interior courtyard and excellent Mediterranean food."
+        }
+      ],
+      "rating": 3,
+      "tags": "courtyard, dinner, mediterranean, rustic-chic, village",
+      "source_rating_raw": null,
+      "geocode_query": "Cassai Gran Cafe, Ses Salines, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mhares Sea Club",
+      "region": "Mallorca",
+      "neighborhood": "Puig de Ros, Llucmajor",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "description": "Adults-only luxury beach club carved into a former marine quarry near Llucmajor, with a massive pool overlooking the sea. Highly refined; front-row 'Bali beds' must be reserved well in advance. Manus flags it as the perfect stop on the transfer day between the Deià and Santanyí legs — and it's the plush-daybed beach-club experience (à la Arienzo/La Fontelina) that neither leg's coastline offers. Book immediately.",
+      "cost_range": "$$$$",
+      "address": "Carrer de l'Oronella, s/n, 07609 Puig de Ros, Llucmajor, Illes Balears, Spain",
+      "latitude": 39.4509739,
+      "longitude": 2.7428729,
+      "google_map": "https://www.google.com/maps/search/Mhares+Sea+Club%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#mhares-sea-club",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "BOOK IMMEDIATELY — in Llucmajor, a great stop between Deià and Santanyí. Carved into a former marine quarry with a massive pool overlooking the sea. Adults-only, highly refined; reserve a front-row 'Bali bed' well in advance."
+        }
+      ],
+      "rating": 4,
+      "tags": "adults-only, beach-club, book-asap, daybeds, pool, sea-views",
+      "source_rating_raw": "BOOK IMMEDIATELY",
+      "geocode_query": "Mhares Sea Club, Llucmajor, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cassai Beach House",
+      "region": "Mallorca",
+      "neighborhood": "Colònia de Sant Jordi",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "description": "Chic, nautical-vibe beach house right on the water in Colònia de Sant Jordi, on the south coast near Es Trenc. Manus's pick for a long, rosé-fueled lunch during the Santanyí leg. Sister venue to Cassai in Ses Salines.",
+      "cost_range": "$$$",
+      "address": "Carrer Major, 21, 07638 Colònia de Sant Jordi, Illes Balears, Spain",
+      "latitude": 39.3148424,
+      "longitude": 2.9945081,
+      "google_map": "https://www.google.com/maps/search/Cassai+Beach+House%2C+Col%C3%B2nia+de+Sant+Jordi%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cassai-beach-house",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "In Colònia de Sant Jordi with a chic, nautical vibe right on the water. Great for a long, rosé-fueled lunch."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach-club, lunch, nautical, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Cassai Beach House, Colonia de Sant Jordi, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cooking Class Soqueta",
+      "region": "Mallorca",
+      "neighborhood": "Palma",
+      "type": "Activity",
+      "emoji": "👩‍🍳",
+      "description": "Private, highly curated cooking experience in Palma — Manus calls it your 'Mamma Agata equivalent,' a direct callback to your favorite Amalfi activity. Starts with a guided tour of the Mercat de l'Olivar to buy ingredients, followed by cooking in a gorgeous private kitchen. Slotted for the transfer day between Deià and Santanyí; book immediately. (Cooking Class Moltak, also in Palma, is the other operator on the list.)",
+      "cost_range": "$$$",
+      "address": "Palma, Illes Balears, Spain",
+      "latitude": 39.5538499,
+      "longitude": 2.77594,
+      "google_map": "https://www.google.com/maps/search/Soqueta+cooking+class%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cooking-class-soqueta",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "BOOK IMMEDIATELY — your 'Mamma Agata' equivalent, in Palma. A private, highly curated experience starting with a tour of the Mercat de l'Olivar to buy ingredients, followed by cooking in a gorgeous private kitchen."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, book-asap, cooking-class, food-market, private",
+      "source_rating_raw": "BOOK IMMEDIATELY",
+      "geocode_query": "Soqueta, Palma de Mallorca, Spain",
+      "geo_note": "Geocoder resolved Soqueta's registered address out in Platja de Palma; the experience itself starts at Mercat de l'Olivar in central Palma. Confirm the meeting point when booking.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Tianna Negre",
+      "region": "Mallorca",
+      "neighborhood": "Binissalem",
+      "type": "Winery",
+      "emoji": "🍷",
+      "description": "Modern, architectural bodega in the Binissalem wine region, known for excellent bold reds — the sleek, contemporary counterpoint to Bodega Ribas's 300-year-old heritage estate. Manus offers either (or both) for a private tasting and vineyard tour on the Deià→Santanyí transfer day, since the drive passes right through Mallorca's premier wine region.",
+      "cost_range": "$$",
+      "address": "Camí des Mitjans, 07350 Binissalem, Illes Balears, Spain",
+      "latitude": 39.6934542,
+      "longitude": 2.8606695,
+      "google_map": "https://www.google.com/maps/search/Tianna+Negre%2C+Binissalem%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#tianna-negre",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "Wine tasting in Binissalem on the transfer day: Tianna Negre is modern, architectural, with excellent bold reds — named alongside Bodega Ribas as the two wineries to book a private tasting and vineyard tour at."
+        }
+      ],
+      "rating": 3,
+      "tags": "architectural, modern, tasting, wine, winery",
+      "source_rating_raw": null,
+      "geocode_query": "Bodega Tianna Negre, Binissalem, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Llaüt Charter (Southeast Mallorca)",
+      "region": "Mallorca",
+      "neighborhood": "Portopetro",
+      "type": "Activity",
+      "emoji": "⛵",
+      "description": "Charter a traditional Mallorcan wooden llaüt with a captain to cove-hop the southeast's famous calas (Caló del Moro, Cala Llombards, the Mondragó coves) by water — Manus's luxury 'hack' for the Santanyí leg, since the prettiest coves get crowded and arriving by boat means swimming in the turquoise water without fighting for towel space. The Mallorca twin of the Costa Brava llaüt charter already on the list. No operator identified yet.",
+      "cost_range": "$$$",
+      "address": "Portopetro, 07691 Santanyí, Illes Balears, Spain",
+      "latitude": 39.3615054,
+      "longitude": 3.2072539,
+      "google_map": "https://www.google.com/maps/search/Lla%C3%BCt+charter+Portopetro%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#llaut-charter-southeast-mallorca",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "The southeast's stunning coves (Caló des Moro, Cala Llombards) get crowded. The luxury hack: charter a llaüt (traditional Mallorcan wooden boat) with a captain to go cove-hopping by water and swim without fighting for towel space."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, boat, cove-hopping, llaut, private-charter, swimming",
+      "source_rating_raw": null,
+      "geocode_query": "Portopetro, Santanyi, Mallorca, Spain",
+      "geo_note": "No operator identified yet — pinned at Portopetro, the marina hub closest to the Santanyí coves.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "La Residencia, A Belmond Hotel",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Iconic Belmond property in Deià — mountain views, Mallorcan antiques, an incredible art collection, olive groves, old-school Balearic glamour. Unanimously praised across 3 reels ('one of the most beautiful properties I've ever seen'), and Manus calls it the gold standard of the island and the #1 book-immediately room: late-August dates disappear months out. Important split: its fine-dining restaurant El Olivo got a scathing firsthand review, but the Café Miro bar is well liked. Visit for a drink even if you don't stay.",
+      "cost_range": "$$$$$",
+      "address": "Carrer son Canals, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.74931,
+      "longitude": 2.6491283,
+      "google_map": "https://www.google.com/maps/search/La+Residencia%2C+A+Belmond+Hotel%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#la-residencia-a-belmond-hotel",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "BOOK IMMEDIATELY — the gold standard of the island. Romantic, deeply authentic but ultra-luxurious, with an incredible art collection and impeccable service. Rooms for late August will disappear quickly. Manus's advice: reach out immediately once flights are locked."
+        }
+      ],
+      "rating": 4,
+      "tags": "art, book-asap, hotel, luxury, mountain-views, tramuntana",
+      "source_rating_raw": "BOOK IMMEDIATELY",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Hotel Corazón",
+      "region": "Mallorca",
+      "neighborhood": "Between Sóller & Deià",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Design-forward boutique hotel between Sóller and Deià, with a pool and courtyard breakfast. The most consistently endorsed property in the Instagram batch — 3 of 16 reels, all positive on both vibe and food (SheerLuxe: 'biggest fan; food is amazing'; Jillian Jaeger on dinner: 'such a vibe… the food is really, really good'). Manus seconds it as the bohemian, design-forward luxury fallback if La Residencia is full. Worth considering as a stay or just a dinner.",
+      "cost_range": "$$$",
+      "address": "Carretera de Deià, km. 56, 7, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.773529,
+      "longitude": 2.6769299,
+      "google_map": "https://www.google.com/maps/search/Hotel+Coraz%C3%B3n%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#hotel-corazon",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "If the Belmond is full: a newly opened, highly curated luxury boutique hotel between Deià and Sóller, with a slightly more bohemian, design-forward luxury vibe."
+        }
+      ],
+      "rating": 5,
+      "tags": "bohemian, boutique, design-forward, dinner, hotel, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Ca's Patró March",
+      "region": "Mallorca",
+      "neighborhood": "Cala Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🦐",
+      "description": "Rustic, open-air seafood restaurant built into the cliffside above Cala Deià, right on the water — famous from The Night Manager, and reservations are notoriously difficult. Jessie Granader's standout meal (shrimp and paprika octopus); Manus flags it book-immediately and prescribes the ideal format: a late lunch after swimming in the cove. Note the tension in the sources: the beach at Cala Deià itself was rated C-tier and overhyped — the cove is 'only worth it combined with the restaurant.' Go for lunch, not for the beach.",
+      "cost_range": "$$$",
+      "address": "Carrer Sa Cala, 16, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7602197,
+      "longitude": 2.64093,
+      "google_map": "https://www.google.com/maps/search/Ca%27s+Patr%C3%B3+March%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#ca-s-patro-march",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "BOOK IMMEDIATELY — rustic, open-air seafood built directly into the cliffside above Cala Deià. Famous (heavily featured in The Night Manager); reservations notoriously difficult. Do a late lunch after swimming in the cove."
+        }
+      ],
+      "rating": 5,
+      "tags": "book-asap, cliffside, lunch, reservation-required, seafood, waterfront",
+      "source_rating_raw": "BOOK IMMEDIATELY",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "El Olivo",
+      "region": "Mallorca",
+      "neighborhood": "Deià (La Residencia)",
+      "type": "Dinner Restaurant",
+      "emoji": "⚠️",
+      "description": "Fine-dining restaurant at Belmond La Residencia in Deià. Now recommended by both Gemini and Manus — Manus calls the sunset terrace 'arguably the most romantic dining room on the island' and flags it book-immediately. But the conflict on file stands: the one detailed firsthand review rated it 2/5 (€200+pp tasting menu described as underwhelming; only the almond dessert impressed). If you go, it's for the terrace and sunset, not the food — weigh against Bens d'Avall or Sea Club for the romantic-splurge slot.",
+      "cost_range": "$$$$$",
+      "address": "Carrer son Canals, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7493656,
+      "longitude": 2.6489815,
+      "google_map": "https://www.google.com/maps/search/El+Olivo%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#el-olivo",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "BOOK IMMEDIATELY — at the Belmond; book a terrace table right at sunset. 'Arguably the most romantic dining room on the island.'"
+        }
+      ],
+      "rating": 2,
+      "tags": "book-asap, dinner, fine-dining, overpriced, sunset, tasting-menu, tramuntana",
+      "source_rating_raw": "BOOK IMMEDIATELY",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Nama",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Dinner Restaurant",
+      "emoji": "🍜",
+      "description": "Asian-Mediterranean fusion right in Deià village, with a stunning outdoor terrace overlooking the valley. Jessie Granader called it 'the best Thai food' and a standout meal of her trip; Manus recommends it for the night you want a break from traditional Spanish food.",
+      "cost_range": "$$$",
+      "address": "Carrer Arxiduc Luís Salvador, 22, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7469315,
+      "longitude": 2.6490956,
+      "google_map": "https://www.google.com/maps/search/Nama%2C+Dei%C3%A0%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#nama",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "Right in Deià village — incredible Asian-Mediterranean fusion with a stunning outdoor terrace overlooking the valley. Great for a break from traditional Spanish food."
+        }
+      ],
+      "rating": 4,
+      "tags": "dinner, fusion, terrace, thai, tramuntana, valley-views",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Can Ferrereta",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Meticulously restored 17th-century mansion in the heart of Santanyí village — 32 rooms, calm and minimal, stunning courtyard pool, spa and hammam, walking distance from the local boutiques and the Wed/Sat market. Manus's book-immediately base for the Santanyí leg ('feels like a private luxury estate') and the second AI to anchor the southeast stay here; the natural launch point for the beach cluster (Caló del Moro, s'Almonia, Llombards, S'Amarador).",
+      "cost_range": "$$$$",
+      "address": "Carrer de Can Ferrereta, 07650 Santanyí, Illes Balears, Spain",
+      "latitude": 39.3552678,
+      "longitude": 3.1282289,
+      "google_map": "https://www.google.com/maps/search/Can+Ferrereta%2C+Santany%C3%AD%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#can-ferrereta",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "BOOK IMMEDIATELY — in the heart of Santanyí village, a meticulously restored 17th-century mansion that feels like a private luxury estate. Stunning courtyard pool, incredible design, walking distance to local boutiques. Manus's advice: secure a room here immediately once flights are locked."
+        }
+      ],
+      "rating": 4,
+      "tags": "book-asap, boutique, courtyard-pool, hotel, luxury, southeast, spa",
+      "source_rating_raw": "BOOK IMMEDIATELY",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Santanyí Market",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Market",
+      "emoji": "🧺",
+      "description": "Open-air market every Wednesday and Saturday morning that takes over the whole village — local ceramics, linens, leather goods, and artisan foods. Both Gemini and Manus rank it among the island's best, and Manus draws the direct line to the 'impromptu shopping and exploring' you loved in Ravello. (The one firsthand Instagram review was more mixed: 'a letdown in terms of range of vendors… still cool,' 3/5 — go with morning-stroll expectations, not as a headline event.)",
+      "cost_range": "$",
+      "address": "Plaça Major, 07650 Santanyí, Illes Balears, Spain",
+      "latitude": 39.3549119,
+      "longitude": 3.1277273,
+      "google_map": "https://www.google.com/maps/search/Santany%C3%AD+Market%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#santanyi-market",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "One of the best markets on the island (Wednesdays & Saturdays) — takes over the whole village. Perfect for the 'impromptu shopping and exploring' you loved in Ravello: local ceramics, linens, artisan foods."
+        }
+      ],
+      "rating": 3,
+      "tags": "ceramics, linens, market, morning, shopping",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Bodega Ribas",
+      "region": "Mallorca",
+      "neighborhood": "Consell (Binissalem wine region)",
+      "type": "Winery",
+      "emoji": "🍷",
+      "description": "The oldest winery on Mallorca (est. 1711) — a stunning heritage estate in the Binissalem wine region with intimate tastings in its 18th-century courtyard. Recommended independently by both Gemini and Manus; Manus slots a private tasting and vineyard tour here on the Deià→Santanyí transfer day, since the drive passes right through the wine region (Tianna Negre is the modern alternative). The region's dry, fruit-forward Manto Negro reds echo the impromptu wine shopping you loved in Ravello.",
+      "cost_range": "$$$",
+      "address": "Carrer de Muntanya, 2, 07330 Consell, Illes Balears, Spain",
+      "latitude": 39.6675997,
+      "longitude": 2.8143671,
+      "google_map": "https://www.google.com/maps/search/Bodega+Ribas%2C+Consell%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bodega-ribas",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-21",
+          "note": "Wine tasting in Binissalem on the transfer day: Bodega Ribas is the oldest winery on the island, a stunning heritage estate — book a private tasting and vineyard tour."
+        }
+      ],
+      "rating": 3,
+      "tags": "courtyard, heritage-estate, historic, tasting, wine, winery",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}
