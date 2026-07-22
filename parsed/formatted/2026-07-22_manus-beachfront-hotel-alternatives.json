@@ -1,0 +1,214 @@
+{
+  "batch": "2026-07-22_manus-beachfront-hotel-alternatives",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 7,
+  "locations": [
+    {
+      "name": "Pleta de Mar",
+      "region": "Mallorca",
+      "neighborhood": "Canyamel, Capdepera",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Five-star, adults-only eco-luxury hotel on the east coast near Canyamel — modern minimalist architecture in local stone and wood, folded into gardens and pine trees. Exclusive access to Sa Cova dels Albardans, a secluded pebble cove reached by a private path from the grounds, plus two infinity pools with Balinese beds over the Mediterranean. Manus's runner-up for a beachfront leg-2 base: more intimate and design-forward than the Four Seasons, with the trade-off that the 'beach' is a rocky cove, not sand. Conveniently, VORO (the 2-Michelin book-asap dinner) is also in Canyamel.",
+      "cost_range": "$$$$$",
+      "address": "Via de les Cales, 23, 07589 Canyamel, Capdepera, Illes Balears, Spain",
+      "latitude": 39.6497312,
+      "longitude": 3.4340579,
+      "google_map": "https://www.google.com/maps/search/Pleta+de+Mar%2C+Canyamel%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#pleta-de-mar",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-22",
+          "note": "Runner-up beachfront alternative to Santanyí: five-star, adults-only, designed to blend into the landscape; exclusive private-path access to the Sa Cova dels Albardans cove; two infinity pools with Balinese beds. For a quieter, design-forward boutique environment over a larger resort."
+        }
+      ],
+      "rating": 3,
+      "tags": "adults-only, boutique, design-forward, hotel, private-cove, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Pleta de Mar hotel, Canyamel, Capdepera, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Fontsanta Hotel Thermal Spa & Wellness",
+      "region": "Mallorca",
+      "neighborhood": "Campos",
+      "type": "Hotel",
+      "emoji": "♨️",
+      "description": "Five-star, adults-only wellness hotel near Campos, built around the only natural thermal spring in the Balearics. Deeply peaceful spa-retreat atmosphere — Manus pitches it as the contrast to Deià's rugged energy. Sits ~3 km inland but runs a complimentary exclusive shuttle to Es Trenc, the island's most pristine protected-park beach. The wellness-forward option among the leg-2 beachfront alternatives; the trade-off is proximity rather than walk-onto-the-sand access.",
+      "cost_range": "$$$$",
+      "address": "Ctra. Campos a sa Colònia de Sant Jordi, km 8, 07638 Campos, Illes Balears, Spain",
+      "latitude": 39.3541488,
+      "longitude": 3.0152862,
+      "google_map": "https://www.google.com/maps/search/Fontsanta+Hotel%2C+Campos%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#fontsanta-hotel-thermal-spa-wellness",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-22",
+          "note": "The wellness option: adults-only five-star built around the Balearics' only natural thermal spring, with a complimentary exclusive shuttle to Es Trenc. Not directly on the water, but the beach it serves is extraordinary."
+        }
+      ],
+      "rating": 3,
+      "tags": "adults-only, hotel, spa, thermal-springs, wellness",
+      "source_rating_raw": null,
+      "geocode_query": "Fontsanta Hotel Thermal Spa & Wellness, Campos, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Four Seasons Resort Mallorca at Formentor",
+      "region": "Mallorca",
+      "neighborhood": "Formentor",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "The legendary 1929 Hotel Formentor, completely rebuilt and reopened by Four Seasons in late 2024, on the remote Cap de Formentor peninsula amid 100 acres of pine forest and Tramuntana foothills. Direct walk-out access to kilometer-long, Blue Flag Formentor Beach, with a dedicated concession of private loungers and full food/drink service on the sand, plus a working vineyard with tastings and dinners. Manus's top pick if leg 2 pivots from inland Santanyí to seamless beach access: 'a private estate where you walk out of your room onto the sand,' zero tourist-trap energy. Trade-off: a large polished resort, not an intimate boutique. Note the Formentor lighthouse-road access restrictions in summer — largely moot if you base here and stay put.",
+      "cost_range": "$$$$$",
+      "address": "Carretera de Formentor, 07470 Port de Pollença, Illes Balears, Spain",
+      "latitude": 39.9267058,
+      "longitude": 3.1449471,
+      "google_map": "https://www.google.com/maps/search/Four+Seasons+Resort+Mallorca+at+Formentor%2C+Spain",
+      "references_anchor": "REFERENCES.md#four-seasons-resort-mallorca-at-formentor",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-22",
+          "note": "Top pick among beachfront alternatives to Santanyí: kilometer-long golden-sand Blue Flag beach with a dedicated lounger/service concession, 100 acres of pines, working vineyard with tastings, self-contained luxury where you never need a car. Remote north peninsula = zero tourist-trap energy. Trade-off: larger resort, not a 12-room boutique."
+        }
+      ],
+      "rating": 4,
+      "tags": "beachfront, hotel, luxury, north, vineyard",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Cap Rocat",
+      "region": "Mallorca",
+      "neighborhood": "Cala Blava",
+      "type": "Hotel",
+      "emoji": "🏰",
+      "description": "Spectacular 19th-century military fortress converted into a 30-room, adults-only hotel on the Bay of Palma — nature-reserve setting, sea-facing suites, secret terraces, and a private swimming lagoon reached by a staircase carved into the cliffs. Featured in 2 reels, but Manus advises caution as a place to stay: recent high-end traveler reviews (r/FATTravel) report the subterranean fortress rooms can be dark, damp, and due for renovation. Unless recent room updates are confirmed, treat it as a visit — the Sea Club dinner (separate entry, a 5) remains the way to experience the property.",
+      "cost_range": "$$$$$",
+      "address": "Ctra. d'Enderrocat, s/n, 07609 Cala Blava, Illes Balears, Spain",
+      "latitude": 39.4761095,
+      "longitude": 2.7243017,
+      "google_map": "https://www.google.com/maps/search/Cap+Rocat%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cap-rocat",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-22",
+          "note": "A note of caution: famous and spectacular (fortress, private swimming lagoon via cliff-carved staircase), but recent reviews from high-end travelers say the subterranean rooms can be dark, damp, and in need of renovation. Prefer Four Seasons or Pleta de Mar for the stay unless room updates are confirmed."
+        }
+      ],
+      "rating": 3,
+      "tags": "adults-only, caution-rooms, fortress, hotel, luxury, private, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Es Trenc",
+      "region": "Mallorca",
+      "neighborhood": "Campos",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "The island's most famous natural beach — miles of untouched white sand and Caribbean-clear water in a protected natural park, entirely free of resort development ('most beautiful in Mallorca… compared to the Maldives'). The catch, per the resident-creator review: it gets extremely crowded in season, hence only B-tier — arrive early. Manus adds a luxury angle: Fontsanta Hotel runs a complimentary exclusive guest shuttle here, which pairs the pristine sand with a low-hassle base.",
+      "cost_range": "",
+      "address": "Platja des Trenc, 07638 Campos, Illes Balears, Spain",
+      "latitude": 39.3473805,
+      "longitude": 3.0048918,
+      "google_map": "https://www.google.com/maps/search/Es+Trenc%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#es-trenc",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-22",
+          "note": "Widely considered Mallorca's most beautiful beach — a protected natural park with miles of untouched white sand and Caribbean-clear water, free of large resort development. Reachable via Fontsanta's complimentary guest shuttle."
+        }
+      ],
+      "rating": 3,
+      "tags": "arrive-early, beach, crowded, natural-park, nature-reserve, turquoise, white-sand",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Can Ferrereta",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Meticulously restored 17th-century mansion in the heart of Santanyí village — 32 rooms, calm and minimal, stunning courtyard pool, spa and hammam, walking distance from the local boutiques and the Wed/Sat market. Manus's original book-immediately base for the Santanyí leg ('feels like a private luxury estate') and the natural launch point for the southeast beach cluster. One caveat raised later in the same conversation: it's inland — a 10–15 minute drive to the coves — so if leg 2's priority becomes walk-onto-the-sand access, the beachfront alternatives (Four Seasons Formentor, Pleta de Mar, Fontsanta) are the counter-proposals.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Can Ferrereta, 07650 Santanyí, Illes Balears, Spain",
+      "latitude": 39.3552678,
+      "longitude": 3.1282289,
+      "google_map": "https://www.google.com/maps/search/Can+Ferrereta%2C+Santany%C3%AD%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#can-ferrereta",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-22",
+          "note": "Follow-up caveat: a stunning property, but located inland — a 10–15 minute drive to reach the coast. Prompted the search for beachfront alternatives for the second leg."
+        }
+      ],
+      "rating": 4,
+      "tags": "boutique, courtyard-pool, hotel, inland, luxury, southeast, spa",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Santanyí",
+      "region": "Mallorca",
+      "neighborhood": "Santanyí",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "Honey-stone market town on Mallorca's southeast corner, proposed by Gemini as the 3-night base for Leg 2 — lazy white-sand beach days plus lively village atmosphere. Home of the famous Wednesday/Saturday morning market and the launch point for Cala Llombards, S'Amarador, Caló del Moro and the Mondragó calas. Can Ferrereta and Cal Reiet (both on the hotel list) are here. Note from the follow-up Manus discussion: the village is inland — beaches are a 10–15 minute drive — which is the main argument against it as the leg-2 base if effortless water access is the priority.",
+      "cost_range": "",
+      "address": "07650 Santanyí, Balearic Islands, Spain",
+      "latitude": 39.3549119,
+      "longitude": 3.1277273,
+      "google_map": "https://www.google.com/maps/search/Santany%C3%AD%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#santanyi",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-22",
+          "note": "Charming, but inland — reconsidered as the leg-2 base because seamless beach access requires a property directly on or steps from the water."
+        }
+      ],
+      "rating": 3,
+      "tags": "base, inland, market-town, southeast-coast, town, village",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

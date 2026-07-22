@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives*
 
-*87 venues · 123 sources*
+*89 venues · 130 sources*
 
 ---
 
@@ -328,29 +328,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Can+Ferrereta%2C+Santany%C3%AD%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — in the heart of Santanyí village, a meticulously restored 17th-century mansion that feels like a private luxury estate. Stunning courtyard pool, incredible design, walking distance to local boutiques. Manus's advice: secure a room here immediately once flights are locked.
+- **Manus** · 2026-07-22 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Follow-up caveat: a stunning property, but located inland — a 10–15 minute drive to reach the coast. Prompted the search for beachfront alternatives for the second leg.
 - **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
   - #5 on his best-hotels list. Restored 17th-century mansion in Santanyí — 32 rooms, calm, minimal, refined; garden pool, spa, hammam; near the best southern beaches.
-
----
-
-<a id="cap-rocat" name="cap-rocat"></a>
-
-## 🏰 Cap Rocat
-
-**Region:** Mallorca · **Neighborhood:** Cala Blava · **Type:** Hotel · **Rating:** 4/5 · **Cost:** $$$$$
-
-[Google Maps](https://www.google.com/maps/search/Cap+Rocat%2C+Mallorca%2C+Spain)
-
-### Sources (2)
-
-- **Instagram — Max Fossat (@maxfossat)** · 2026-04-28 · 453,331 views · 3 likes · [DXsTfQagcLm](https://www.instagram.com/p/DXsTfQagcLm/)
-  - Featured as the setting for his Sea Club date night; showed the fortress approach, stone archways and lantern-lit path.
-- **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
-  - #2 on his best-hotels list. Former military fortress, now one of the Mediterranean's most private hotels — nature reserve, sea-facing suites, secret terraces.
 
 ---
 
@@ -417,6 +402,23 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - "Absolute favorite restaurant on the island" — traditional Spanish in central Palma. 5/5.
+
+---
+
+<a id="four-seasons-resort-mallorca-at-formentor" name="four-seasons-resort-mallorca-at-formentor"></a>
+
+## 🏨 Four Seasons Resort Mallorca at Formentor
+
+**Region:** Mallorca · **Neighborhood:** Formentor · **Type:** Hotel · **Rating:** 4/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/Four+Seasons+Resort+Mallorca+at+Formentor%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-22 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Top pick among beachfront alternatives to Santanyí: kilometer-long golden-sand Blue Flag beach with a dedicated lounger/service concession, 100 acres of pines, working vineyard with tastings, self-contained luxury where you never need a car. Remote north peninsula = zero tourist-trap energy. Trade-off: larger resort, not a 12-room boutique.
+- **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
+  - #4 on his best-hotels list. The legendary Hotel Formentor reborn — pine forest, beach and mountains; one of the island's most anticipated openings.
 
 ---
 
@@ -814,6 +816,25 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cap-rocat" name="cap-rocat"></a>
+
+## 🏰 Cap Rocat
+
+**Region:** Mallorca · **Neighborhood:** Cala Blava · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/Cap+Rocat%2C+Mallorca%2C+Spain)
+
+### Sources (3)
+
+- **Manus** · 2026-07-22 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - A note of caution: famous and spectacular (fortress, private swimming lagoon via cliff-carved staircase), but recent reviews from high-end travelers say the subterranean rooms can be dark, damp, and in need of renovation. Prefer Four Seasons or Pleta de Mar for the stay unless room updates are confirmed.
+- **Instagram — Max Fossat (@maxfossat)** · 2026-04-28 · 453,331 views · 3 likes · [DXsTfQagcLm](https://www.instagram.com/p/DXsTfQagcLm/)
+  - Featured as the setting for his Sea Club date night; showed the fortress approach, stone archways and lantern-lit path.
+- **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
+  - #2 on his best-hotels list. Former military fortress, now one of the Mediterranean's most private hotels — nature reserve, sea-facing suites, secret terraces.
+
+---
+
 <a id="cassai" name="cassai"></a>
 
 ## 🥘 Cassai
@@ -899,8 +920,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Es+Trenc%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Manus** · 2026-07-22 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Widely considered Mallorca's most beautiful beach — a protected natural park with miles of untouched white sand and Caribbean-clear water, free of large resort development. Reachable via Fontsanta's complimentary guest shuttle.
 - **Instagram — Doina | Mallorca Slow Living (@explorersandwich)** · 2026-04-12 · 197,649 views · 4,284 likes · [DXCXO-_DWUT](https://www.instagram.com/p/DXCXO-_DWUT/)
   - B-tier. "Most beautiful beach in Mallorca… compared to the Maldives," transparent water — but extremely crowded for a natural reserve. Points to Sa Ràpita as the stress-free alternative.
 
@@ -921,18 +944,18 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="four-seasons-resort-mallorca-at-formentor" name="four-seasons-resort-mallorca-at-formentor"></a>
+<a id="fontsanta-hotel-thermal-spa-wellness" name="fontsanta-hotel-thermal-spa-wellness"></a>
 
-## 🏨 Four Seasons Resort Mallorca at Formentor
+## ♨️ Fontsanta Hotel Thermal Spa & Wellness
 
-**Region:** Mallorca · **Neighborhood:** Formentor · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$$
+**Region:** Mallorca · **Neighborhood:** Campos · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$
 
-[Google Maps](https://www.google.com/maps/search/Four+Seasons+Resort+Mallorca+at+Formentor%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Fontsanta+Hotel%2C+Campos%2C+Mallorca%2C+Spain)
 
 ### Sources (1)
 
-- **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
-  - #4 on his best-hotels list. The legendary Hotel Formentor reborn — pine forest, beach and mountains; one of the island's most anticipated openings.
+- **Manus** · 2026-07-22 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The wellness option: adults-only five-star built around the Balearics' only natural thermal spring, with a complimentary exclusive shuttle to Es Trenc. Not directly on the water, but the beach it serves is extraordinary.
 
 ---
 
@@ -1109,6 +1132,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="pleta-de-mar" name="pleta-de-mar"></a>
+
+## 🏨 Pleta de Mar
+
+**Region:** Mallorca · **Neighborhood:** Canyamel, Capdepera · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/Pleta+de+Mar%2C+Canyamel%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-22 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Runner-up beachfront alternative to Santanyí: five-star, adults-only, designed to blend into the landscape; exclusive private-path access to the Sa Cova dels Albardans cove; two infinity pools with Balinese beds. For a quieter, design-forward boutique environment over a larger resort.
+
+---
+
 <a id="port-de-pollenca" name="port-de-pollenca"></a>
 
 ## 🏘️ Port de Pollença
@@ -1211,10 +1249,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Santany%C3%AD%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - Leg 2 base (3 nights): 'Pristine water, soft sand, and local culture.' A short east-coast stint dedicated to the ultimate lazy beach days and soaking up the lively village atmosphere.
+- **Manus** · 2026-07-22 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Charming, but inland — reconsidered as the leg-2 base because seamless beach access requires a property directly on or steps from the water.
 
 ---
 
