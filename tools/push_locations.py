@@ -10,6 +10,7 @@ Usage:
     python tools/push_locations.py --apply
 """
 
+import json
 import sys
 from pathlib import Path
 
@@ -24,6 +25,7 @@ SPREADSHEET_ID = "1L7ZT-ahqt6GCgEozHlVzfL4Ld_pmhqg-c_8bh3iRaeQ"
 TAB = "Locations"
 REPO_BLOB = "https://github.com/mdinunzio/Spain2026/blob/main/REFERENCES.md"
 
+# Machine-owned columns (A:N) — rewritten from the batches on every push.
 COLUMNS = [
     "Name",
     "Region",
@@ -40,6 +42,74 @@ COLUMNS = [
     "Rating",
     "Tags",
 ]
+
+# Human-owned columns (O:P) — set by hand in the sheet, never derived from a
+# batch. Updates write only A:N so these are preserved positionally; the
+# annotations file below is the durable, name-keyed backup + audit trail.
+HUMAN_COLUMNS = ["Selected", "Notes"]
+SELECTED_COL = len(COLUMNS)  # index 14 -> column O
+NOTES_COL = len(COLUMNS) + 1  # index 15 -> column P
+ANNOTATIONS_PATH = Path(__file__).parent.parent / "parsed" / "annotations.json"
+
+
+def read_sheet_annotations(values: list[list]) -> dict[str, dict]:
+    """Extract human-owned Selected/Notes by venue name from the tab."""
+    annotations: dict[str, dict] = {}
+    for row in values[1:]:
+        if not row or not row[0].strip():
+            continue
+        name = row[0].strip()
+        selected = (
+            len(row) > SELECTED_COL
+            and str(row[SELECTED_COL]).strip().upper() == "TRUE"
+        )
+        notes = row[NOTES_COL].strip() if len(row) > NOTES_COL else ""
+        if selected or notes:
+            annotations[name] = {"selected": selected, "notes": notes}
+    return annotations
+
+
+def load_annotations_file() -> dict[str, dict]:
+    """Load the durable annotations backup, or {} if absent."""
+    if ANNOTATIONS_PATH.exists():
+        return json.loads(ANNOTATIONS_PATH.read_text(encoding="utf-8"))
+    return {}
+
+
+def save_annotations_file(annotations: dict) -> None:
+    """Write the annotations backup (sorted, so diffs stay readable)."""
+    ANNOTATIONS_PATH.parent.mkdir(parents=True, exist_ok=True)
+    ANNOTATIONS_PATH.write_text(
+        json.dumps(annotations, ensure_ascii=False, indent=2, sort_keys=True),
+        encoding="utf-8",
+    )
+
+
+def annotation_cells(name: str, annotations: dict) -> list:
+    """Return the [Selected, Notes] cells for a venue (defaults: FALSE, "")."""
+    entry = annotations.get(name, {})
+    return ["TRUE" if entry.get("selected") else "FALSE", entry.get("notes", "")]
+
+
+def reconcile_annotations(
+    file_annotations: dict,
+    sheet_annotations: dict,
+    sheet_names: set[str],
+) -> dict:
+    """Merge the durable file with the live sheet.
+
+    For any venue currently in the sheet the sheet is authoritative — so an
+    unchecked box or cleared note *removes* the venue from the result even if
+    the file still had it. Venues absent from the sheet keep their file value,
+    so a temporary removal / rename / wipe can still be restored on re-add.
+    """
+    result = dict(file_annotations)
+    for name in sheet_names:
+        if name in sheet_annotations:
+            result[name] = sheet_annotations[name]
+        else:
+            result.pop(name, None)
+    return result
 
 
 def get_map_formula(row_number: int) -> str:
@@ -114,6 +184,14 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
 
     existing_values = fetch_values(SPREADSHEET_ID, TAB)
     existing = fetch_existing_names(existing_values)
+    # Merge human annotations: the sheet is the live editing surface so its
+    # values win; the file supplies venues absent from the tab (re-adds, or a
+    # restore after a wipe) and is the durable, version-controlled backup.
+    annotations = reconcile_annotations(
+        load_annotations_file(),
+        read_sheet_annotations(existing_values),
+        set(existing),
+    )
     click.echo(f"Batches: {', '.join(batches)}")
     click.echo(f"Venues to push: {len(ordered)}")
     click.echo(f"Rows already in tab: {len(existing)}")
@@ -122,6 +200,7 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
     updates = [r for r in ordered if r["name"].strip() in existing]
     click.echo(f"  new rows to append: {len(appends)}")
     click.echo(f"  existing rows to update in place: {len(updates)}")
+    click.echo(f"  annotated venues (selected/notes): {len(annotations)}")
 
     if dry_run:
         click.echo("\n--- header ---")
@@ -137,6 +216,9 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
             click.echo("")
         click.echo("Dry run only — nothing written.")
         return
+
+    # Mirror the merged human annotations to the durable backup before writing.
+    save_annotations_file(annotations)
 
     if existing:
         # In-place update: rewrite each matched row at its current position
@@ -154,31 +236,46 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
         for run in runs:
             start, end = run[0][0], run[-1][0]
             payload = [build_row(row, row_number) for row_number, row in run]
-            total_cells += write_values(SPREADSHEET_ID, f"{TAB}!A{start}:N{end}", payload)
+            total_cells += write_values(
+                SPREADSHEET_ID, f"{TAB}!A{start}:N{end}", payload
+            )
         click.echo(
             f"Updated {len(updates)} rows in place ({len(runs)} contiguous writes)"
         )
 
         if appends:
             first_new = len(existing_values) + 1
+            # Appends write A:P so a re-added venue's Selected/Notes are
+            # restored from the annotations backup; brand-new venues default
+            # to an unchecked box and empty notes.
             payload = [
-                build_row(row, first_new + i) for i, row in enumerate(appends)
+                build_row(row, first_new + i)
+                + annotation_cells(row["name"], annotations)
+                for i, row in enumerate(appends)
             ]
             end_row = first_new + len(payload) - 1
             total_cells += write_values(
-                SPREADSHEET_ID, f"{TAB}!A{first_new}:N{end_row}", payload
+                SPREADSHEET_ID, f"{TAB}!A{first_new}:P{end_row}", payload
             )
             click.echo(
-                f"Appended {len(appends)} new rows at {TAB}!A{first_new}:N{end_row}"
+                f"Appended {len(appends)} new rows at {TAB}!A{first_new}:P{end_row}"
             )
         click.echo(f"Wrote {total_cells} cells total.")
         return
 
-    payload = [COLUMNS]
-    payload.extend(build_row(row, i + 2) for i, row in enumerate(ordered))
+    # Empty tab: full write including the human columns, restoring any
+    # annotations from the backup file so a regenerated tab keeps selections.
+    header = COLUMNS + HUMAN_COLUMNS
+    payload = [header]
+    payload.extend(
+        build_row(row, i + 2) + annotation_cells(row["name"], annotations)
+        for i, row in enumerate(ordered)
+    )
     end_row = len(payload)
-    cells = write_values(SPREADSHEET_ID, f"{TAB}!A1:N{end_row}", payload)
-    click.echo(f"Wrote {cells} cells ({len(payload) - 1} venues) to {TAB}!A1:N{end_row}")
+    cells = write_values(SPREADSHEET_ID, f"{TAB}!A1:P{end_row}", payload)
+    click.echo(
+        f"Wrote {cells} cells ({len(payload) - 1} venues) to {TAB}!A1:P{end_row}"
+    )
 
 
 if __name__ == "__main__":
