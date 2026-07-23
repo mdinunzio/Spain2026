@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-23_manual-finds*
 
-*96 venues · 143 sources*
+*97 venues · 144 sources*
 
 ---
 
@@ -193,6 +193,21 @@ Each section is linked from that tab's `References` column.
   - Devoted the whole reel to it as a date night: "an absolute must… the dreamiest and most romantic date night dinner." Showed clifftop tables over the sea at sunset, a lantern-lit path and stone archways; steak with green sauce, fruit pastry dessert. Put pricing at roughly €70+ pp minimum and gave the address as Ctra. d'Enderrocat s/n, 07609 Cala Blava.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
   - Included it in her Mallorca itinerary as a seaside lunch she loved. Rated 4/5.
+
+---
+
+<a id="barraco" name="barraco"></a>
+
+## 🍸 BARRACÓ
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Cocktail Bar · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/BARRAC%C3%93%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Google Maps (found by Michael)** · 2026-07-23 · [link](https://maps.google.com/?cid=16847903303577296597)
+  - Found while browsing Google Maps — a cool-looking open-air cocktail bar in Deià with thatched shade, bamboo and woven-rope stools.
 
 ---
 

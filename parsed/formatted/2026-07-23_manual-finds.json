@@ -1,0 +1,36 @@
+{
+  "batch": "2026-07-23_manual-finds",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 1,
+  "locations": [
+    {
+      "name": "BARRACÓ",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "cost_range": "$$$",
+      "rating": 4,
+      "description": "A cool-looking open-air cocktail bar tucked into Deià — thatched shade sails, bamboo screening and woven-rope stools around a warm-lit bar, with a relaxed sunset-terrace vibe. Steps from the La Residencia / Hotel Es Molí base, it is an easy pre- or post-dinner cocktail stop on a Deià evening. Found on Google Maps; unvetted by reviews yet, but exactly the scenic, romantic cocktail spot the trip is built around.",
+      "address": "Carrer Viña Vieja, 6, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7469123,
+      "longitude": 2.6498118,
+      "google_map": "https://www.google.com/maps/search/BARRAC%C3%93%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#barraco",
+      "references": [
+        {
+          "source": "Google Maps (found by Michael)",
+          "url": "https://maps.google.com/?cid=16847903303577296597",
+          "date": "2026-07-23",
+          "note": "Found while browsing Google Maps — a cool-looking open-air cocktail bar in Deià with thatched shade, bamboo and woven-rope stools."
+        }
+      ],
+      "tags": "cocktails, deia, outdoor, romantic, scenic, sunset, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    }
+  ]
+}
