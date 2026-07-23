@@ -44,8 +44,9 @@ COLUMNS = [
 ]
 
 # Human-owned columns (O:P) — set by hand in the sheet, never derived from a
-# batch. Updates write only A:N so these are preserved positionally; the
-# annotations file below is the durable, name-keyed backup + audit trail.
+# batch. The sheet is the single source of truth for these: updates write only
+# A:N so they are never touched. annotations.json below is a WRITE-ONLY export
+# (a git audit trail dumped from the sheet each run, never read back).
 HUMAN_COLUMNS = ["Selected", "Notes"]
 SELECTED_COL = len(COLUMNS)  # index 14 -> column O
 NOTES_COL = len(COLUMNS) + 1  # index 15 -> column P
@@ -125,47 +126,17 @@ def read_sheet_annotations(values: list[list]) -> dict[str, dict]:
     return annotations
 
 
-def load_annotations_file() -> dict[str, dict]:
-    """Load the durable annotations backup, or {} if absent."""
-    if ANNOTATIONS_PATH.exists():
-        return json.loads(ANNOTATIONS_PATH.read_text(encoding="utf-8"))
-    return {}
-
-
 def save_annotations_file(annotations: dict) -> None:
-    """Write the annotations backup (sorted, so diffs stay readable)."""
+    """Dump the sheet's Selected/Notes to the git audit export (write-only).
+
+    This is not a source of truth and is never read back — it exists so the
+    history of selections is visible in git, like REFERENCES.md.
+    """
     ANNOTATIONS_PATH.parent.mkdir(parents=True, exist_ok=True)
     ANNOTATIONS_PATH.write_text(
         json.dumps(annotations, ensure_ascii=False, indent=2, sort_keys=True),
         encoding="utf-8",
     )
-
-
-def annotation_cells(name: str, annotations: dict) -> list:
-    """Return the [Selected, Notes] cells for a venue (defaults: FALSE, "")."""
-    entry = annotations.get(name, {})
-    return ["TRUE" if entry.get("selected") else "FALSE", entry.get("notes", "")]
-
-
-def reconcile_annotations(
-    file_annotations: dict,
-    sheet_annotations: dict,
-    sheet_names: set[str],
-) -> dict:
-    """Merge the durable file with the live sheet.
-
-    For any venue currently in the sheet the sheet is authoritative — so an
-    unchecked box or cleared note *removes* the venue from the result even if
-    the file still had it. Venues absent from the sheet keep their file value,
-    so a temporary removal / rename / wipe can still be restored on re-add.
-    """
-    result = dict(file_annotations)
-    for name in sheet_names:
-        if name in sheet_annotations:
-            result[name] = sheet_annotations[name]
-        else:
-            result.pop(name, None)
-    return result
 
 
 def get_map_formula(row_number: int) -> str:
@@ -240,14 +211,9 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
 
     existing_values = fetch_values(SPREADSHEET_ID, TAB)
     existing = fetch_existing_names(existing_values)
-    # Merge human annotations: the sheet is the live editing surface so its
-    # values win; the file supplies venues absent from the tab (re-adds, or a
-    # restore after a wipe) and is the durable, version-controlled backup.
-    annotations = reconcile_annotations(
-        load_annotations_file(),
-        read_sheet_annotations(existing_values),
-        set(existing),
-    )
+    # The sheet is the single source of truth for Selected/Notes; we only read
+    # them (to dump the audit export) and never write them back.
+    annotations = read_sheet_annotations(existing_values)
     click.echo(f"Batches: {', '.join(batches)}")
     click.echo(f"Venues to push: {len(ordered)}")
     click.echo(f"Rows already in tab: {len(existing)}")
@@ -256,7 +222,7 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
     updates = [r for r in ordered if r["name"].strip() in existing]
     click.echo(f"  new rows to append: {len(appends)}")
     click.echo(f"  existing rows to update in place: {len(updates)}")
-    click.echo(f"  annotated venues (selected/notes): {len(annotations)}")
+    click.echo(f"  selected/annotated in sheet: {len(annotations)}")
 
     if dry_run:
         click.echo("\n--- header ---")
@@ -273,7 +239,7 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
         click.echo("Dry run only — nothing written.")
         return
 
-    # Mirror the merged human annotations to the durable backup before writing.
+    # Dump the sheet's selections to the git audit export (write-only).
     save_annotations_file(annotations)
 
     if existing:
@@ -301,20 +267,17 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
 
         if appends:
             first_new = len(existing_values) + 1
-            # Appends write A:P so a re-added venue's Selected/Notes are
-            # restored from the annotations backup; brand-new venues default
-            # to an unchecked box and empty notes.
+            # Appends write only machine columns A:N; a brand-new venue starts
+            # unselected with no notes, and those human cells are left blank.
             payload = [
-                build_row(row, first_new + i)
-                + annotation_cells(row["name"], annotations)
-                for i, row in enumerate(appends)
+                build_row(row, first_new + i) for i, row in enumerate(appends)
             ]
             end_row = first_new + len(payload) - 1
             total_cells += write_values(
-                SPREADSHEET_ID, f"{TAB}!A{first_new}:P{end_row}", payload
+                SPREADSHEET_ID, f"{TAB}!A{first_new}:N{end_row}", payload
             )
             click.echo(
-                f"Appended {len(appends)} new rows at {TAB}!A{first_new}:P{end_row}"
+                f"Appended {len(appends)} new rows at {TAB}!A{first_new}:N{end_row}"
             )
         last_row = len(existing) + len(appends) + 1
         tidy_checkbox_column(last_row)
@@ -322,19 +285,17 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
         click.echo(f"Wrote {total_cells} cells total.")
         return
 
-    # Empty tab: full write including the human columns, restoring any
-    # annotations from the backup file so a regenerated tab keeps selections.
-    header = COLUMNS + HUMAN_COLUMNS
-    payload = [header]
-    payload.extend(
-        build_row(row, i + 2) + annotation_cells(row["name"], annotations)
-        for i, row in enumerate(ordered)
-    )
+    # Empty tab: write the machine table (A:N) plus the Selected/Notes headers
+    # so the human columns exist. Their data stays blank — the sheet is the
+    # source of truth, and a regenerated tab has no selections to carry over.
+    write_values(SPREADSHEET_ID, f"{TAB}!O1:P1", [HUMAN_COLUMNS])
+    payload = [COLUMNS]
+    payload.extend(build_row(row, i + 2) for i, row in enumerate(ordered))
     end_row = len(payload)
-    cells = write_values(SPREADSHEET_ID, f"{TAB}!A1:P{end_row}", payload)
+    cells = write_values(SPREADSHEET_ID, f"{TAB}!A1:N{end_row}", payload)
     tidy_checkbox_column(end_row)
     click.echo(
-        f"Wrote {cells} cells ({len(payload) - 1} venues) to {TAB}!A1:P{end_row}"
+        f"Wrote {cells} cells ({len(payload) - 1} venues) to {TAB}!A1:N{end_row}"
     )
 
 

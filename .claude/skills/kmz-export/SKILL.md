@@ -23,8 +23,9 @@ replaces mapitquick.com, which chokes on the Locations CSV export.
 3. Writes a rich My Maps info-popup description (rating, type, neighborhood,
    cost, address, clickable Google Maps + References links, tags). Venues with
    the **Selected** box checked show a ✅ marker, and any **Notes** are shown
-   as "📝 Our notes" at the top of the popup. Both come from the sheet, or from
-   `parsed/annotations.json` when building with `--source json`.
+   as "📝 Our notes" at the top of the popup. Both live only in the sheet (the
+   single source of truth), so they appear with `--source sheet`; an offline
+   `--source json` build has no selections or notes.
 4. Packages `doc.kml` + `icons/` into a `.kmz` (the layout My Maps expects).
 
 ## Usage

@@ -123,19 +123,12 @@ def load_from_sheet(profile: str | None = None) -> list[Venue]:
     return venues
 
 
-def load_annotations() -> dict[str, dict]:
-    """Load the human Selected/Notes backup, keyed by venue name."""
-    path = Path(__file__).resolve().parents[2] / "parsed" / "annotations.json"
-    if path.exists():
-        return json.loads(path.read_text(encoding="utf-8"))
-    return {}
-
-
 def load_from_json(formatted_dir: Path) -> list[Venue]:
     """Load venues from every formatted batch JSON file.
 
-    Selected/Notes are not stored in the batches (they are human-owned), so
-    they are read from ``parsed/annotations.json`` and joined by venue name.
+    Selected/Notes are human-owned and live only in the sheet (the single
+    source of truth), so an offline ``--source json`` build has neither: every
+    venue is unselected with no notes. Use ``--source sheet`` for those.
 
     Args:
         formatted_dir: Directory of ``*.json`` batch files.
@@ -150,14 +143,12 @@ def load_from_json(formatted_dir: Path) -> list[Venue]:
     if not batch_files:
         raise VenueDataError(f"No formatted batches in {formatted_dir}.")
 
-    annotations = load_annotations()
     venues: list[Venue] = []
     for path in batch_files:
         payload = json.loads(path.read_text(encoding="utf-8"))
         for row in payload["locations"]:
             if row.get("latitude") is None or row.get("longitude") is None:
                 continue
-            annotation = annotations.get(row["name"], {})
             venues.append(
                 Venue(
                     name=row["name"],
@@ -175,8 +166,6 @@ def load_from_json(formatted_dir: Path) -> list[Venue]:
                     rating=parse_rating(row.get("rating", "")),
                     tags=row.get("tags", ""),
                     geo_note=row.get("geo_note"),
-                    selected=bool(annotation.get("selected", False)),
-                    notes=annotation.get("notes", ""),
                 )
             )
     if not venues:

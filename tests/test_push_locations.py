@@ -1,8 +1,7 @@
-"""Tests for the human-annotation logic in push_locations.
+"""Tests for the annotation-export logic in push_locations.
 
-Covers the pure functions that decide how the Selected/Notes columns are read
-from the sheet, reconciled with the durable backup file, and written back.
-No network or Google Sheets access.
+The sheet is the single source of truth for Selected/Notes; push only reads
+them (to dump the git audit export). Covers that read. No network access.
 """
 
 import sys
@@ -11,11 +10,7 @@ from pathlib import Path
 import pytest
 
 sys.path.insert(0, str(Path(__file__).parent.parent / "tools"))
-from push_locations import (  # noqa: E402
-    annotation_cells,
-    read_sheet_annotations,
-    reconcile_annotations,
-)
+from push_locations import read_sheet_annotations  # noqa: E402
 
 HEADER = ["Name", "Region", "Rating", "Tags"] + [""] * 12  # A..P placeholder
 
@@ -50,46 +45,6 @@ class TestReadSheetAnnotations:
         # A row that never had O/P cells written is shorter than 16.
         values = [HEADER, ["Lonely Venue"]]
         assert read_sheet_annotations(values) == {}
-
-
-class TestReconcile:
-    def test_new_selection_added(self):
-        result = reconcile_annotations(
-            {}, {"A": {"selected": True, "notes": ""}}, {"A"}
-        )
-        assert result == {"A": {"selected": True, "notes": ""}}
-
-    def test_uncheck_in_sheet_clears_file_value(self):
-        # File said A was selected; the sheet no longer reports it AND A is
-        # present in the tab -> the uncheck wins, A is dropped.
-        result = reconcile_annotations(
-            {"A": {"selected": True, "notes": "old"}}, {}, {"A"}
-        )
-        assert "A" not in result
-
-    def test_venue_absent_from_sheet_keeps_file_value(self):
-        # A is not in the tab (removed/renamed) -> keep it for later restore.
-        result = reconcile_annotations(
-            {"A": {"selected": True, "notes": "keep"}}, {}, {"B"}
-        )
-        assert result["A"] == {"selected": True, "notes": "keep"}
-
-    def test_sheet_overrides_file(self):
-        result = reconcile_annotations(
-            {"A": {"selected": True, "notes": "old"}},
-            {"A": {"selected": True, "notes": "new"}},
-            {"A"},
-        )
-        assert result["A"]["notes"] == "new"
-
-
-class TestAnnotationCells:
-    def test_selected_true(self):
-        ann = {"A": {"selected": True, "notes": "hi"}}
-        assert annotation_cells("A", ann) == ["TRUE", "hi"]
-
-    def test_default_unselected(self):
-        assert annotation_cells("Missing", {}) == ["FALSE", ""]
 
 
 if __name__ == "__main__":
