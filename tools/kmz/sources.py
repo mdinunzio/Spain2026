@@ -1,21 +1,15 @@
-"""Load normalized venues from the Locations tab or a formatted batch.
+"""Load normalized venues from the live Locations tab.
 
-Two inputs are supported:
-
-* ``sheet`` — the live Locations tab of the Spain 2026 spreadsheet. This is
-  the source of truth the user edits, so it reflects manual tweaks. The tab
-  stores Google Map / References as HYPERLINK formulas whose read-back value
-  is just the display label, so those URLs are reconstructed deterministically
-  from the venue name and region.
-* ``json`` — the formatted batch files under ``parsed/formatted``, which carry
-  the real URLs and an approximate-location note.
+The Locations tab of the Spain 2026 spreadsheet is the single source of truth,
+so it is the only build input — it reflects the merged machine data plus the
+human Selected/Notes columns. The tab stores Google Map / References as
+HYPERLINK formulas whose read-back value is just the display label, so those
+URLs are reconstructed deterministically from the venue name and region.
 """
 
-import json
 import re
 import unicodedata
 import urllib.parse
-from pathlib import Path
 
 from mgdio.sheets import fetch_values
 
@@ -120,54 +114,4 @@ def load_from_sheet(profile: str | None = None) -> list[Venue]:
         )
     if not venues:
         raise VenueDataError("Locations tab has no rows with coordinates.")
-    return venues
-
-
-def load_from_json(formatted_dir: Path) -> list[Venue]:
-    """Load venues from every formatted batch JSON file.
-
-    Selected/Notes are human-owned and live only in the sheet (the single
-    source of truth), so an offline ``--source json`` build has neither: every
-    venue is unselected with no notes. Use ``--source sheet`` for those.
-
-    Args:
-        formatted_dir: Directory of ``*.json`` batch files.
-
-    Returns:
-        Venues parsed from all batches, skipping rows without coordinates.
-
-    Raises:
-        VenueDataError: If no batch files or no usable rows are found.
-    """
-    batch_files = sorted(formatted_dir.glob("*.json"))
-    if not batch_files:
-        raise VenueDataError(f"No formatted batches in {formatted_dir}.")
-
-    venues: list[Venue] = []
-    for path in batch_files:
-        payload = json.loads(path.read_text(encoding="utf-8"))
-        for row in payload["locations"]:
-            if row.get("latitude") is None or row.get("longitude") is None:
-                continue
-            venues.append(
-                Venue(
-                    name=row["name"],
-                    region=row.get("region", ""),
-                    neighborhood=row.get("neighborhood", ""),
-                    venue_type=row.get("type", ""),
-                    emoji=row.get("emoji", ""),
-                    description=row.get("description", ""),
-                    cost_range=row.get("cost_range", ""),
-                    address=row.get("address") or "",
-                    latitude=float(row["latitude"]),
-                    longitude=float(row["longitude"]),
-                    google_map_url=row.get("google_map", ""),
-                    references_url=f"{REPO_BLOB}#{slugify(row['name'])}",
-                    rating=parse_rating(row.get("rating", "")),
-                    tags=row.get("tags", ""),
-                    geo_note=row.get("geo_note"),
-                )
-            )
-    if not venues:
-        raise VenueDataError("No venues with coordinates found in batches.")
     return venues

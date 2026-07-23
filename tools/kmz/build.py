@@ -1,12 +1,13 @@
-"""Build KMZ file(s) for Google My Maps from the Locations data.
+"""Build KMZ file(s) for Google My Maps from the Locations tab.
 
-Single layer by default; pass --split-by to emit one KMZ per region or per
-type, so each imports as its own toggleable My Maps layer.
+Always reads the live Locations tab (the single source of truth). Single layer
+by default; pass --split-by to emit one KMZ per region/type/selected, so each
+imports as its own toggleable My Maps layer.
 
 Usage:
-    python -m tools.kmz.build --source sheet
-    python -m tools.kmz.build --source json --split-by region
-    python -m tools.kmz.build --split-by type --out parsed/kmz
+    python -m tools.kmz.build
+    python -m tools.kmz.build --split-by region
+    python -m tools.kmz.build --split-by selected --upload
 """
 
 import re
@@ -20,7 +21,7 @@ from tools.kmz.exceptions import KmzError
 from tools.kmz.kml import build_kml
 from tools.kmz.models import Venue
 from tools.kmz.package import write_kmz
-from tools.kmz.sources import load_from_json, load_from_sheet
+from tools.kmz.sources import load_from_sheet
 from tools.kmz.upload import upload_kmz
 
 DEFAULT_OUT = Path("parsed/kmz")
@@ -70,12 +71,6 @@ def order_for_output(venues: list[Venue]) -> list[Venue]:
 
 @click.command()
 @click.option(
-    "--source",
-    type=click.Choice(["sheet", "json"]),
-    default="sheet",
-    help="Read the live Locations tab (sheet) or formatted batches (json).",
-)
-@click.option(
     "--split-by",
     type=click.Choice(["none", "region", "type", "selected"]),
     default="none",
@@ -88,12 +83,6 @@ def order_for_output(venues: list[Venue]) -> list[Venue]:
     help="Output directory for the .kmz file(s).",
 )
 @click.option(
-    "--formatted-dir",
-    type=click.Path(exists=True, path_type=Path),
-    default=Path("parsed/formatted"),
-    help="Batch directory when --source json.",
-)
-@click.option(
     "--cache-dir",
     type=click.Path(path_type=Path),
     default=DEFAULT_CACHE,
@@ -104,29 +93,24 @@ def order_for_output(venues: list[Venue]) -> list[Venue]:
     is_flag=True,
     help="Upload the built KMZ(s) to the Spain 2026 Drive kmz folder.",
 )
-@click.option("--profile", default=None, help="mgdio Google profile (sheet source).")
+@click.option("--profile", default=None, help="mgdio Google profile.")
 def main(
-    source: str,
     split_by: str,
     out: Path,
-    formatted_dir: Path,
     cache_dir: Path,
     upload: bool,
     profile: str | None,
 ) -> None:
-    """Generate KMZ file(s) for Google My Maps."""
+    """Generate KMZ file(s) for Google My Maps from the Locations tab."""
     for stream in (sys.stdout, sys.stderr):
         stream.reconfigure(encoding="utf-8", errors="replace")
 
     try:
-        if source == "sheet":
-            venues = load_from_sheet(profile)
-        else:
-            venues = load_from_json(formatted_dir)
+        venues = load_from_sheet(profile)
     except KmzError as error:
         raise click.ClickException(str(error)) from error
 
-    click.echo(f"Loaded {len(venues)} venues from {source}.")
+    click.echo(f"Loaded {len(venues)} venues from the Locations tab.")
     groups = group_venues(venues, split_by)
     click.echo(f"Split by {split_by}: {len(groups)} file(s).")
     if len(groups) > MY_MAPS_LAYER_LIMIT:

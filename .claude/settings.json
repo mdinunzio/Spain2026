@@ -37,7 +37,10 @@
       "Bash(.venv/Scripts/python.exe -m tools.kmz.build --source sheet --split-by selected --out parsed/kmz)",
       "Bash(.venv/Scripts/python.exe -m tools.kmz.build --source sheet --split-by selected --upload --out parsed/kmz)",
       "Bash(.venv/Scripts/python.exe -m tools.kmz.build --source sheet --upload --out parsed/kmz)",
-      "WebFetch(domain:www.google.com)"
+      "WebFetch(domain:www.google.com)",
+      "Bash(.venv/Scripts/python.exe -c \"import tools.kmz.build, tools.kmz.sources; print\\('imports OK'\\)\")",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --help)",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --out parsed/kmz)"
     ]
   }
 }

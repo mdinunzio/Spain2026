@@ -23,9 +23,8 @@ replaces mapitquick.com, which chokes on the Locations CSV export.
 3. Writes a rich My Maps info-popup description (rating, type, neighborhood,
    cost, address, clickable Google Maps + References links, tags). Venues with
    the **Selected** box checked show a ✅ marker, and any **Notes** are shown
-   as "📝 Our notes" at the top of the popup. Both live only in the sheet (the
-   single source of truth), so they appear with `--source sheet`; an offline
-   `--source json` build has no selections or notes.
+   as "📝 Our notes" at the top of the popup. Both live only in the sheet, the
+   single source of truth this tool always reads from.
 4. Packages `doc.kml` + `icons/` into a `.kmz` (the layout My Maps expects).
 
 ## Usage
@@ -45,18 +44,13 @@ Run from the repo root (`c:\Users\mdinu\Code\Spain2026`) with the project venv:
 # Split the committed picks (Selected column) from the candidates
 .venv/Scripts/python.exe -m tools.kmz.build --split-by selected
 
-# Build from the formatted batch JSON instead of the sheet
-.venv/Scripts/python.exe -m tools.kmz.build --source json
-
 # Build and upload the result to the Spain 2026 Drive "kmz" folder
 .venv/Scripts/python.exe -m tools.kmz.build --upload
 ```
 
-Options:
+The build always reads the live **Locations** tab — the single source of
+truth. Options:
 
-- `--source {sheet,json}` — read the live Locations tab (default) or
-  `parsed/formatted/*.json`. The sheet reflects manual edits; JSON carries the
-  original provenance URLs and approximate-location notes.
 - `--split-by {none,region,type,selected}` — `none` (default) is one file /
   one layer. `region` or `type` emit one file per group. `selected` emits a
   `spain2026_selected.kmz` (the venues with the Selected box checked) and a
@@ -68,7 +62,7 @@ Options:
   folder (`tools/kmz/upload.py`, `KMZ_FOLDER_ID`). Upserts by filename, so a
   re-run replaces the file in place and its Drive URL / My Maps import stays
   stable instead of spawning duplicates.
-- `--profile SLUG` — mgdio Google profile, when `--source sheet`.
+- `--profile SLUG` — mgdio Google profile for reading the sheet.
 
 ## Importing into My Maps
 
