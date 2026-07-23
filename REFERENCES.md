@@ -441,6 +441,27 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="el-olivo" name="el-olivo"></a>
+
+## 🫒 El Olivo
+
+**Region:** Mallorca · **Neighborhood:** Deià (La Residencia) · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/El+Olivo%2C+Mallorca%2C+Spain)
+
+### Sources (4)
+
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Recommended for the Deià leg's elevated, romantic dinners: 'breathtaking sunset views and menus built around fresh, vibrant local vegetables and Mediterranean fish, entirely free of heavy, red-meat-centric dishes.'
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — at the Belmond; book a terrace table right at sunset. 'Arguably the most romantic dining room on the island.'
+- **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-09 · 70,543 views · 1,429 likes · [DZYf_CBR6dH](https://www.instagram.com/p/DZYf_CBR6dH/)
+  - Detailed critical review. 8-course tasting menu €195, wine pairing €140, non-alcoholic €120 — over €200pp all-in. Dishes described as "fine," "meh," "sad," "weird"; the signature pork a letdown; only the almond dessert impressed. "I wanted to love this place so badly…" 2/5.
+- **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
+  - Wanted to go — Instagram-famous — but couldn't get a reservation, so left it unrated.
+
+---
+
 <a id="es-vergeret" name="es-vergeret"></a>
 
 ## 🥘 Es Vergeret
@@ -1504,27 +1525,6 @@ Each section is linked from that tab's `References` column.
   - C-tier. Overhyped, busy, hard to access and park — says it's only worth it combined with the restaurant, Ca's Patró March.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - Visited for lunch at Ca's Patró March on the water rather than for the beach itself.
-
----
-
-<a id="el-olivo" name="el-olivo"></a>
-
-## ⚠️ El Olivo
-
-**Region:** Mallorca · **Neighborhood:** Deià (La Residencia) · **Type:** Dinner Restaurant · **Rating:** 2/5 · **Cost:** $$$$$
-
-[Google Maps](https://www.google.com/maps/search/El+Olivo%2C+Mallorca%2C+Spain)
-
-### Sources (4)
-
-- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - Recommended for the Deià leg's elevated, romantic dinners: 'breathtaking sunset views and menus built around fresh, vibrant local vegetables and Mediterranean fish, entirely free of heavy, red-meat-centric dishes.'
-- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
-  - BOOK IMMEDIATELY — at the Belmond; book a terrace table right at sunset. 'Arguably the most romantic dining room on the island.'
-- **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-09 · 70,543 views · 1,429 likes · [DZYf_CBR6dH](https://www.instagram.com/p/DZYf_CBR6dH/)
-  - Detailed critical review. 8-course tasting menu €195, wine pairing €140, non-alcoholic €120 — over €200pp all-in. Dishes described as "fine," "meh," "sad," "weird"; the signature pork a letdown; only the almond dessert impressed. "I wanted to love this place so badly…" 2/5.
-- **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
-  - Wanted to go — Instagram-famous — but couldn't get a reservation, so left it unrated.
 
 ---
 

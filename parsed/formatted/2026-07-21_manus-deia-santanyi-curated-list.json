@@ -413,8 +413,8 @@
       "region": "Mallorca",
       "neighborhood": "Deià (La Residencia)",
       "type": "Dinner Restaurant",
-      "emoji": "⚠️",
-      "description": "Fine-dining restaurant at Belmond La Residencia in Deià. Now recommended by both Gemini and Manus — Manus calls the sunset terrace 'arguably the most romantic dining room on the island' and flags it book-immediately. But the conflict on file stands: the one detailed firsthand review rated it 2/5 (€200+pp tasting menu described as underwhelming; only the almond dessert impressed). If you go, it's for the terrace and sunset, not the food — weigh against Bens d'Avall or Sea Club for the romantic-splurge slot.",
+      "emoji": "🫒",
+      "description": "An iconic fine-dining destination at Belmond La Residencia in Deià, and one of the most romantic dinner settings on the island — Manus calls the sunset terrace 'arguably the most romantic dining room on Mallorca.' Dinner is an 8-course tasting menu built on fresh local vegetables, Mediterranean fish, and olive oil pressed from La Residencia's own groves, with optional wine and non-alcoholic pairings, all as the sun sets over the Tramuntana. You have a reservation — go for the setting, the sunset and the occasion. Tip: arrive early for a cocktail on the Café Miró terrace beforehand.",
       "cost_range": "$$$$$",
       "address": "Carrer son Canals, 07179 Deià, Illes Balears, Spain",
       "latitude": 39.7493656,
@@ -429,8 +429,8 @@
           "note": "BOOK IMMEDIATELY — at the Belmond; book a terrace table right at sunset. 'Arguably the most romantic dining room on the island.'"
         }
       ],
-      "rating": 2,
-      "tags": "book-asap, dinner, fine-dining, overpriced, sunset, tasting-menu, tramuntana",
+      "rating": 4,
+      "tags": "book-asap, dinner, fine-dining, sunset, tasting-menu, tramuntana",
       "source_rating_raw": "BOOK IMMEDIATELY",
       "geocode_query": null,
       "geo_note": null,
