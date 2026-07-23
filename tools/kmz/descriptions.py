@@ -31,6 +31,12 @@ def build_description_html(venue: Venue) -> str:
     """
     blocks: list[str] = []
 
+    if venue.selected:
+        blocks.append("✅ <b>Selected</b>")
+
+    if venue.notes:
+        blocks.append(f"<b>📝 Our notes:</b> {escape_text(venue.notes)}")
+
     if venue.description:
         blocks.append(escape_text(venue.description))
 

@@ -38,17 +38,25 @@ def group_venues(venues: list[Venue], split_by: str) -> dict[str, list[Venue]]:
 
     Args:
         venues: Venues to group.
-        split_by: One of "none", "region", "type".
+        split_by: One of "none", "region", "type", "selected".
 
     Returns:
         Ordered mapping of group label -> venues. A single "Spain 2026" group
-        when split_by is "none".
+        when split_by is "none". For "selected", the committed venues come
+        first as "Selected", the rest as "Candidates".
     """
     if split_by == "none":
         return {"Spain 2026": venues}
 
+    if split_by == "selected":
+        groups: dict[str, list[Venue]] = {}
+        for venue in venues:
+            label = "Selected" if venue.selected else "Candidates"
+            groups.setdefault(label, []).append(venue)
+        return {k: groups[k] for k in ("Selected", "Candidates") if k in groups}
+
     key = "region" if split_by == "region" else "venue_type"
-    groups: dict[str, list[Venue]] = {}
+    groups = {}
     for venue in venues:
         label = getattr(venue, key) or "Uncategorized"
         groups.setdefault(label, []).append(venue)
@@ -69,7 +77,7 @@ def order_for_output(venues: list[Venue]) -> list[Venue]:
 )
 @click.option(
     "--split-by",
-    type=click.Choice(["none", "region", "type"]),
+    type=click.Choice(["none", "region", "type", "selected"]),
     default="none",
     help="Emit one KMZ per group. Default: a single combined layer.",
 )

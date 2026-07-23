@@ -21,7 +21,10 @@ replaces mapitquick.com, which chokes on the Locations CSV export.
 2. Renders each venue's emoji to a PNG pin via **Twemoji** (72×72), cached in
    `.twemoji-cache/` so repeat runs are offline.
 3. Writes a rich My Maps info-popup description (rating, type, neighborhood,
-   cost, address, clickable Google Maps + References links, tags).
+   cost, address, clickable Google Maps + References links, tags). Venues with
+   the **Selected** box checked show a ✅ marker, and any **Notes** are shown
+   as "📝 Our notes" at the top of the popup. Both come from the sheet, or from
+   `parsed/annotations.json` when building with `--source json`.
 4. Packages `doc.kml` + `icons/` into a `.kmz` (the layout My Maps expects).
 
 ## Usage
@@ -38,6 +41,9 @@ Run from the repo root (`c:\Users\mdinu\Code\Spain2026`) with the project venv:
 # One KMZ per venue type
 .venv/Scripts/python.exe -m tools.kmz.build --split-by type
 
+# Split the committed picks (Selected column) from the candidates
+.venv/Scripts/python.exe -m tools.kmz.build --split-by selected
+
 # Build from the formatted batch JSON instead of the sheet
 .venv/Scripts/python.exe -m tools.kmz.build --source json
 
@@ -50,8 +56,11 @@ Options:
 - `--source {sheet,json}` — read the live Locations tab (default) or
   `parsed/formatted/*.json`. The sheet reflects manual edits; JSON carries the
   original provenance URLs and approximate-location notes.
-- `--split-by {none,region,type}` — `none` (default) is one file / one layer.
-  `region` or `type` emit one file per group.
+- `--split-by {none,region,type,selected}` — `none` (default) is one file /
+  one layer. `region` or `type` emit one file per group. `selected` emits a
+  `spain2026_selected.kmz` (the venues with the Selected box checked) and a
+  `spain2026_candidates.kmz` (everything else), so you can keep the committed
+  list as its own always-on My Maps layer.
 - `--out DIR` — output directory (default `parsed/kmz`).
 - `--cache-dir DIR` — emoji PNG cache (default `.twemoji-cache`).
 - `--upload` — after building, upload each KMZ to the Spain 2026 Drive `kmz`

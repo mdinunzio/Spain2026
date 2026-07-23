@@ -11,6 +11,7 @@ from xml.dom import minidom
 
 import pytest
 
+from tools.kmz.build import group_venues
 from tools.kmz.descriptions import build_description_html, escape_text
 from tools.kmz.emoji import get_icon_filename, get_twemoji_basename
 from tools.kmz.kml import build_kml, format_coordinate
@@ -93,6 +94,42 @@ class TestDescription:
         html = build_description_html(make_venue(geo_note="pinned at town centroid"))
         assert "Approximate location" in html
         assert "pinned at town centroid" in html
+
+    def test_selected_marker(self):
+        assert "Selected" in build_description_html(make_venue(selected=True))
+        assert "Selected" not in build_description_html(make_venue(selected=False))
+
+    def test_notes_rendered_and_escaped(self):
+        html = build_description_html(make_venue(notes='book by June & <hold>'))
+        assert "Our notes:" in html
+        assert "book by June &amp; &lt;hold&gt;" in html
+
+
+class TestGrouping:
+    def test_split_none_single_group(self):
+        groups = group_venues([make_venue()], "none")
+        assert list(groups) == ["Spain 2026"]
+
+    def test_split_selected_orders_selected_first(self):
+        venues = [
+            make_venue(name="Pick", selected=True),
+            make_venue(name="Maybe", selected=False),
+        ]
+        groups = group_venues(venues, "selected")
+        assert list(groups) == ["Selected", "Candidates"]
+        assert [v.name for v in groups["Selected"]] == ["Pick"]
+
+    def test_split_selected_omits_empty_group(self):
+        groups = group_venues([make_venue(selected=False)], "selected")
+        assert list(groups) == ["Candidates"]
+
+    def test_split_by_region(self):
+        venues = [
+            make_venue(name="A", region="Mallorca"),
+            make_venue(name="B", region="Costa Brava"),
+        ]
+        groups = group_venues(venues, "region")
+        assert set(groups) == {"Mallorca", "Costa Brava"}
 
     def test_blank_fields_omitted(self):
         html = build_description_html(

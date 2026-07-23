@@ -87,6 +87,9 @@ def load_from_sheet(profile: str | None = None) -> list[Venue]:
             return ""
         return str(row[pos]).strip()
 
+    def is_selected(row: list[str]) -> bool:
+        return cell(row, "selected").upper() == "TRUE"
+
     venues: list[Venue] = []
     for row in rows[1:]:
         if not row or not cell(row, "name"):
@@ -111,6 +114,8 @@ def load_from_sheet(profile: str | None = None) -> list[Venue]:
                 references_url=build_references_url(name),
                 rating=parse_rating(cell(row, "rating")),
                 tags=cell(row, "tags"),
+                selected=is_selected(row),
+                notes=cell(row, "notes"),
             )
         )
     if not venues:
@@ -118,8 +123,19 @@ def load_from_sheet(profile: str | None = None) -> list[Venue]:
     return venues
 
 
+def load_annotations() -> dict[str, dict]:
+    """Load the human Selected/Notes backup, keyed by venue name."""
+    path = Path(__file__).resolve().parents[2] / "parsed" / "annotations.json"
+    if path.exists():
+        return json.loads(path.read_text(encoding="utf-8"))
+    return {}
+
+
 def load_from_json(formatted_dir: Path) -> list[Venue]:
     """Load venues from every formatted batch JSON file.
+
+    Selected/Notes are not stored in the batches (they are human-owned), so
+    they are read from ``parsed/annotations.json`` and joined by venue name.
 
     Args:
         formatted_dir: Directory of ``*.json`` batch files.
@@ -134,12 +150,14 @@ def load_from_json(formatted_dir: Path) -> list[Venue]:
     if not batch_files:
         raise VenueDataError(f"No formatted batches in {formatted_dir}.")
 
+    annotations = load_annotations()
     venues: list[Venue] = []
     for path in batch_files:
         payload = json.loads(path.read_text(encoding="utf-8"))
         for row in payload["locations"]:
             if row.get("latitude") is None or row.get("longitude") is None:
                 continue
+            annotation = annotations.get(row["name"], {})
             venues.append(
                 Venue(
                     name=row["name"],
@@ -157,6 +175,8 @@ def load_from_json(formatted_dir: Path) -> list[Venue]:
                     rating=parse_rating(row.get("rating", "")),
                     tags=row.get("tags", ""),
                     geo_note=row.get("geo_note"),
+                    selected=bool(annotation.get("selected", False)),
+                    notes=annotation.get("notes", ""),
                 )
             )
     if not venues:

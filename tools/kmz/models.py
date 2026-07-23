@@ -23,6 +23,8 @@ class Venue:
         rating: 1-5 priority, or None if unrated.
         tags: Comma-separated tag string.
         geo_note: Set when the coordinate is an approximate placeholder.
+        selected: True when we've committed to going (the Selected column).
+        notes: Ad-hoc human notes (the Notes column).
     """
 
     name: str
@@ -40,3 +42,5 @@ class Venue:
     rating: int | None
     tags: str
     geo_note: str | None = None
+    selected: bool = False
+    notes: str = ""
