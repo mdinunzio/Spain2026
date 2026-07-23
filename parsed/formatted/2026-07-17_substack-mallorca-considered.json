@@ -1,0 +1,374 @@
+{
+  "batch": "2026-07-17_substack-mallorca-considered",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 7,
+  "locations": [
+    {
+      "name": "Perfect Charter",
+      "region": "Mallorca",
+      "neighborhood": "Port de Sóller",
+      "type": "Activity",
+      "emoji": "⛵",
+      "description": "The named, bookable operator behind Jessie Granader's favorite day — a full-day private charter out of Port de Sóller to coves reachable only by boat. Founded 2004, ~20 boats across Sóller, Pollença and Palma, and the #1-rated outdoor activity in Port de Sóller (747+ reviews). A boat day was independently the single strongest signal across every Mallorca source we've gathered; this is the concrete way to book it. Reserve early for the first week of September.",
+      "cost_range": "$$$",
+      "address": "Passeig Es Traves, 22, 07108 Port de Sóller, Illes Balears, Spain",
+      "latitude": 39.794595,
+      "longitude": 2.6969875,
+      "google_map": "https://www.google.com/maps/search/Perfect+Charter%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#perfect-charter",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "'One of my favorites' — chartered a boat through Perfect Charter out of Port de Sóller, taken to beaches and coves only accessible by boat; crystal-clear water, full day on the water 10–5:30."
+        }
+      ],
+      "rating": 5,
+      "tags": "anchor-activity, boat, book-ahead, private-charter, snorkeling, swimming",
+      "source_rating_raw": null,
+      "geocode_query": "Perfect Charter, Port de Sóller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Tramuntana Grill",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "The rooftop grill at La Residencia, over the Deià rooftops with mountain and sea views — fire-fuelled, KM0 cooking under chef Guillermo Méndez: grilled meats and light bites at lunch, market-fresh fish and Sóller prawns at dinner. The relaxed, high-view alternative to the hotel's fine-dining El Olivo (which one of our other sources panned), so it's the La Residencia meal to actually book.",
+      "cost_range": "$$$$",
+      "address": "Carrer son Canals, s/n, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7492666,
+      "longitude": 2.6492793,
+      "google_map": "https://www.google.com/maps/search/Tramuntana+Grill%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#tramuntana-grill",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "Her first-night dinner at La Residencia — 'a casual dinner at Tramuntana Grill at the hotel, which was incredible.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "dinner, grill, high-end, hotel-restaurant, rooftop, tramuntana, views",
+      "source_rating_raw": null,
+      "geocode_query": "Tramuntana Grill, La Residencia, Deià, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Es Vergeret",
+      "region": "Mallorca",
+      "neighborhood": "Cala Tuent",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Cliffside restaurant above the secluded Cala Tuent near Sa Calobra, deep in the Serra de Tramuntana. A big terrace with uninterrupted turquoise-cove and mountain views, known for large shareable paellas and fresh seafood from the bay. Open 10–18 daily; book ahead. Reachable by the boat day or by car down the winding Sa Calobra road — a natural pairing with a Perfect Charter charter.",
+      "cost_range": "$$$",
+      "address": "Carrer Cala Tuent, S/N, 07315 Cala Tuent, Illes Balears, Spain",
+      "latitude": 39.83944049999999,
+      "longitude": 2.7737298,
+      "google_map": "https://www.google.com/maps/search/Es+Vergeret%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#es-vergeret",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "Her boat-day lunch stop (the charter's suggestion) — 'a very local restaurant with amazing views.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "boat-accessible, lunch, paella, seafood, tramuntana, views, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Es Vergeret, Cala Tuent, Escorca, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Restaurante Sebastián",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "A Deià institution since 1994, set in a 250-year-old former stable with an elegant interior and a lemon garden. Chef Sebastian Pasch cooks seasonal Mediterranean from local markets. A long-standing, well-regarded village dinner spot that fits the quiet, characterful vibe you're after — worth a reservation on a Deià night.",
+      "cost_range": "$$$",
+      "address": "Carrer Felipe Bauzà, 2, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7467548,
+      "longitude": 2.6490747,
+      "google_map": "https://www.google.com/maps/search/Restaurante+Sebasti%C3%A1n%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#restaurante-sebastian",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "Her dinner after the boat day, walking into Deià from the port."
+        }
+      ],
+      "rating": 4,
+      "tags": "deia, dinner, garden, mediterranean, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurante Sebastián, Deià, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Can Costa",
+      "region": "Mallorca",
+      "neighborhood": "Valldemossa",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Traditional Mallorcan restaurant on the Deià road just outside Valldemossa (km 2.5), built around an ancient 'tafona' oil mill with a terrace over the mountains. House specialities are seafood and lobster paella plus meats — suckling pig, lamb, secreto. A neutral single mention from the blog, but a solid, scenic traditional option if you base near Valldemossa/Deià. Free parking; dinner 7–11pm, book ahead.",
+      "cost_range": "$$$",
+      "address": "Carretera de Deià, Illes Balears, Spain",
+      "latitude": 39.7703058,
+      "longitude": 2.6678574,
+      "google_map": "https://www.google.com/maps/search/Can+Costa%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#can-costa",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "Her dinner after the morning in Valldemossa."
+        }
+      ],
+      "rating": 3,
+      "tags": "dinner, mallorcan, mountain-views, paella, terrace, traditional",
+      "source_rating_raw": null,
+      "geocode_query": "Can Costa, Carretera Deià km 2.5, Valldemossa, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Camí dels Pintors",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "🥾",
+      "description": "The 'Painters' Path' — a panoramic coastal hike out of Deià that Jessie called spectacular and meditative, run along the cliffs and ending right at Ca's Patró March for a seafood lunch on the rocks (~2.5–3 hrs). This is the Mallorca version of the Ravello-to-Amalfi hike you loved: scenic, low-stakes, and it ends at a meal. Pair it with a Ca's Patró March reservation.",
+      "cost_range": "",
+      "address": "Cami Son Bujosa, 11, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7604718,
+      "longitude": 2.6422501,
+      "google_map": "https://www.google.com/maps/search/Cam%C3%AD+dels+Pintors%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cami-dels-pintors",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "'Truly spectacular… it truly felt meditative.' A panoramic coastal hike in Deià (~10:00–12:45) ending at Ca's Patró March."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, coastal, deia, hiking, scenic, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": "Camí dels Pintors, Deià, Mallorca, Spain",
+      "geo_note": "A coastal trail rather than a single point; pinned near the Deià trailhead.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "de moniö",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "A tiny, much-loved vegetarian café and concept shop in the heart of Deià (Carrer Felipe Bauzà 1) — celebrated matcha, fresh pastries and cold brews, indoor/outdoor seating with Tramuntana views, plus a curated shop of local ceramics, jewelry and marmalades. The aesthetic morning-coffee stop for a Deià base.",
+      "cost_range": "$",
+      "address": "Carrer Felipe Bauzà, 1, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7466449,
+      "longitude": 2.6493865,
+      "google_map": "https://www.google.com/maps/search/de+moni%C3%B6%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#de-monio",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "'We loved De Monio, a shop & restaurant, for coffee & matcha.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "cafe, coffee, deia, matcha, morning, shop, vegetarian",
+      "source_rating_raw": null,
+      "geocode_query": "de moniö, Carrer Felipe Bauzà 1, Deià, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Residencia, A Belmond Hotel",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#la-residencia-a-belmond-hotel",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "Her 4-day base — 'every inch of La Residencia was truly breathtaking,' old-historical-meets-modern with the pool at the heart of the hotel. Arrived 6am, explored Deià, then pool days; the jet-lag-curing massages included 111Skin face masks."
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ca's Patró March",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#ca-s-patro-march",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "The endpoint of her Camí dels Pintors coastal hike (finished ~12:45): 'one of the most recommended spots… the fresh seafood with high quality olive oil was delicious.'"
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Nama",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#nama",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "Her last dinner and 'the best meal of our trip' — the pad thai was 'life-changing' and her Hugo spritz 'crispy and refreshing.'"
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Valldemossa",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#valldemossa",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "A morning market visit — 'the town was adorable, however the market was small' (she notes the main market is in Santanyí, ~1.5 hrs away). Found a stall with beautiful shell necklaces."
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Deià",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#deia",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "Her base for the whole trip and 'such a highlight' — 'a popular village that looks like it's out of a postcard,' small but full of amazing restaurants and boutiques."
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Port de Sóller",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#port-de-soller",
+      "references": [
+        {
+          "source": "Substack — Consciously Considered (Jessie Granader)",
+          "url": "https://consciouslyconsidered.substack.com/p/mallorca-considered",
+          "date": "2026-04-26",
+          "note": "The departure point for her Perfect Charter boat day (out 10:00, back 5:30), with ice cream at the port on return."
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    }
+  ]
+}

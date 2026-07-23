@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives*
 
-*89 venues · 130 sources*
+*96 venues · 143 sources*
 
 ---
 
@@ -36,8 +36,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Ca%27s+Patr%C3%B3+March%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - The endpoint of her Camí dels Pintors coastal hike (finished ~12:45): 'one of the most recommended spots… the fresh seafood with high quality olive oil was delicious.'
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — rustic, open-air seafood built directly into the cliffside above Cala Deià. Famous (heavily featured in The Night Manager); reservations notoriously difficult. Do a late lunch after swimming in the cove.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
@@ -144,6 +146,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
   - Chartered them for a boat day exploring private coves — "favorite day of the trip." 5/5.
+
+---
+
+<a id="perfect-charter" name="perfect-charter"></a>
+
+## ⛵ Perfect Charter
+
+**Region:** Mallorca · **Neighborhood:** Port de Sóller · **Type:** Activity · **Rating:** 5/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Perfect+Charter%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - 'One of my favorites' — chartered a boat through Perfect Charter out of Port de Sóller, taken to beaches and coves only accessible by boat; crystal-clear water, full day on the water 10–5:30.
 
 ---
 
@@ -320,6 +337,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cami-dels-pintors" name="cami-dels-pintors"></a>
+
+## 🥾 Camí dels Pintors
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Cam%C3%AD+dels+Pintors%2C+Mallorca%2C+Spain)
+
+> ⚠️ **Approximate location** — A coastal trail rather than a single point; pinned near the Deià trailhead.
+
+### Sources (1)
+
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - 'Truly spectacular… it truly felt meditative.' A panoramic coastal hike in Deià (~10:00–12:45) ending at Ca's Patró March.
+
+---
+
 <a id="can-ferrereta" name="can-ferrereta"></a>
 
 ## 🏨 Can Ferrereta
@@ -356,6 +390,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="de-monio" name="de-monio"></a>
+
+## ☕ de moniö
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Cafe · **Rating:** 4/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/de+moni%C3%B6%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - 'We loved De Monio, a shop & restaurant, for coffee & matcha.'
+
+---
+
 <a id="deia" name="deia"></a>
 
 ## 🏘️ Deià
@@ -364,8 +413,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Dei%C3%A0%2C+Mallorca%2C+Spain)
 
-### Sources (3)
+### Sources (4)
 
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - Her base for the whole trip and 'such a highlight' — 'a popular village that looks like it's out of a postcard,' small but full of amazing restaurants and boutiques.
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - Leg 1 base (4 nights): 'Dramatic views, quiet luxury, and agricultural roots.' Best leg for historic estates and wine — Son Moragues olive estate, Bodega Ribas winery trip, romantic sunset dinners.
 - **Instagram — Iisa Hero | Solo & Adventure Travel (@heroiisa)** · 2026-03-06 · 997,233 views · 25,908 likes · [DVjZzGUjAVw](https://www.instagram.com/p/DVjZzGUjAVw/)
@@ -387,6 +438,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Sara Caroline Bridgers (@sarcar_)** · 2026-07-15 · 34,979 views · 3 likes · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
   - A local recommendation — vine-shaded patio, incredible seafood, no tourists, "hidden gem." 5/5.
+
+---
+
+<a id="es-vergeret" name="es-vergeret"></a>
+
+## 🥘 Es Vergeret
+
+**Region:** Mallorca · **Neighborhood:** Cala Tuent · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Es+Vergeret%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - Her boat-day lunch stop (the charter's suggestion) — 'a very local restaurant with amazing views.'
 
 ---
 
@@ -445,8 +511,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/La+Residencia%2C+A+Belmond+Hotel%2C+Mallorca%2C+Spain)
 
-### Sources (4)
+### Sources (5)
 
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - Her 4-day base — 'every inch of La Residencia was truly breathtaking,' old-historical-meets-modern with the pool at the heart of the hotel. Arrived 6am, explored Deià, then pool days; the jet-lag-curing massages included 111Skin face masks.
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — the gold standard of the island. Romantic, deeply authentic but ultra-luxurious, with an incredible art collection and impeccable service. Rooms for late August will disappear quickly. Manus's advice: reach out immediately once flights are locked.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
@@ -498,8 +566,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Nama%2C+Dei%C3%A0%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - Her last dinner and 'the best meal of our trip' — the pad thai was 'life-changing' and her Hugo spritz 'crispy and refreshing.'
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Right in Deià village — incredible Asian-Mediterranean fusion with a stunning outdoor terrace overlooking the valley. Great for a break from traditional Spanish food.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
@@ -557,6 +627,21 @@ Each section is linked from that tab's `References` column.
   - Her Camp de Mar pick for an authentic paella lunch. 5/5.
 - **Instagram — Jillian Jaeger (@jillianjaeger)** · 2026-07-08 · 19,980 views · 416 likes · [DajIgMZxL3D](https://www.instagram.com/p/DajIgMZxL3D/)
   - "Just magic… you're literally in the water, the food was amazing." Concedes it's touristy but says it's worth it. 5/5.
+
+---
+
+<a id="restaurante-sebastian" name="restaurante-sebastian"></a>
+
+## 🍽️ Restaurante Sebastián
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Restaurante+Sebasti%C3%A1n%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - Her dinner after the boat day, walking into Deià from the port.
 
 ---
 
@@ -673,6 +758,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="tramuntana-grill" name="tramuntana-grill"></a>
+
+## 🍽️ Tramuntana Grill
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Tramuntana+Grill%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - Her first-night dinner at La Residencia — 'a casual dinner at Tramuntana Grill at the hotel, which was incredible.'
+
+---
+
 <a id="valldemossa" name="valldemossa"></a>
 
 ## 🏘️ Valldemossa
@@ -681,8 +781,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Valldemossa%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - A morning market visit — 'the town was adorable, however the market was small' (she notes the main market is in Santanyí, ~1.5 hrs away). Found a stall with beautiful shell necklaces.
 - **Instagram — Iisa Hero | Solo & Adventure Travel (@heroiisa)** · 2026-03-06 · 997,233 views · 25,908 likes · [DVjZzGUjAVw](https://www.instagram.com/p/DVjZzGUjAVw/)
   - Recommended as a bus-reachable day trip from Sóller. 4/5.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
@@ -813,6 +915,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Palma old town boutique hotel with a garden pool she called gorgeous. 5/5.
+
+---
+
+<a id="can-costa" name="can-costa"></a>
+
+## 🍽️ Can Costa
+
+**Region:** Mallorca · **Neighborhood:** Valldemossa · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Can+Costa%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - Her dinner after the morning in Valldemossa.
 
 ---
 
@@ -1170,8 +1287,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Port+de+S%C3%B3ller%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
+- **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
+  - The departure point for her Perfect Charter boat day (out 10:00, back 5:30), with ice cream at the port on return.
 - **Instagram — Iisa Hero | Solo & Adventure Travel (@heroiisa)** · 2026-03-06 · 997,233 views · 25,908 likes · [DVjZzGUjAVw](https://www.instagram.com/p/DVjZzGUjAVw/)
   - Recommended as a bus-reachable stop from Sóller. 4/5.
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
