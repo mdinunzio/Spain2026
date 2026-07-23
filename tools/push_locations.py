@@ -51,6 +51,62 @@ SELECTED_COL = len(COLUMNS)  # index 14 -> column O
 NOTES_COL = len(COLUMNS) + 1  # index 15 -> column P
 ANNOTATIONS_PATH = Path(__file__).parent.parent / "parsed" / "annotations.json"
 
+LOCATIONS_SHEET_ID = 1726627139  # numeric id of the Locations tab
+# Applying a checkbox rule auto-fills FALSE into every cell of its range, so
+# the rule must be bounded to the data rows or it litters blank rows below the
+# table with FALSE checkboxes. This span is cleared and re-bounded each push.
+CHECKBOX_CLEAR_LIMIT = 5000
+
+
+def tidy_checkbox_column(last_row: int) -> None:
+    """Keep the Selected checkbox bounded to the data rows.
+
+    Removes the checkbox rule (and any auto-filled FALSE) from every row below
+    the data, then re-applies it to O2:O{last_row}. This prevents a sea of
+    empty checkboxes on the blank rows beneath the table.
+    """
+    from mgdio.sheets import clear_values, get_service
+
+    service = get_service()
+    col = SELECTED_COL
+    requests = [
+        {  # clear validation from the whole span below the header
+            "setDataValidation": {
+                "range": {
+                    "sheetId": LOCATIONS_SHEET_ID,
+                    "startRowIndex": 1,
+                    "endRowIndex": CHECKBOX_CLEAR_LIMIT,
+                    "startColumnIndex": col,
+                    "endColumnIndex": col + 1,
+                }
+            }
+        },
+        {  # re-apply the checkbox only across the data rows
+            "setDataValidation": {
+                "range": {
+                    "sheetId": LOCATIONS_SHEET_ID,
+                    "startRowIndex": 1,
+                    "endRowIndex": last_row,
+                    "startColumnIndex": col,
+                    "endColumnIndex": col + 1,
+                },
+                "rule": {
+                    "condition": {"type": "BOOLEAN"},
+                    "showCustomUi": True,
+                    "strict": False,
+                },
+            }
+        },
+    ]
+    service.spreadsheets().batchUpdate(
+        spreadsheetId=SPREADSHEET_ID, body={"requests": requests}
+    ).execute()
+    # Remove stray FALSE values left below the data by earlier auto-fills.
+    if last_row < CHECKBOX_CLEAR_LIMIT:
+        clear_values(
+            SPREADSHEET_ID, f"{TAB}!O{last_row + 1}:O{CHECKBOX_CLEAR_LIMIT}"
+        )
+
 
 def read_sheet_annotations(values: list[list]) -> dict[str, dict]:
     """Extract human-owned Selected/Notes by venue name from the tab."""
@@ -260,6 +316,9 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
             click.echo(
                 f"Appended {len(appends)} new rows at {TAB}!A{first_new}:P{end_row}"
             )
+        last_row = len(existing) + len(appends) + 1
+        tidy_checkbox_column(last_row)
+        click.echo(f"Bounded the Selected checkbox to O2:O{last_row}.")
         click.echo(f"Wrote {total_cells} cells total.")
         return
 
@@ -273,6 +332,7 @@ def main(formatted_dir: Path, dry_run: bool, apply: bool) -> None:
     )
     end_row = len(payload)
     cells = write_values(SPREADSHEET_ID, f"{TAB}!A1:P{end_row}", payload)
+    tidy_checkbox_column(end_row)
     click.echo(
         f"Wrote {cells} cells ({len(payload) - 1} venues) to {TAB}!A1:P{end_row}"
     )
