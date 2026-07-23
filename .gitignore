@@ -220,3 +220,6 @@ __marimo__/
 .streamlit/secrets.toml
 # Twemoji icon cache (KMZ toolkit)
 .twemoji-cache/
+
+# Selection-dependent KMZ split outputs (regenerated on demand; live in Drive)
+parsed/kmz/spain2026_*.kmz

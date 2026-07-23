@@ -1,1 +1,42 @@
-{}
+{
+  "Ca's Patró March": {
+    "notes": "Famous waterside lunch spot",
+    "selected": true
+  },
+  "Camí de Ronda": {
+    "notes": "Hike leading to Ca's Patró March",
+    "selected": true
+  },
+  "El Olivo": {
+    "notes": "Fine dining",
+    "selected": true
+  },
+  "Gran Folies Beach Club": {
+    "notes": "",
+    "selected": true
+  },
+  "Hotel Es Molí (La Muleta cove)": {
+    "notes": "Aug 30 - Sep 1",
+    "selected": true
+  },
+  "La Residencia, A Belmond Hotel": {
+    "notes": "Sep 1 - Sep 3",
+    "selected": true
+  },
+  "Nama": {
+    "notes": "Amazing Asian food, very cool terrace",
+    "selected": true
+  },
+  "Perfect Charter": {
+    "notes": "",
+    "selected": true
+  },
+  "Restaurante Sebastián": {
+    "notes": "",
+    "selected": true
+  },
+  "de moniö": {
+    "notes": "Cute cafe for coffee stop in town",
+    "selected": true
+  }
+}
