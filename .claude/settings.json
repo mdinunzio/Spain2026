@@ -40,7 +40,10 @@
       "WebFetch(domain:www.google.com)",
       "Bash(.venv/Scripts/python.exe -c \"import tools.kmz.build, tools.kmz.sources; print\\('imports OK'\\)\")",
       "Bash(.venv/Scripts/python.exe -m tools.kmz.build --help)",
-      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --out parsed/kmz)"
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --out parsed/kmz)",
+      "Bash(.venv/Scripts/python.exe \"C:/Users/mdinu/AppData/Local/Temp/claude/c--Users-mdinu-Code-Spain2026/4458dc3d-0a21-40ef-b03e-969fc5ebbd13/scratchpad/build_palma.py\")",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --upload --out parsed/kmz)",
+      "Bash(.venv/Scripts/python.exe -m tools.kmz.build --split-by selected --upload --out parsed/kmz)"
     ]
   }
 }

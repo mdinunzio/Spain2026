@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-23_manual-finds*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list*
 
-*97 venues · 144 sources*
+*145 venues · 238 sources*
 
 ---
 
@@ -196,6 +196,40 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="adrian-quetglas" name="adrian-quetglas"></a>
+
+## ⭐ Adrián Quetglas
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Adri%C3%A1n+Quetglas%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
+- **TripAdvisor: Palma de Mallorca** · 2026-07-24 · [link](https://www.tripadvisor.com/)
+  - Manus cited this source: TripAdvisor: Palma de Mallorca.
+
+---
+
+<a id="bar-abaco" name="bar-abaco"></a>
+
+## 🍸 Bar Ábaco
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Cocktail Bar · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Bar+%C3%81baco%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails.
+- **7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)** · 2026-07-24 · [link](https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/)
+  - Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid).
+
+---
+
 <a id="barraco" name="barraco"></a>
 
 ## 🍸 BARRACÓ
@@ -208,6 +242,40 @@ Each section is linked from that tab's `References` column.
 
 - **Google Maps (found by Michael)** · 2026-07-23 · [link](https://maps.google.com/?cid=16847903303577296597)
   - Found while browsing Google Maps — a cool-looking open-air cocktail bar in Deià with thatched shade, bamboo and woven-rope stools.
+
+---
+
+<a id="bistro-esencia" name="bistro-esencia"></a>
+
+## 🍽️ Bistro Esencia
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Bistro+Esencia%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Lunch & Casual Dining.
+- **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
+  - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="brassclub" name="brassclub"></a>
+
+## 🍸 Brassclub
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Cocktail Bar · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Brassclub%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails.
+- **7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)** · 2026-07-24 · [link](https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/)
+  - Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid).
 
 ---
 
@@ -388,6 +456,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="can-joan-de-s-aigo" name="can-joan-de-s-aigo"></a>
+
+## 🍫 Can Joan de s'Aigo
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Cafe · **Rating:** 4/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Can+Joan+de+s%27Aigo%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch.
+- **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
+  - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
 <a id="cooking-class-soqueta" name="cooking-class-soqueta"></a>
 
 ## 👩‍🍳 Cooking Class Soqueta
@@ -398,10 +483,14 @@ Each section is linked from that tab's `References` column.
 
 > ⚠️ **Approximate location** — Geocoder resolved Soqueta's registered address out in Platja de Palma; the experience itself starts at Mercat de l'Olivar in central Palma. Confirm the meeting point when booking.
 
-### Sources (1)
+### Sources (3)
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — your 'Mamma Agata' equivalent, in Palma. A private, highly curated experience starting with a tour of the Mercat de l'Olivar to buy ingredients, followed by cooking in a gorgeous private kitchen.
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The top-rated cooking class in the city — a guided Mercat de l'Olivar tour then a private cooking session in a family kitchen. (Listed in Manus's Ultimate Palma Master List, under Palma › Cooking Classes.)
+- **Soqueta Experiences** · 2026-07-24 · [link](https://www.soquetaexperiences.com/)
+  - Manus cited this source: Soqueta Experiences.
 
 ---
 
@@ -441,6 +530,40 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="dins-santi-taura" name="dins-santi-taura"></a>
+
+## ⭐ DINS Santi Taura
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/DINS+Santi+Taura%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
+- **Michelin Guide: DINS Santi Taura** · 2026-07-24 · [link](https://guide.michelin.com/gb/en/islas-baleares/palma/restaurant/dins-santi-taura)
+  - Manus cited this source: Michelin Guide: DINS Santi Taura.
+
+---
+
+<a id="el-camino" name="el-camino"></a>
+
+## 🍽️ El Camino
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/El+Camino%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
 <a id="el-guia" name="el-guia"></a>
 
 ## 🦐 El Guia
@@ -453,6 +576,23 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Sara Caroline Bridgers (@sarcar_)** · 2026-07-15 · 34,979 views · 3 likes · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
   - A local recommendation — vine-shaded patio, incredible seafood, no tourists, "hidden gem." 5/5.
+
+---
+
+<a id="el-llorenc-rooftop" name="el-llorenc-rooftop"></a>
+
+## 🍸 El Llorenç Rooftop
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Cocktail Bar · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/El+Lloren%C3%A7+Rooftop%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails.
+- **20 Best Rooftop Bars and Restaurants in Mallorca (Where's the Rooftop)** · 2026-07-24 · [link](https://wherestherooftop.com/the-best-rooftop-bars-and-rooftop-restaurants-in-mallorca/)
+  - Manus cited this source: 20 Best Rooftop Bars and Restaurants in Mallorca (Where's the Rooftop).
 
 ---
 
@@ -474,6 +614,23 @@ Each section is linked from that tab's `References` column.
   - Detailed critical review. 8-course tasting menu €195, wine pairing €140, non-alcoholic €120 — over €200pp all-in. Dishes described as "fine," "meh," "sad," "weird"; the signature pork a letdown; only the almond dessert impressed. "I wanted to love this place so badly…" 2/5.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
   - Wanted to go — Instagram-famous — but couldn't get a reservation, so left it unrated.
+
+---
+
+<a id="el-perrito" name="el-perrito"></a>
+
+## ☕ El Perrito
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cafe · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/El+Perrito%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
 
 ---
 
@@ -521,6 +678,23 @@ Each section is linked from that tab's `References` column.
   - Top pick among beachfront alternatives to Santanyí: kilometer-long golden-sand Blue Flag beach with a dedicated lounger/service concession, 100 acres of pines, working vineyard with tastings, self-contained luxury where you never need a car. Remote north peninsula = zero tourist-trap energy. Trade-off: larger resort, not a 12-room boutique.
 - **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
   - #4 on his best-hotels list. The legendary Hotel Formentor reborn — pine forest, beach and mountains; one of the island's most anticipated openings.
+
+---
+
+<a id="hostal-cuba-sky-bar" name="hostal-cuba-sky-bar"></a>
+
+## 🍸 Hostal Cuba Sky Bar
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cocktail Bar · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Hostal+Cuba+Sky+Bar%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops.
+- **The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)** · 2026-07-24 · [link](https://bestmallorcahotels.com/top-cocktail-bars-in-palma/)
+  - Manus cited this source: The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels).
 
 ---
 
@@ -579,6 +753,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="marc-fosh" name="marc-fosh"></a>
+
+## ⭐ Marc Fosh
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/Marc+Fosh%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
 <a id="mhares-sea-club" name="mhares-sea-club"></a>
 
 ## 🏖️ Mhares Sea Club
@@ -591,6 +782,23 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — in Llucmajor, a great stop between Deià and Santanyí. Carved into a former marine quarry with a massive pool overlooking the sea. Adults-only, highly refined; reserve a front-row 'Bali bed' well in advance.
+
+---
+
+<a id="mistral-coffee-house" name="mistral-coffee-house"></a>
+
+## ☕ Mistral Coffee House
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Cafe · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Mistral+Coffee+House%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch.
+- **Specialty Coffee in Palma: The Best Cafés (Estilo Palma)** · 2026-07-24 · [link](https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/)
+  - Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma).
 
 ---
 
@@ -610,6 +818,21 @@ Each section is linked from that tab's `References` column.
   - Right in Deià village — incredible Asian-Mediterranean fusion with a stunning outdoor terrace overlooking the valley. Great for a break from traditional Spanish food.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - "The best Thai food" — a standout meal of her Deià stay. 5/5.
+
+---
+
+<a id="palma-cathedral-la-seu" name="palma-cathedral-la-seu"></a>
+
+## ⛪ Palma Cathedral (La Seu)
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Attraction · **Rating:** 4/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Palma+Cathedral+%28La+Seu%29%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture.
 
 ---
 
@@ -711,6 +934,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="sailpalma" name="sailpalma"></a>
+
+## ⛵ SailPalma
+
+**Region:** Mallorca · **Neighborhood:** La Lonja · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/SailPalma%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under La Lonja › Boat Charters.
+- **SailPalma Experiences** · 2026-07-24 · [link](https://www.sailpalma.com/en/experiences)
+  - Manus cited this source: SailPalma Experiences.
+
+---
+
 <a id="sails-at-mallorca" name="sails-at-mallorca"></a>
 
 ## ⛵ Sails at Mallorca
@@ -736,8 +976,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Santa+Catalina+Market%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (3)
 
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The neighborhood's beating heart — quick lunches at Bar Joan Frau or dim sum at Arume right at the market counters. (Listed in Manus's Ultimate Palma Master List, under Palma › Lunch & Casual Dining.)
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Her Palma market pick for the freshest produce on the island. 5/5.
 
@@ -755,6 +999,23 @@ Each section is linked from that tab's `References` column.
 
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The Olive Grove Visit for the Deià leg: a meticulously restored, centuries-old olive grove in Valldemossa. Book a private, guided walk through the ancient terraces followed by a tasting of organic, cold-pressed oils paired with local produce.
+
+---
+
+<a id="stagier" name="stagier"></a>
+
+## 🍽️ Stagier
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Stagier%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Dinner (Upscale & Romantic).
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
 
 ---
 
@@ -860,6 +1121,72 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="aga-bar" name="aga-bar"></a>
+
+## 🍸 Aga Bar
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cocktail Bar · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Aga+Bar%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops.
+- **7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)** · 2026-07-24 · [link](https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/)
+  - Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid).
+
+---
+
+<a id="arab-baths-banys-arabs" name="arab-baths-banys-arabs"></a>
+
+## 🏛️ Arab Baths (Banys Àrabs)
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Arab+Baths+%28Banys+%C3%80rabs%29%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture.
+
+---
+
+<a id="arabay" name="arabay"></a>
+
+## ☕ Arabay
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Arabay%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch.
+- **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
+  - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="arume-sushi-bar" name="arume-sushi-bar"></a>
+
+## 🍣 Arume Sushi Bar
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Arume+Sushi+Bar%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Lunch & Casual Dining.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
 <a id="assaona" name="assaona"></a>
 
 ## 🏖️ Assaona
@@ -872,6 +1199,121 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Beach club on the Palma beachfront at Portixol. 4/5.
+
+---
+
+<a id="avenida-jaime-iii" name="avenida-jaime-iii"></a>
+
+## 🛍️ Avenida Jaime III
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Shopping · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Avenida+Jaime+III%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping.
+
+---
+
+<a id="balneario-illetas" name="balneario-illetas"></a>
+
+## 🏖️ Balneario Illetas
+
+**Region:** Mallorca · **Neighborhood:** Illetes · **Type:** Beach Club · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Balneario+Illetas%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Illetes › Beach Clubs.
+- **Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties)** · 2026-07-24 · [link](https://www.imperial-properties.com/en/ImperialPropertiesBlog/puro-beach-illetas-mallorca-beach-club-guide)
+  - Manus cited this source: Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties).
+
+---
+
+<a id="bar-espana" name="bar-espana"></a>
+
+## 🍽️ Bar España
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Bar+Espa%C3%B1a%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
+<a id="bar-joan-frau" name="bar-joan-frau"></a>
+
+## 🍽️ Bar Joan Frau
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Bar+Joan+Frau%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Lunch & Casual Dining.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
+<a id="bar-la-sang" name="bar-la-sang"></a>
+
+## 🍷 Bar La Sang
+
+**Region:** Mallorca · **Neighborhood:** Coffee Corridor · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Bar+La+Sang%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Wine Bars.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
+<a id="basilica-de-sant-francesc" name="basilica-de-sant-francesc"></a>
+
+## ⛪ Basilica de Sant Francesc
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Basilica+de+Sant+Francesc%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture.
+
+---
+
+<a id="batx" name="batx"></a>
+
+## ☕ Batx
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Batx%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch.
+- **Specialty Coffee in Palma: The Best Cafés (Estilo Palma)** · 2026-07-24 · [link](https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/)
+  - Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma).
 
 ---
 
@@ -890,6 +1332,53 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="bellver-castle" name="bellver-castle"></a>
+
+## 🏰 Bellver Castle
+
+**Region:** Mallorca · **Neighborhood:** West of Center · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Bellver+Castle%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under West of Center › Hikes & Views.
+
+---
+
+<a id="bellver-forest-walk" name="bellver-forest-walk"></a>
+
+## 🥾 Bellver Forest Walk
+
+**Region:** Mallorca · **Neighborhood:** West of Center · **Type:** Attraction · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Bellver+Forest+Walk%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under West of Center › Hikes & Views.
+
+---
+
+<a id="bodega-la-rambla" name="bodega-la-rambla"></a>
+
+## 🍷 Bodega La Rambla
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Bodega+La+Rambla%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
 <a id="bodega-ribas" name="bodega-ribas"></a>
 
 ## 🍷 Bodega Ribas
@@ -904,6 +1393,40 @@ Each section is linked from that tab's `References` column.
   - The Winery Trip for the Deià leg: drive into the central plains to the Binissalem wine region, where Bodega Ribas offers intimate tastings in a stunning 18th-century courtyard.
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Wine tasting in Binissalem on the transfer day: Bodega Ribas is the oldest winery on the island, a stunning heritage estate — book a private tasting and vineyard tour.
+
+---
+
+<a id="cafe-rialto" name="cafe-rialto"></a>
+
+## ☕ Café Rialto
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Caf%C3%A9+Rialto%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch.
+- **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
+  - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="cafe-riutort" name="cafe-riutort"></a>
+
+## ☕ Café Riutort
+
+**Region:** Mallorca · **Neighborhood:** Coffee Corridor · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Caf%C3%A9+Riutort%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Cafes.
+- **Specialty Coffee in Palma: The Best Cafés (Estilo Palma)** · 2026-07-24 · [link](https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/)
+  - Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma).
 
 ---
 
@@ -988,6 +1511,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="carrer-de-sant-feliu" name="carrer-de-sant-feliu"></a>
+
+## 🛍️ Carrer de Sant Feliu
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Shopping · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Carrer+de+Sant+Feliu%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping.
+- **The Best Shopping Streets in Palma (Veebrant)** · 2026-07-24 · [link](https://veebrant.com/shopping-streets-palma-mallorca/)
+  - Manus cited this source: The Best Shopping Streets in Palma (Veebrant).
+
+---
+
 <a id="cassai" name="cassai"></a>
 
 ## 🥘 Cassai
@@ -1033,6 +1573,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="clandestino-cocktail-club" name="clandestino-cocktail-club"></a>
+
+## 🍸 Clandestino Cocktail Club
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cocktail Bar · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Clandestino+Cocktail+Club%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops.
+- **7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)** · 2026-07-24 · [link](https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/)
+  - Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid).
+
+---
+
 <a id="cooking-class-moltak" name="cooking-class-moltak"></a>
 
 ## 👩‍🍳 Cooking Class Moltak
@@ -1050,6 +1607,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="de-tokio-a-lima-bar" name="de-tokio-a-lima-bar"></a>
+
+## 🍸 De Tokio a Lima Bar
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Cocktail Bar · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/De+Tokio+a+Lima+Bar%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails.
+- **The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)** · 2026-07-24 · [link](https://bestmallorcahotels.com/top-cocktail-bars-in-palma/)
+  - Manus cited this source: The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels).
+
+---
+
 <a id="dome" name="dome"></a>
 
 ## 🍷 DÔME
@@ -1062,6 +1636,40 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Modern restaurant in central Palma; called out excellent sangria. 4/5.
+
+---
+
+<a id="es-baluard-museum-of-modern-art" name="es-baluard-museum-of-modern-art"></a>
+
+## 🖼️ Es Baluard Museum of Modern Art
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Museum · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Es+Baluard+Museum+of+Modern+Art%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Sights & Walks.
+- **TripAdvisor: Palma de Mallorca** · 2026-07-24 · [link](https://www.tripadvisor.com/)
+  - Manus cited this source: TripAdvisor: Palma de Mallorca.
+
+---
+
+<a id="es-jonquet-windmills" name="es-jonquet-windmills"></a>
+
+## 🏘️ Es Jonquet Windmills
+
+**Region:** Mallorca · **Neighborhood:** Es Jonquet · **Type:** Attraction · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Es+Jonquet+Windmills%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Es Jonquet › Sights & Walks.
+- **TripAdvisor: Palma de Mallorca** · 2026-07-24 · [link](https://www.tripadvisor.com/)
+  - Manus cited this source: TripAdvisor: Palma de Mallorca.
 
 ---
 
@@ -1142,6 +1750,40 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="idem-bar" name="idem-bar"></a>
+
+## 🍸 Idem Bar
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cocktail Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Idem+Bar%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops.
+- **The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)** · 2026-07-24 · [link](https://bestmallorcahotels.com/top-cocktail-bars-in-palma/)
+  - Manus cited this source: The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels).
+
+---
+
+<a id="izakaya-high-japanese-cuisine" name="izakaya-high-japanese-cuisine"></a>
+
+## 🍣 Izakaya High Japanese Cuisine
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Izakaya+High+Japanese+Cuisine%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Dinner (Upscale & Romantic).
+- **TripAdvisor: Palma de Mallorca** · 2026-07-24 · [link](https://www.tripadvisor.com/)
+  - Manus cited this source: TripAdvisor: Palma de Mallorca.
+
+---
+
 <a id="jumeirah-mallorca" name="jumeirah-mallorca"></a>
 
 ## 🏨 Jumeirah Mallorca
@@ -1172,6 +1814,40 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-molienda" name="la-molienda"></a>
+
+## ☕ La Molienda
+
+**Region:** Mallorca · **Neighborhood:** Coffee Corridor · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/La+Molienda%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Cafes.
+- **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
+  - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="la-rosa-vermuteria" name="la-rosa-vermuteria"></a>
+
+## 🍷 La Rosa Vermutería
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/La+Rosa+Vermuter%C3%ADa%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
 <a id="llafranc" name="llafranc"></a>
 
 ## ⛵ Llafranc
@@ -1186,6 +1862,23 @@ Each section is linked from that tab's `References` column.
   - One of the towns Gemini recommends for hiring a small private boat with a skipper for the day.
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - Leg 3 base (7 nights): 'Effortless beach access, coastal exploration, and world-class seafood.' Basing on the water in Llafranc is the launchpad for the active, exploratory half of the trip while still offering highly curated luxury.
+
+---
+
+<a id="mama-carmen-s-coffee-kitchen" name="mama-carmen-s-coffee-kitchen"></a>
+
+## ☕ Mama Carmen's Coffee & Kitchen
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Mama+Carmen%27s+Coffee+%26+Kitchen%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch.
+- **Specialty Coffee in Palma: The Best Cafés (Estilo Palma)** · 2026-07-24 · [link](https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/)
+  - Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma).
 
 ---
 
@@ -1250,6 +1943,38 @@ Each section is linked from that tab's `References` column.
   - Allocates only half a day for the main sights. 4/5.
 - **Instagram — BellaHoppa (@bellahoppa)** · 2026-05-02 · 228,321 views · 2,177 likes · [DX2boDLtL3Q](https://www.instagram.com/p/DX2boDLtL3Q/)
   - Treats Palma/southwest as base #1 of three — chosen for an easy arrival and city beaches rather than as a destination.
+
+---
+
+<a id="paseo-del-borne" name="paseo-del-borne"></a>
+
+## 🛍️ Paseo del Borne
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Shopping · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Paseo+del+Borne%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping.
+
+---
+
+<a id="paula-s-room" name="paula-s-room"></a>
+
+## 🛍️ Paula's Room
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Shopping · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Paula%27s+Room%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping.
+- **The 50 coolest clothing stores and boutiques in Palma (Wanderlog)** · 2026-07-24 · [link](https://wanderlog.com/list/geoCategory/122688/coolest-clothing-stores-and-boutiques-in-palma-de-mallorca)
+  - Manus cited this source: The 50 coolest clothing stores and boutiques in Palma (Wanderlog).
 
 ---
 
@@ -1334,6 +2059,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="portixol" name="portixol"></a>
+
+## 🏘️ Portixol
+
+**Region:** Mallorca · **Neighborhood:** Portixol · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Portixol%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Portixol › Coastal Walk.
+- **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
+  - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
 <a id="purobeach-illetas" name="purobeach-illetas"></a>
 
 ## 🏖️ Purobeach Illetas
@@ -1342,10 +2084,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Purobeach+Illetas%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (3)
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The Tramuntana coast is rugged — no plush beach clubs. For a true luxury beach club with plush daybeds and table service on that side of the island, drive toward Palma to Purobeach Illetas.
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - A premium beach club on tiered cliffs at Illetes with panoramic views and DJ sets. (Listed in Manus's Ultimate Palma Master List, under Palma › Beach Clubs.)
+- **Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties)** · 2026-07-24 · [link](https://www.imperial-properties.com/en/ImperialPropertiesBlog/puro-beach-illetas-mallorca-beach-club-guide)
+  - Manus cited this source: Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties).
 
 ---
 
@@ -1364,6 +2110,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="rialto-living" name="rialto-living"></a>
+
+## 🛍️ Rialto Living
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Shopping · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Rialto+Living%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping.
+- **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
+  - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
 <a id="rikito" name="rikito"></a>
 
 ## 🍕 Rikito
@@ -1376,6 +2139,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Santa Catalina pizza and pasta pick. 4/5.
+
+---
+
+<a id="royal-palace-of-la-almudaina" name="royal-palace-of-la-almudaina"></a>
+
+## 🏰 Royal Palace of La Almudaina
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Royal+Palace+of+La+Almudaina%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture.
 
 ---
 
@@ -1496,6 +2274,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="santal-cafe" name="santal-cafe"></a>
+
+## ☕ SĀNTAL Café
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/S%C4%80NTAL+Caf%C3%A9%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch.
+- **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
+  - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
 <a id="tianna-negre" name="tianna-negre"></a>
 
 ## 🍷 Tianna Negre
@@ -1508,6 +2303,23 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Wine tasting in Binissalem on the transfer day: Tianna Negre is modern, architectural, with excellent bold reds — named alongside Bodega Ribas as the two wineries to book a private tasting and vineyard tour at.
+
+---
+
+<a id="toque-de-queda" name="toque-de-queda"></a>
+
+## 🍷 Toque de Queda
+
+**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Toque+de+Queda%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
 
 ---
 

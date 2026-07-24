@@ -1,0 +1,1694 @@
+{
+  "batch": "2026-07-24_manus-palma-master-list",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 48,
+  "locations": [
+    {
+      "name": "SĀNTAL Café",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Specialty-coffee café hidden under a historic windmill in Es Jonquet — a distinctive setting for a morning cup.",
+      "cost_range": "$$",
+      "address": "Carrer de la Indústria, 15, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5745678,
+      "longitude": 2.6385591,
+      "google_map": "https://www.google.com/maps/search/S%C4%80NTAL+Caf%C3%A9%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#santal-cafe",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch."
+        },
+        {
+          "source": "The best coffee shops in Palma (abcMallorca)",
+          "url": "https://www.abc-mallorca.com/best-cafes-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The best coffee shops in Palma (abcMallorca)."
+        }
+      ],
+      "rating": 3,
+      "tags": "cafe, coffee, hidden-gem, palma, specialty-coffee",
+      "source_rating_raw": null,
+      "geocode_query": "SĀNTAL Café, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mama Carmen's Coffee & Kitchen",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Popular vegetarian café known for its muesli bowls and a leafy outdoor plaza to linger over brunch.",
+      "cost_range": "$$",
+      "address": "Carrer de Cervantes, 21, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5727813,
+      "longitude": 2.6345316,
+      "google_map": "https://www.google.com/maps/search/Mama+Carmen%27s+Coffee+%26+Kitchen%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#mama-carmen-s-coffee-kitchen",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch."
+        },
+        {
+          "source": "Specialty Coffee in Palma: The Best Cafés (Estilo Palma)",
+          "url": "https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma)."
+        }
+      ],
+      "rating": 3,
+      "tags": "brunch, cafe, palma, plaza-seating, vegetarian",
+      "source_rating_raw": null,
+      "geocode_query": "Mama Carmen's Coffee & Kitchen, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Perrito",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Widely considered the best brunch spot in Santa Catalina, right across from the market.",
+      "cost_range": "$$",
+      "address": "Carrer d'Anníbal, 20, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5714173,
+      "longitude": 2.6389145,
+      "google_map": "https://www.google.com/maps/search/El+Perrito%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#el-perrito",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 4,
+      "tags": "brunch, cafe, palma, popular",
+      "source_rating_raw": null,
+      "geocode_query": "El Perrito, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Batx",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Stylish, plant-filled café for specialty coffee and signature bagels — the smoked-salmon one is the pick.",
+      "cost_range": "$$",
+      "address": "Carrer Arxiduc Lluís Salvador, 7, Nord, 07004 Palma, Illes Balears, Spain",
+      "latitude": 39.5780029,
+      "longitude": 2.6532631,
+      "google_map": "https://www.google.com/maps/search/Batx%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#batx",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch."
+        },
+        {
+          "source": "Specialty Coffee in Palma: The Best Cafés (Estilo Palma)",
+          "url": "https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma)."
+        }
+      ],
+      "rating": 3,
+      "tags": "bagels, cafe, palma, specialty-coffee",
+      "source_rating_raw": null,
+      "geocode_query": "Batx, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bar Joan Frau",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "A quick, local lunch counter inside Mercat de Santa Catalina — market-fresh and unfussy.",
+      "cost_range": "$$",
+      "address": "Plaça de la Navegació, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5709408,
+      "longitude": 2.6385227,
+      "google_map": "https://www.google.com/maps/search/Bar+Joan+Frau%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bar-joan-frau",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Lunch & Casual Dining."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 3,
+      "tags": "casual, local, lunch, market, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Bar Joan Frau, Mercat de Santa Catalina, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Arume Sushi Bar",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Lunch Restaurant",
+      "emoji": "🍣",
+      "description": "Excellent dim sum and sushi served right at the counters of Mercat de Santa Catalina.",
+      "cost_range": "$$$",
+      "address": "Plaça de la Navegació, s/n, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5710893,
+      "longitude": 2.6384496,
+      "google_map": "https://www.google.com/maps/search/Arume+Sushi+Bar%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#arume-sushi-bar",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Lunch & Casual Dining."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 3,
+      "tags": "dim-sum, lunch, market, palma, sushi",
+      "source_rating_raw": null,
+      "geocode_query": "Arume, Mercat de Santa Catalina, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bistro Esencia",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "A small, romantic bistro offering top-class dining away from the busier party crowds — a quiet date-night option.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Magí, 68, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5705899,
+      "longitude": 2.6363639,
+      "google_map": "https://www.google.com/maps/search/Bistro+Esencia%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bistro-esencia",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Lunch & Casual Dining."
+        },
+        {
+          "source": "The best coffee shops in Palma (abcMallorca)",
+          "url": "https://www.abc-mallorca.com/best-cafes-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The best coffee shops in Palma (abcMallorca)."
+        }
+      ],
+      "rating": 4,
+      "tags": "intimate, palma, romantic",
+      "source_rating_raw": null,
+      "geocode_query": "Bistro Esencia, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Stagier",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "A tiny, incredibly romantic Chilean-Peruvian fusion restaurant — one of the neighborhood's best date-night tables.",
+      "cost_range": "$$$",
+      "address": "Carrer d'Espartero, 11, Ponent, 07014 Palma, Illes Balears, Spain",
+      "latitude": 39.5708696,
+      "longitude": 2.6345123,
+      "google_map": "https://www.google.com/maps/search/Stagier%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#stagier",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Dinner (Upscale & Romantic)."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 4,
+      "tags": "date-night, fusion, intimate, palma, romantic",
+      "source_rating_raw": null,
+      "geocode_query": "Stagier Bistro, Santa Catalina, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Izakaya High Japanese Cuisine",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Dinner Restaurant",
+      "emoji": "🍣",
+      "description": "Consistently rated among the best dining experiences in Santa Catalina — a polished izakaya.",
+      "cost_range": "$$$",
+      "address": "Carrer de Monsenyor Palmer, 2, Ponent, 07014 Palma, Illes Balears, Spain",
+      "latitude": 39.5693243,
+      "longitude": 2.634518,
+      "google_map": "https://www.google.com/maps/search/Izakaya+High+Japanese+Cuisine%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#izakaya-high-japanese-cuisine",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Dinner (Upscale & Romantic)."
+        },
+        {
+          "source": "TripAdvisor: Palma de Mallorca",
+          "url": "https://www.tripadvisor.com/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: TripAdvisor: Palma de Mallorca."
+        }
+      ],
+      "rating": 3,
+      "tags": "izakaya, japanese, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Izakaya High Japanese Cuisine, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Hostal Cuba Sky Bar",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "The quintessential Palma sunset spot — a rooftop with sweeping marina and cathedral views; aim for 6–7pm drinks.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Magí, 1, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5702039,
+      "longitude": 2.6392404,
+      "google_map": "https://www.google.com/maps/search/Hostal+Cuba+Sky+Bar%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#hostal-cuba-sky-bar",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops."
+        },
+        {
+          "source": "The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)",
+          "url": "https://bestmallorcahotels.com/top-cocktail-bars-in-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)."
+        }
+      ],
+      "rating": 4,
+      "tags": "cocktails, palma, rooftop, sunset, views",
+      "source_rating_raw": null,
+      "geocode_query": "Hostal Cuba Sky Bar, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Aga Bar",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "A cozy, intimate bar specializing in high-end agave spirits — mezcal and tequila done seriously.",
+      "cost_range": "$$$",
+      "address": "C. de la Fàbrica, 14, A, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5724268,
+      "longitude": 2.638821,
+      "google_map": "https://www.google.com/maps/search/Aga+Bar%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#aga-bar",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops."
+        },
+        {
+          "source": "7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)",
+          "url": "https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)."
+        }
+      ],
+      "rating": 3,
+      "tags": "agave, cocktails, intimate, mezcal, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Aga Bar, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Clandestino Cocktail Club",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "A quirky, relaxed speakeasy tucked away on a quiet side street.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Jaume, 12, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5729379,
+      "longitude": 2.6477689,
+      "google_map": "https://www.google.com/maps/search/Clandestino+Cocktail+Club%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#clandestino-cocktail-club",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops."
+        },
+        {
+          "source": "7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)",
+          "url": "https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)."
+        }
+      ],
+      "rating": 3,
+      "tags": "cocktails, palma, speakeasy",
+      "source_rating_raw": null,
+      "geocode_query": "Clandestino Cocktail Club, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Idem Bar",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "A moody, relaxed neighborhood gem — the spot for a low-key nightcap.",
+      "cost_range": "$$",
+      "address": "Carrer de Sant Magí, 15, Ponent, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5702834,
+      "longitude": 2.6386932,
+      "google_map": "https://www.google.com/maps/search/Idem+Bar%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#idem-bar",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops."
+        },
+        {
+          "source": "The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)",
+          "url": "https://bestmallorcahotels.com/top-cocktail-bars-in-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)."
+        }
+      ],
+      "rating": 3,
+      "tags": "cocktails, moody, nightcap, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Idem Bar, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Es Jonquet Windmills",
+      "region": "Mallorca",
+      "neighborhood": "Es Jonquet",
+      "type": "Attraction",
+      "emoji": "🏘️",
+      "description": "A historic, protected former fishermen's village beside Santa Catalina — old windmills, cobblestones and street art.",
+      "cost_range": "",
+      "address": "El Jonquet, Ponent, Palma, Illes Balears, Spain",
+      "latitude": 39.5700586,
+      "longitude": 2.6366077,
+      "google_map": "https://www.google.com/maps/search/Es+Jonquet+Windmills%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#es-jonquet-windmills",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Es Jonquet › Sights & Walks."
+        },
+        {
+          "source": "TripAdvisor: Palma de Mallorca",
+          "url": "https://www.tripadvisor.com/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: TripAdvisor: Palma de Mallorca."
+        }
+      ],
+      "rating": 3,
+      "tags": "historic, palma, scenic, street-art, walk",
+      "source_rating_raw": null,
+      "geocode_query": "Es Jonquet, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Es Baluard Museum of Modern Art",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina",
+      "type": "Museum",
+      "emoji": "🖼️",
+      "description": "Contemporary-art museum on the old city walls with a terrific rooftop terrace over the bay.",
+      "cost_range": "$",
+      "address": "Plaça de la Porta de Santa Catalina, 10, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5702377,
+      "longitude": 2.6411417,
+      "google_map": "https://www.google.com/maps/search/Es+Baluard+Museum+of+Modern+Art%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#es-baluard-museum-of-modern-art",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Sights & Walks."
+        },
+        {
+          "source": "TripAdvisor: Palma de Mallorca",
+          "url": "https://www.tripadvisor.com/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: TripAdvisor: Palma de Mallorca."
+        }
+      ],
+      "rating": 3,
+      "tags": "art, museum, palma, rooftop, views",
+      "source_rating_raw": null,
+      "geocode_query": "Es Baluard Museum of Modern Art, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mistral Coffee House",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "On Plaça Weyler — arguably the most sought-after specialty-coffee roaster in Mallorca.",
+      "cost_range": "$$",
+      "address": "Plaça de Weyler, A2, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5717407,
+      "longitude": 2.6498593,
+      "google_map": "https://www.google.com/maps/search/Mistral+Coffee+House%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#mistral-coffee-house",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch."
+        },
+        {
+          "source": "Specialty Coffee in Palma: The Best Cafés (Estilo Palma)",
+          "url": "https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma)."
+        }
+      ],
+      "rating": 4,
+      "tags": "cafe, palma, roaster, specialty-coffee",
+      "source_rating_raw": null,
+      "geocode_query": "Mistral Coffee, Plaça Weyler, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Can Joan de s'Aigo",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Cafe",
+      "emoji": "🍫",
+      "description": "Established 1700 and billed as the oldest chocolatier in Europe — stop for hot chocolate, ensaïmadas and almond granizado.",
+      "cost_range": "$",
+      "address": "Carrer del Baró de Santa Maria del Sepulcre, 5, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5728493,
+      "longitude": 2.6439216,
+      "google_map": "https://www.google.com/maps/search/Can+Joan+de+s%27Aigo%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#can-joan-de-s-aigo",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch."
+        },
+        {
+          "source": "The best coffee shops in Palma (abcMallorca)",
+          "url": "https://www.abc-mallorca.com/best-cafes-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The best coffee shops in Palma (abcMallorca)."
+        }
+      ],
+      "rating": 4,
+      "tags": "chocolate, ensaimada, historic, palma, traditional",
+      "source_rating_raw": null,
+      "geocode_query": "Can Joan de s'Aigo, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Arabay",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "A big flagship café and roastery near Plaza Mayor for serious coffee enthusiasts.",
+      "cost_range": "$$",
+      "address": "Carrer de Sant Miquel, Centre, 07002 Palma, Illes Balears, Spain",
+      "latitude": 39.57374,
+      "longitude": 2.65355,
+      "google_map": "https://www.google.com/maps/search/Arabay%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#arabay",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch."
+        },
+        {
+          "source": "The best coffee shops in Palma (abcMallorca)",
+          "url": "https://www.abc-mallorca.com/best-cafes-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The best coffee shops in Palma (abcMallorca)."
+        }
+      ],
+      "rating": 3,
+      "tags": "cafe, palma, roastery, specialty-coffee",
+      "source_rating_raw": null,
+      "geocode_query": "Arabay Coffee, Carrer de Sant Miquel, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Café Rialto",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Inside the Rialto Living store — healthy brunches and fresh juices in a stunning Mediterranean courtyard.",
+      "cost_range": "$$",
+      "address": "Carrer de Sant Feliu, 3, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5700013,
+      "longitude": 2.6456767,
+      "google_map": "https://www.google.com/maps/search/Caf%C3%A9+Rialto%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cafe-rialto",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch."
+        },
+        {
+          "source": "The best coffee shops in Palma (abcMallorca)",
+          "url": "https://www.abc-mallorca.com/best-cafes-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The best coffee shops in Palma (abcMallorca)."
+        }
+      ],
+      "rating": 3,
+      "tags": "brunch, cafe, courtyard, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Cafe Rialto, Rialto Living, Carrer de Sant Feliu, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Rosa Vermutería",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Wine Bar",
+      "emoji": "🍷",
+      "description": "A wildly popular vermouth bar serving giant tortilla pintxos and excellent charcuterie.",
+      "cost_range": "$$",
+      "address": "Carrer de la Rosa, 5, Centre, 07003 Palma, Illes Balears, Spain",
+      "latitude": 39.5717564,
+      "longitude": 2.6497467,
+      "google_map": "https://www.google.com/maps/search/La+Rosa+Vermuter%C3%ADa%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#la-rosa-vermuteria",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 3,
+      "tags": "charcuterie, palma, tapas, vermouth",
+      "source_rating_raw": null,
+      "geocode_query": "La Rosa Vermutería, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Toque de Queda",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Wine Bar",
+      "emoji": "🍷",
+      "description": "Set in a converted ancient bakery — Italian-Mallorcan small plates and excellent cava.",
+      "cost_range": "$$$",
+      "address": "Carrer de Can Cavalleria, 15B, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5732364,
+      "longitude": 2.6471458,
+      "google_map": "https://www.google.com/maps/search/Toque+de+Queda%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#toque-de-queda",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 3,
+      "tags": "cava, palma, small-plates, tapas",
+      "source_rating_raw": null,
+      "geocode_query": "Toque de Queda, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bar España",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "A high-energy pintxos bar tucked down a side street near Plaza Mayor.",
+      "cost_range": "$$",
+      "address": "Carrer de Can Escursac, 12, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5709057,
+      "longitude": 2.6509374,
+      "google_map": "https://www.google.com/maps/search/Bar+Espa%C3%B1a%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bar-espana",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 3,
+      "tags": "palma, pintxos, tapas",
+      "source_rating_raw": null,
+      "geocode_query": "Bar Espana, Plaza Mayor, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bodega La Rambla",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Wine Bar",
+      "emoji": "🍷",
+      "description": "An old-school tavern going since the 1940s, famous for its traditional Mallorcan variat (mixed tapas platter).",
+      "cost_range": "$$",
+      "address": "Via Roma, 6, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5758854,
+      "longitude": 2.6473402,
+      "google_map": "https://www.google.com/maps/search/Bodega+La+Rambla%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bodega-la-rambla",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 3,
+      "tags": "historic, palma, tapas, traditional, variat",
+      "source_rating_raw": null,
+      "geocode_query": "Bodega La Rambla, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "DINS Santi Taura",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "1-Michelin-star restaurant with an 11-course tasting menu devoted purely to Mallorcan heritage cooking.",
+      "cost_range": "$$$$$",
+      "address": "Plaça de Llorenç Villalonga, 4, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5657104,
+      "longitude": 2.6530103,
+      "google_map": "https://www.google.com/maps/search/DINS+Santi+Taura%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#dins-santi-taura",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining)."
+        },
+        {
+          "source": "Michelin Guide: DINS Santi Taura",
+          "url": "https://guide.michelin.com/gb/en/islas-baleares/palma/restaurant/dins-santi-taura",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: Michelin Guide: DINS Santi Taura."
+        }
+      ],
+      "rating": 4,
+      "tags": "fine-dining, michelin-star, palma, tasting-menu",
+      "source_rating_raw": null,
+      "geocode_query": "DINS Santi Taura, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Marc Fosh",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "1-Michelin-star restaurant in a 17th-century monastery, known for elegant tasting menus.",
+      "cost_range": "$$$$$",
+      "address": "Carrer de la Missió, 7, a, Centre, 07003 Palma, Illes Balears, Spain",
+      "latitude": 39.5733484,
+      "longitude": 2.6513894,
+      "google_map": "https://www.google.com/maps/search/Marc+Fosh%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#marc-fosh",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining)."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 4,
+      "tags": "fine-dining, michelin-star, palma, tasting-menu",
+      "source_rating_raw": null,
+      "geocode_query": "Marc Fosh, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Adrián Quetglas",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "Michelin-starred spot with a highly imaginative 8-course tasting menu at (relatively) approachable prices.",
+      "cost_range": "$$$$",
+      "address": "Pg. de Mallorca, 20, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5732696,
+      "longitude": 2.6431839,
+      "google_map": "https://www.google.com/maps/search/Adri%C3%A1n+Quetglas%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#adrian-quetglas",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining)."
+        },
+        {
+          "source": "TripAdvisor: Palma de Mallorca",
+          "url": "https://www.tripadvisor.com/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: TripAdvisor: Palma de Mallorca."
+        }
+      ],
+      "rating": 4,
+      "tags": "fine-dining, michelin-star, palma, tasting-menu",
+      "source_rating_raw": null,
+      "geocode_query": "Adrián Quetglas, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Camino",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "A bustling, high-end tapas bar with a long counter and open kitchen, from the team behind London's Barrafina.",
+      "cost_range": "$$$",
+      "address": "Carrer dels Apuntadors, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.569204,
+      "longitude": 2.6447358,
+      "google_map": "https://www.google.com/maps/search/El+Camino%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#el-camino",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining)."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 4,
+      "tags": "counter, high-end, palma, tapas",
+      "source_rating_raw": null,
+      "geocode_query": "El Camino, Carrer dels Apuntadors, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Brassclub",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "An upscale cocktail bar with a 1950s New York aesthetic, run by an award-winning mixologist.",
+      "cost_range": "$$$",
+      "address": "Pg. de Mallorca, 34, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5745089,
+      "longitude": 2.6444392,
+      "google_map": "https://www.google.com/maps/search/Brassclub%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#brassclub",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails."
+        },
+        {
+          "source": "7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)",
+          "url": "https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)."
+        }
+      ],
+      "rating": 4,
+      "tags": "cocktails, mixology, palma, upscale",
+      "source_rating_raw": null,
+      "geocode_query": "Brassclub, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bar Ábaco",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "A theatrical baroque mansion filled with fruit pyramids, classical music and candles — expensive but wholly unique.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Sant Joan, 1, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5689569,
+      "longitude": 2.6451399,
+      "google_map": "https://www.google.com/maps/search/Bar+%C3%81baco%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bar-abaco",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails."
+        },
+        {
+          "source": "7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)",
+          "url": "https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)."
+        }
+      ],
+      "rating": 4,
+      "tags": "baroque, cocktails, palma, romantic, unique",
+      "source_rating_raw": null,
+      "geocode_query": "Abaco, Carrer de Sant Joan, La Lonja, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "De Tokio a Lima Bar",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "A stylish rooftop above Passeig del Born serving Japanese-Peruvian (nikkei) cocktails.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Feliu, 1, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5699081,
+      "longitude": 2.6460958,
+      "google_map": "https://www.google.com/maps/search/De+Tokio+a+Lima+Bar%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#de-tokio-a-lima-bar",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails."
+        },
+        {
+          "source": "The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)",
+          "url": "https://bestmallorcahotels.com/top-cocktail-bars-in-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)."
+        }
+      ],
+      "rating": 3,
+      "tags": "cocktails, nikkei, palma, rooftop",
+      "source_rating_raw": null,
+      "geocode_query": "De Tokio a Lima, Passeig del Born, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Llorenç Rooftop",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "Rooftop of the El Llorenç hotel — the longest infinity pool in Palma with views over the bay and cathedral.",
+      "cost_range": "$$$$",
+      "address": "Plaça de Llorenç Villalonga, 4, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5657104,
+      "longitude": 2.6530103,
+      "google_map": "https://www.google.com/maps/search/El+Lloren%C3%A7+Rooftop%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#el-llorenc-rooftop",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails."
+        },
+        {
+          "source": "20 Best Rooftop Bars and Restaurants in Mallorca (Where's the Rooftop)",
+          "url": "https://wherestherooftop.com/the-best-rooftop-bars-and-rooftop-restaurants-in-mallorca/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: 20 Best Rooftop Bars and Restaurants in Mallorca (Where's the Rooftop)."
+        }
+      ],
+      "rating": 4,
+      "tags": "infinity-pool, palma, rooftop, sunset, views",
+      "source_rating_raw": null,
+      "geocode_query": "El Llorenc Parc de la Mar, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Palma Cathedral (La Seu)",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Attraction",
+      "emoji": "⛪",
+      "description": "The iconic Gothic cathedral over the water, with striking interior modifications by Antoni Gaudí — the city's must-see landmark.",
+      "cost_range": "$",
+      "address": "Plaça de la Seu, s/n, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5674251,
+      "longitude": 2.6482994,
+      "google_map": "https://www.google.com/maps/search/Palma+Cathedral+%28La+Seu%29%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#palma-cathedral-la-seu",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture."
+        }
+      ],
+      "rating": 4,
+      "tags": "cathedral, gothic, iconic, landmark, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Catedral de Mallorca, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Royal Palace of La Almudaina",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Attraction",
+      "emoji": "🏰",
+      "description": "The historic Moorish-era royal residence right beside the cathedral.",
+      "cost_range": "$",
+      "address": "Carrer del Palau Reial, s/n, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5675866,
+      "longitude": 2.6468135,
+      "google_map": "https://www.google.com/maps/search/Royal+Palace+of+La+Almudaina%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#royal-palace-of-la-almudaina",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture."
+        }
+      ],
+      "rating": 3,
+      "tags": "historic, landmark, palace, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Palau de l'Almudaina, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Arab Baths (Banys Àrabs)",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Attraction",
+      "emoji": "🏛️",
+      "description": "10th-century Moorish baths set within a tranquil garden courtyard.",
+      "cost_range": "$",
+      "address": "Carrer de Can Serra, 7, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5666377,
+      "longitude": 2.6509989,
+      "google_map": "https://www.google.com/maps/search/Arab+Baths+%28Banys+%C3%80rabs%29%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#arab-baths-banys-arabs",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture."
+        }
+      ],
+      "rating": 3,
+      "tags": "garden, historic, moorish, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Banys Arabs, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Basilica de Sant Francesc",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Attraction",
+      "emoji": "⛪",
+      "description": "A stunning 13th-century Gothic church with a beautiful, peaceful cloister.",
+      "cost_range": "$",
+      "address": "Carrer de Sant Francesc, 7, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5689971,
+      "longitude": 2.6531151,
+      "google_map": "https://www.google.com/maps/search/Basilica+de+Sant+Francesc%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#basilica-de-sant-francesc",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture."
+        }
+      ],
+      "rating": 3,
+      "tags": "cloister, gothic, historic, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Basilica de Sant Francesc, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Paseo del Borne",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Shopping",
+      "emoji": "🛍️",
+      "description": "Palma's primary luxury shopping boulevard — Loewe, Louis Vuitton and the like along a leafy promenade.",
+      "cost_range": "$$$$",
+      "address": "Passeig des Born, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5699649,
+      "longitude": 2.6464346,
+      "google_map": "https://www.google.com/maps/search/Paseo+del+Borne%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#paseo-del-borne",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping."
+        }
+      ],
+      "rating": 3,
+      "tags": "luxury, palma, shopping",
+      "source_rating_raw": null,
+      "geocode_query": "Passeig del Born, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Avenida Jaime III",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Shopping",
+      "emoji": "🛍️",
+      "description": "A major high-end shopping street with both international brands and local designers.",
+      "cost_range": "$$$",
+      "address": "Av. de Jaume III, Palma, Illes Balears, Spain",
+      "latitude": 39.5722852,
+      "longitude": 2.6442114,
+      "google_map": "https://www.google.com/maps/search/Avenida+Jaime+III%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#avenida-jaime-iii",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping."
+        }
+      ],
+      "rating": 3,
+      "tags": "palma, shopping",
+      "source_rating_raw": null,
+      "geocode_query": "Avinguda de Jaume III, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Carrer de Sant Feliu",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Shopping",
+      "emoji": "🛍️",
+      "description": "A charming street lined with independent artists' studios and offbeat boutiques.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Feliu, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.57043,
+      "longitude": 2.6453762,
+      "google_map": "https://www.google.com/maps/search/Carrer+de+Sant+Feliu%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#carrer-de-sant-feliu",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping."
+        },
+        {
+          "source": "The Best Shopping Streets in Palma (Veebrant)",
+          "url": "https://veebrant.com/shopping-streets-palma-mallorca/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The Best Shopping Streets in Palma (Veebrant)."
+        }
+      ],
+      "rating": 3,
+      "tags": "boutiques, galleries, palma, shopping",
+      "source_rating_raw": null,
+      "geocode_query": "Carrer de Sant Feliu, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Rialto Living",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Shopping",
+      "emoji": "🛍️",
+      "description": "A massive, beautifully curated lifestyle concept store — fashion, books and interior design (with the café inside).",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Feliu, 3, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5700013,
+      "longitude": 2.6456767,
+      "google_map": "https://www.google.com/maps/search/Rialto+Living%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#rialto-living",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping."
+        },
+        {
+          "source": "The best coffee shops in Palma (abcMallorca)",
+          "url": "https://www.abc-mallorca.com/best-cafes-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The best coffee shops in Palma (abcMallorca)."
+        }
+      ],
+      "rating": 3,
+      "tags": "concept-store, lifestyle, palma, shopping",
+      "source_rating_raw": null,
+      "geocode_query": "Rialto Living, Carrer de Sant Feliu, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Paula's Room",
+      "region": "Mallorca",
+      "neighborhood": "Old Town",
+      "type": "Shopping",
+      "emoji": "🛍️",
+      "description": "A chic independent women's clothing boutique on Carrer de Sant Nicolau.",
+      "cost_range": "$$$",
+      "address": "Carrer dels Paraires, 15, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5705109,
+      "longitude": 2.6473204,
+      "google_map": "https://www.google.com/maps/search/Paula%27s+Room%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#paula-s-room",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping."
+        },
+        {
+          "source": "The 50 coolest clothing stores and boutiques in Palma (Wanderlog)",
+          "url": "https://wanderlog.com/list/geoCategory/122688/coolest-clothing-stores-and-boutiques-in-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 50 coolest clothing stores and boutiques in Palma (Wanderlog)."
+        }
+      ],
+      "rating": 3,
+      "tags": "boutique, fashion, palma, shopping",
+      "source_rating_raw": null,
+      "geocode_query": "Paula's Room, Carrer de Sant Nicolau, Palma, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Café Riutort",
+      "region": "Mallorca",
+      "neighborhood": "Coffee Corridor",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "An urban, Berlin-style café near La Rambla with a strong vegetarian menu and community feel.",
+      "cost_range": "$$",
+      "address": "C. del Carme, 25, Centre, 07003 Palma, Illes Balears, Spain",
+      "latitude": 39.57403679999999,
+      "longitude": 2.6498703,
+      "google_map": "https://www.google.com/maps/search/Caf%C3%A9+Riutort%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#cafe-riutort",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Cafes."
+        },
+        {
+          "source": "Specialty Coffee in Palma: The Best Cafés (Estilo Palma)",
+          "url": "https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma)."
+        }
+      ],
+      "rating": 3,
+      "tags": "cafe, community, palma, vegetarian",
+      "source_rating_raw": null,
+      "geocode_query": "Cafe Riutort, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Molienda",
+      "region": "Mallorca",
+      "neighborhood": "Coffee Corridor",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Pioneers of Palma's specialty-coffee scene — flat whites and local ingredients.",
+      "cost_range": "$$",
+      "address": "Carrer del Bisbe Campins, 11, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.575,
+      "longitude": 2.6458333,
+      "google_map": "https://www.google.com/maps/search/La+Molienda%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#la-molienda",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Cafes."
+        },
+        {
+          "source": "The best coffee shops in Palma (abcMallorca)",
+          "url": "https://www.abc-mallorca.com/best-cafes-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The best coffee shops in Palma (abcMallorca)."
+        }
+      ],
+      "rating": 3,
+      "tags": "cafe, flat-white, palma, specialty-coffee",
+      "source_rating_raw": null,
+      "geocode_query": "La Molienda, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bar La Sang",
+      "region": "Mallorca",
+      "neighborhood": "Coffee Corridor",
+      "type": "Wine Bar",
+      "emoji": "🍷",
+      "description": "A brilliant natural-wine bar pouring earthy Mallorcan reds alongside tapas like burrata and anchovies.",
+      "cost_range": "$$",
+      "address": "Carrer d'Antoni Frontera, 22, Nord, 07004 Palma, Illes Balears, Spain",
+      "latitude": 39.581688,
+      "longitude": 2.6530341,
+      "google_map": "https://www.google.com/maps/search/Bar+La+Sang%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bar-la-sang",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Wine Bars."
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": 3,
+      "tags": "natural-wine, palma, tapas",
+      "source_rating_raw": null,
+      "geocode_query": "Bar La Sang, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Portixol",
+      "region": "Mallorca",
+      "neighborhood": "Portixol",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "A former fishing village turned trendy coastal suburb — a long, flat Mediterranean promenade lined with modern cafés and seafood spots.",
+      "cost_range": "",
+      "address": "Carrer de la Sirena, 27, Platja de Palma i Pla de Sant Jordi, 07006 Palma, Illes Balears, Spain",
+      "latitude": 39.5600889,
+      "longitude": 2.6696154,
+      "google_map": "https://www.google.com/maps/search/Portixol%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#portixol",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Portixol › Coastal Walk."
+        },
+        {
+          "source": "The best coffee shops in Palma (abcMallorca)",
+          "url": "https://www.abc-mallorca.com/best-cafes-palma/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The best coffee shops in Palma (abcMallorca)."
+        }
+      ],
+      "rating": 3,
+      "tags": "coastal, palma, promenade, seafood, walk",
+      "source_rating_raw": null,
+      "geocode_query": "Portixol, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bellver Castle",
+      "region": "Mallorca",
+      "neighborhood": "West of Center",
+      "type": "Attraction",
+      "emoji": "🏰",
+      "description": "A unique 14th-century circular castle on a pine-covered hill just west of the city, with panoramic bay views.",
+      "cost_range": "$",
+      "address": "Carrer Camilo José Cela, s/n, Ponent, 07014 Palma, Illes Balears, Spain",
+      "latitude": 39.5638434,
+      "longitude": 2.6194231,
+      "google_map": "https://www.google.com/maps/search/Bellver+Castle%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bellver-castle",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under West of Center › Hikes & Views."
+        }
+      ],
+      "rating": 3,
+      "tags": "castle, historic, palma, views",
+      "source_rating_raw": null,
+      "geocode_query": "Castell de Bellver, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bellver Forest Walk",
+      "region": "Mallorca",
+      "neighborhood": "West of Center",
+      "type": "Attraction",
+      "emoji": "🥾",
+      "description": "An easy, scenic hike up through the pines to Bellver Castle, with panoramic views over the Bay of Palma.",
+      "cost_range": "",
+      "address": "Bosque de Bellver, Ponent, 07014 Palma, Illes Balears, Spain",
+      "latitude": 39.56767,
+      "longitude": 2.6141268,
+      "google_map": "https://www.google.com/maps/search/Bellver+Forest+Walk%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bellver-forest-walk",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under West of Center › Hikes & Views."
+        }
+      ],
+      "rating": 3,
+      "tags": "hike, palma, pine-forest, scenic, views",
+      "source_rating_raw": null,
+      "geocode_query": "Bosc de Bellver, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Balneario Illetas",
+      "region": "Mallorca",
+      "neighborhood": "Illetes",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "description": "A massive, gastronomy-focused beach club directly on the sand at Illetes, ~10–15 min from central Palma.",
+      "cost_range": "$$$$",
+      "address": "Passeig Illetes, 52A, 07181 Palma, Illes Balears, Spain",
+      "latitude": 39.53691269999999,
+      "longitude": 2.590004,
+      "google_map": "https://www.google.com/maps/search/Balneario+Illetas%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#balneario-illetas",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under Illetes › Beach Clubs."
+        },
+        {
+          "source": "Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties)",
+          "url": "https://www.imperial-properties.com/en/ImperialPropertiesBlog/puro-beach-illetas-mallorca-beach-club-guide",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties)."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach-club, gastronomy, palma, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Balneario Illetas, Illetes, Calvia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "SailPalma",
+      "region": "Mallorca",
+      "neighborhood": "La Lonja",
+      "type": "Activity",
+      "emoji": "⛵",
+      "description": "Private half-day catamaran charters out of La Lonja Marina in central Palma — tapas, paddleboards and a dedicated crew. Walkable boat day.",
+      "cost_range": "$$$",
+      "address": "Muelle de la lonja, s/n, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5678221,
+      "longitude": 2.6430966,
+      "google_map": "https://www.google.com/maps/search/SailPalma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#sailpalma",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "Listed in Manus's Ultimate Palma Master List, under La Lonja › Boat Charters."
+        },
+        {
+          "source": "SailPalma Experiences",
+          "url": "https://www.sailpalma.com/en/experiences",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: SailPalma Experiences."
+        }
+      ],
+      "rating": 4,
+      "tags": "boat, catamaran, palma, private-charter",
+      "source_rating_raw": null,
+      "geocode_query": "La Lonja Marina, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Santa Catalina Market",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#santa-catalina-market",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "The neighborhood's beating heart — quick lunches at Bar Joan Frau or dim sum at Arume right at the market counters. (Listed in Manus's Ultimate Palma Master List, under Palma › Lunch & Casual Dining.)"
+        },
+        {
+          "source": "The 18 Best Restaurants in Palma de Mallorca (The Infatuation)",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation)."
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Purobeach Illetas",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#purobeach-illetas",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "A premium beach club on tiered cliffs at Illetes with panoramic views and DJ sets. (Listed in Manus's Ultimate Palma Master List, under Palma › Beach Clubs.)"
+        },
+        {
+          "source": "Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties)",
+          "url": "https://www.imperial-properties.com/en/ImperialPropertiesBlog/puro-beach-illetas-mallorca-beach-club-guide",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties)."
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cooking Class Soqueta",
+      "region": "",
+      "neighborhood": "",
+      "type": "",
+      "emoji": "",
+      "description": "",
+      "cost_range": "",
+      "address": "",
+      "latitude": null,
+      "longitude": null,
+      "google_map": "",
+      "references_anchor": "REFERENCES.md#cooking-class-soqueta",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-24",
+          "note": "The top-rated cooking class in the city — a guided Mercat de l'Olivar tour then a private cooking session in a family kitchen. (Listed in Manus's Ultimate Palma Master List, under Palma › Cooking Classes.)"
+        },
+        {
+          "source": "Soqueta Experiences",
+          "url": "https://www.soquetaexperiences.com/",
+          "date": "2026-07-24",
+          "note": "Manus cited this source: Soqueta Experiences."
+        }
+      ],
+      "rating": null,
+      "tags": "",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    }
+  ]
+}
