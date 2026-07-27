@@ -1,4 +1,8 @@
 {
+  "Basilica de Sant Francesc": {
+    "notes": "",
+    "selected": true
+  },
   "Ca's Patró March": {
     "notes": "Famous waterside lunch spot",
     "selected": true
@@ -7,11 +11,19 @@
     "notes": "Hike leading to Ca's Patró March",
     "selected": true
   },
+  "El Llorenç Rooftop": {
+    "notes": "",
+    "selected": true
+  },
   "El Olivo": {
     "notes": "Fine dining",
     "selected": true
   },
   "Gran Folies Beach Club": {
+    "notes": "",
+    "selected": true
+  },
+  "Hostal Cuba Sky Bar": {
     "notes": "",
     "selected": true
   },
@@ -27,11 +39,19 @@
     "notes": "Amazing Asian food, very cool terrace",
     "selected": true
   },
+  "Palma Cathedral (La Seu)": {
+    "notes": "",
+    "selected": true
+  },
   "Perfect Charter": {
     "notes": "",
     "selected": true
   },
   "Restaurante Sebastián": {
+    "notes": "",
+    "selected": true
+  },
+  "Royal Palace of La Almudaina": {
     "notes": "",
     "selected": true
   },
