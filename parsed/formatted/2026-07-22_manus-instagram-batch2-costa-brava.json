@@ -1,0 +1,1593 @@
+{
+  "batch": "2026-07-22_manus-instagram-batch2-costa-brava",
+  "region": "Costa Brava + Mallorca + Basque Country",
+  "source_count": 10,
+  "venue_count": 51,
+  "locations": [
+    {
+      "name": "Cap Sa Sal",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguablava, Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "Sea-view terrace restaurant on the Aiguablava cliffs below Begur — the strongest restaurant signal in the batch, appearing in three separate posts. Duda Sarmento: 'my fav restaurant ever — wish I could go every day' (fideuà, croquettes); also in Crónicas Foodies' top-5 (pan con tomate, burrata) and Sea Salt Living's romantic list. Book ahead.",
+      "cost_range": "$$$$",
+      "address": "Carrer Cap sa Sal, 24, 17255 Begur, Girona, Spain",
+      "latitude": 41.9655101,
+      "longitude": 3.2293431,
+      "google_map": "https://www.google.com/maps/search/Cap%20Sa%20Sal%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cap-sa-sal",
+      "references": [
+        {
+          "shortcode": "DZcatLpjZGv",
+          "url": "https://www.instagram.com/p/DZcatLpjZGv/",
+          "creator": "Duda Sarmento",
+          "handle": "@dudasarmento_",
+          "note": "'My fav restaurant ever — wish I could go every day.' Hillside stone terrace over the sea at Aiguablava; fideuà and croquettes."
+        },
+        {
+          "shortcode": "DWtGg4xDWXh",
+          "url": "https://www.instagram.com/p/DWtGg4xDWXh/",
+          "creator": "Crónicas Foodies Barcelona",
+          "handle": "@cronicasfoodies",
+          "note": "#3 in the 'Top 5 restaurantes en Costa Brava' carousel — terrace overlooking the sea; pan con tomate, pastries, burrata."
+        },
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Listed among the romantic picks in the Begur guide."
+        }
+      ],
+      "rating": 5,
+      "tags": "book-asap, cliffside, dinner, romantic, seafood, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Cap Sa Sal, Aiguablava, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Margarita",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "Seaside restaurant over the moored boats in Calella de Palafrugell. Duda Sarmento: 'amazing lunch by the sea — love the food & vibe.' A natural pairing with a Canadell/El Golfet beach day or the Camí de Ronda walk.",
+      "cost_range": "$$$",
+      "address": "Carrer Calau, 10, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8884794,
+      "longitude": 3.1839695,
+      "google_map": "https://www.google.com/maps/search/Margarita%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#margarita",
+      "references": [
+        {
+          "shortcode": "DZcatLpjZGv",
+          "url": "https://www.instagram.com/p/DZcatLpjZGv/",
+          "creator": "Duda Sarmento",
+          "handle": "@dudasarmento_",
+          "note": "'Amazing lunch by the sea — love the food & vibe'; seaside terrace over moored boats. Explicit 5/5."
+        }
+      ],
+      "rating": 4,
+      "tags": "lunch, seaside-terrace, seafood, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Margarita restaurant, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mas de Torrent",
+      "region": "Costa Brava",
+      "neighborhood": "Torrent (nr. Pals)",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Relais & Châteaux-style 18th-century farmhouse hotel with restaurant in the inland Empordà village of Torrent, 15 minutes from Begur. Duda Sarmento: 'lovely hotel, literally 5-star service, amazing to chill with a bottle of wine.' A candidate for a splurge inland lunch or a Costa Brava base with pool-and-gardens calm.",
+      "cost_range": "$$$$$",
+      "address": "Mas de Torrent Hotel & Spa, Afueras de Torrent, S/N, 17123 Torrent, Girona, Spain",
+      "latitude": 41.954088,
+      "longitude": 3.1248033,
+      "google_map": "https://www.google.com/maps/search/Mas%20de%20Torrent%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mas-de-torrent",
+      "references": [
+        {
+          "shortcode": "DZcatLpjZGv",
+          "url": "https://www.instagram.com/p/DZcatLpjZGv/",
+          "creator": "Duda Sarmento",
+          "handle": "@dudasarmento_",
+          "note": "'Lovely hotel, literally 5-star service, amazing to chill with a bottle of wine.' Relais & Châteaux-style farmhouse hotel. Explicit 5/5."
+        }
+      ],
+      "rating": 4,
+      "tags": "farmhouse, hotel, luxury, pool, spa",
+      "source_rating_raw": null,
+      "geocode_query": "Mas de Torrent Hotel & Spa, Torrent, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Hostal Ses Negres",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Riera, Begur",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Duda Sarmento's '-secret- (not secret anymore) best place to have breakfast in Begur' — beach-view coffee, scrambled eggs and grilled cheese just above Platja de Sa Riera. Low-key hostal café, ideal before a Sa Riera/Illa Roja beach morning.",
+      "cost_range": "$$",
+      "address": "Carrer del Mar, 8, Platja de, 17255 Sa Riera, Girona, Spain",
+      "latitude": 41.97191369999999,
+      "longitude": 3.2112818,
+      "google_map": "https://www.google.com/maps/search/Hostal%20Ses%20Negres%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#hostal-ses-negres",
+      "references": [
+        {
+          "shortcode": "DZcatLpjZGv",
+          "url": "https://www.instagram.com/p/DZcatLpjZGv/",
+          "creator": "Duda Sarmento",
+          "handle": "@dudasarmento_",
+          "note": "Her 'secret' best breakfast in Begur, ⭐⭐⭐⭐⭐ — beach-view coffee, scrambled eggs, grilled cheese near Sa Riera beach."
+        }
+      ],
+      "rating": 4,
+      "tags": "beach-view, breakfast, cafe, casual",
+      "source_rating_raw": null,
+      "geocode_query": "Hostal Ses Negres, Sa Riera, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Komo To Loko",
+      "region": "Costa Brava",
+      "neighborhood": "Mont-ras (nr. Palafrugell)",
+      "type": "Dinner Restaurant",
+      "emoji": "🍣",
+      "description": "Japanese open-kitchen restaurant near Palafrugell/Platja d'Aro with a wave mural, wagyu and tuna nigiri — wagyu sirloin at €28.50/100 g, and TripAdvisor-ranked among the best of 2023 per the carousel. The change-of-pace sushi night of the Costa Brava leg.",
+      "cost_range": "$$$$",
+      "address": "Avinguda de Catalunya, 33, 17253 Mont-ras, Girona, Spain",
+      "latitude": 41.9119093,
+      "longitude": 3.1473,
+      "google_map": "https://www.google.com/maps/search/Komo%20To%20Loko%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#komo-to-loko",
+      "references": [
+        {
+          "shortcode": "DWtGg4xDWXh",
+          "url": "https://www.instagram.com/p/DWtGg4xDWXh/",
+          "creator": "Crónicas Foodies Barcelona",
+          "handle": "@cronicasfoodies",
+          "note": "#5 in the top-5 carousel: Japanese open kitchen, wagyu sirloin €28.50/100 g, tuna nigiri; TripAdvisor-ranked among best 2023."
+        }
+      ],
+      "rating": 3,
+      "tags": "dinner, japanese, sushi, wagyu",
+      "source_rating_raw": null,
+      "geocode_query": "Komo To Loko, Platja d'Aro, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Pizza Bar Empordà",
+      "region": "Costa Brava",
+      "neighborhood": "Sant Feliu de Boada",
+      "type": "Dinner Restaurant",
+      "emoji": "🍕",
+      "description": "Pizzeria on the church square of tiny Sant Feliu de Boada, a 10-minute drive inland from Begur. Duda Sarmento: good pizza is hard to find near Begur center — 'nice alternative, plus it's in a super cute small town.'",
+      "cost_range": "$$",
+      "address": "Plaça esglesia, 3, 17256 Sant Feliu de Boada, Girona, Spain",
+      "latitude": 41.97393,
+      "longitude": 3.12522,
+      "google_map": "https://www.google.com/maps/search/Pizza%20Bar%20Empord%C3%A0%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#pizza-bar-emporda",
+      "references": [
+        {
+          "shortcode": "DZcatLpjZGv",
+          "url": "https://www.instagram.com/p/DZcatLpjZGv/",
+          "creator": "Duda Sarmento",
+          "handle": "@dudasarmento_",
+          "note": "'Good pizza is hard to find near Begur center — nice alternative, plus it's in a super cute small town.' Explicit 4/5."
+        }
+      ],
+      "rating": 3,
+      "tags": "casual, pizza, village",
+      "source_rating_raw": null,
+      "geocode_query": "Pizza Bar, Sant Feliu de Boada, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Clara",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🍢",
+      "description": "Tapas spot in a pink-red building in Begur town — skewers of olives, peppers and anchovies. Appears in both the Crónicas Foodies top-5 and Sea Salt Living's Begur food list; an easy in-town tapas night.",
+      "cost_range": "$$$",
+      "address": "Carrer de Santa Teresa, 3, 17255 Begur, Girona, Spain",
+      "latitude": 41.9550151,
+      "longitude": 3.2064311,
+      "google_map": "https://www.google.com/maps/search/Clara%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#clara",
+      "references": [
+        {
+          "shortcode": "DWtGg4xDWXh",
+          "url": "https://www.instagram.com/p/DWtGg4xDWXh/",
+          "creator": "Crónicas Foodies Barcelona",
+          "handle": "@cronicasfoodies",
+          "note": "#1 in the top-5 carousel — pink-red building; skewers of olives, peppers and anchovies."
+        },
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "'Clara Begur — tapas' on the Begur foodies list."
+        }
+      ],
+      "rating": 4,
+      "tags": "begur-town, dinner, tapas",
+      "source_rating_raw": null,
+      "geocode_query": "Clara restaurant, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Torre de Nura",
+      "region": "Costa Brava",
+      "neighborhood": "Torrent (nr. Begur)",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Restaurant with a distinctive red-eye logo near Torrent, from the Crónicas Foodies top-5 — the carousel slide showed a flan/crème caramel with whipped cream. Little else stated; worth a menu check before slotting it in.",
+      "cost_range": "$$$",
+      "address": "GI-652, 3, 17123 Torrent, Girona, Spain",
+      "latitude": 41.9522037,
+      "longitude": 3.132976,
+      "google_map": "https://www.google.com/maps/search/Torre%20de%20Nura%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#torre-de-nura",
+      "references": [
+        {
+          "shortcode": "DWtGg4xDWXh",
+          "url": "https://www.instagram.com/p/DWtGg4xDWXh/",
+          "creator": "Crónicas Foodies Barcelona",
+          "handle": "@cronicasfoodies",
+          "note": "#2 in the top-5 carousel — red eye logo; flan/crème caramel with whipped cream."
+        }
+      ],
+      "rating": 3,
+      "tags": "dinner",
+      "source_rating_raw": null,
+      "geocode_query": "Torre de Nura, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Kaos (K-OS)",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Orange-facade restaurant in Palamós from the Crónicas Foodies top-5 — fish on diced vegetables and anchovy skewers. Palamós is the prawn capital of the coast, so a natural dinner stop if a boat-charter day launches from its marina.",
+      "cost_range": "$$$",
+      "address": "Palamós, Girona, Spain",
+      "latitude": 41.8503998,
+      "longitude": 3.1297006,
+      "google_map": "https://www.google.com/maps/search/Kaos%20%28K-OS%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#kaos-k-os",
+      "references": [
+        {
+          "shortcode": "DWtGg4xDWXh",
+          "url": "https://www.instagram.com/p/DWtGg4xDWXh/",
+          "creator": "Crónicas Foodies Barcelona",
+          "handle": "@cronicasfoodies",
+          "note": "#4 in the top-5 carousel — orange facade; fish on diced vegetables, anchovy skewers."
+        }
+      ],
+      "rating": 3,
+      "tags": "dinner, palamos, seafood",
+      "source_rating_raw": null,
+      "geocode_query": "K-OS restaurant, Palamos, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Al Kostat del Mar",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Riera, Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🥘",
+      "description": "The restaurant of Finca Victoria Hotel & Spa near Sa Riera beach, from Michelin-starred chef Jordi Vilà (Michelin Guide-listed) — creative Catalan cooking around a bucolic open courtyard: senyoret rice, Palamós fish, truffle croquettes. Tiina Blomgren's romantic dinner under the stone archway: 'the food here was amazing.' (Note: from a paid-partnership post — weight the praise accordingly.)",
+      "cost_range": "$$$$",
+      "address": "Girona, Spain",
+      "latitude": 41.9832846,
+      "longitude": 2.8247119,
+      "google_map": "https://www.google.com/maps/search/Al%20Kostat%20del%20Mar%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#al-kostat-del-mar",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "Romantic dinner under a stone archway; mussels, tortilla; 'the food here was amazing.' Explicit 5/5 (ad post). Web check: it is the Jordi Vilà restaurant at Finca Victoria, Sa Riera."
+        }
+      ],
+      "rating": 4,
+      "tags": "catalan, courtyard, dinner, michelin-guide, romantic",
+      "source_rating_raw": null,
+      "geocode_query": "Alkostat del Mar, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mas Generós",
+      "region": "Costa Brava",
+      "neighborhood": "Fonteta (Baix Empordà)",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "Restaurant-and-hotel farmhouse in the inland hamlet of Fonteta — Tiina Blomgren: 'this restaurant & hotel was amazing!!' with a garden lunch of white wine and olives. An Empordà countryside long-lunch candidate. (Note: from a paid-partnership post — weight the praise accordingly.)",
+      "cost_range": "$$$",
+      "address": "Carrer Sant Generos, 21, 17110 Fonteta, Girona, Spain",
+      "latitude": 41.95056,
+      "longitude": 3.0541299,
+      "google_map": "https://www.google.com/maps/search/Mas%20Gener%C3%B3s%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mas-generos",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "'This restaurant & hotel was amazing!!' — garden lunch with white wine and olives. Explicit 5/5 (ad post)."
+        }
+      ],
+      "rating": 3,
+      "tags": "farmhouse, garden, lunch",
+      "source_rating_raw": null,
+      "geocode_query": "Mas Generos, Emporda, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Arròs9",
+      "region": "Costa Brava",
+      "neighborhood": "Girona (Old Town edge)",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Rice-and-paella specialist in a renovated farmhouse in central Girona. Tiina Blomgren's long lunch — 'my husband loooved the anchovies!' (anchovies on bread, croquettes). Pairs naturally with a Girona Old Town day. (Note: from a paid-partnership post — weight the praise accordingly.)",
+      "cost_range": "$$$",
+      "address": "Carrer Ginesta, 8, 17002 Girona, Spain",
+      "latitude": 41.9817811,
+      "longitude": 2.8221866,
+      "google_map": "https://www.google.com/maps/search/Arr%C3%B2s9%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#arros9",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "Long lunch; 'my husband loooved the anchovies!' — anchovies on bread, croquettes. Explicit 5/5 (ad post)."
+        }
+      ],
+      "rating": 3,
+      "tags": "girona, lunch, paella, rice",
+      "source_rating_raw": null,
+      "geocode_query": "Arros9 restaurant, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Es Furió",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Tuna, Begur",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Star pick on Sea Salt Living's Begur food list, right on the Sa Tuna waterfront — 'try the arroz mar' (seafood rice). The lunch anchor for a Sa Tuna cove day.",
+      "cost_range": "$$$",
+      "address": "Passeig de l'Àncora, S/N, 17255 Sa Tuna, Girona, Spain",
+      "latitude": 41.960228,
+      "longitude": 3.229423,
+      "google_map": "https://www.google.com/maps/search/Es%20Furi%C3%B3%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#es-furio",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Starred on the Begur foodies list — 'try the arroz mar.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "lunch, rice, sa-tuna, seafood, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Es Furio, Sa Tuna, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Casa Juanita",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🐟",
+      "description": "Circled-and-hearted on Sea Salt Living's Begur list for its oven-baked fish ('fish in the oven') — an old-school seafood house in Begur town and one of the guide's clearest favorites.",
+      "cost_range": "$$$",
+      "address": "Carrer Pi i Ralló, 7, 17255 Begur, Girona, Spain",
+      "latitude": 41.9548707,
+      "longitude": 3.2076928,
+      "google_map": "https://www.google.com/maps/search/Casa%20Juanita%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#casa-juanita",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Circled + heart on the Begur foodies list — 'fish in the oven.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "begur-town, dinner, oven-baked-fish, seafood",
+      "source_rating_raw": null,
+      "geocode_query": "Casa Juanita, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Pahissa del Mas",
+      "region": "Costa Brava",
+      "neighborhood": "Pals",
+      "type": "Dinner Restaurant",
+      "emoji": "🕯️",
+      "description": "Star pick of Sea Salt Living's romantic list — a masia restaurant in the fields near Pals with 'sunset and star views.' The open-country romantic dinner of the Costa Brava leg, ~15 minutes from Begur.",
+      "cost_range": "$$$$",
+      "address": "Barri molinet, 16, 17256 Pals, Girona, Spain",
+      "latitude": 41.9821567,
+      "longitude": 3.1514831,
+      "google_map": "https://www.google.com/maps/search/Pahissa%20del%20Mas%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#pahissa-del-mas",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Star on the romantic list — 'sunset and star views.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "countryside, dinner, romantic, sunset",
+      "source_rating_raw": null,
+      "geocode_query": "Pahissa del Mas, Pals, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bar Rodondo",
+      "region": "Costa Brava",
+      "neighborhood": "Tamariu",
+      "type": "Bar",
+      "emoji": "🍻",
+      "description": "'Cheap & good' per Sea Salt Living — a casual bar the geocoder places on the Tamariu seafront (the guide filed it under Begur; verify on arrival). A low-stakes drinks-and-snacks stop on a Tamariu beach afternoon.",
+      "cost_range": "$",
+      "address": "Passeig del Mar, 29, 17212 Tamariu, Girona, Spain",
+      "latitude": 41.9182848,
+      "longitude": 3.2085161,
+      "google_map": "https://www.google.com/maps/search/Bar%20Rodondo%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#bar-rodondo",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "'Cheap & good' on the Begur foodies list."
+        }
+      ],
+      "rating": 3,
+      "tags": "casual, cheap-eats, drinks",
+      "source_rating_raw": null,
+      "geocode_query": "Bar Rodondo, Begur, Girona, Spain",
+      "geo_note": "Guide filed it under Begur, but the geocoder resolves it to Passeig del Mar, Tamariu — verify.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Restaurante Sa Tuna",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Tuna, Begur",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "The hostal restaurant on the Sa Tuna waterfront promenade — very likely the unnamed 'fantastic, quiet tavern right on the water' Gemini raved about in the first Costa Brava batch. On Sea Salt Living's Begur food list.",
+      "cost_range": "$$$",
+      "address": "Passeig de l'Àncora, 14, 17255 Sa Tuna, Girona, Spain",
+      "latitude": 41.9601239,
+      "longitude": 3.229661,
+      "google_map": "https://www.google.com/maps/search/Restaurante%20Sa%20Tuna%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#restaurante-sa-tuna",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "On the Begur foodies list; the waterfront restaurant at Cala Sa Tuna."
+        }
+      ],
+      "rating": 3,
+      "tags": "sa-tuna, seafood, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Hostal Sa Tuna restaurant, Sa Tuna, Begur, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Chiringuito d'Aiguafreda",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguafreda, Begur",
+      "type": "Bar",
+      "emoji": "🍹",
+      "description": "Unnamed beach bar at rocky Cala Aiguafreda from Sea Salt Living's food list — drinks over the water at the quietest of the Begur coves. Likely near (or the bar of) Hostal Sa Rascassa; confirm on the ground.",
+      "cost_range": "$$",
+      "address": "Carrer Aiguafreda, 64, 17255 Aiguafreda, Girona, Spain",
+      "latitude": 41.9645523,
+      "longitude": 3.2269687,
+      "google_map": "https://www.google.com/maps/search/Chiringuito%20d%27Aiguafreda%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#chiringuito-d-aiguafreda",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "'Chiringuito in Aiguafreda' on the Begur foodies list."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach-bar, casual, drinks, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Cala Aiguafreda, Begur, Girona, Spain",
+      "geo_note": "Unnamed venue — pinned at Cala Aiguafreda itself.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Can Climent Platillos",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🍢",
+      "description": "Small-plates ('platillos') spot in Begur town from Sea Salt Living's food list — next door to Casa Juanita on Carrer Pi i Ralló. Casual grazing dinner in town.",
+      "cost_range": "$$$",
+      "address": "Carrer Pi i Ralló, 8, 17255 Begur, Girona, Spain",
+      "latitude": 41.9549754,
+      "longitude": 3.2078523,
+      "google_map": "https://www.google.com/maps/search/Can%20Climent%20Platillos%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#can-climent-platillos",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "On the Begur foodies list — small plates in Begur town."
+        }
+      ],
+      "rating": 3,
+      "tags": "begur-town, dinner, small-plates, tapas",
+      "source_rating_raw": null,
+      "geocode_query": "Can Climent Platillos, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sa Rascassa",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguafreda, Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🕯️",
+      "description": "Romantic pick from Sea Salt Living's Begur guide — the restaurant of tiny Hostal Sa Rascassa, tucked in the pines steps from Cala Aiguafreda. Garden-terrace dinners in one of the quietest corners of the Begur coast.",
+      "cost_range": "$$$",
+      "address": "Cala d’Aiguafreda, 3, 17255 Aiguafreda, Girona, Spain",
+      "latitude": 41.9645873,
+      "longitude": 3.2260433,
+      "google_map": "https://www.google.com/maps/search/Sa%20Rascassa%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sa-rascassa",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "On the romantic list — the hostal restaurant at Cala Aiguafreda."
+        }
+      ],
+      "rating": 4,
+      "tags": "garden, hidden-gem, romantic, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "Hostal Sa Rascassa, Aiguafreda, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Comedor Verdor",
+      "region": "Costa Brava",
+      "neighborhood": "Pals",
+      "type": "Dinner Restaurant",
+      "emoji": "🌿",
+      "description": "Romantic pick from Sea Salt Living's list — a garden-dining ('verdor' = greenery) restaurant in the countryside near Pals. Little else stated; menu-check before booking.",
+      "cost_range": "$$$",
+      "address": "Diseminado Barri del Moli-masos Pals, 1, 17256 Pals, Girona, Spain",
+      "latitude": 41.997179,
+      "longitude": 3.1511387,
+      "google_map": "https://www.google.com/maps/search/Comedor%20Verdor%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#comedor-verdor",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "On the romantic list in the Begur guide."
+        }
+      ],
+      "rating": 3,
+      "tags": "countryside, garden, romantic",
+      "source_rating_raw": null,
+      "geocode_query": "Comedor Verdor, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Restaurant Turandot",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Romantic pick from Sea Salt Living's Begur guide, on the main avenue of Begur town. Little else stated; menu-check before booking.",
+      "cost_range": "$$$",
+      "address": "Av. de l'Onze de Setembre, 27, 17255 Begur, Girona, Spain",
+      "latitude": 41.953553,
+      "longitude": 3.204499,
+      "google_map": "https://www.google.com/maps/search/Restaurant%20Turandot%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#restaurant-turandot",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "On the romantic list in the Begur guide."
+        }
+      ],
+      "rating": 3,
+      "tags": "begur-town, dinner, romantic",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Turandot, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Soca-rel",
+      "region": "Costa Brava",
+      "neighborhood": "Llofriu, Palafrugell",
+      "type": "Dinner Restaurant",
+      "emoji": "🌿",
+      "description": "Romantic pick from Sea Salt Living's list — slow-food Empordà cooking in the hamlet of Llofriu, between Palafrugell and the inland villages. Little else stated; menu-check before booking.",
+      "cost_range": "$$$",
+      "address": "Carrer Ramal, 74, 17124 Llofriu, Girona, Spain",
+      "latitude": 41.9314434,
+      "longitude": 3.1340159,
+      "google_map": "https://www.google.com/maps/search/Soca-rel%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#soca-rel",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "'Soca-rel Restaurant Empordà' on the romantic list."
+        }
+      ],
+      "rating": 3,
+      "tags": "emporda, romantic, slow-food",
+      "source_rating_raw": null,
+      "geocode_query": "Soca-rel restaurant, Emporda, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Platja de l'Illa Roja",
+      "region": "Costa Brava",
+      "neighborhood": "Begur–Pals coast",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Sandy beach beneath a famous red-rock landmark between Sa Riera and Platja de Pals, reached from the Camí de Ronda — star pick in the Begur guide and named in three posts of the batch. Historically a nudist beach (mixed use today).",
+      "cost_range": "",
+      "address": "Platja de l'Illa Roja, 17255 Begur, Girona, Spain",
+      "latitude": 41.977897,
+      "longitude": 3.2100731,
+      "google_map": "https://www.google.com/maps/search/Platja%20de%20l%27Illa%20Roja%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#platja-de-l-illa-roja",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Star icon on the Begur beach list (nudist beach)."
+        },
+        {
+          "shortcode": "CtPSZsLrom8",
+          "url": "https://www.instagram.com/reel/CtPSZsLrom8/",
+          "creator": "Wanderlusters",
+          "handle": "@wanderlusters.couple",
+          "note": "In the 'most beautiful beaches of Costa Brava' montage — flagged 'Nudista.'"
+        },
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "note": "One of the 9 places to visit — sandy beach with its famous red rock.",
+          "likes": 5800
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cami-de-ronda, nudist, red-rock, scenic",
+      "source_rating_raw": null,
+      "geocode_query": "Platja de l'Illa Roja, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Platja d'en Malaret",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguablava, Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "'Tiny jewel' — a pocket cove beside Aiguablava reached down wooden stairs, star-picked in the Begur guide and photographed in Iisa Hero's 9-places carousel. Minimal space, maximal turquoise; go early.",
+      "cost_range": "",
+      "address": "Cala Malaret, Carrer Malaret, 3, 17255 Begur, Girona, Spain",
+      "latitude": 41.9380279,
+      "longitude": 3.2153639,
+      "google_map": "https://www.google.com/maps/search/Platja%20d%27en%20Malaret%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#platja-d-en-malaret",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Star — 'tiny jewel' on the Begur beach list."
+        },
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "note": "'Cala Malaret' — tiny cove reached via wooden stairs.",
+          "likes": 5800
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cove, hidden-gem, tiny, turquoise",
+      "source_rating_raw": null,
+      "geocode_query": "Platja d'en Malaret, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Platja Fonda",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Dark-pebble beach below the Begur cliffs with famously crystal-clear deep water, reached down a long stairway — circled as 'crystal waters' in the Begur guide and in Iisa Hero's 9-places list. Dramatic rather than sandy; superb swimming.",
+      "cost_range": "",
+      "address": "Carrer Platja Fonda, 17255, Girona, Spain",
+      "latitude": 41.9405345,
+      "longitude": 3.2153804,
+      "google_map": "https://www.google.com/maps/search/Platja%20Fonda%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#platja-fonda",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Circled — 'crystal waters' on the Begur beach list."
+        },
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "note": "One of the 9 places to visit in Costa Brava.",
+          "likes": 5800
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, crystal-water, pebbles, stairs-access, swimming",
+      "source_rating_raw": null,
+      "geocode_query": "Platja Fonda, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cala s'Eixugador",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Tuna, Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Minute rocky inlet between Sa Tuna and Aiguafreda — 'bit of a hike' to reach, per the Begur guide, which keeps it quiet. Combine with the Sa Tuna stretch of the Camí de Ronda.",
+      "cost_range": "",
+      "address": "Cala s'Eixugador, Passeig de l'Àncora, 14, 17255 Sa Tuna, Girona, Spain",
+      "latitude": 41.9593373,
+      "longitude": 3.2321645,
+      "google_map": "https://www.google.com/maps/search/Cala%20s%27Eixugador%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cala-s-eixugador",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "'Bit of a hike' on the Begur beach list."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, cove, hike-access, quiet, snorkeling",
+      "source_rating_raw": null,
+      "geocode_query": "Cala s'Eixugador, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cala Aiguafreda",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguafreda, Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Quiet rocky cove north of Sa Tuna with pine-shaded water access — more a swimming-and-snorkeling ledge than a sand beach, with Sa Rascassa and a chiringuito steps away.",
+      "cost_range": "",
+      "address": "Carrer Aiguafreda, 64, 17255 Aiguafreda, Girona, Spain",
+      "latitude": 41.9645523,
+      "longitude": 3.2269687,
+      "google_map": "https://www.google.com/maps/search/Cala%20Aiguafreda%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cala-aiguafreda",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "On the Begur beach list."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, cove, quiet, rocky, snorkeling",
+      "source_rating_raw": null,
+      "geocode_query": "Cala Aiguafreda, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Platja de Pals",
+      "region": "Costa Brava",
+      "neighborhood": "Pals",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Long, open sandy beach below Pals — the wide-sand alternative to the pocket coves, with dunes and space even in season.",
+      "cost_range": "",
+      "address": "Platja de Pals, Spain",
+      "latitude": 41.993703,
+      "longitude": 3.2011695,
+      "google_map": "https://www.google.com/maps/search/Platja%20de%20Pals%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#platja-de-pals",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "On the Begur beach list."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, dunes, long-beach, sandy",
+      "source_rating_raw": null,
+      "geocode_query": "Platja de Pals, Pals, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Platja de Tamariu",
+      "region": "Costa Brava",
+      "neighborhood": "Tamariu, Palafrugell",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Compact cove with a low-key village and seafront restaurants directly behind the sand — one of the calmest of the Palafrugell beach towns, on the Camí de Ronda between Llafranc and Aiguablava.",
+      "cost_range": "",
+      "address": "Tamariu Beach, 17212 Tamariu, Girona, Spain",
+      "latitude": 41.9178676,
+      "longitude": 3.2076695,
+      "google_map": "https://www.google.com/maps/search/Platja%20de%20Tamariu%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#platja-de-tamariu",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "On the Begur beach list."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, beach-town, cove, family-calm",
+      "source_rating_raw": null,
+      "geocode_query": "Platja de Tamariu, Tamariu, Palafrugell, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Platja del Canadell",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "The classic whitewashed-village beach of Calella de Palafrugell — arcaded houses and boats right on the sand, minutes from Margarita for lunch.",
+      "cost_range": "",
+      "address": "Platja del Canadell, Spain",
+      "latitude": 41.8883049,
+      "longitude": 3.1874853,
+      "google_map": "https://www.google.com/maps/search/Platja%20del%20Canadell%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#platja-del-canadell",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "'Canadell's beach' on the Begur beach list."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, village-beach, whitewashed",
+      "source_rating_raw": null,
+      "geocode_query": "Platja del Canadell, Calella de Palafrugell, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Golfet",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Small rocky cove with shallow, glass-clear water below the Cap Roig gardens, just south of Calella — photographed in Iisa Hero's 9-places carousel. Best in the morning before the sun swings off it.",
+      "cost_range": "",
+      "address": "platja del Golfet, 17210, Spain",
+      "latitude": 41.8792193,
+      "longitude": 3.178582,
+      "google_map": "https://www.google.com/maps/search/El%20Golfet%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-golfet",
+      "references": [
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "note": "One of the 9 places — rocky cove with shallow clear water near Calella.",
+          "likes": 5800
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, clear-water, cove, scenic",
+      "source_rating_raw": null,
+      "geocode_query": "Platja del Golfet, Calella de Palafrugell, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Platja de Sa Riera",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Riera, Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Sandy bay with white buildings at the north end of Begur's coast — the most 'town-like' of the Begur beaches, with Hostal Ses Negres for breakfast and Finca Victoria/Al Kostat del Mar just behind.",
+      "cost_range": "",
+      "address": "Platja de Sa Riera, Sa Riera, Spain",
+      "latitude": 41.9728952,
+      "longitude": 3.2110191,
+      "google_map": "https://www.google.com/maps/search/Platja%20de%20Sa%20Riera%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#platja-de-sa-riera",
+      "references": [
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "note": "One of the 9 places — sandy bay with white buildings.",
+          "likes": 5800
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, sandy, town-beach",
+      "source_rating_raw": null,
+      "geocode_query": "Platja de Sa Riera, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cala del Pi",
+      "region": "Costa Brava",
+      "neighborhood": "Platja d'Aro / S'Agaró",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Pine-ringed cove near S'Agaró from the top-beaches reel (the reel filed it near Tossa; the actual Cala del Pi is on the Platja d'Aro–S'Agaró stretch). South of the Begur cluster — only worth it if a day trends that way.",
+      "cost_range": "",
+      "address": "Platja d'Aro i S'Agaró, Girona, Spain",
+      "latitude": 41.823586,
+      "longitude": 3.0777152,
+      "google_map": "https://www.google.com/maps/search/Cala%20del%20Pi%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cala-del-pi",
+      "references": [
+        {
+          "shortcode": "CtPSZsLrom8",
+          "url": "https://www.instagram.com/reel/CtPSZsLrom8/",
+          "creator": "Wanderlusters",
+          "handle": "@wanderlusters.couple",
+          "note": "In the 'most beautiful beaches of Costa Brava' montage."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, cove, pine-fringed",
+      "source_rating_raw": null,
+      "geocode_query": "Cala del Pi, Platja d'Aro, Girona, Spain",
+      "geo_note": "Reel gave no precise location ('Tossa de Mar area'); pinned at Cala del Pi, Platja d'Aro–S'Agaró.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Cala Pola",
+      "region": "Costa Brava",
+      "neighborhood": "Tossa de Mar",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Pine-backed cove with a campsite behind it just north of Tossa de Mar, from the top-beaches reel. Deep in the southern Costa Brava — a long detour from a Begur/Llafranc base.",
+      "cost_range": "",
+      "address": "Cala Pola, 17320 Tossa de Mar, Girona, Spain",
+      "latitude": 41.7330108,
+      "longitude": 2.951189,
+      "google_map": "https://www.google.com/maps/search/Cala%20Pola%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cala-pola",
+      "references": [
+        {
+          "shortcode": "CtPSZsLrom8",
+          "url": "https://www.instagram.com/reel/CtPSZsLrom8/",
+          "creator": "Wanderlusters",
+          "handle": "@wanderlusters.couple",
+          "note": "In the 'most beautiful beaches of Costa Brava' montage."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, cove, pine-fringed, south-costa-brava",
+      "source_rating_raw": null,
+      "geocode_query": "Cala Pola, Tossa de Mar, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Platja de Santa Cristina",
+      "region": "Costa Brava",
+      "neighborhood": "Lloret de Mar",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Sheltered sandy cove flanked by gardens between Lloret and Blanes, from the top-beaches reel. Pretty, but far south of the trip's Costa Brava base — low priority.",
+      "cost_range": "",
+      "address": "Santa Cristina Beach, Spain",
+      "latitude": 41.6879053,
+      "longitude": 2.8178906,
+      "google_map": "https://www.google.com/maps/search/Platja%20de%20Santa%20Cristina%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#platja-de-santa-cristina",
+      "references": [
+        {
+          "shortcode": "CtPSZsLrom8",
+          "url": "https://www.instagram.com/reel/CtPSZsLrom8/",
+          "creator": "Wanderlusters",
+          "handle": "@wanderlusters.couple",
+          "note": "In the 'most beautiful beaches of Costa Brava' montage."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, cove, sandy, south-costa-brava",
+      "source_rating_raw": null,
+      "geocode_query": "Platja de Santa Cristina, Lloret de Mar, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sa Conca",
+      "region": "Costa Brava",
+      "neighborhood": "S'Agaró",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Wide, elegant cove beside the gated S'Agaró estate from the top-beaches reel — one of the smarter beaches of the central coast, near Platja d'Aro.",
+      "cost_range": "",
+      "address": "Cala Sa Conca, 17248 S'Agaró, Girona, Spain",
+      "latitude": 41.7974324,
+      "longitude": 3.0605868,
+      "google_map": "https://www.google.com/maps/search/Sa%20Conca%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sa-conca",
+      "references": [
+        {
+          "shortcode": "CtPSZsLrom8",
+          "url": "https://www.instagram.com/reel/CtPSZsLrom8/",
+          "creator": "Wanderlusters",
+          "handle": "@wanderlusters.couple",
+          "note": "In the 'most beautiful beaches of Costa Brava' montage."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach, cove, elegant, sandy",
+      "source_rating_raw": null,
+      "geocode_query": "Platja de Sa Conca, S'Agaro, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Via Ferrata Cala del Molí",
+      "region": "Costa Brava",
+      "neighborhood": "Sant Feliu de Guíxols",
+      "type": "Activity",
+      "emoji": "🧗",
+      "description": "The only sea-cliff via ferrata in Europe — ~8 km, 20 m above the waves, K1–K2 (beginner-friendly), 1–1.5 hours, with Nepalese rope bridges strung across coves. Two independent creators raved: Kimmie Conner's explicit '10/10 — equal parts beautiful and terrifying.' Route is free and public; rent helmet/harness/lanyard or book a guide. The adventurous wildcard of the Costa Brava leg.",
+      "cost_range": "$",
+      "address": "Carrer de Sicília, 17220 Sant Feliu de Guíxols, Girona, Spain",
+      "latitude": 41.7791842,
+      "longitude": 3.041884,
+      "google_map": "https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#via-ferrata-cala-del-moli",
+      "references": [
+        {
+          "shortcode": "C6q1pvwNRdy",
+          "url": "https://www.instagram.com/reel/C6q1pvwNRdy/",
+          "creator": "Sorana Chiper — Mountains, Outdoor, Travel",
+          "handle": "@soranachiper",
+          "note": "Specs reel: ~8 km, 20 m height, K1–K2 easy, 1–1.5 h; Nepalese bridges over the waves; beginner-accessible yet 'super fun.'"
+        },
+        {
+          "shortcode": "DZK6Xs2vV0_",
+          "url": "https://www.instagram.com/reel/DZK6Xs2vV0_/",
+          "creator": "Kimmie Conner — Travel + Festival Blogger",
+          "handle": "@kimmconn",
+          "note": "'One of the most underrated adventure activities I've ever done… equal parts beautiful and terrifying. 10/10 would happily spend my holiday dangling off cliffs again.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "adventure, anchor-activity, climbing, free, sea-cliffs, via-ferrata",
+      "source_rating_raw": "10/10",
+      "geocode_query": "Via Ferrata Cala del Moli, Sant Feliu de Guixols, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "San Juan de Gaztelugatxe",
+      "region": "Basque Country",
+      "neighborhood": "Bermeo, Biscay",
+      "type": "Attraction",
+      "emoji": "🥾",
+      "description": "The Game of Thrones 'Dragonstone' islet near Bermeo — a ~20-minute hike across a stone bridge and up hundreds of cliff-carved stairs to a tiny hermitage. Free but requires an advance online reservation (protected area). Genuinely spectacular, but it's in the Basque Country — roughly 6 hours from both trip regions, so file under 'future trip' unless plans change radically.",
+      "cost_range": "",
+      "address": "Gaztelugatxe, 48130 Gaztelugatxeko Doniene, Biscay, Spain",
+      "latitude": 43.447,
+      "longitude": -2.785,
+      "google_map": "https://www.google.com/maps/search/San%20Juan%20de%20Gaztelugatxe%2C%20Basque%20Country%2C%20Spain",
+      "references_anchor": "REFERENCES.md#san-juan-de-gaztelugatxe",
+      "references": [
+        {
+          "shortcode": "DYcrj2-N8w5",
+          "url": "https://www.instagram.com/reel/DYcrj2-N8w5/",
+          "creator": "Elina Aleksandra",
+          "handle": "@elina.outdoor.explorer",
+          "note": "'One of the most unreal hikes in the Basque Country' — stone bridge, cliff stairs, hermitage; free but reserve online ahead (or refresh for cancellations)."
+        }
+      ],
+      "rating": 2,
+      "tags": "game-of-thrones, hike, out-of-region, reservation-required, scenic",
+      "source_rating_raw": null,
+      "geocode_query": "San Juan de Gaztelugatxe, Bermeo, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "NU Beach Club",
+      "region": "Mallorca",
+      "neighborhood": "Playa de Muro (Alcúdia Bay)",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "description": "'One of Mallorca's most beautiful beach clubs' — wooden cabanas draped in sheer fabric directly on the Playa de Muro sand, turquoise water with mountain views, all-day DJ, indoor bar and lounge. In Alcúdia Bay on the north coast — ~25 minutes from Formentor, so it becomes very relevant if the Four Seasons wins the leg-2 base decision.",
+      "cost_range": "$$$",
+      "address": "Carrer Flamencs, 5, 07458 Playa de Muro, Illes Balears, Spain",
+      "latitude": 39.809676,
+      "longitude": 3.1173427,
+      "google_map": "https://www.google.com/maps/search/NU%20Beach%20Club%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#nu-beach-club",
+      "references": [
+        {
+          "shortcode": "DK95gxRsFj_",
+          "url": "https://www.instagram.com/reel/DK95gxRsFj_/",
+          "creator": "Adrian & Katie — Irish Travel Deals & Hotel Stays",
+          "handle": "@pockettraveldeals",
+          "note": "'One of Mallorca's most beautiful beach clubs' — cabanas on the sand, DJ all day, great food and drinks (guacamole, hummus spreads shown)."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach-club, cabanas, dj, north, sceney",
+      "source_rating_raw": null,
+      "geocode_query": "NU Mallorca beach club, Playa de Muro, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Palau Fugit",
+      "region": "Costa Brava",
+      "neighborhood": "Girona Old Town",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Historical palace hotel in Girona's Old Town with a colorful courtyard ('Gipsy' neon bar) and a cave-style spa with pool and tea service. Tiina Blomgren's stay pick for Girona — pairs with an Old Town + Arròs9 day if you add a Girona night or afternoon. (Note: from a paid-partnership post — weight the praise accordingly.)",
+      "cost_range": "$$$$",
+      "address": "Carrer Bonaventura Carreras I Peralta, 4, 17004 Girona, Spain",
+      "latitude": 41.9851904,
+      "longitude": 2.8255314,
+      "google_map": "https://www.google.com/maps/search/Palau%20Fugit%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#palau-fugit",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "Stay in this historical palace hotel; colorful courtyard with 'Gipsy' neon bar; 'cute little' cave-style spa with pool and tea service. Explicit 5/5 (ad post)."
+        }
+      ],
+      "rating": 3,
+      "tags": "girona, hotel, palace, spa",
+      "source_rating_raw": null,
+      "geocode_query": "Palau Fugit, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Finca Victoria",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Riera, Begur",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Hotel & spa near Sa Riera beach with a pool day featured in the ad itinerary (orange loungers, red historic building) — and home to Al Kostat del Mar, the Jordi Vilà restaurant. A sleeper candidate: pool + Michelin-guide dinner + Sa Riera beach in one property, 5 minutes from Begur town. (Note: from a paid-partnership post — weight the praise accordingly.)",
+      "cost_range": "$$$$",
+      "address": "Carrer del Mar, 4, 17255 Sa Riera, Girona, Spain",
+      "latitude": 41.9710443,
+      "longitude": 3.2110748,
+      "google_map": "https://www.google.com/maps/search/Finca%20Victoria%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#finca-victoria",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "Pool day with a view — orange loungers, red historic building. (Ad post; web check confirms it houses Al Kostat del Mar.)"
+        }
+      ],
+      "rating": 3,
+      "tags": "beach-nearby, hotel, pool, spa",
+      "source_rating_raw": null,
+      "geocode_query": "Finca Victoria, Emporda, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Pals",
+      "region": "Costa Brava",
+      "neighborhood": "Pals",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "'Super cute' medieval hilltop village 15 minutes from Begur — cobblestones, bougainvillea, boutique shopping and traditional pottery & ceramics workshops. The closest Costa Brava analog to the impromptu-shopping wandering you loved in Ravello; pairs with Pahissa del Mas or Platja de Pals.",
+      "cost_range": "",
+      "address": "Pals, 17256, Girona, Spain",
+      "latitude": 41.9709213,
+      "longitude": 3.1488297,
+      "google_map": "https://www.google.com/maps/search/Pals%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#pals",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "'Super cute' medieval village — cobblestones, bougainvillea, boutique shopping, pottery & ceramics workshops. Explicit 5/5 (ad post)."
+        }
+      ],
+      "rating": 4,
+      "tags": "ceramics, medieval, shopping, town, village",
+      "source_rating_raw": null,
+      "geocode_query": "Pals, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Girona Old Town",
+      "region": "Costa Brava",
+      "neighborhood": "Girona",
+      "type": "Attraction",
+      "emoji": "🏙️",
+      "description": "Girona's Barri Vell — stone alleys, stairways, the cathedral and the Onyar riverfront, ~50 minutes inland from Begur. A half-day culture counterweight to the beach days; combine with Arròs9 for lunch and the Sant Domènec steps.",
+      "cost_range": "",
+      "address": "Barri Vell, Girona, Spain",
+      "latitude": 41.9847414,
+      "longitude": 2.8257169,
+      "google_map": "https://www.google.com/maps/search/Girona%20Old%20Town%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#girona-old-town",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "Stone alleys and stairways of the Old Town, from the 15-must-dos itinerary (ad post)."
+        }
+      ],
+      "rating": 3,
+      "tags": "culture, day-trip, girona, historic, old-town",
+      "source_rating_raw": null,
+      "geocode_query": "Barri Vell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Pujada de Sant Domènec",
+      "region": "Costa Brava",
+      "neighborhood": "Girona Old Town",
+      "type": "Attraction",
+      "emoji": "🏛️",
+      "description": "The Game of Thrones staircase of Girona (Braavos/King's Landing scenes) — Tiina Blomgren's move: a glass of wine at the foot of the steps. A 10-minute stop inside any Girona Old Town wander.",
+      "cost_range": "",
+      "address": "Pujada de Sant Domènec, 17004 Girona, Spain",
+      "latitude": 41.9852207,
+      "longitude": 2.8264794,
+      "google_map": "https://www.google.com/maps/search/Pujada%20de%20Sant%20Dom%C3%A8nec%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#pujada-de-sant-domenec",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "Wine at the foot of the Game of Thrones staircase (ad post)."
+        }
+      ],
+      "rating": 3,
+      "tags": "game-of-thrones, girona, historic, photo-spot",
+      "source_rating_raw": null,
+      "geocode_query": "Pujada de Sant Domenec, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Celler Perelada",
+      "region": "Costa Brava",
+      "neighborhood": "Peralada (Alt Empordà)",
+      "type": "Winery",
+      "emoji": "🍷",
+      "description": "Modern architectural winery attached to Peralada's castle in the Alt Empordà — 'the winery & the wine was amazing!!' per the ad itinerary's vineyard-tour must-do. Note the drive: ~1h15 north of Begur, so it suits a Cadaqués/northern-Empordà day rather than a casual stop. (Note: from a paid-partnership post — weight the praise accordingly.)",
+      "cost_range": "$$$",
+      "address": "Paratge la Granja, s/n, 17491 Peralada, Girona, Spain",
+      "latitude": 42.3063008,
+      "longitude": 3.0133778,
+      "google_map": "https://www.google.com/maps/search/Celler%20Perelada%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#celler-perelada",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "'Vineyard tour — this is a must!!' and 'the winery & the wine was amazing!!' Explicit 5/5 (ad post)."
+        }
+      ],
+      "rating": 3,
+      "tags": "architectural, emporda, tasting, wine, winery",
+      "source_rating_raw": null,
+      "geocode_query": "Celler Perelada, Peralada, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Gala Dalí Castle (Púbol)",
+      "region": "Costa Brava",
+      "neighborhood": "Púbol",
+      "type": "Attraction",
+      "emoji": "🏰",
+      "description": "The medieval castle Salvador Dalí bought and decorated for his wife Gala — golden throne room, surrealist details, Gala's crypt. 'Such a fun museum!' A 30-minute drive inland from Begur; the best culture wildcard of the area with the Dalí Triangle beyond it.",
+      "cost_range": "$",
+      "address": "Gala Dali, s/n, 17120 Púbol, Girona, Spain",
+      "latitude": 42.0146901,
+      "longitude": 2.9832657,
+      "google_map": "https://www.google.com/maps/search/Gala%20Dal%C3%AD%20Castle%20%28P%C3%BAbol%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#gala-dali-castle-pubol",
+      "references": [
+        {
+          "shortcode": "DPypqF3iMbl",
+          "url": "https://www.instagram.com/p/DPypqF3iMbl/",
+          "creator": "Tiina Blomgren",
+          "handle": "@travellingcloset",
+          "note": "'Such a fun museum!' — the castle Dalí bought for Gala; golden throne room. Explicit 5/5 (ad post)."
+        }
+      ],
+      "rating": 3,
+      "tags": "castle, culture, dali, museum, surrealism",
+      "source_rating_raw": null,
+      "geocode_query": "Gala Dali Castle, Pubol, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cala Sa Tuna",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Tiny, postcard cove below Begur ringed by old fishermen's houses with brightly painted doors — now the consensus cove of the research: Gemini's top-three pick plus heart-icon favorite or must-see in three separate Instagram posts. Deep emerald water, great snorkeling, and the waterfront tavern is pinned down: Restaurante Sa Tuna on the promenade, with Es Furió's arroz mar steps away.",
+      "cost_range": "",
+      "address": "Cala Sa Tuna, 17255 Sa Tuna, Girona, Spain",
+      "latitude": 41.9605402,
+      "longitude": 3.2295286,
+      "google_map": "https://www.google.com/maps/search/Cala%20Sa%20Tuna%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cala-sa-tuna",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Heart icon — 'fishermen's village' on the Begur beach list."
+        },
+        {
+          "shortcode": "CtPSZsLrom8",
+          "url": "https://www.instagram.com/reel/CtPSZsLrom8/",
+          "creator": "Wanderlusters",
+          "handle": "@wanderlusters.couple",
+          "note": "In the 'most beautiful beaches of Costa Brava' montage."
+        },
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "note": "One of the 9 places to visit in Costa Brava.",
+          "likes": 5800
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cove, hidden-gem, scenic, snorkeling, tavern",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Cala Aiguablava",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "One of the rare Costa Brava calas with genuinely fine sand and famously bright-blue water — heart-icon favorite in the Begur guide and named in three posts of the Instagram batch, on top of Gemini's original endorsement. Home to Toc al Mar on the sand, with Cap Sa Sal on the cliffs above and tiny Platja d'en Malaret next door: the densest single-bay cluster of the whole Costa Brava list.",
+      "cost_range": "",
+      "address": "Begur,platja D'aiguablava, 17255, Girona, Spain",
+      "latitude": 41.932742,
+      "longitude": 3.21498,
+      "google_map": "https://www.google.com/maps/search/Cala%20Aiguablava%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cala-aiguablava",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "Heart icon on the Begur beach list."
+        },
+        {
+          "shortcode": "CtPSZsLrom8",
+          "url": "https://www.instagram.com/reel/CtPSZsLrom8/",
+          "creator": "Wanderlusters",
+          "handle": "@wanderlusters.couple",
+          "note": "In the 'most beautiful beaches of Costa Brava' montage."
+        },
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "note": "One of the 9 places — Platja d'Aiguablava.",
+          "likes": 5800
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cove, sandy, snorkeling, swimming, turquoise",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Toc al Mar",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguablava, Begur",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "Beach restaurant directly on the sand at Cala Aiguablava — whole fish and paella over an oak-wood fire, long barefoot-luxury lunches. Recommended in two separate Gemini/Manus AI conversations and now the Instagram Begur guide too ('Toca al Mar — paella'). Reservations coveted; book well ahead for early September.",
+      "cost_range": "$$$",
+      "address": "Carrer Platja d'Aiguablava, 8, 17255 Begur, Girona, Spain",
+      "latitude": 41.9337333,
+      "longitude": 3.2163528,
+      "google_map": "https://www.google.com/maps/search/Toc%20al%20Mar%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#toc-al-mar",
+      "references": [
+        {
+          "shortcode": "DLh9N9OIi6n",
+          "url": "https://www.instagram.com/p/DLh9N9OIi6n/",
+          "creator": "Sea Salt Living",
+          "handle": "@seasaltliving.gr",
+          "note": "'Toca al Mar — paella' on the Begur foodies list."
+        }
+      ],
+      "rating": 4,
+      "tags": "chiringuito, lunch, paella, reservation-required, seafood, waterfront, wood-fired",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Begur",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "Hilltop town crowned by a castle and the epicenter of Costa Brava recommendations across every source — the batch-2 Instagram sweep confirms it plays the role Deià/Sóller play in Mallorca. Base for the best calas (Sa Tuna, Aiguablava, Fonda, Malaret, Aiguafreda, Illa Roja all within 10 minutes), with the densest restaurant cluster of the coast in and around town.",
+      "cost_range": "",
+      "address": "Begur, Girona, Spain",
+      "latitude": 41.9535354,
+      "longitude": 3.2025863,
+      "google_map": "https://www.google.com/maps/search/Begur%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#begur",
+      "references": [
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "note": "One of the 9 places — hilltop town panorama; hub of the area.",
+          "likes": 5800
+        }
+      ],
+      "rating": 4,
+      "tags": "base, hilltop, scenic, town, village",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

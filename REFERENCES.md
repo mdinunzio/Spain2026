@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list*
 
-*145 venues · 238 sources*
+*192 venues · 301 sources*
 
 ---
 
@@ -44,6 +44,25 @@ Each section is linked from that tab's `References` column.
   - BOOK IMMEDIATELY — rustic, open-air seafood built directly into the cliffside above Cala Deià. Famous (heavily featured in The Night Manager); reservations notoriously difficult. Do a late lunch after swimming in the cove.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - A standout meal of her 4-day trip — beautiful seafood lunch on the water at Cala Deià (shrimp, paprika octopus). 5/5.
+
+---
+
+<a id="cap-sa-sal" name="cap-sa-sal"></a>
+
+## ⭐ Cap Sa Sal
+
+**Region:** Costa Brava · **Neighborhood:** Aiguablava, Begur · **Type:** Dinner Restaurant · **Rating:** 5/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Cap%20Sa%20Sal%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (3)
+
+- **Instagram — Duda Sarmento (@dudasarmento_)** · [DZcatLpjZGv](https://www.instagram.com/p/DZcatLpjZGv/)
+  - 'My fav restaurant ever — wish I could go every day.' Hillside stone terrace over the sea at Aiguablava; fideuà and croquettes.
+- **Instagram — Crónicas Foodies Barcelona (@cronicasfoodies)** · [DWtGg4xDWXh](https://www.instagram.com/p/DWtGg4xDWXh/)
+  - #3 in the 'Top 5 restaurantes en Costa Brava' carousel — terrace overlooking the sea; pan con tomate, pastries, burrata.
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Listed among the romantic picks in the Begur guide.
 
 ---
 
@@ -213,6 +232,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="al-kostat-del-mar" name="al-kostat-del-mar"></a>
+
+## 🥘 Al Kostat del Mar
+
+**Region:** Costa Brava · **Neighborhood:** Sa Riera, Begur · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Al%20Kostat%20del%20Mar%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - Romantic dinner under a stone archway; mussels, tortilla; 'the food here was amazing.' Explicit 5/5 (ad post). Web check: it is the Jordi Vilà restaurant at Finca Victoria, Sa Riera.
+
+---
+
 <a id="bar-abaco" name="bar-abaco"></a>
 
 ## 🍸 Bar Ábaco
@@ -242,6 +276,23 @@ Each section is linked from that tab's `References` column.
 
 - **Google Maps (found by Michael)** · 2026-07-23 · [link](https://maps.google.com/?cid=16847903303577296597)
   - Found while browsing Google Maps — a cool-looking open-air cocktail bar in Deià with thatched shade, bamboo and woven-rope stools.
+
+---
+
+<a id="begur" name="begur"></a>
+
+## 🏘️ Begur
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Town/Village · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Begur%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The hilltop anchor town for the top calas (Sa Tuna, Aiguablava).
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places — hilltop town panorama; hub of the area.
 
 ---
 
@@ -302,12 +353,18 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Beach · **Rating:** 4/5
 
-[Google Maps](https://www.google.com/maps/search/Cala+Aiguablava%2C+Costa+Brava%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Cala%20Aiguablava%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (4)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - One of the few calas with finer sand. The water here is famously bright blue, and it is home to the restaurant Toc al Mar.
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Heart icon on the Begur beach list.
+- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
+  - In the 'most beautiful beaches of Costa Brava' montage.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places — Platja d'Aiguablava.
 
 ---
 
@@ -379,12 +436,18 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Beach · **Rating:** 4/5
 
-[Google Maps](https://www.google.com/maps/search/Cala+Sa+Tuna%2C+Costa+Brava%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Cala%20Sa%20Tuna%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (4)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - A tiny, incredibly picturesque cove surrounded by old fishermen's houses with colorful doors. It has a fantastic, quiet tavern right on the water.
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Heart icon — 'fishermen's village' on the Begur beach list.
+- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
+  - In the 'most beautiful beaches of Costa Brava' montage.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places to visit in Costa Brava.
 
 ---
 
@@ -470,6 +533,38 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch.
 - **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
   - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="casa-juanita" name="casa-juanita"></a>
+
+## 🐟 Casa Juanita
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Casa%20Juanita%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Circled + heart on the Begur foodies list — 'fish in the oven.'
+
+---
+
+<a id="clara" name="clara"></a>
+
+## 🍢 Clara
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Clara%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Instagram — Crónicas Foodies Barcelona (@cronicasfoodies)** · [DWtGg4xDWXh](https://www.instagram.com/p/DWtGg4xDWXh/)
+  - #1 in the top-5 carousel — pink-red building; skewers of olives, peppers and anchovies.
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - 'Clara Begur — tapas' on the Begur foodies list.
 
 ---
 
@@ -564,6 +659,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="el-golfet" name="el-golfet"></a>
+
+## 🏖️ El Golfet
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/El%20Golfet%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places — rocky cove with shallow clear water near Calella.
+
+---
+
 <a id="el-guia" name="el-guia"></a>
 
 ## 🦐 El Guia
@@ -634,6 +744,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="es-furio" name="es-furio"></a>
+
+## 🥘 Es Furió
+
+**Region:** Costa Brava · **Neighborhood:** Sa Tuna, Begur · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Es%20Furi%C3%B3%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Starred on the Begur foodies list — 'try the arroz mar.'
+
+---
+
 <a id="es-vergeret" name="es-vergeret"></a>
 
 ## 🥘 Es Vergeret
@@ -695,6 +820,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops.
 - **The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels)** · 2026-07-24 · [link](https://bestmallorcahotels.com/top-cocktail-bars-in-palma/)
   - Manus cited this source: The Top Cocktail Bars in Palma 2026 (Best Mallorca Hotels).
+
+---
+
+<a id="hostal-ses-negres" name="hostal-ses-negres"></a>
+
+## ☕ Hostal Ses Negres
+
+**Region:** Costa Brava · **Neighborhood:** Sa Riera, Begur · **Type:** Cafe · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Hostal%20Ses%20Negres%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Duda Sarmento (@dudasarmento_)** · [DZcatLpjZGv](https://www.instagram.com/p/DZcatLpjZGv/)
+  - Her 'secret' best breakfast in Begur, ⭐⭐⭐⭐⭐ — beach-view coffee, scrambled eggs, grilled cheese near Sa Riera beach.
 
 ---
 
@@ -770,6 +910,36 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="margarita" name="margarita"></a>
+
+## 🐟 Margarita
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Margarita%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Duda Sarmento (@dudasarmento_)** · [DZcatLpjZGv](https://www.instagram.com/p/DZcatLpjZGv/)
+  - 'Amazing lunch by the sea — love the food & vibe'; seaside terrace over moored boats. Explicit 5/5.
+
+---
+
+<a id="mas-de-torrent" name="mas-de-torrent"></a>
+
+## 🏨 Mas de Torrent
+
+**Region:** Costa Brava · **Neighborhood:** Torrent (nr. Pals) · **Type:** Hotel · **Rating:** 4/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/Mas%20de%20Torrent%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Duda Sarmento (@dudasarmento_)** · [DZcatLpjZGv](https://www.instagram.com/p/DZcatLpjZGv/)
+  - 'Lovely hotel, literally 5-star service, amazing to chill with a bottle of wine.' Relais & Châteaux-style farmhouse hotel. Explicit 5/5.
+
+---
+
 <a id="mhares-sea-club" name="mhares-sea-club"></a>
 
 ## 🏖️ Mhares Sea Club
@@ -821,6 +991,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="pahissa-del-mas" name="pahissa-del-mas"></a>
+
+## 🕯️ Pahissa del Mas
+
+**Region:** Costa Brava · **Neighborhood:** Pals · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Pahissa%20del%20Mas%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Star on the romantic list — 'sunset and star views.'
+
+---
+
 <a id="palma-cathedral-la-seu" name="palma-cathedral-la-seu"></a>
 
 ## ⛪ Palma Cathedral (La Seu)
@@ -833,6 +1018,74 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture.
+
+---
+
+<a id="pals" name="pals"></a>
+
+## 🏘️ Pals
+
+**Region:** Costa Brava · **Neighborhood:** Pals · **Type:** Town/Village · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Pals%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - 'Super cute' medieval village — cobblestones, bougainvillea, boutique shopping, pottery & ceramics workshops. Explicit 5/5 (ad post).
+
+---
+
+<a id="platja-d-en-malaret" name="platja-d-en-malaret"></a>
+
+## 🏖️ Platja d'en Malaret
+
+**Region:** Costa Brava · **Neighborhood:** Aiguablava, Begur · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20d%27en%20Malaret%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Star — 'tiny jewel' on the Begur beach list.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - 'Cala Malaret' — tiny cove reached via wooden stairs.
+
+---
+
+<a id="platja-de-l-illa-roja" name="platja-de-l-illa-roja"></a>
+
+## 🏖️ Platja de l'Illa Roja
+
+**Region:** Costa Brava · **Neighborhood:** Begur–Pals coast · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20de%20l%27Illa%20Roja%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (3)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Star icon on the Begur beach list (nudist beach).
+- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
+  - In the 'most beautiful beaches of Costa Brava' montage — flagged 'Nudista.'
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places to visit — sandy beach with its famous red rock.
+
+---
+
+<a id="platja-fonda" name="platja-fonda"></a>
+
+## 🏖️ Platja Fonda
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20Fonda%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Circled — 'crystal waters' on the Begur beach list.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places to visit in Costa Brava.
 
 ---
 
@@ -916,6 +1169,21 @@ Each section is linked from that tab's `References` column.
 
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - Named with Cala Llombards as the beaches for the Santanyí leg: 'the exact white-sand, electric-blue water experience you want.' Hit the sand early.
+
+---
+
+<a id="sa-rascassa" name="sa-rascassa"></a>
+
+## 🕯️ Sa Rascassa
+
+**Region:** Costa Brava · **Neighborhood:** Aiguafreda, Begur · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Sa%20Rascassa%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - On the romantic list — the hostal restaurant at Cala Aiguafreda.
 
 ---
 
@@ -1044,14 +1312,16 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Aiguablava, Begur · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Toc+al+Mar%2C+Costa+Brava%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Toc%20al%20Mar%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The chiringuito example: a rustic beach restaurant sitting literally on the sand at Aiguablava, serving whole fish roasted over an oak-wood fire. A highly coveted reservation.
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The Beach Clubs & Dining pick for the Llafranc leg: book a table right on the sand at Toc al Mar in Aiguablava for a massive lunch of whole, oak-wood-fired fish and grilled coastal vegetables — 'a spectacular way to eat beautifully clean, high-protein meals right on the water.'
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - 'Toca al Mar — paella' on the Begur foodies list.
 
 ---
 
@@ -1103,6 +1373,23 @@ Each section is linked from that tab's `References` column.
 
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The Vespa Rentals: renting a vintage-style scooter here is brilliant. The roads connecting Llafranc, Calella de Palafrugell, and Begur are scenic and relatively easy to navigate — beach-hop from Aiguablava to Sa Tuna, bypassing rental-car parking hassle.
+
+---
+
+<a id="via-ferrata-cala-del-moli" name="via-ferrata-cala-del-moli"></a>
+
+## 🧗 Via Ferrata Cala del Molí
+
+**Region:** Costa Brava · **Neighborhood:** Sant Feliu de Guíxols · **Type:** Activity · **Rating:** 4/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Instagram — Sorana Chiper — Mountains, Outdoor, Travel (@soranachiper)** · [C6q1pvwNRdy](https://www.instagram.com/reel/C6q1pvwNRdy/)
+  - Specs reel: ~8 km, 20 m height, K1–K2 easy, 1–1.5 h; Nepalese bridges over the waves; beginner-accessible yet 'super fun.'
+- **Instagram — Kimmie Conner — Travel + Festival Blogger (@kimmconn)** · [DZK6Xs2vV0_](https://www.instagram.com/reel/DZK6Xs2vV0_/)
+  - 'One of the most underrated adventure activities I've ever done… equal parts beautiful and terrifying. 10/10 would happily spend my holiday dangling off cliffs again.'
 
 ---
 
@@ -1167,6 +1454,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch.
 - **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
   - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="arros9" name="arros9"></a>
+
+## 🥘 Arròs9
+
+**Region:** Costa Brava · **Neighborhood:** Girona (Old Town edge) · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Arr%C3%B2s9%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - Long lunch; 'my husband loooved the anchovies!' — anchovies on bread, croquettes. Explicit 5/5 (ad post).
 
 ---
 
@@ -1285,6 +1587,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="bar-rodondo" name="bar-rodondo"></a>
+
+## 🍻 Bar Rodondo
+
+**Region:** Costa Brava · **Neighborhood:** Tamariu · **Type:** Bar · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Bar%20Rodondo%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Guide filed it under Begur, but the geocoder resolves it to Passeig del Mar, Tamariu — verify.
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - 'Cheap & good' on the Begur foodies list.
+
+---
+
 <a id="basilica-de-sant-francesc" name="basilica-de-sant-francesc"></a>
 
 ## ⛪ Basilica de Sant Francesc
@@ -1314,21 +1633,6 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch.
 - **Specialty Coffee in Palma: The Best Cafés (Estilo Palma)** · 2026-07-24 · [link](https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/)
   - Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma).
-
----
-
-<a id="begur" name="begur"></a>
-
-## 🏘️ Begur
-
-**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Town/Village · **Rating:** 3/5
-
-[Google Maps](https://www.google.com/maps/search/Begur%2C+Costa+Brava%2C+Spain)
-
-### Sources (1)
-
-- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - The hilltop anchor town for the top calas (Sa Tuna, Aiguablava).
 
 ---
 
@@ -1445,6 +1749,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cala-aiguafreda" name="cala-aiguafreda"></a>
+
+## 🏖️ Cala Aiguafreda
+
+**Region:** Costa Brava · **Neighborhood:** Aiguafreda, Begur · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Cala%20Aiguafreda%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - On the Begur beach list.
+
+---
+
 <a id="cala-d-or" name="cala-d-or"></a>
 
 ## 🏘️ Cala d'Or
@@ -1462,6 +1781,53 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cala-del-pi" name="cala-del-pi"></a>
+
+## 🏖️ Cala del Pi
+
+**Region:** Costa Brava · **Neighborhood:** Platja d'Aro / S'Agaró · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Cala%20del%20Pi%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Reel gave no precise location ('Tossa de Mar area'); pinned at Cala del Pi, Platja d'Aro–S'Agaró.
+
+### Sources (1)
+
+- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
+  - In the 'most beautiful beaches of Costa Brava' montage.
+
+---
+
+<a id="cala-pola" name="cala-pola"></a>
+
+## 🏖️ Cala Pola
+
+**Region:** Costa Brava · **Neighborhood:** Tossa de Mar · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Cala%20Pola%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
+  - In the 'most beautiful beaches of Costa Brava' montage.
+
+---
+
+<a id="cala-s-eixugador" name="cala-s-eixugador"></a>
+
+## 🏖️ Cala s'Eixugador
+
+**Region:** Costa Brava · **Neighborhood:** Sa Tuna, Begur · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Cala%20s%27Eixugador%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - 'Bit of a hike' on the Begur beach list.
+
+---
+
 <a id="can-bordoy-grand-house-garden" name="can-bordoy-grand-house-garden"></a>
 
 ## 🏨 Can Bordoy Grand House & Garden
@@ -1474,6 +1840,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Palma old town boutique hotel with a garden pool she called gorgeous. 5/5.
+
+---
+
+<a id="can-climent-platillos" name="can-climent-platillos"></a>
+
+## 🍢 Can Climent Platillos
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Can%20Climent%20Platillos%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - On the Begur foodies list — small plates in Begur town.
 
 ---
 
@@ -1573,6 +1954,38 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="celler-perelada" name="celler-perelada"></a>
+
+## 🍷 Celler Perelada
+
+**Region:** Costa Brava · **Neighborhood:** Peralada (Alt Empordà) · **Type:** Winery · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Celler%20Perelada%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - 'Vineyard tour — this is a must!!' and 'the winery & the wine was amazing!!' Explicit 5/5 (ad post).
+
+---
+
+<a id="chiringuito-d-aiguafreda" name="chiringuito-d-aiguafreda"></a>
+
+## 🍹 Chiringuito d'Aiguafreda
+
+**Region:** Costa Brava · **Neighborhood:** Aiguafreda, Begur · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Chiringuito%20d%27Aiguafreda%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Unnamed venue — pinned at Cala Aiguafreda itself.
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - 'Chiringuito in Aiguafreda' on the Begur foodies list.
+
+---
+
 <a id="clandestino-cocktail-club" name="clandestino-cocktail-club"></a>
 
 ## 🍸 Clandestino Cocktail Club
@@ -1587,6 +2000,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cocktail Bars & Rooftops.
 - **7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid)** · 2026-07-24 · [link](https://www.theannoyedthyroid.com/2025/08/29/best-cocktail-bars-palma-mallorca/)
   - Manus cited this source: 7 of the Best Cocktail Bars in Palma (The Annoyed Thyroid).
+
+---
+
+<a id="comedor-verdor" name="comedor-verdor"></a>
+
+## 🌿 Comedor Verdor
+
+**Region:** Costa Brava · **Neighborhood:** Pals · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Comedor%20Verdor%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - On the romantic list in the Begur guide.
 
 ---
 
@@ -1705,6 +2133,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="finca-victoria" name="finca-victoria"></a>
+
+## 🏨 Finca Victoria
+
+**Region:** Costa Brava · **Neighborhood:** Sa Riera, Begur · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Finca%20Victoria%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - Pool day with a view — orange loungers, red historic building. (Ad post; web check confirms it houses Al Kostat del Mar.)
+
+---
+
 <a id="fontsanta-hotel-thermal-spa-wellness" name="fontsanta-hotel-thermal-spa-wellness"></a>
 
 ## ♨️ Fontsanta Hotel Thermal Spa & Wellness
@@ -1717,6 +2160,36 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-22 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The wellness option: adults-only five-star built around the Balearics' only natural thermal spring, with a complimentary exclusive shuttle to Es Trenc. Not directly on the water, but the beach it serves is extraordinary.
+
+---
+
+<a id="gala-dali-castle-pubol" name="gala-dali-castle-pubol"></a>
+
+## 🏰 Gala Dalí Castle (Púbol)
+
+**Region:** Costa Brava · **Neighborhood:** Púbol · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Gala%20Dal%C3%AD%20Castle%20%28P%C3%BAbol%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - 'Such a fun museum!' — the castle Dalí bought for Gala; golden throne room. Explicit 5/5 (ad post).
+
+---
+
+<a id="girona-old-town" name="girona-old-town"></a>
+
+## 🏙️ Girona Old Town
+
+**Region:** Costa Brava · **Neighborhood:** Girona · **Type:** Attraction · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Girona%20Old%20Town%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - Stone alleys and stairways of the Old Town, from the 15-must-dos itinerary (ad post).
 
 ---
 
@@ -1796,6 +2269,36 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Matthieu Schon (@mattconcierge)** · 2026-07-04 · 6,538 likes · [DaXj49tjFH7](https://www.instagram.com/p/DaXj49tjFH7/)
   - #10 on his best-hotels list. Clifftop perch above Port de Sóller — sea, mountain and sunset-terrace views.
+
+---
+
+<a id="kaos-k-os" name="kaos-k-os"></a>
+
+## 🍽️ Kaos (K-OS)
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Kaos%20%28K-OS%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Crónicas Foodies Barcelona (@cronicasfoodies)** · [DWtGg4xDWXh](https://www.instagram.com/p/DWtGg4xDWXh/)
+  - #4 in the top-5 carousel — orange facade; fish on diced vegetables, anchovy skewers.
+
+---
+
+<a id="komo-to-loko" name="komo-to-loko"></a>
+
+## 🍣 Komo To Loko
+
+**Region:** Costa Brava · **Neighborhood:** Mont-ras (nr. Palafrugell) · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Komo%20To%20Loko%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Crónicas Foodies Barcelona (@cronicasfoodies)** · [DWtGg4xDWXh](https://www.instagram.com/p/DWtGg4xDWXh/)
+  - #5 in the top-5 carousel: Japanese open kitchen, wagyu sirloin €28.50/100 g, tuna nigiri; TripAdvisor-ranked among best 2023.
 
 ---
 
@@ -1899,6 +2402,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="mas-generos" name="mas-generos"></a>
+
+## 🍽️ Mas Generós
+
+**Region:** Costa Brava · **Neighborhood:** Fonteta (Baix Empordà) · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Mas%20Gener%C3%B3s%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - 'This restaurant & hotel was amazing!!' — garden lunch with white wine and olives. Explicit 5/5 (ad post).
+
+---
+
 <a id="miga-de-nube" name="miga-de-nube"></a>
 
 ## ☕ Miga de Nube
@@ -1914,6 +2432,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="nu-beach-club" name="nu-beach-club"></a>
+
+## 🏖️ NU Beach Club
+
+**Region:** Mallorca · **Neighborhood:** Playa de Muro (Alcúdia Bay) · **Type:** Beach Club · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/NU%20Beach%20Club%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Adrian & Katie — Irish Travel Deals & Hotel Stays (@pockettraveldeals)** · [DK95gxRsFj_](https://www.instagram.com/reel/DK95gxRsFj_/)
+  - 'One of Mallorca's most beautiful beach clubs' — cabanas on the sand, DJ all day, great food and drinks (guacamole, hummus spreads shown).
+
+---
+
 <a id="palamos" name="palamos"></a>
 
 ## ⛵ Palamós
@@ -1926,6 +2459,21 @@ Each section is linked from that tab's `References` column.
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - One of the towns Gemini recommends for hiring a small private boat with a skipper for the day.
+
+---
+
+<a id="palau-fugit" name="palau-fugit"></a>
+
+## 🏨 Palau Fugit
+
+**Region:** Costa Brava · **Neighborhood:** Girona Old Town · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Palau%20Fugit%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - Stay in this historical palace hotel; colorful courtyard with 'Gipsy' neon bar; 'cute little' cave-style spa with pool and tea service. Explicit 5/5 (ad post).
 
 ---
 
@@ -1978,6 +2526,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="pizza-bar-emporda" name="pizza-bar-emporda"></a>
+
+## 🍕 Pizza Bar Empordà
+
+**Region:** Costa Brava · **Neighborhood:** Sant Feliu de Boada · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Pizza%20Bar%20Empord%C3%A0%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Duda Sarmento (@dudasarmento_)** · [DZcatLpjZGv](https://www.instagram.com/p/DZcatLpjZGv/)
+  - 'Good pizza is hard to find near Begur center — nice alternative, plus it's in a super cute small town.' Explicit 4/5.
+
+---
+
 <a id="platja-de-formentor" name="platja-de-formentor"></a>
 
 ## 🏖️ Platja de Formentor
@@ -1992,6 +2555,81 @@ Each section is linked from that tab's `References` column.
   - B-tier. Beautiful natural surroundings, but the island's most expensive parking, and driving is banned in summer with fines — take public transport.
 - **Instagram — BellaHoppa (@bellahoppa)** · 2026-05-02 · 228,321 views · 2,177 likes · [DX2boDLtL3Q](https://www.instagram.com/p/DX2boDLtL3Q/)
   - Flags Formentor as restricted in peak season and argues for grouping it with the Tramuntana and Sa Calobra from a northern base.
+
+---
+
+<a id="platja-de-pals" name="platja-de-pals"></a>
+
+## 🏖️ Platja de Pals
+
+**Region:** Costa Brava · **Neighborhood:** Pals · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20de%20Pals%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - On the Begur beach list.
+
+---
+
+<a id="platja-de-sa-riera" name="platja-de-sa-riera"></a>
+
+## 🏖️ Platja de Sa Riera
+
+**Region:** Costa Brava · **Neighborhood:** Sa Riera, Begur · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20de%20Sa%20Riera%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places — sandy bay with white buildings.
+
+---
+
+<a id="platja-de-santa-cristina" name="platja-de-santa-cristina"></a>
+
+## 🏖️ Platja de Santa Cristina
+
+**Region:** Costa Brava · **Neighborhood:** Lloret de Mar · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20de%20Santa%20Cristina%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
+  - In the 'most beautiful beaches of Costa Brava' montage.
+
+---
+
+<a id="platja-de-tamariu" name="platja-de-tamariu"></a>
+
+## 🏖️ Platja de Tamariu
+
+**Region:** Costa Brava · **Neighborhood:** Tamariu, Palafrugell · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20de%20Tamariu%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - On the Begur beach list.
+
+---
+
+<a id="platja-del-canadell" name="platja-del-canadell"></a>
+
+## 🏖️ Platja del Canadell
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20del%20Canadell%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - 'Canadell's beach' on the Begur beach list.
 
 ---
 
@@ -2076,6 +2714,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="pujada-de-sant-domenec" name="pujada-de-sant-domenec"></a>
+
+## 🏛️ Pujada de Sant Domènec
+
+**Region:** Costa Brava · **Neighborhood:** Girona Old Town · **Type:** Attraction · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Pujada%20de%20Sant%20Dom%C3%A8nec%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
+  - Wine at the foot of the Game of Thrones staircase (ad post).
+
+---
+
 <a id="purobeach-illetas" name="purobeach-illetas"></a>
 
 ## 🏖️ Purobeach Illetas
@@ -2107,6 +2760,36 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - In Santanyí, a beautiful, romantic courtyard and an exceptional wine list. Perfect for a high-end, relaxed dinner where you can just walk back to Can Ferrereta afterward.
+
+---
+
+<a id="restaurant-turandot" name="restaurant-turandot"></a>
+
+## 🍽️ Restaurant Turandot
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Restaurant%20Turandot%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - On the romantic list in the Begur guide.
+
+---
+
+<a id="restaurante-sa-tuna" name="restaurante-sa-tuna"></a>
+
+## 🐟 Restaurante Sa Tuna
+
+**Region:** Costa Brava · **Neighborhood:** Sa Tuna, Begur · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Restaurante%20Sa%20Tuna%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - On the Begur foodies list; the waterfront restaurant at Cala Sa Tuna.
 
 ---
 
@@ -2154,6 +2837,21 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Sights & Architecture.
+
+---
+
+<a id="sa-conca" name="sa-conca"></a>
+
+## 🏖️ Sa Conca
+
+**Region:** Costa Brava · **Neighborhood:** S'Agaró · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Sa%20Conca%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
+  - In the 'most beautiful beaches of Costa Brava' montage.
 
 ---
 
@@ -2209,6 +2907,21 @@ Each section is linked from that tab's `References` column.
   - One of the best markets on the island (Wednesdays & Saturdays) — takes over the whole village. Perfect for the 'impromptu shopping and exploring' you loved in Ravello: local ceramics, linens, artisan foods.
 - **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-05 · 48,798 views · 1,150 likes · [DZNcqIvRShi](https://www.instagram.com/p/DZNcqIvRShi/)
   - Wed/Sat street market — bread, ensaïmadas, ceramics, wood crafts, truffle products, fans, clothing. Bought ceramic chopstick rests (€6), an apple empanada (€7), an Estrella Damm. Verdict was explicitly mixed: "a letdown in terms of range of vendors… still cool and something to do on the east side." 3/5.
+
+---
+
+<a id="soca-rel" name="soca-rel"></a>
+
+## 🌿 Soca-rel
+
+**Region:** Costa Brava · **Neighborhood:** Llofriu, Palafrugell · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Soca-rel%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - 'Soca-rel Restaurant Empordà' on the romantic list.
 
 ---
 
@@ -2323,6 +3036,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="torre-de-nura" name="torre-de-nura"></a>
+
+## 🍽️ Torre de Nura
+
+**Region:** Costa Brava · **Neighborhood:** Torrent (nr. Begur) · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Torre%20de%20Nura%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Crónicas Foodies Barcelona (@cronicasfoodies)** · [DWtGg4xDWXh](https://www.instagram.com/p/DWtGg4xDWXh/)
+  - #2 in the top-5 carousel — red eye logo; flan/crème caramel with whipped cream.
+
+---
+
 <a id="vandal" name="vandal"></a>
 
 ## 🍽️ Vandal
@@ -2384,6 +3112,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Neutral aside only — noted it as opening in summer 2026, with no review attached.
+
+---
+
+<a id="san-juan-de-gaztelugatxe" name="san-juan-de-gaztelugatxe"></a>
+
+## 🥾 San Juan de Gaztelugatxe
+
+**Region:** Basque Country · **Neighborhood:** Bermeo, Biscay · **Type:** Attraction · **Rating:** 2/5
+
+[Google Maps](https://www.google.com/maps/search/San%20Juan%20de%20Gaztelugatxe%2C%20Basque%20Country%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Elina Aleksandra (@elina.outdoor.explorer)** · [DYcrj2-N8w5](https://www.instagram.com/reel/DYcrj2-N8w5/)
+  - 'One of the most unreal hikes in the Basque Country' — stone bridge, cliff stairs, hermitage; free but reserve online ahead (or refresh for cancellations).
 
 ---
 
