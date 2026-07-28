@@ -40,7 +40,7 @@ Ultimately I like to organize my trips in the following way, and this is the des
 
 The following are areas I could really use your help for staying sane and organized.
 
-I am getting recommendations from Instagram, YouTube, Blogs, and other sites. I need help with:
+I am getting recommendations from Instagram, YouTube, Blogs, and other sites. Some sources arrive as PDF exports of conversations with other AIs (Gemini, Manus, etc.) dropped into this repo (e.g. in `staging/`) — review these like any other source and run them through the parsing pipeline below; Claude's deeper research should build on top of what those conversations surfaced. I need help with:
 
 - Extracting the spots mentioned from LLMs, websites, reels, and videos.
     - For this, we may rely on either Manus, which has proven quite capable
