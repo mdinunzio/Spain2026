@@ -1,0 +1,348 @@
+{
+  "batch": "2026-07-27_manus-wine-bar-matches",
+  "region": "Mallorca + Costa Brava",
+  "source_count": 1,
+  "venue_count": 12,
+  "locations": [
+    {
+      "name": "Sa Fonda",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Wine Bar",
+      "emoji": "🍢",
+      "description": "Deià's beloved village tapas bar — rustic, wine-forward, flavor-packed small plates in a cozy, almost family-like room that turns bustling and energetic in the evenings. Manus's pick as your walk-in 'neighborhood spot' for the Deià leg: the Barcelona Wine Bar of the village, steps from La Residencia.",
+      "cost_range": "$$",
+      "address": "Carrer Arxiduc Luís Salvador, 5, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7474822,
+      "longitude": 2.6486436,
+      "google_map": "https://www.google.com/maps/search/Sa+Fonda%2C+Dei%C3%A0%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#sa-fonda",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Barcelona Wine Bar match for Deià: the village's beloved tapas bar — rustic, wine-forward small plates, cozy family-like atmosphere, bustling in the evenings. Walk-in friendly; 'your neighborhood spot during the Deià leg.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "casual, deia-village, tapas, walk-in, wine",
+      "source_rating_raw": null,
+      "geocode_query": "Sa Fonda, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Restaurante Deià",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Simple, honest, home-cooked Mallorcan food in Deià village — local white wine, stuffed peppers, squid. Manus's second Barcelona-Wine-Bar-adjacent pick for the Deià leg: 'not fancy but deeply satisfying,' the low-key counterweight to the El Olivo/Bens d'Avall splurges.",
+      "cost_range": "$$",
+      "address": "Carrer Felipe Bauzà, 1, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7466822,
+      "longitude": 2.6494022,
+      "google_map": "https://www.google.com/maps/search/Restaurante+Dei%C3%A0%2C+Dei%C3%A0%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#restaurante-deia",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Local white wine, stuffed peppers, squid — the rustic, home-cooked Mallorcan vibe with excellent local wines. 'Simple, honest food. Not fancy but deeply satisfying.'"
+        }
+      ],
+      "rating": 3,
+      "tags": "casual, deia-village, home-cooking, local-wine, mallorcan",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurante Deia, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Xoriguer",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🥩",
+      "description": "Palma institution since the 1980s in Santa Catalina — Mediterranean-Basque cooking with grilled meats, a warm rustic room, and an outstanding, reasonably priced wine list (the sirloin with Mallorca wine is legendary; 9.2/10 on TheFork). Manus's #1 pick as 'probably your single closest match to Barcelona Wine Bar.' Around the corner from Santa Catalina Market; reserve about a week out for weekend nights (OpenTable).",
+      "cost_range": "$$$",
+      "address": "C. de la Fàbrica, 60, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.573483,
+      "longitude": 2.634395,
+      "google_map": "https://www.google.com/maps/search/Xoriguer%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#xoriguer",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Top-3 pick #1: 'probably your single closest match to Barcelona Wine Bar' — Mediterranean-Basque grilled meats, outstanding reasonably-priced wine list, warm rustic atmosphere; sirloin with Mallorca wine is legendary. 9.2/10 TheFork; reserve ~a week ahead for Fri/Sat."
+        }
+      ],
+      "rating": 4,
+      "tags": "basque, grilled-meats, institution, santa-catalina, wine-list",
+      "source_rating_raw": "9.2/10 TheFork",
+      "geocode_query": "Restaurante Xoriguer, Santa Catalina, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Tast Club",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Dinner Restaurant",
+      "emoji": "🕯️",
+      "description": "Hidden tapas bar tucked inside a vaulted-ceiling courtyard mansion off Carrer de Sant Jaume — excellent cocktails, a carefully curated wine list, and elevated tapas at fair prices. 'Brimming with romance': Manus's most-romantic pick of the wine-bar set and a natural Palma date night. Reserve about a week out for weekends.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Jaume, 6, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5721763,
+      "longitude": 2.6475879,
+      "google_map": "https://www.google.com/maps/search/Tast+Club%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#tast-club",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Top-3 pick #2: hidden tapas bar in a vaulted-ceiling courtyard mansion — excellent cocktails, curated wine list, elevated tapas. 'Brimming with romance.' Perfect date night; reserve ~a week ahead for Fri/Sat."
+        }
+      ],
+      "rating": 4,
+      "tags": "cocktails, date-night, hidden-gem, romantic, tapas",
+      "source_rating_raw": null,
+      "geocode_query": "Tast Club, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Vinya de Santa Clara",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Wine Bar",
+      "emoji": "🍷",
+      "description": "Tiny, owner-run wine bar on Carrer de Santa Clara with 60+ wines by the glass, Spanish charcuterie, cheeses and simple tapas — the owner personally walks you through the pours. 'Feels like discovering a secret,' away from the tourist hustle: the ideal pre-dinner wine stop or light evening in the Old Town.",
+      "cost_range": "$$",
+      "address": "Carrer de Santa Clara, 8, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5672925,
+      "longitude": 2.6512753,
+      "google_map": "https://www.google.com/maps/search/La+Vinya+de+Santa+Clara%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#la-vinya-de-santa-clara",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Tiny owner-run wine bar, 60+ wines by the glass, charcuterie and simple tapas; the owner personally guides the tasting. 'Very intimate — feels like discovering a secret.' Great pre-dinner stop."
+        }
+      ],
+      "rating": 3,
+      "tags": "by-the-glass, charcuterie, intimate, owner-run, wine",
+      "source_rating_raw": null,
+      "geocode_query": "La Vinya de Santa Clara, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bar Día",
+      "region": "Mallorca",
+      "neighborhood": "La Lonja, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍢",
+      "description": "Truly rustic local tapas bar on Carrer dels Apuntadors — grilled padrón peppers, croquettes, tortilla, good local wines, about €42 for dinner for two with wine. 'The most authentic neighborhood bar on this list. No frills, just great food and wine.' A few doors from El Camino, so the street makes an easy high-low tapas crawl.",
+      "cost_range": "$",
+      "address": "Carrer dels Apuntadors, 18, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5691513,
+      "longitude": 2.645062,
+      "google_map": "https://www.google.com/maps/search/Bar+D%C3%ADa%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bar-dia",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Rustic local tapas bar — padrón peppers, croquettes, tortilla, local wines; ~€42 dinner for two with wine. 'The most authentic neighborhood bar on this list.'"
+        }
+      ],
+      "rating": 3,
+      "tags": "budget, casual, local, tapas, no-frills",
+      "source_rating_raw": null,
+      "geocode_query": "Bar Dia, Carrer dels Apuntadors, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Rostei",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🥩",
+      "description": "Family-run since 1991 in an 1849 building in Begur's village center, with a wisteria-shaded terrace — grilled meats, grilled clams, and a warm, rustic room. Manus's 'Barcelona Wine Bar equivalent in Costa Brava' and top-3 pick #3: the roasted-chicken-and-wine energy you love, walkable from a Begur base. Joins the already-dense Begur dinner cluster (Casa Juanita, Clara, Can Climent).",
+      "cost_range": "$$$",
+      "address": "Carrer de la Concepció Pi Tató, 8, 17255 Begur, Girona, Spain",
+      "latitude": 41.9540152,
+      "longitude": 3.2077176,
+      "google_map": "https://www.google.com/maps/search/Rostei%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#rostei",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Top-3 pick #3: family-run since 1991, 1849 building, wisteria-shaded terrace; grilled meats and clams, warm rustic atmosphere. 'Your neighborhood grill in Begur.' Ranked #10 in Begur on TripAdvisor."
+        }
+      ],
+      "rating": 4,
+      "tags": "begur-town, family-run, grilled-meats, terrace, wine",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Rostei, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Tapas de Begur",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Bar",
+      "emoji": "🍢",
+      "description": "Authentic, no-fuss tapas bar on Begur's Plaça de la Vila — simple, quick and friendly, the pop-in spot for a glass of wine and a few plates before or after dinner in the village. 'More casual/quick-bite than Barcelona Wine Bar, but the same tapas-bar soul.'",
+      "cost_range": "$$",
+      "address": "Plaça de la Vila, 4, 17255 Begur, Girona, Spain",
+      "latitude": 41.95451449999999,
+      "longitude": 3.207751,
+      "google_map": "https://www.google.com/maps/search/El+Tapas+de+Begur%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#el-tapas-de-begur",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Authentic tapas bar in the village center — simple, quick, friendly; the pre/post-dinner wine-and-plates stop. Same tapas-bar soul as Barcelona Wine Bar, more casual."
+        }
+      ],
+      "rating": 3,
+      "tags": "begur-town, casual, tapas, walk-in, wine",
+      "source_rating_raw": null,
+      "geocode_query": "El Tapas de Begur, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Vinilo Wine Bar & Bistro",
+      "region": "Costa Brava",
+      "neighborhood": "L'Escala",
+      "type": "Wine Bar",
+      "emoji": "🎶",
+      "description": "Natural/biodynamic wine bar and bistro right by the sea in L'Escala, with homemade food from local produce and a curated vinyl soundtrack — intimate and artisanal. The most wine-forward option on the Costa Brava per Manus, but a ~35-minute drive north of Begur, so it suits an Empordà/L'Escala day (anchovy country) rather than a casual evening.",
+      "cost_range": "$$",
+      "address": "Carrer Port d'en Perris, 2, 17130 L'Escala, Girona, Spain",
+      "latitude": 42.126143,
+      "longitude": 3.135025,
+      "google_map": "https://www.google.com/maps/search/Vinilo+Wine+Bar%2C+L%27Escala%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#vinilo-wine-bar-bistro",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Natural/biodynamic wines, homemade food from local produce, curated vinyl soundtrack, right by the sea. 'The most wine-forward option on the Costa Brava' — worth the drive/taxi."
+        }
+      ],
+      "rating": 3,
+      "tags": "natural-wine, seaside, vinyl, wine",
+      "source_rating_raw": null,
+      "geocode_query": "Vinilo Wine Bar, L'Escala, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Entre Dos Mons",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Michelin-Guide-recognized Peruvian-Catalan fusion in Palamós with an incredible wine list built on small Empordà producers — the owner personally introduces bottles you'd never find elsewhere. 'More elevated than Barcelona Wine Bar, but the same passion for wine discovery and bold flavors.' 20 minutes from Begur, on the same street as Kaos — and a natural dinner after a Palamós boat-charter day.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Tauler i Servià, 21, 17230 Palamós, Girona, Spain",
+      "latitude": 41.8456966,
+      "longitude": 3.1290906,
+      "google_map": "https://www.google.com/maps/search/Entre+Dos+Mons%2C+Palam%C3%B3s%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#entre-dos-mons",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "Michelin-recognized Peruvian-Catalan fusion; incredible wine list of small Empordà producers; charming hosts who personally introduce the wines. More elevated, same wine-discovery passion."
+        }
+      ],
+      "rating": 4,
+      "tags": "fusion, michelin-guide, palamos, small-producers, wine-list",
+      "source_rating_raw": null,
+      "geocode_query": "Entre Dos Mons, Palamos, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Camino",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "A bustling, high-end tapas bar on Carrer dels Apuntadors with a long counter and open kitchen, from the team behind London's Barrafina. Manus's wine-bar roundup singles it out as sharing Barcelona Wine Bar's DNA — counter seating, watching chefs work, sharing plates — just more polished. Bar Día, the no-frills cousin, is a few doors down the same street.",
+      "cost_range": "$$$",
+      "address": "Carrer dels Apuntadors, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.569204,
+      "longitude": 2.6447358,
+      "google_map": "https://www.google.com/maps/search/El+Camino%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#el-camino",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "'More polished than Barcelona Wine Bar but the same DNA — counter seating, watching chefs work, sharing plates.' Barrafina-team pedigree, bustling energy, excellent Spanish wines."
+        }
+      ],
+      "rating": 4,
+      "tags": "counter, high-end, open-kitchen, palma, tapas",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Bar La Sang",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Wine Bar",
+      "emoji": "🍷",
+      "description": "A brilliant natural-wine bar pouring earthy Mallorcan reds alongside tapas like burrata and anchovies — intimate and wine-geek-friendly. Manus's wine-bar roundup adds: perfect if you love discovering small-producer wines.",
+      "cost_range": "$$",
+      "address": "Carrer d'Antoni Frontera, 22, 07004 Palma, Illes Balears, Spain",
+      "latitude": 39.581688,
+      "longitude": 2.6530341,
+      "google_map": "https://www.google.com/maps/search/Bar+La+Sang%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bar-la-sang",
+      "references": [
+        {
+          "source": "Manus",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-27",
+          "note": "'A brilliant natural wine bar serving earthy Mallorcan reds alongside tapas like burrata and anchovies. Intimate, wine-geek-friendly. Perfect if you love discovering small-producer wines.'"
+        }
+      ],
+      "rating": 3,
+      "tags": "natural-wine, palma, small-producers, tapas, wine-geek",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

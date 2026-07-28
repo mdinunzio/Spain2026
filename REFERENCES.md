@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches*
 
-*192 venues · 301 sources*
+*202 venues · 313 sources*
 
 ---
 
@@ -646,16 +646,18 @@ Each section is linked from that tab's `References` column.
 
 ## 🍽️ El Camino
 
-**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/El+Camino%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/El+Camino%2C+Palma%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 'More polished than Barcelona Wine Bar but the same DNA — counter seating, watching chefs work, sharing plates.' Barrafina-team pedigree, bustling energy, excellent Spanish wines.
 
 ---
 
@@ -741,6 +743,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch.
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
+<a id="entre-dos-mons" name="entre-dos-mons"></a>
+
+## 🍽️ Entre Dos Mons
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Entre+Dos+Mons%2C+Palam%C3%B3s%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Michelin-recognized Peruvian-Catalan fusion; incredible wine list of small Empordà producers; charming hosts who personally introduce the wines. More elevated, same wine-discovery passion.
 
 ---
 
@@ -1157,6 +1174,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="rostei" name="rostei"></a>
+
+## 🥩 Rostei
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Rostei%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Top-3 pick #3: family-run since 1991, 1849 building, wisteria-shaded terrace; grilled meats and clams, warm rustic atmosphere. 'Your neighborhood grill in Begur.' Ranked #10 in Begur on TripAdvisor.
+
+---
+
 <a id="s-amarador" name="s-amarador"></a>
 
 ## 🏖️ S'Amarador
@@ -1169,6 +1201,21 @@ Each section is linked from that tab's `References` column.
 
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - Named with Cala Llombards as the beaches for the Santanyí leg: 'the exact white-sand, electric-blue water experience you want.' Hit the sand early.
+
+---
+
+<a id="sa-fonda" name="sa-fonda"></a>
+
+## 🍢 Sa Fonda
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Wine Bar · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Sa+Fonda%2C+Dei%C3%A0%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Barcelona Wine Bar match for Deià: the village's beloved tapas bar — rustic, wine-forward small plates, cozy family-like atmosphere, bustling in the evenings. Walk-in friendly; 'your neighborhood spot during the Deià leg.'
 
 ---
 
@@ -1306,6 +1353,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="tast-club" name="tast-club"></a>
+
+## 🕯️ Tast Club
+
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Tast+Club%2C+Palma%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Top-3 pick #2: hidden tapas bar in a vaulted-ceiling courtyard mansion — excellent cocktails, curated wine list, elevated tapas. 'Brimming with romance.' Perfect date night; reserve ~a week ahead for Fri/Sat.
+
+---
+
 <a id="toc-al-mar" name="toc-al-mar"></a>
 
 ## 🐟 Toc al Mar
@@ -1405,6 +1467,21 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — 2 Michelin stars, a brilliant, theatrical tasting menu. A bit further east in Canyamel but absolutely worth the drive; book a private driver for this night.
+
+---
+
+<a id="xoriguer" name="xoriguer"></a>
+
+## 🥩 Xoriguer
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Xoriguer%2C+Palma%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Top-3 pick #1: 'probably your single closest match to Barcelona Wine Bar' — Mediterranean-Basque grilled meats, outstanding reasonably-priced wine list, warm rustic atmosphere; sirloin with Mallorca wine is legendary. 9.2/10 TheFork; reserve ~a week ahead for Fri/Sat.
 
 ---
 
@@ -1536,6 +1613,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="bar-dia" name="bar-dia"></a>
+
+## 🍢 Bar Día
+
+**Region:** Mallorca · **Neighborhood:** La Lonja, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Bar+D%C3%ADa%2C+Palma%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rustic local tapas bar — padrón peppers, croquettes, tortilla, local wines; ~€42 dinner for two with wine. 'The most authentic neighborhood bar on this list.'
+
+---
+
 <a id="bar-espana" name="bar-espana"></a>
 
 ## 🍽️ Bar España
@@ -1574,16 +1666,18 @@ Each section is linked from that tab's `References` column.
 
 ## 🍷 Bar La Sang
 
-**Region:** Mallorca · **Neighborhood:** Coffee Corridor · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
 
-[Google Maps](https://www.google.com/maps/search/Bar+La+Sang%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Bar+La+Sang%2C+Palma%2C+Mallorca%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Wine Bars.
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 'A brilliant natural wine bar serving earthy Mallorcan reds alongside tapas like burrata and anchovies. Intimate, wine-geek-friendly. Perfect if you love discovering small-producer wines.'
 
 ---
 
@@ -2067,6 +2161,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="el-tapas-de-begur" name="el-tapas-de-begur"></a>
+
+## 🍢 El Tapas de Begur
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/El+Tapas+de+Begur%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Authentic tapas bar in the village center — simple, quick, friendly; the pre/post-dinner wine-and-plates stop. Same tapas-bar soul as Barcelona Wine Bar, more casual.
+
+---
+
 <a id="es-baluard-museum-of-modern-art" name="es-baluard-museum-of-modern-art"></a>
 
 ## 🖼️ Es Baluard Museum of Modern Art
@@ -2348,6 +2457,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
+<a id="la-vinya-de-santa-clara" name="la-vinya-de-santa-clara"></a>
+
+## 🍷 La Vinya de Santa Clara
+
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/La+Vinya+de+Santa+Clara%2C+Palma%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Tiny owner-run wine bar, 60+ wines by the glass, charcuterie and simple tapas; the owner personally guides the tasting. 'Very intimate — feels like discovering a secret.' Great pre-dinner stop.
 
 ---
 
@@ -2778,6 +2902,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="restaurante-deia" name="restaurante-deia"></a>
+
+## 🍽️ Restaurante Deià
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Restaurante+Dei%C3%A0%2C+Dei%C3%A0%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Local white wine, stuffed peppers, squid — the rustic, home-cooked Mallorcan vibe with excellent local wines. 'Simple, honest food. Not fancy but deeply satisfying.'
+
+---
+
 <a id="restaurante-sa-tuna" name="restaurante-sa-tuna"></a>
 
 ## 🐟 Restaurante Sa Tuna
@@ -3063,6 +3202,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Elevated modern tapas in Santa Catalina. 4/5.
+
+---
+
+<a id="vinilo-wine-bar-bistro" name="vinilo-wine-bar-bistro"></a>
+
+## 🎶 Vinilo Wine Bar & Bistro
+
+**Region:** Costa Brava · **Neighborhood:** L'Escala · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Vinilo+Wine+Bar%2C+L%27Escala%2C+Costa+Brava%2C+Spain)
+
+### Sources (1)
+
+- **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Natural/biodynamic wines, homemade food from local produce, curated vinyl soundtrack, right by the sea. 'The most wine-forward option on the Costa Brava' — worth the drive/taxi.
 
 ---
 
