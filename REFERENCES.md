@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_manus-calella-palafrugell-guide*
 
-*202 venues · 313 sources*
+*232 venues · 379 sources*
 
 ---
 
@@ -451,6 +451,42 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="calau" name="calau"></a>
+
+## 🍢 Calau
+
+**Region:** Costa Brava · **Neighborhood:** Port Bo, Calella de Palafrugell · **Type:** Wine Bar · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Calau%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Ranked #1 or #2 in Calella on almost every platform; limited but exceptional menu, cava flows freely, consistently delicious.
+- **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Restaurant_Review-g1072491-d3294523-Reviews-Calau-Calella_de_Palafrugell_Palafrugell_Costa_Brava_Province_of_Girona_Cataloni.html)
+  - TripAdvisor listing for Calau.
+
+---
+
+<a id="calella-de-palafrugell" name="calella-de-palafrugell"></a>
+
+## 🏘️ Calella de Palafrugell
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell · **Type:** Town/Village · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Calella%20de%20Palafrugell%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (3)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The guide's thesis: Calella + Llafranc + Palafrugell form a walkable 'golden triangle' — dining from Michelin-recognized to toes-in-the-sand, taxis €10–25 for everything else, Julivia tourist bus until late September. No car needed.
+- **Visit Palafrugell (Instagram) (cited in Matt's guide)** · 2026-07-29 · [link](https://www.instagram.com/reel/DbNoeliMvTX/)
+  - Visit Palafrugell Instagram reel on the Julivia tourist bus.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places to visit in Costa Brava — whitewashed seaside town.
+
+---
+
 <a id="calo-del-moro" name="calo-del-moro"></a>
 
 ## 🏖️ Caló del Moro
@@ -472,14 +508,18 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Attraction · **Rating:** 4/5
 
-[Google Maps](https://www.google.com/maps/search/Cam%C3%AD+de+Ronda%2C+Costa+Brava%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Cam%C3%AD%20de%20Ronda%2C%20Costa%20Brava%2C%20Spain)
 
 > ⚠️ **Approximate location** — The Cami de Ronda runs for miles along the coast; this pin marks the Sa Tuna / Begur section, not a single point.
 
-### Sources (1)
+### Sources (3)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The coastal hiking path connecting the best calas — walk cliff-top through pine forest and suddenly look down on a hidden, pristine beach.
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 'The crown jewel of the Costa Brava': Calella→Llafranc is flat, paved, 25 minutes and spectacular; the rehabilitated Cala Pedrosa→Tamariu stretch is the longer adventure.
+- **Barcelona Travel Hacks (cited in Matt's guide)** · 2026-07-29 · [link](https://www.barcelonatravelhacks.com/en/travel/costa-brava-cami-ronda-i/calella-palafrugell-to-aiguablava-day-2)
+  - Barcelona Travel Hacks' Camí de Ronda day-2 guide (Calella de Palafrugell to Aiguablava).
 
 ---
 
@@ -536,6 +576,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cap-roig-botanical-gardens" name="cap-roig-botanical-gardens"></a>
+
+## 🌺 Cap Roig Botanical Gardens
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Attraction · **Rating:** 4/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Cap%20Roig%20Botanical%20Gardens%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Created 1927 on a cliff over the sea; 800+ botanical species with art and history; #1 attraction in town.
+- **Spain.info (cited in Matt's guide)** · 2026-07-29 · [link](https://www.spain.info/en/places-of-interest/cap-roig-botanical-gardens/)
+  - Spain.info on Cap Roig Botanical Gardens.
+
+---
+
 <a id="casa-juanita" name="casa-juanita"></a>
 
 ## 🐟 Casa Juanita
@@ -548,6 +605,23 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - Circled + heart on the Begur foodies list — 'fish in the oven.'
+
+---
+
+<a id="casamar" name="casamar"></a>
+
+## ⭐ Casamar
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/Casamar%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Top special-occasion table: ex-Michelin-star (still Guide-listed), refined tasting menu ~€100pp, modern Catalan seafood, sunset views over the bay. Book 2–3 weeks ahead.
+- **Michelin Guide (cited in Matt's guide)** · 2026-07-29 · [link](https://guide.michelin.com/us/en/catalunya/llafranc/restaurant/casamar)
+  - Michelin Guide entry for Casamar, Llafranc.
 
 ---
 
@@ -639,6 +713,23 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
 - **Michelin Guide: DINS Santi Taura** · 2026-07-24 · [link](https://guide.michelin.com/gb/en/islas-baleares/palma/restaurant/dins-santi-taura)
   - Manus cited this source: Michelin Guide: DINS Santi Taura.
+
+---
+
+<a id="el-balco-de-calella" name="el-balco-de-calella"></a>
+
+## 🍸 El Balcó de Calella
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Bar · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/El%20Balc%C3%B3%20de%20Calella%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - At Hotel Sant Roc; cliff terrace over the bay — 'the premier spot in Calella to have a cocktail while watching the sun hide behind the cliffs.'
+- **Hotel Sant Roc (cited in Matt's guide)** · 2026-07-29 · [link](https://www.santroc.com/en/el-balco-de-calella)
+  - Hotel Sant Roc official page for El Balcó de Calella.
 
 ---
 
@@ -752,12 +843,16 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
 
-[Google Maps](https://www.google.com/maps/search/Entre+Dos+Mons%2C+Palam%C3%B3s%2C+Costa+Brava%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Entre%20Dos%20Mons%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (3)
 
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Michelin-recognized Peruvian-Catalan fusion; incredible wine list of small Empordà producers; charming hosts who personally introduce the wines. More elevated, same wine-discovery passion.
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Repeated in the Calella guide's special-occasion list: 'Between Two Worlds' — Peruvian-Catalan fusion, owner-guided Empordà wine list. Book ~1 week ahead.
+- **Excellence Luxury Villas (cited in Matt's guide)** · 2026-07-29 · [link](https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/)
+  - From Excellence Luxury Villas' Palafrugell dining guide.
 
 ---
 
@@ -788,6 +883,23 @@ Each section is linked from that tab's `References` column.
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - Her boat-day lunch stop (the charter's suggestion) — 'a very local restaurant with amazing views.'
+
+---
+
+<a id="far-de-sant-sebastia" name="far-de-sant-sebastia"></a>
+
+## 🗼 Far de Sant Sebastià
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Attraction · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Far%20de%20Sant%20Sebasti%C3%A0%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 168 m cliff between Llafranc and Tamariu; moderate accessible hike; panoramic views over both bays and Cap Roig.
+- **Hotel HCP (cited in Matt's guide)** · 2026-07-29 · [link](https://hotelhcp.com/en/sant-sebastia-lighthouse/)
+  - Hotel HCP's guide to the Sant Sebastià lighthouse.
 
 ---
 
@@ -870,6 +982,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-blava" name="la-blava"></a>
+
+## 🕯️ La Blava
+
+**Region:** Costa Brava · **Neighborhood:** Port Bo, Calella de Palafrugell · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/La%20Blava%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Under the voltes arches right on the sand at Port Bo — 'widely considered one of the most romantic spots in town.'
+- **La Blava (official site) (cited in Matt's guide)** · 2026-07-29 · [link](https://www.lablava.com/)
+  - La Blava official site.
+
+---
+
 <a id="la-residencia-a-belmond-hotel" name="la-residencia-a-belmond-hotel"></a>
 
 ## 🏨 La Residencia, A Belmond Hotel
@@ -893,6 +1022,25 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="llafranc" name="llafranc"></a>
+
+## ⛵ Llafranc
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell · **Type:** Town/Village · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Llafranc%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (3)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - One of the towns Gemini recommends for hiring a small private boat with a skipper for the day.
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Leg 3 base (7 nights): 'Effortless beach access, coastal exploration, and world-class seafood.' Basing on the water in Llafranc is the launchpad for the active, exploratory half of the trip while still offering highly curated luxury.
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The second vertex of the walkable golden triangle: fine dining (Casamar), beachfront terraces, cocktail bars, dive/kayak operators and the lighthouse hike — all without a car.
+
+---
+
 <a id="llaut-charter-southeast-mallorca" name="llaut-charter-southeast-mallorca"></a>
 
 ## ⛵ Llaüt Charter (Southeast Mallorca)
@@ -907,6 +1055,23 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The southeast's stunning coves (Caló des Moro, Cala Llombards) get crowded. The luxury hack: charter a llaüt (traditional Mallorcan wooden boat) with a captain to go cove-hopping by water and swim without fighting for towel space.
+
+---
+
+<a id="lounge-bar-aiguaclara" name="lounge-bar-aiguaclara"></a>
+
+## 🕯️ Lounge Bar Aiguaclara
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Bar · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Lounge%20Bar%20Aiguaclara%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 1866 colonial mansion; vintage decor, candlelight, Balinese beds in the courtyard — 'the ultimate chill-out experience.' Short taxi from Calella.
+- **Naturaki — best chill-out terraces on the Costa Brava (cited in Matt's guide)** · 2026-07-29 · [link](https://www.naturaki.com/en/blog/terraces-costa-brava/)
+  - Naturaki's best chill-out terraces roundup.
 
 ---
 
@@ -1020,6 +1185,25 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - Star on the romantic list — 'sunset and star views.'
+
+---
+
+<a id="palafrugell-sunday-market" name="palafrugell-sunday-market"></a>
+
+## 🧺 Palafrugell Sunday Market
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell (town) · **Type:** Market · **Rating:** 4/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Palafrugell%20Sunday%20Market%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Street market through the town center — pinned at Plaça Nova.
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - One of the region's most famous markets, operating since 1600; Sundays 8:00–13:30; cheeses, cured meats, flowers, ceramics, textiles.
+- **Visit Palafrugell (cited in Matt's guide)** · 2026-07-29 · [link](https://visitpalafrugell.cat/en/proposta/mercat-del-diumenge/)
+  - Visit Palafrugell on the Sunday market.
 
 ---
 
@@ -1249,6 +1433,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="sabor-a-brasa" name="sabor-a-brasa"></a>
+
+## 🥩 Sabor a Brasa
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell (town) · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Sabor%20a%20Brasa%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Chef Raúl Ramírez, live-fire cooking, 9.5/10 TheFork; pork-cheek ravioli with mushroom sauce; 'one of the most talked-about tables in the region.' Book 2–3 weeks ahead.
+- **Excellence Luxury Villas (cited in Matt's guide)** · 2026-07-29 · [link](https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/)
+  - From Excellence Luxury Villas' Palafrugell dining guide.
+
+---
+
 <a id="sailpalma" name="sailpalma"></a>
 
 ## ⛵ SailPalma
@@ -1302,6 +1503,25 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="sea-kayaking-sea-caves" name="sea-kayaking-sea-caves"></a>
+
+## 🛶 Sea Kayaking & Sea Caves
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell / Llafranc · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Sea%20Kayaking%20%26%20Sea%20Caves%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Departs from Calella or Llafranc beaches depending on operator — pinned at Calella.
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Guided kayak tours from Calella/Llafranc: sea caves up to 10 m, snorkeling over white-sand inlets. Go before 10 AM for calm water and light.
+- **Excursions Barcelona (cited in Matt's guide)** · 2026-07-29 · [link](https://excursionsbarcelona.com/kayaking-in-costa-brava/)
+  - Excursions Barcelona's Costa Brava kayaking guide.
+
+---
+
 <a id="son-moragues" name="son-moragues"></a>
 
 ## 🫒 Son Moragues
@@ -1331,6 +1551,25 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Dinner (Upscale & Romantic).
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+
+---
+
+<a id="sunset-catamaran-cruise-palamos" name="sunset-catamaran-cruise-palamos"></a>
+
+## 🌅 Sunset Catamaran Cruise (Palamós)
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Sunset%20Catamaran%20Cruise%20%28Palam%C3%B3s%29%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — No specific operator chosen — pinned at Palamós marina; GetYourGuide listings are the booking route.
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Private catamaran/sports boat from Palamós: 1.5–2.5 h sunset cruise, open cava bar, appetizers, twilight swim in a hidden cove.
+- **GetYourGuide (cited in Matt's guide)** · 2026-07-29 · [link](https://www.getyourguide.com/costa-brava-l473/sunset-tours-tc306/)
+  - GetYourGuide: Palamós sunset boat tours with cava.
 
 ---
 
@@ -1384,6 +1623,23 @@ Each section is linked from that tab's `References` column.
   - The Beach Clubs & Dining pick for the Llafranc leg: book a table right on the sand at Toc al Mar in Aiguablava for a massive lunch of whole, oak-wood-fired fish and grilled coastal vegetables — 'a spectacular way to eat beautifully clean, high-protein meals right on the water.'
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - 'Toca al Mar — paella' on the Begur foodies list.
+
+---
+
+<a id="tragamar" name="tragamar"></a>
+
+## 🥘 Tragamar
+
+**Region:** Costa Brava · **Neighborhood:** Canadell Beach, Calella de Palafrugell · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Tragamar%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 'Arguably the best beachfront restaurant in town' — terrace over Canadell bay, vintage interior, signature seafood paella. Weekends fill fast.
+- **Excellence Luxury Villas (cited in Matt's guide)** · 2026-07-29 · [link](https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/)
+  - From Excellence Luxury Villas' Palafrugell dining guide.
 
 ---
 
@@ -1760,6 +2016,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="blau-llafranc" name="blau-llafranc"></a>
+
+## 🍤 Blau Llafranc
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Blau%20Llafranc%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Premium tapas: garlic gambas, crispy boquerones; ~€86 lunch for two.
+- **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Restaurant_Review-g635891-d25389696-Reviews-Blau_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_Catalonia.html)
+  - TripAdvisor listing for Blau Llafranc.
+
+---
+
 <a id="bodega-la-rambla" name="bodega-la-rambla"></a>
 
 ## 🍷 Bodega La Rambla
@@ -1922,6 +2195,25 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="calella-artisan-boutiques" name="calella-artisan-boutiques"></a>
+
+## 🛍️ Calella Artisan Boutiques
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Calella%20Artisan%20Boutiques%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — A cluster of shops through the old lanes — pinned at the village center.
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Independent boutiques in the old lanes: Sa Calma and El Cau (linen, espadrilles), hand-painted ceramics, woven towels, olive-oil cosmetics.
+- **Estatefy (cited in Matt's guide)** · 2026-07-29 · [link](https://www.estatefy.com/spain/authentic-shops-in-calella-de-palafrugell)
+  - Estatefy's guide to authentic shops in Calella de Palafrugell.
+
+---
+
 <a id="can-bordoy-grand-house-garden" name="can-bordoy-grand-house-garden"></a>
 
 ## 🏨 Can Bordoy Grand House & Garden
@@ -1964,6 +2256,23 @@ Each section is linked from that tab's `References` column.
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - Her dinner after the morning in Valldemossa.
+
+---
+
+<a id="candela-bar-copes" name="candela-bar-copes"></a>
+
+## 🍸 Candela Bar & Copes
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell (town) · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Candela%20Bar%20%26%20Copes%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Converted 19th-century family house; warm patio, great cocktails, DJ later. The local nightlife meeting point.
+- **Naturaki — best chill-out terraces on the Costa Brava (cited in Matt's guide)** · 2026-07-29 · [link](https://www.naturaki.com/en/blog/terraces-costa-brava/)
+  - Naturaki's best chill-out terraces roundup.
 
 ---
 
@@ -2097,6 +2406,25 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="coffee-greens" name="coffee-greens"></a>
+
+## ☕ Coffee & Greens
+
+**Region:** Costa Brava · **Neighborhood:** Girona Old Town · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Coffee%20%26%20Greens%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Guide implied Palafrugell area; actual location is Rambla de la Llibertat, Girona.
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Healthy, vibrant brunch bowls and excellent coffee — geocoding places it in Girona city, not the Palafrugell area.
+- **Yelp (Calella-area brunch search) (cited in Matt's guide)** · 2026-07-29 · [link](https://m.yelp.com/search?cflt=breakfast_brunch&find_loc=Calella+de+Palafrugell%2C+Girona)
+  - Yelp Calella-area brunch search (results reach into Girona).
+
+---
+
 <a id="comedor-verdor" name="comedor-verdor"></a>
 
 ## 🌿 Comedor Verdor
@@ -2146,6 +2474,42 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="degust-llafranc" name="degust-llafranc"></a>
+
+## 🍽️ Degust Llafranc
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Degust%20Llafranc%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - €26 weekend set menu; casual, young friendly staff, highly rated for price-to-quality.
+- **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Restaurant_Review-g635891-d27690003-Reviews-Degust_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_Catalonia.html)
+  - TripAdvisor listing for Degust Llafranc.
+
+---
+
+<a id="dvisi" name="dvisi"></a>
+
+## 🍽️ Dvisi
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Dvisi%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Guide said 'Calella area' but the restaurant geocodes to Palamós — confirmed street-level pin.
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 9.6/10 on TheFork; intimate elevated Catalan cuisine; one of the few places with a private dining room. Book 2–3 weeks ahead.
+- **Excellence Luxury Villas (cited in Matt's guide)** · 2026-07-29 · [link](https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/)
+  - From Excellence Luxury Villas' Palafrugell dining guide.
+
+---
+
 <a id="dome" name="dome"></a>
 
 ## 🍷 DÔME
@@ -2158,6 +2522,40 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Modern restaurant in central Palma; called out excellent sangria. 4/5.
+
+---
+
+<a id="el-cantir" name="el-cantir"></a>
+
+## 🥘 El Càntir
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/El%20C%C3%A0ntir%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - At Hotel Alga; Nicolazzi family since 1853; senyoret rice with prawns and cuttlefish in a garden by the pool; Catalan-only wine list. Book ~1 week ahead.
+- **Ara in English (cited in Matt's guide)** · 2026-07-29 · [link](https://en.ara.cat/food/the-best-kept-secret-of-calella-palafrugell-restaurant-with-more-history-than-many-museums_1_5723148.html)
+  - Ara in English: 'Calella de Palafrugell's best-kept secret: a restaurant with more history than many museums.'
+
+---
+
+<a id="el-pati-de-l-estrella" name="el-pati-de-l-estrella"></a>
+
+## 🥂 El Pati de l'Estrella
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell (town) · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/El%20Pati%20de%20l%27Estrella%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 'One of the most charming vermouth bars in the Empordà' — bohemian 1950s style, sofas, Saturday live music.
+- **Naturaki — best chill-out terraces on the Costa Brava (cited in Matt's guide)** · 2026-07-29 · [link](https://www.naturaki.com/en/blog/terraces-costa-brava/)
+  - Naturaki's best chill-out terraces roundup.
 
 ---
 
@@ -2349,6 +2747,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="isabella-s" name="isabella-s"></a>
+
+## 🍽️ Isabella's
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Isabella%27s%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Stylish beachfront terrace, Mediterranean dishes, younger/trendier energy, direct sea views.
+- **Grupo Isabella's (cited in Matt's guide)** · 2026-07-29 · [link](https://grupoisabellas.com/en/restaurants/isabellas-llafranc/)
+  - Grupo Isabella's official page for the Llafranc restaurant.
+
+---
+
 <a id="izakaya-high-japanese-cuisine" name="izakaya-high-japanese-cuisine"></a>
 
 ## 🍣 Izakaya High Japanese Cuisine
@@ -2426,6 +2841,25 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-fabrica" name="la-fabrica"></a>
+
+## ☕ La Fábrica
+
+**Region:** Costa Brava · **Neighborhood:** Girona Old Town · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/La%20F%C3%A1brica%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Guide implied Palafrugell area; actual location is Girona Old Town (Carrer de la Llebre 3).
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed as the top specialty-coffee/brunch spot for the area — geocoding shows it's actually in Girona city, so pair it with a Girona day.
+- **Yelp (Calella-area brunch search) (cited in Matt's guide)** · 2026-07-29 · [link](https://m.yelp.com/search?cflt=breakfast_brunch&find_loc=Calella+de+Palafrugell%2C+Girona)
+  - Yelp Calella-area brunch search (results reach into Girona).
+
+---
+
 <a id="la-molienda" name="la-molienda"></a>
 
 ## ☕ La Molienda
@@ -2460,6 +2894,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-vela" name="la-vela"></a>
+
+## 🥗 La Vela
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/La%20Vela%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Impromptu waterfront spot — massive salads, fresh mussels, casual paella.
+- **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Restaurant_Review-g1072491-d2234179-Reviews-Restaurante_La_Vela-Calella_de_Palafrugell_Palafrugell_Costa_Brava_Province_of_G.html)
+  - TripAdvisor listing for Restaurante La Vela.
+
+---
+
 <a id="la-vinya-de-santa-clara" name="la-vinya-de-santa-clara"></a>
 
 ## 🍷 La Vinya de Santa Clara
@@ -2472,23 +2923,6 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Tiny owner-run wine bar, 60+ wines by the glass, charcuterie and simple tapas; the owner personally guides the tasting. 'Very intimate — feels like discovering a secret.' Great pre-dinner stop.
-
----
-
-<a id="llafranc" name="llafranc"></a>
-
-## ⛵ Llafranc
-
-**Region:** Costa Brava · **Neighborhood:** Palafrugell · **Type:** Town/Village · **Rating:** 3/5
-
-[Google Maps](https://www.google.com/maps/search/Llafranc%2C+Costa+Brava%2C+Spain)
-
-### Sources (2)
-
-- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - One of the towns Gemini recommends for hiring a small private boat with a skipper for the day.
-- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - Leg 3 base (7 nights): 'Effortless beach access, coastal exploration, and world-class seafood.' Basing on the water in Llafranc is the launchpad for the active, exploratory half of the trip while still offering highly curated luxury.
 
 ---
 
@@ -2541,6 +2975,40 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="mas-sorrer" name="mas-sorrer"></a>
+
+## 🎉 Mas Sorrer
+
+**Region:** Costa Brava · **Neighborhood:** Gualta · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Mas%20Sorrer%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Outdoor venue in a sunflower field; four stages, restaurants, DJs into the night. 15-minute taxi.
+- **Mas Sorrer (official site) (cited in Matt's guide)** · 2026-07-29 · [link](https://www.massorrer.net/)
+  - Mas Sorrer official site.
+
+---
+
+<a id="merci-llafranc" name="merci-llafranc"></a>
+
+## 🍸 Merci Llafranc
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Merci%20Llafranc%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Highly rated (5.0 Yelp) cocktail bar — vintage aesthetic, mood lighting, live-music room.
+- **Yelp (cited in Matt's guide)** · 2026-07-29 · [link](https://m.yelp.com/biz/merci-llafranc-llafranc)
+  - Yelp listing for Merci Llafranc.
+
+---
+
 <a id="miga-de-nube" name="miga-de-nube"></a>
 
 ## ☕ Miga de Nube
@@ -2568,6 +3036,23 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Adrian & Katie — Irish Travel Deals & Hotel Stays (@pockettraveldeals)** · [DK95gxRsFj_](https://www.instagram.com/reel/DK95gxRsFj_/)
   - 'One of Mallorca's most beautiful beach clubs' — cabanas on the sand, DJ all day, great food and drinks (guacamole, hummus spreads shown).
+
+---
+
+<a id="palafrugell-town" name="palafrugell-town"></a>
+
+## 🏘️ Palafrugell (town)
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Palafrugell%20%28town%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The inland vertex of the golden triangle: Sunday market since 1600, the area's most talked-about grill, and the local nightlife cluster. Taxis €10–25 from the coast.
+- **Visit Palafrugell (cited in Matt's guide)** · 2026-07-29 · [link](https://visitpalafrugell.cat/en/proposta/mercat-del-diumenge/)
+  - Visit Palafrugell on the Sunday market.
 
 ---
 
@@ -3064,6 +3549,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="sol-i-mar" name="sol-i-mar"></a>
+
+## 🦑 Sol i Mar
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Sol%20i%20Mar%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Classic spot, high quality at reasonable prices; crispy squid and paella socarrat 'legendary among locals.'
+- **Excellence Luxury Villas (cited in Matt's guide)** · 2026-07-29 · [link](https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/)
+  - From Excellence Luxury Villas' Palafrugell dining guide.
+
+---
+
 <a id="son-brull-hotel-spa" name="son-brull-hotel-spa"></a>
 
 ## 🏨 Son Brull Hotel & Spa
@@ -3190,6 +3692,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="triton-diving" name="triton-diving"></a>
+
+## 🤿 Triton Diving
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Activity · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Triton%20Diving%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Triton Diving (Llafranc) and Poseidon (Calella) run boat tours to the coast's best snorkeling reefs, accessible only by water.
+- **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Attraction_Review-g635891-d4958691-Reviews-or10-Triton_Diving_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_C.html)
+  - TripAdvisor listing for Triton Diving Llafranc.
+
+---
+
 <a id="vandal" name="vandal"></a>
 
 ## 🍽️ Vandal
@@ -3217,6 +3736,25 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Natural/biodynamic wines, homemade food from local produce, curated vinyl soundtrack, right by the sea. 'The most wine-forward option on the Costa Brava' — worth the drive/taxi.
+
+---
+
+<a id="xurreria-laietana" name="xurreria-laietana"></a>
+
+## 🥐 Xurrería Laietana
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell (town) · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Xurrer%C3%ADa%20Laietana%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Town-level pin — exact storefront address not resolved.
+
+### Sources (2)
+
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - For a traditional Spanish breakfast of fresh, hot churros.
+- **Yelp (Calella-area brunch search) (cited in Matt's guide)** · 2026-07-29 · [link](https://m.yelp.com/search?cflt=breakfast_brunch&find_loc=Calella+de+Palafrugell%2C+Girona)
+  - From the Yelp breakfast roundup for the area.
 
 ---
 

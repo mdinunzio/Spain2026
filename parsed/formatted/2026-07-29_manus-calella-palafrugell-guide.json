@@ -1,0 +1,1149 @@
+{
+  "batch": "2026-07-29_manus-calella-palafrugell-guide",
+  "region": "Costa Brava",
+  "source_count": 1,
+  "venue_count": 33,
+  "locations": [
+    {
+      "name": "Casamar",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "Elegant restaurant elevated above the Llafranc bay — held a Michelin star for over a decade and remains in the Michelin Guide. Refined ~€100 tasting menu of modern Catalan seafood, impeccable service, stunning sunset views. The fine-dining flagship of a Calella/Llafranc base; book 2–3 weeks ahead.",
+      "cost_range": "$$$$$",
+      "address": "Carrer del Nero, 3, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.8929207,
+      "longitude": 3.192432600000001,
+      "google_map": "https://www.google.com/maps/search/Casamar%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#casamar",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Top special-occasion table: ex-Michelin-star (still Guide-listed), refined tasting menu ~€100pp, modern Catalan seafood, sunset views over the bay. Book 2–3 weeks ahead."
+        },
+        {
+          "source": "Michelin Guide (cited in Matt's guide)",
+          "url": "https://guide.michelin.com/us/en/catalunya/llafranc/restaurant/casamar",
+          "date": "2026-07-29",
+          "note": "Michelin Guide entry for Casamar, Llafranc."
+        }
+      ],
+      "rating": 4,
+      "tags": "book-asap, fine-dining, michelin-guide, sunset, tasting-menu",
+      "source_rating_raw": "BOOK 2-3 WEEKS AHEAD",
+      "geocode_query": "Restaurant Casamar, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sabor a Brasa",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell (town)",
+      "type": "Dinner Restaurant",
+      "emoji": "🥩",
+      "description": "Chef Raúl Ramírez's live-fire destination in Palafrugell town — exceptional grilled meats and inventive dishes like pork-cheek ravioli with mushroom sauce; 9.5/10 on TheFork and one of the most talked-about tables in the region. The grilled-meat splurge night of this leg; book 2–3 weeks ahead.",
+      "cost_range": "$$$$",
+      "address": "Paratge la Sauleda, 2, 17200 Palafrugell, Girona, Spain",
+      "latitude": 41.9136307,
+      "longitude": 3.1538627,
+      "google_map": "https://www.google.com/maps/search/Sabor%20a%20Brasa%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sabor-a-brasa",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Chef Raúl Ramírez, live-fire cooking, 9.5/10 TheFork; pork-cheek ravioli with mushroom sauce; 'one of the most talked-about tables in the region.' Book 2–3 weeks ahead."
+        },
+        {
+          "source": "Excellence Luxury Villas (cited in Matt's guide)",
+          "url": "https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/",
+          "date": "2026-07-29",
+          "note": "From Excellence Luxury Villas' Palafrugell dining guide."
+        }
+      ],
+      "rating": 4,
+      "tags": "book-asap, grilled-meats, live-fire",
+      "source_rating_raw": "9.5/10 TheFork",
+      "geocode_query": "Sabor a Brasa, Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Dvisi",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Intimate, elevated Catalan restaurant with a 9.6/10 on TheFork and one of the area's few private dining rooms — good for an exclusive, quiet evening. Note: the guide filed it 'Calella area,' but it's actually in Palamós (Carrer de l'Avió), ~15 minutes by taxi.",
+      "cost_range": "$$$$",
+      "address": "Carrer de l'Avió, 5, 17230 Palamós, Girona, Spain",
+      "latitude": 41.8488225,
+      "longitude": 3.1256922,
+      "google_map": "https://www.google.com/maps/search/Dvisi%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#dvisi",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "9.6/10 on TheFork; intimate elevated Catalan cuisine; one of the few places with a private dining room. Book 2–3 weeks ahead."
+        },
+        {
+          "source": "Excellence Luxury Villas (cited in Matt's guide)",
+          "url": "https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/",
+          "date": "2026-07-29",
+          "note": "From Excellence Luxury Villas' Palafrugell dining guide."
+        }
+      ],
+      "rating": 3,
+      "tags": "catalan, fine-dining, intimate, private-dining",
+      "source_rating_raw": "9.6/10 TheFork",
+      "geocode_query": "Dvisi restaurant, Calella de Palafrugell, Girona, Spain",
+      "geo_note": "Guide said 'Calella area' but the restaurant geocodes to Palamós — confirmed street-level pin.",
+      "flags": []
+    },
+    {
+      "name": "El Càntir",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Dinner Restaurant",
+      "emoji": "🥘",
+      "description": "Inside Hotel Alga, run by the Nicolazzi family since 1853 — classic seafood like senyoret rice with prawns and cuttlefish served in a peaceful garden by the pool, paired exclusively with Catalan wines. 'More history than many museums'; book ~a week out.",
+      "cost_range": "$$$",
+      "address": "Av. Joan Pericot i García, 53, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8918229,
+      "longitude": 3.1843668,
+      "google_map": "https://www.google.com/maps/search/El%20C%C3%A0ntir%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-cantir",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "At Hotel Alga; Nicolazzi family since 1853; senyoret rice with prawns and cuttlefish in a garden by the pool; Catalan-only wine list. Book ~1 week ahead."
+        },
+        {
+          "source": "Ara in English (cited in Matt's guide)",
+          "url": "https://en.ara.cat/food/the-best-kept-secret-of-calella-palafrugell-restaurant-with-more-history-than-many-museums_1_5723148.html",
+          "date": "2026-07-29",
+          "note": "Ara in English: 'Calella de Palafrugell's best-kept secret: a restaurant with more history than many museums.'"
+        }
+      ],
+      "rating": 3,
+      "tags": "catalan-wine, garden, historic, rice, seafood",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant El Cantir, Hotel Alga, Calella de Palafrugell, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Tragamar",
+      "region": "Costa Brava",
+      "neighborhood": "Canadell Beach, Calella de Palafrugell",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Arguably the best beachfront restaurant in Calella — terrace directly over the blue Canadell bay, warm vintage interior, and a signature seafood paella people return for year after year. Weekends fill fast; the flagship long-lunch of the Calella cluster.",
+      "cost_range": "$$$",
+      "address": "Passatge Jimmy Rena, s/n, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8888472,
+      "longitude": 3.1880639,
+      "google_map": "https://www.google.com/maps/search/Tragamar%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#tragamar",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "'Arguably the best beachfront restaurant in town' — terrace over Canadell bay, vintage interior, signature seafood paella. Weekends fill fast."
+        },
+        {
+          "source": "Excellence Luxury Villas (cited in Matt's guide)",
+          "url": "https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/",
+          "date": "2026-07-29",
+          "note": "From Excellence Luxury Villas' Palafrugell dining guide."
+        }
+      ],
+      "rating": 4,
+      "tags": "beachfront, book-asap, paella, seafood, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "Tragamar, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Isabella's",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "Stylish, relaxed beachfront terrace on the Llafranc seafront — Mediterranean dishes with a younger, trendier energy but serious food quality and direct sea views. Part of the Grupo Isabella's family.",
+      "cost_range": "$$$",
+      "address": "Carrer de Francesc de Blanes, 5, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.8939337,
+      "longitude": 3.1936885,
+      "google_map": "https://www.google.com/maps/search/Isabella%27s%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#isabella-s",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Stylish beachfront terrace, Mediterranean dishes, younger/trendier energy, direct sea views."
+        },
+        {
+          "source": "Grupo Isabella's (cited in Matt's guide)",
+          "url": "https://grupoisabellas.com/en/restaurants/isabellas-llafranc/",
+          "date": "2026-07-29",
+          "note": "Grupo Isabella's official page for the Llafranc restaurant."
+        }
+      ],
+      "rating": 3,
+      "tags": "beachfront, mediterranean, terrace, trendy",
+      "source_rating_raw": null,
+      "geocode_query": "Isabella's restaurant, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sol i Mar",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Lunch Restaurant",
+      "emoji": "🦑",
+      "description": "Classic Calella establishment on Carrer Miramar known for high-quality ingredients at reasonable prices — the crispy squid and the socarrat (caramelized crust) on the paella are legendary among locals.",
+      "cost_range": "$$",
+      "address": "Carrer Miramar, 19, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8884138,
+      "longitude": 3.1858943,
+      "google_map": "https://www.google.com/maps/search/Sol%20i%20Mar%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sol-i-mar",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Classic spot, high quality at reasonable prices; crispy squid and paella socarrat 'legendary among locals.'"
+        },
+        {
+          "source": "Excellence Luxury Villas (cited in Matt's guide)",
+          "url": "https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/",
+          "date": "2026-07-29",
+          "note": "From Excellence Luxury Villas' Palafrugell dining guide."
+        }
+      ],
+      "rating": 3,
+      "tags": "local-favorite, paella, seafood, value",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Sol i Mar, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Blava",
+      "region": "Costa Brava",
+      "neighborhood": "Port Bo, Calella de Palafrugell",
+      "type": "Dinner Restaurant",
+      "emoji": "🕯️",
+      "description": "Tucked under Calella's traditional stone arches (the voltes) right on the Port Bo sand — widely considered one of the most romantic spots in town for traditional Mediterranean seafood. The candlelit-on-the-beach dinner of this leg.",
+      "cost_range": "$$$",
+      "address": "Carrer Miramar, 3, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8884352,
+      "longitude": 3.1852225,
+      "google_map": "https://www.google.com/maps/search/La%20Blava%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-blava",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Under the voltes arches right on the sand at Port Bo — 'widely considered one of the most romantic spots in town.'"
+        },
+        {
+          "source": "La Blava (official site) (cited in Matt's guide)",
+          "url": "https://www.lablava.com/",
+          "date": "2026-07-29",
+          "note": "La Blava official site."
+        }
+      ],
+      "rating": 4,
+      "tags": "on-the-sand, romantic, seafood, voltes",
+      "source_rating_raw": null,
+      "geocode_query": "La Blava, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Calau",
+      "region": "Costa Brava",
+      "neighborhood": "Port Bo, Calella de Palafrugell",
+      "type": "Wine Bar",
+      "emoji": "🍢",
+      "description": "Ranked #1–2 in Calella on nearly every platform — a gourmet tapas bar on Carrer de les Voltes with a short but exceptional menu, free-flowing cava, and a welcoming room. The walk-in gem of the village; no reservation needed.",
+      "cost_range": "$$$",
+      "address": "Carrer de les Voltes, 2, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.888785,
+      "longitude": 3.184856,
+      "google_map": "https://www.google.com/maps/search/Calau%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#calau",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Ranked #1 or #2 in Calella on almost every platform; limited but exceptional menu, cava flows freely, consistently delicious."
+        },
+        {
+          "source": "TripAdvisor (cited in Matt's guide)",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g1072491-d3294523-Reviews-Calau-Calella_de_Palafrugell_Palafrugell_Costa_Brava_Province_of_Girona_Cataloni.html",
+          "date": "2026-07-29",
+          "note": "TripAdvisor listing for Calau."
+        }
+      ],
+      "rating": 4,
+      "tags": "cava, gourmet-tapas, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Calau, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Blau Llafranc",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Lunch Restaurant",
+      "emoji": "🍤",
+      "description": "Premium tapas on the Llafranc seafront promenade — big portions of juicy garlic prawns and crispy fried boquerones; ~€86 lunch for two. Walk-in friendly after a swim.",
+      "cost_range": "$$$",
+      "address": "Passeig de Cipsela, 18, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.8941868,
+      "longitude": 3.1959515,
+      "google_map": "https://www.google.com/maps/search/Blau%20Llafranc%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#blau-llafranc",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Premium tapas: garlic gambas, crispy boquerones; ~€86 lunch for two."
+        },
+        {
+          "source": "TripAdvisor (cited in Matt's guide)",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g635891-d25389696-Reviews-Blau_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_Catalonia.html",
+          "date": "2026-07-29",
+          "note": "TripAdvisor listing for Blau Llafranc."
+        }
+      ],
+      "rating": 3,
+      "tags": "prawns, seafront, tapas, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Blau Llafranc, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Degust Llafranc",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "Casual value pick with a €26 weekend set menu, a young friendly team, and strong price-to-quality ratings — the low-stakes meal slot of the Llafranc rotation.",
+      "cost_range": "$$",
+      "address": "Avenida Jesús Serra Santamans, 15-17, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.9061426,
+      "longitude": 3.1866035,
+      "google_map": "https://www.google.com/maps/search/Degust%20Llafranc%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#degust-llafranc",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "€26 weekend set menu; casual, young friendly staff, highly rated for price-to-quality."
+        },
+        {
+          "source": "TripAdvisor (cited in Matt's guide)",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g635891-d27690003-Reviews-Degust_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_Catalonia.html",
+          "date": "2026-07-29",
+          "note": "TripAdvisor listing for Degust Llafranc."
+        }
+      ],
+      "rating": 3,
+      "tags": "set-menu, value, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Degust Llafranc, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Vela",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Lunch Restaurant",
+      "emoji": "🥗",
+      "description": "Great impromptu waterfront spot in Calella for massive salads, fresh mussels, and casual paella — no reservation required.",
+      "cost_range": "$$",
+      "address": "Carrer Calau, 4, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8885733,
+      "longitude": 3.1841582,
+      "google_map": "https://www.google.com/maps/search/La%20Vela%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-vela",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Impromptu waterfront spot — massive salads, fresh mussels, casual paella."
+        },
+        {
+          "source": "TripAdvisor (cited in Matt's guide)",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g1072491-d2234179-Reviews-Restaurante_La_Vela-Calella_de_Palafrugell_Palafrugell_Costa_Brava_Province_of_G.html",
+          "date": "2026-07-29",
+          "note": "TripAdvisor listing for Restaurante La Vela."
+        }
+      ],
+      "rating": 3,
+      "tags": "casual, salads, walk-in, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurante La Vela, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Fábrica",
+      "region": "Costa Brava",
+      "neighborhood": "Girona Old Town",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Famous specialty-coffee and brunch café (the cyclists' café) — but note: it's in Girona city, not the Palafrugell area. Matt's guide listed it for mornings near Calella via a Yelp search that pulled Girona results. File it with the Girona Old Town day: coffee here + Arròs9 lunch + the Sant Domènec steps.",
+      "cost_range": "$$",
+      "address": "Carrer de la Llebre, 3, 17004 Girona, Spain",
+      "latitude": 41.983936,
+      "longitude": 2.825969,
+      "google_map": "https://www.google.com/maps/search/La%20F%C3%A1brica%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-fabrica",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Listed as the top specialty-coffee/brunch spot for the area — geocoding shows it's actually in Girona city, so pair it with a Girona day."
+        },
+        {
+          "source": "Yelp (Calella-area brunch search) (cited in Matt's guide)",
+          "url": "https://m.yelp.com/search?cflt=breakfast_brunch&find_loc=Calella+de+Palafrugell%2C+Girona",
+          "date": "2026-07-29",
+          "note": "Yelp Calella-area brunch search (results reach into Girona)."
+        }
+      ],
+      "rating": 3,
+      "tags": "brunch, girona, specialty-coffee",
+      "source_rating_raw": null,
+      "geocode_query": "La Fabrica coffee, Palafrugell, Girona, Spain",
+      "geo_note": "Guide implied Palafrugell area; actual location is Girona Old Town (Carrer de la Llebre 3).",
+      "flags": []
+    },
+    {
+      "name": "Coffee & Greens",
+      "region": "Costa Brava",
+      "neighborhood": "Girona Old Town",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Healthy brunch bowls and excellent coffee on Girona's Rambla de la Llibertat — same correction as La Fábrica: it's in Girona city, not Palafrugell. A second morning option for the Girona Old Town day.",
+      "cost_range": "$$",
+      "address": "Rambla de la Llibertat, 25, 17004 Girona, Spain",
+      "latitude": 41.98414959999999,
+      "longitude": 2.8239817,
+      "google_map": "https://www.google.com/maps/search/Coffee%20%26%20Greens%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#coffee-greens",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Healthy, vibrant brunch bowls and excellent coffee — geocoding places it in Girona city, not the Palafrugell area."
+        },
+        {
+          "source": "Yelp (Calella-area brunch search) (cited in Matt's guide)",
+          "url": "https://m.yelp.com/search?cflt=breakfast_brunch&find_loc=Calella+de+Palafrugell%2C+Girona",
+          "date": "2026-07-29",
+          "note": "Yelp Calella-area brunch search (results reach into Girona)."
+        }
+      ],
+      "rating": 3,
+      "tags": "brunch, girona, healthy",
+      "source_rating_raw": null,
+      "geocode_query": "Coffee & Greens, Palafrugell, Girona, Spain",
+      "geo_note": "Guide implied Palafrugell area; actual location is Rambla de la Llibertat, Girona.",
+      "flags": []
+    },
+    {
+      "name": "Xurrería Laietana",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell (town)",
+      "type": "Cafe",
+      "emoji": "🥐",
+      "description": "Traditional Spanish breakfast of fresh, hot churros in Palafrugell town — the old-school morning counterpoint to the brunch spots, and an easy pairing with the Sunday market.",
+      "cost_range": "$",
+      "address": "17200 Palafrugell, Girona, Spain",
+      "latitude": 41.918304,
+      "longitude": 3.1624042,
+      "google_map": "https://www.google.com/maps/search/Xurrer%C3%ADa%20Laietana%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#xurreria-laietana",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "For a traditional Spanish breakfast of fresh, hot churros."
+        },
+        {
+          "source": "Yelp (Calella-area brunch search) (cited in Matt's guide)",
+          "url": "https://m.yelp.com/search?cflt=breakfast_brunch&find_loc=Calella+de+Palafrugell%2C+Girona",
+          "date": "2026-07-29",
+          "note": "From the Yelp breakfast roundup for the area."
+        }
+      ],
+      "rating": 3,
+      "tags": "breakfast, churros, traditional",
+      "source_rating_raw": null,
+      "geocode_query": "Xurreria Laietana, Palafrugell, Girona, Spain",
+      "geo_note": "Town-level pin — exact storefront address not resolved.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "El Balcó de Calella",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Bar",
+      "emoji": "🍸",
+      "description": "Chill-out terrace at Hotel Sant Roc, on a cliff overlooking the Calella bay — the premier spot in town for a sunset cocktail as the light drops behind the cliffs. The nightly golden-hour ritual of a Calella base.",
+      "cost_range": "$$$",
+      "address": "Plaça Atlàntic, 2, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8858333,
+      "longitude": 3.1813889,
+      "google_map": "https://www.google.com/maps/search/El%20Balc%C3%B3%20de%20Calella%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-balco-de-calella",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "At Hotel Sant Roc; cliff terrace over the bay — 'the premier spot in Calella to have a cocktail while watching the sun hide behind the cliffs.'"
+        },
+        {
+          "source": "Hotel Sant Roc (cited in Matt's guide)",
+          "url": "https://www.santroc.com/en/el-balco-de-calella",
+          "date": "2026-07-29",
+          "note": "Hotel Sant Roc official page for El Balcó de Calella."
+        }
+      ],
+      "rating": 4,
+      "tags": "cliffside, cocktails, sunset, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "Hotel Sant Roc, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Merci Llafranc",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Bar",
+      "emoji": "🍸",
+      "description": "Cocktail bar on Llafranc's Plaça del Promontori with a cool vintage aesthetic, mood lighting, indoor/outdoor seating, and a dedicated live-music room — 5.0 on Yelp.",
+      "cost_range": "$$",
+      "address": "Plaça del Promontori, 8, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.8944806,
+      "longitude": 3.19587,
+      "google_map": "https://www.google.com/maps/search/Merci%20Llafranc%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#merci-llafranc",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Highly rated (5.0 Yelp) cocktail bar — vintage aesthetic, mood lighting, live-music room."
+        },
+        {
+          "source": "Yelp (cited in Matt's guide)",
+          "url": "https://m.yelp.com/biz/merci-llafranc-llafranc",
+          "date": "2026-07-29",
+          "note": "Yelp listing for Merci Llafranc."
+        }
+      ],
+      "rating": 3,
+      "tags": "cocktails, live-music, vintage",
+      "source_rating_raw": "5.0 Yelp",
+      "geocode_query": "Merci Llafranc, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Candela Bar & Copes",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell (town)",
+      "type": "Bar",
+      "emoji": "🍸",
+      "description": "The meeting point of local nightlife, set in a converted 19th-century family house in Palafrugell town — warm patio, great cocktails, and a DJ later in the evening if you feel like dancing.",
+      "cost_range": "$$",
+      "address": "Carrer de Sant Martí, 2, 17200 Palafrugell, Girona, Spain",
+      "latitude": 41.9162126,
+      "longitude": 3.164374,
+      "google_map": "https://www.google.com/maps/search/Candela%20Bar%20%26%20Copes%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#candela-bar-copes",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Converted 19th-century family house; warm patio, great cocktails, DJ later. The local nightlife meeting point."
+        },
+        {
+          "source": "Naturaki — best chill-out terraces on the Costa Brava (cited in Matt's guide)",
+          "url": "https://www.naturaki.com/en/blog/terraces-costa-brava/",
+          "date": "2026-07-29",
+          "note": "Naturaki's best chill-out terraces roundup."
+        }
+      ],
+      "rating": 3,
+      "tags": "cocktails, dj, local-scene, patio",
+      "source_rating_raw": null,
+      "geocode_query": "Candela Bar i Copes, Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Lounge Bar Aiguaclara",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Bar",
+      "emoji": "🕯️",
+      "description": "In the 1866 colonial mansion of Hotel Aiguaclara in Begur town — vintage decor, pallet sofas, candlelight, and Balinese beds in the courtyard. 'The ultimate chill-out experience,' and squarely your vibe; slots perfectly into any Begur dinner night (Rostei, Casa Juanita, Clara are all steps away).",
+      "cost_range": "$$$",
+      "address": "Carrer Sant Miquel, 2, 17255 Begur, Girona, Spain",
+      "latitude": 41.9550415,
+      "longitude": 3.2062924,
+      "google_map": "https://www.google.com/maps/search/Lounge%20Bar%20Aiguaclara%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#lounge-bar-aiguaclara",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "1866 colonial mansion; vintage decor, candlelight, Balinese beds in the courtyard — 'the ultimate chill-out experience.' Short taxi from Calella."
+        },
+        {
+          "source": "Naturaki — best chill-out terraces on the Costa Brava (cited in Matt's guide)",
+          "url": "https://www.naturaki.com/en/blog/terraces-costa-brava/",
+          "date": "2026-07-29",
+          "note": "Naturaki's best chill-out terraces roundup."
+        }
+      ],
+      "rating": 4,
+      "tags": "candlelight, colonial-mansion, courtyard, romantic",
+      "source_rating_raw": null,
+      "geocode_query": "Hotel Aiguaclara, Begur, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Pati de l'Estrella",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell (town)",
+      "type": "Wine Bar",
+      "emoji": "🥂",
+      "description": "One of the Empordà's most charming vermouth bars — bohemian 1950s style, comfortable sofas, live music on Saturdays. Perfect for the pre-lunch vermut ritual or a relaxed evening; pairs with the Sunday market morning.",
+      "cost_range": "$$",
+      "address": "Carrer de les Quatre Cases, 13, 17200 Palafrugell, Girona, Spain",
+      "latitude": 41.9164124,
+      "longitude": 3.1628238,
+      "google_map": "https://www.google.com/maps/search/El%20Pati%20de%20l%27Estrella%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-pati-de-l-estrella",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "'One of the most charming vermouth bars in the Empordà' — bohemian 1950s style, sofas, Saturday live music."
+        },
+        {
+          "source": "Naturaki — best chill-out terraces on the Costa Brava (cited in Matt's guide)",
+          "url": "https://www.naturaki.com/en/blog/terraces-costa-brava/",
+          "date": "2026-07-29",
+          "note": "Naturaki's best chill-out terraces roundup."
+        }
+      ],
+      "rating": 3,
+      "tags": "bohemian, live-music, vermouth",
+      "source_rating_raw": null,
+      "geocode_query": "El Pati de l'Estrella, Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mas Sorrer",
+      "region": "Costa Brava",
+      "neighborhood": "Gualta",
+      "type": "Bar",
+      "emoji": "🎉",
+      "description": "Famous outdoor party venue in a sunflower field near Gualta (~15-minute taxi) — four stages/vibes, restaurants, and DJs into the night. The one higher-energy wildcard if a night calls for it.",
+      "cost_range": "$$$",
+      "address": "Ctra. Torroella a Parlavà, GI-643, Km. 0,5, 17257 Gualta, Girona, Spain",
+      "latitude": 42.0339813,
+      "longitude": 3.1178942,
+      "google_map": "https://www.google.com/maps/search/Mas%20Sorrer%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mas-sorrer",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Outdoor venue in a sunflower field; four stages, restaurants, DJs into the night. 15-minute taxi."
+        },
+        {
+          "source": "Mas Sorrer (official site) (cited in Matt's guide)",
+          "url": "https://www.massorrer.net/",
+          "date": "2026-07-29",
+          "note": "Mas Sorrer official site."
+        }
+      ],
+      "rating": 3,
+      "tags": "dj, late-night, outdoor, party",
+      "source_rating_raw": null,
+      "geocode_query": "Mas Sorrer, Gualta, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sunset Catamaran Cruise (Palamós)",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Activity",
+      "emoji": "🌅",
+      "description": "Private catamaran or sports-boat sunset cruises out of Palamós (15-minute taxi) — 1.5 to 2.5 hours with open cava bar, appetizers, chill music, and a twilight swim in a hidden cove. The bookable, romantic-evening version of the boat day; distinct from (and complementary to) the full-day llaüt charter already on the list.",
+      "cost_range": "$$$",
+      "address": "Port de Palamós, 17230 Palamós, Girona, Spain",
+      "latitude": 41.8503998,
+      "longitude": 3.1297006,
+      "google_map": "https://www.google.com/maps/search/Sunset%20Catamaran%20Cruise%20%28Palam%C3%B3s%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sunset-catamaran-cruise-palamos",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Private catamaran/sports boat from Palamós: 1.5–2.5 h sunset cruise, open cava bar, appetizers, twilight swim in a hidden cove."
+        },
+        {
+          "source": "GetYourGuide (cited in Matt's guide)",
+          "url": "https://www.getyourguide.com/costa-brava-l473/sunset-tours-tc306/",
+          "date": "2026-07-29",
+          "note": "GetYourGuide: Palamós sunset boat tours with cava."
+        }
+      ],
+      "rating": 4,
+      "tags": "book-asap, boat, cava, romantic, sunset, swimming",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": "No specific operator chosen — pinned at Palamós marina; GetYourGuide listings are the booking route.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Sea Kayaking & Sea Caves",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell / Llafranc",
+      "type": "Activity",
+      "emoji": "🛶",
+      "description": "Guided kayak tours departing directly from Calella or Llafranc — paddle crystal-clear water, glide into 10-meter sea caves, and snorkel over white-sand inlets. Operators include Excursions Barcelona and Triton Diving; go before 10:00 AM for the calmest water and best light. The no-car adventure morning of this leg.",
+      "cost_range": "$$",
+      "address": "Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.89038,
+      "longitude": 3.185393,
+      "google_map": "https://www.google.com/maps/search/Sea%20Kayaking%20%26%20Sea%20Caves%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sea-kayaking-sea-caves",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Guided kayak tours from Calella/Llafranc: sea caves up to 10 m, snorkeling over white-sand inlets. Go before 10 AM for calm water and light."
+        },
+        {
+          "source": "Excursions Barcelona (cited in Matt's guide)",
+          "url": "https://excursionsbarcelona.com/kayaking-in-costa-brava/",
+          "date": "2026-07-29",
+          "note": "Excursions Barcelona's Costa Brava kayaking guide."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, kayak, morning, sea-caves, snorkeling",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": "Departs from Calella or Llafranc beaches depending on operator — pinned at Calella.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Triton Diving",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Activity",
+      "emoji": "🤿",
+      "description": "Dive-and-snorkel operator on Llafranc's Plaça dels Pins running boat tours to the best snorkeling reefs on this coast — spots reachable only by water. Poseidon in Calella is the equivalent operator one cove over.",
+      "cost_range": "$$",
+      "address": "Plaça dels Pins, 3, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.8952847,
+      "longitude": 3.1954573,
+      "google_map": "https://www.google.com/maps/search/Triton%20Diving%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#triton-diving",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Triton Diving (Llafranc) and Poseidon (Calella) run boat tours to the coast's best snorkeling reefs, accessible only by water."
+        },
+        {
+          "source": "TripAdvisor (cited in Matt's guide)",
+          "url": "https://www.tripadvisor.com/Attraction_Review-g635891-d4958691-Reviews-or10-Triton_Diving_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_C.html",
+          "date": "2026-07-29",
+          "note": "TripAdvisor listing for Triton Diving Llafranc."
+        }
+      ],
+      "rating": 3,
+      "tags": "boat-tour, diving, operator, snorkeling",
+      "source_rating_raw": null,
+      "geocode_query": "Triton Diving, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Far de Sant Sebastià",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Attraction",
+      "emoji": "🗼",
+      "description": "1857 lighthouse on a 168-meter cliff between Llafranc and Tamariu — a moderate, accessible hike up from Llafranc with panoramic views over the bays of Llafranc, Calella, and the Cap Roig headland. Sunset walk material; there's a hotel-restaurant terrace at the top.",
+      "cost_range": "",
+      "address": "Carrer de l'Uruguai, 87, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.89609189999999,
+      "longitude": 3.2024684,
+      "google_map": "https://www.google.com/maps/search/Far%20de%20Sant%20Sebasti%C3%A0%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#far-de-sant-sebastia",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "168 m cliff between Llafranc and Tamariu; moderate accessible hike; panoramic views over both bays and Cap Roig."
+        },
+        {
+          "source": "Hotel HCP (cited in Matt's guide)",
+          "url": "https://hotelhcp.com/en/sant-sebastia-lighthouse/",
+          "date": "2026-07-29",
+          "note": "Hotel HCP's guide to the Sant Sebastià lighthouse."
+        }
+      ],
+      "rating": 4,
+      "tags": "hike, lighthouse, panorama, sunset, viewpoint",
+      "source_rating_raw": null,
+      "geocode_query": "Far de Sant Sebastia, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Cap Roig Botanical Gardens",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Attraction",
+      "emoji": "🌺",
+      "description": "Cliff-top botanical gardens created in 1927 facing the Mediterranean — 800+ species woven through art, history, and the castle of the eccentric Woevodsky couple; the #1-rated attraction in Calella. El Golfet cove (already on the beach list) sits directly below; in summer it hosts the Cap Roig Festival.",
+      "cost_range": "$",
+      "address": "Carrer Camí del Rus, s/n, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.87625600000001,
+      "longitude": 3.1751821,
+      "google_map": "https://www.google.com/maps/search/Cap%20Roig%20Botanical%20Gardens%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cap-roig-botanical-gardens",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Created 1927 on a cliff over the sea; 800+ botanical species with art and history; #1 attraction in town."
+        },
+        {
+          "source": "Spain.info (cited in Matt's guide)",
+          "url": "https://www.spain.info/en/places-of-interest/cap-roig-botanical-gardens/",
+          "date": "2026-07-29",
+          "note": "Spain.info on Cap Roig Botanical Gardens."
+        }
+      ],
+      "rating": 4,
+      "tags": "botanical-garden, cliffside, culture, scenic",
+      "source_rating_raw": null,
+      "geocode_query": "Jardins de Cap Roig, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Palafrugell Sunday Market",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell (town)",
+      "type": "Market",
+      "emoji": "🧺",
+      "description": "Running since the year 1600 — every Sunday 8:00–13:30 the streets of Palafrugell fill with stalls of local cheeses, cured meats, fresh flowers, ceramics, and textiles. The area's authentic-market fix and the Costa Brava counterpart to Santanyí's market; pair with churros at Xurrería Laietana and a vermut at El Pati de l'Estrella.",
+      "cost_range": "$",
+      "address": "Plaça Nova, 17200 Palafrugell, Girona, Spain",
+      "latitude": 41.9165841,
+      "longitude": 3.1648092,
+      "google_map": "https://www.google.com/maps/search/Palafrugell%20Sunday%20Market%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#palafrugell-sunday-market",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "One of the region's most famous markets, operating since 1600; Sundays 8:00–13:30; cheeses, cured meats, flowers, ceramics, textiles."
+        },
+        {
+          "source": "Visit Palafrugell (cited in Matt's guide)",
+          "url": "https://visitpalafrugell.cat/en/proposta/mercat-del-diumenge/",
+          "date": "2026-07-29",
+          "note": "Visit Palafrugell on the Sunday market."
+        }
+      ],
+      "rating": 4,
+      "tags": "ceramics, market, morning, sunday, textiles",
+      "source_rating_raw": null,
+      "geocode_query": "Placa Nova, Palafrugell, Girona, Spain",
+      "geo_note": "Street market through the town center — pinned at Plaça Nova.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Calella Artisan Boutiques",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Attraction",
+      "emoji": "🛍️",
+      "description": "The winding streets of Calella hide independent shops — Sa Calma and El Cau for Mediterranean linen and espadrilles, plus studios selling hand-painted ceramics, woven beach towels, and olive-oil cosmetics. The impromptu-shopping wander you loved in Ravello, compressed into a few whitewashed lanes.",
+      "cost_range": "$$",
+      "address": "Calella de Palafrugell old town, Girona, Spain",
+      "latitude": 41.89038,
+      "longitude": 3.185393,
+      "google_map": "https://www.google.com/maps/search/Calella%20Artisan%20Boutiques%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#calella-artisan-boutiques",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Independent boutiques in the old lanes: Sa Calma and El Cau (linen, espadrilles), hand-painted ceramics, woven towels, olive-oil cosmetics."
+        },
+        {
+          "source": "Estatefy (cited in Matt's guide)",
+          "url": "https://www.estatefy.com/spain/authentic-shops-in-calella-de-palafrugell",
+          "date": "2026-07-29",
+          "note": "Estatefy's guide to authentic shops in Calella de Palafrugell."
+        }
+      ],
+      "rating": 3,
+      "tags": "boutiques, ceramics, linen, shopping",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": "A cluster of shops through the old lanes — pinned at the village center.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Calella de Palafrugell",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "Whitewashed fishermen's village with stone voltes arches over the sand — the heart of the 'Petita Costa Brava' and now the best-documented base candidate on the list: Tragamar, La Blava, Calau, Sol i Mar and El Balcó within the village, Llafranc a flat 25-minute Camí de Ronda stroll away, and the Julivia hop-on-hop-off bus covering the coves until late September. Also photographed in the batch-2 Instagram sweep as a must-see.",
+      "cost_range": "",
+      "address": "Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8903804,
+      "longitude": 3.1853926,
+      "google_map": "https://www.google.com/maps/search/Calella%20de%20Palafrugell%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#calella-de-palafrugell",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "The guide's thesis: Calella + Llafranc + Palafrugell form a walkable 'golden triangle' — dining from Michelin-recognized to toes-in-the-sand, taxis €10–25 for everything else, Julivia tourist bus until late September. No car needed."
+        },
+        {
+          "source": "Visit Palafrugell (Instagram) (cited in Matt's guide)",
+          "url": "https://www.instagram.com/reel/DbNoeliMvTX/",
+          "date": "2026-07-29",
+          "note": "Visit Palafrugell Instagram reel on the Julivia tourist bus."
+        },
+        {
+          "shortcode": "DVoT1MQET6N",
+          "url": "https://www.instagram.com/p/DVoT1MQET6N/",
+          "creator": "Iisa Hero — Solo & Adventure Travel",
+          "handle": "@heroiisa",
+          "likes": 5800,
+          "note": "One of the 9 places to visit in Costa Brava — whitewashed seaside town."
+        }
+      ],
+      "rating": 4,
+      "tags": "base, no-car-needed, voltes, walkable, whitewashed",
+      "source_rating_raw": null,
+      "geocode_query": "Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Palafrugell (town)",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "The working inland market town of the golden triangle, 10 minutes behind the coast — home of the 400-year-old Sunday market, Sabor a Brasa's live-fire cooking, Candela's converted-house nightlife, and El Pati de l'Estrella's vermouth hour. Where the locals actually live; the authentic-Spain counterweight to the beach villages.",
+      "cost_range": "",
+      "address": "17200 Palafrugell, Girona, Spain",
+      "latitude": 41.918304,
+      "longitude": 3.1624042,
+      "google_map": "https://www.google.com/maps/search/Palafrugell%20%28town%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#palafrugell-town",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "The inland vertex of the golden triangle: Sunday market since 1600, the area's most talked-about grill, and the local nightlife cluster. Taxis €10–25 from the coast."
+        },
+        {
+          "source": "Visit Palafrugell (cited in Matt's guide)",
+          "url": "https://visitpalafrugell.cat/en/proposta/mercat-del-diumenge/",
+          "date": "2026-07-29",
+          "note": "Visit Palafrugell on the Sunday market."
+        }
+      ],
+      "rating": 3,
+      "tags": "authentic, inland, market-town, town",
+      "source_rating_raw": null,
+      "geocode_query": "Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Entre Dos Mons",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Michelin-Guide-recognized Peruvian-Catalan fusion in Palamós with an incredible wine list built on small Empordà producers — the owner personally introduces bottles you'd never find elsewhere. Now recommended by two separate Manus deep-dives (the wine-bar roundup and Matt's Calella guide); ~15-minute taxi from a Calella base, on the same street as Kaos, and a natural dinner after a Palamós boat day. Book ~a week out.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Tauler i Servià, 21, 17230 Palamós, Girona, Spain",
+      "latitude": 41.8456966,
+      "longitude": 3.1290906,
+      "google_map": "https://www.google.com/maps/search/Entre%20Dos%20Mons%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#entre-dos-mons",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "Repeated in the Calella guide's special-occasion list: 'Between Two Worlds' — Peruvian-Catalan fusion, owner-guided Empordà wine list. Book ~1 week ahead."
+        },
+        {
+          "source": "Excellence Luxury Villas (cited in Matt's guide)",
+          "url": "https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/",
+          "date": "2026-07-29",
+          "note": "From Excellence Luxury Villas' Palafrugell dining guide."
+        }
+      ],
+      "rating": 4,
+      "tags": "fusion, michelin-guide, palamos, small-producers, wine-list",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Camí de Ronda",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Attraction",
+      "emoji": "🥾",
+      "description": "The coastal hiking path connecting the best calas — cliff-top pine forest with hidden beaches below, the Costa Brava's answer to the Ravello–Amalfi walk. Matt's guide adds the practical details: Calella→Llafranc is a flat, paved, 25-minute cliffside stroll (evening-friendly), and the newly rehabilitated Cala Pedrosa→Tamariu section is the pick for a longer adventure. The Begur and Calella–Llafranc–Tamariu sections are the most celebrated.",
+      "cost_range": "",
+      "address": "Camí de Ronda, Girona, Spain",
+      "latitude": 41.9629628,
+      "longitude": 3.2285717,
+      "google_map": "https://www.google.com/maps/search/Cam%C3%AD%20de%20Ronda%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cami-de-ronda",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "'The crown jewel of the Costa Brava': Calella→Llafranc is flat, paved, 25 minutes and spectacular; the rehabilitated Cala Pedrosa→Tamariu stretch is the longer adventure."
+        },
+        {
+          "source": "Barcelona Travel Hacks (cited in Matt's guide)",
+          "url": "https://www.barcelonatravelhacks.com/en/travel/costa-brava-cami-ronda-i/calella-palafrugell-to-aiguablava-day-2",
+          "date": "2026-07-29",
+          "note": "Barcelona Travel Hacks' Camí de Ronda day-2 guide (Calella de Palafrugell to Aiguablava)."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, coastal, hiking, scenic, snorkeling",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": "The Cami de Ronda runs for miles along the coast; this pin marks the Sa Tuna / Begur section, not a single point.",
+      "flags": [
+        "existing-entry",
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Llafranc",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell",
+      "type": "Town/Village",
+      "emoji": "⛵",
+      "description": "Elegant, low-key beach town with a curved bay and seafront promenade — Gemini's original 7-night base proposal, and Matt's Calella guide fills in why it works: Casamar's tasting menu and Isabella's terrace in town, Blau and Degust for casual meals, Merci for cocktails, Triton Diving and kayak departures from the beach, the Sant Sebastià lighthouse hike above, and Calella a flat 25-minute Camí de Ronda walk away. The boat-charter and Vespa launchpad, now with a fully documented walkable evening scene.",
+      "cost_range": "",
+      "address": "Llafranc, Girona, Spain",
+      "latitude": 41.8947345,
+      "longitude": 3.1935945,
+      "google_map": "https://www.google.com/maps/search/Llafranc%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#llafranc",
+      "references": [
+        {
+          "source": "Manus (Matt's Calella guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-07-29",
+          "note": "The second vertex of the walkable golden triangle: fine dining (Casamar), beachfront terraces, cocktail bars, dive/kayak operators and the lighthouse hike — all without a car."
+        }
+      ],
+      "rating": 4,
+      "tags": "base, beach-town, boat, no-car-needed, scenic, walkable, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

@@ -1,3 +1,11 @@
+<!--
+Source: Manus conversation (Matt's Calella de Palafrugell deep-dive)
+URL: https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e?previewEventId=WOfrITYmJH9UG6fyP4aMK0&previewSandboxPath=%2Fhome%2Fubuntu%2Fcalella_de_palafrugell_comprehensive_guide.md
+Captured: 2026-07-29
+Note: numbered citations [1]-[23] at the bottom are carried into
+REFERENCES.md as per-venue sources.
+-->
+
 # The Ultimate Guide to Calella de Palafrugell & Surroundings
 **A Curated Deep-Dive for the Luxury Foodie Traveler**
 
