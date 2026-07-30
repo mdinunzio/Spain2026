@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_manus-calella-palafrugell-guide*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide*
 
-*232 venues · 379 sources*
+*239 venues · 397 sources*
 
 ---
 
@@ -310,6 +310,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Lunch & Casual Dining.
 - **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
   - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="botanic" name="botanic"></a>
+
+## 🌿 Botànic
+
+**Region:** Mallorca · **Neighborhood:** La Llotja, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Bot%C3%A0nic%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - 16th-century mansion garden setting; salted tomato with Mallorcan-prawn carpaccio, spicy mango gazpacho; thoughtful wine list with homegrown labels. Romantic candlelit evenings or Mediterranean lunch.
 
 ---
 
@@ -703,16 +718,18 @@ Each section is linked from that tab's `References` column.
 
 ## ⭐ DINS Santi Taura
 
-**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
+**Region:** Mallorca · **Neighborhood:** La Calatrava, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
 
-[Google Maps](https://www.google.com/maps/search/DINS+Santi+Taura%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/DINS%20Santi%20Taura%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
 - **Michelin Guide: DINS Santi Taura** · 2026-07-24 · [link](https://guide.michelin.com/gb/en/islas-baleares/palma/restaurant/dins-santi-taura)
   - Manus cited this source: Michelin Guide: DINS Santi Taura.
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - 'Leading the way' in Palma's fine-dining scene — 11-course farm-to-table Mallorcan heritage menu; razorfish with fried eggs, prawns with sobrassada; handmade ceramic crockery; chef's table at the bar.
 
 ---
 
@@ -737,11 +754,11 @@ Each section is linked from that tab's `References` column.
 
 ## 🍽️ El Camino
 
-**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+**Region:** Mallorca · **Neighborhood:** Centre, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/El+Camino%2C+Palma%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/El%20Camino%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
@@ -749,6 +766,8 @@ Each section is linked from that tab's `References` column.
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - 'More polished than Barcelona Wine Bar but the same DNA — counter seating, watching chefs work, sharing plates.' Barrafina-team pedigree, bustling energy, excellent Spanish wines.
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Barrafina-team tapas bar, long counter regularly packed; padrón peppers, fried zucchini flowers with goat cheese, individual tortillas, local wines. Order as you go.
 
 ---
 
@@ -824,16 +843,18 @@ Each section is linked from that tab's `References` column.
 
 ## ☕ El Perrito
 
-**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Cafe · **Rating:** 4/5 · **Cost:** $$
+**Region:** Mallorca · **Neighborhood:** Santa Catalina, Palma · **Type:** Cafe · **Rating:** 4/5 · **Cost:** $$
 
-[Google Maps](https://www.google.com/maps/search/El+Perrito%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/El%20Perrito%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch.
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Llonguet with Mahón cheese or cured ham and tomato; fresh island ingredients; 'so good they opened a second location.' Streetside tables popular.
 
 ---
 
@@ -903,6 +924,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="fera" name="fera"></a>
+
+## 🍽️ Fera
+
+**Region:** Mallorca · **Neighborhood:** Sant Jaume, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Fera%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Restored mansion, cobble-floored garden with orange and palm trees; Mallorcan produce with pan-Asian flavors (beets with ponzu, polenta with artichoke and sansho, wagyu carpaccio in tom kha gai); vegetarian tasting menus; lunch à la carte.
+
+---
+
 <a id="forn-de-sant-joan" name="forn-de-sant-joan"></a>
 
 ## 🍽️ Forn de Sant Joan
@@ -915,6 +951,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - "Absolute favorite restaurant on the island" — traditional Spanish in central Palma. 5/5.
+
+---
+
+<a id="fornet-de-la-soca" name="fornet-de-la-soca"></a>
+
+## 🥐 Fornet de la Soca
+
+**Region:** Mallorca · **Neighborhood:** Sant Nicolau, Palma · **Type:** Cafe · **Rating:** 4/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Fornet%20de%20la%20Soca%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Recipes from local homes and monasteries; ensaïmades (classic, chocolate, cream, rare plaited potato), coca with roasted peppers, fig cupcakes. Always crowded; takeaway with nearby plaza seating.
 
 ---
 
@@ -1022,6 +1073,25 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-rosa-vermuteria" name="la-rosa-vermuteria"></a>
+
+## 🥂 La Rosa Vermutería
+
+**Region:** Mallorca · **Neighborhood:** Sant Jaume, Palma · **Type:** Wine Bar · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/La%20Rosa%20Vermuter%C3%ADa%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (3)
+
+- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
+- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - 'Worth waiting in line' for the house vermouth and giant tortilla pintxo; platters of Mallorcan pork sausages, croquettes, pork cheeks in vermouth, rice with smoked mushrooms. Reservations recommended.
+
+---
+
 <a id="llafranc" name="llafranc"></a>
 
 ## ⛵ Llafranc
@@ -1079,16 +1149,18 @@ Each section is linked from that tab's `References` column.
 
 ## ⭐ Marc Fosh
 
-**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
+**Region:** Mallorca · **Neighborhood:** Centre, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
 
-[Google Maps](https://www.google.com/maps/search/Marc+Fosh%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Marc%20Fosh%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - 'Probably the most famous destination restaurant in Palma' — 17th-century monastery; lunch from €69, dinner from €139; watermelon soup with dill-cucumber spheres, caviar on crumpets.
 
 ---
 
@@ -1490,14 +1562,16 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Santa Catalina, Palma · **Type:** Market · **Rating:** 4/5 · **Cost:** $
 
-[Google Maps](https://www.google.com/maps/search/Santa+Catalina+Market%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Santa%20Catalina%20Market%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The neighborhood's beating heart — quick lunches at Bar Joan Frau or dim sum at Arume right at the market counters. (Listed in Manus's Ultimate Palma Master List, under Palma › Lunch & Casual Dining.)
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Guide entry #1: classic Spanish market, metallic counters, local crowd; Bar Joan Frau (breakfast sandwiches, variat) and Arume sushi bar (dim sum with langoustines, oxtail). Standing room; walk-ins.
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Her Palma market pick for the freshest produce on the island. 5/5.
 
@@ -1541,16 +1615,18 @@ Each section is linked from that tab's `References` column.
 
 ## 🍽️ Stagier
 
-**Region:** Mallorca · **Neighborhood:** Santa Catalina · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+**Region:** Mallorca · **Neighborhood:** Santa Catalina, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Stagier%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Stagier%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Dinner (Upscale & Romantic).
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - 'The most exciting addition in recent years' to Santa Catalina — chimichurri-butter sourdough, lobster-filled avocado rolls. Date-night destination; book weeks ahead.
 
 ---
 
@@ -1677,6 +1753,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="vandal" name="vandal"></a>
+
+## 🍸 Vandal
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Vandal%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Nighttime-only lounge; ceviche–coconut-foam cone, croquettes with maize, pork, huitlacoche; cocktail pairings. 'Basically demands you have a great time.' Book ahead for weekends.
+- **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
+  - Elevated modern tapas in Santa Catalina. 4/5.
+
+---
+
 <a id="vespa-rental-costa-brava" name="vespa-rental-costa-brava"></a>
 
 ## 🛵 Vespa Rental (Costa Brava)
@@ -1790,6 +1883,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="aromata" name="aromata"></a>
+
+## 🍽️ Aromata
+
+**Region:** Mallorca · **Neighborhood:** Ponent, Palma (HM Palma Blanc) · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Aromata%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - One of the island's top chefs; suckling pig with ensaïmada in ham-citrus sauce, squid-aioli sandwiches, tumbet; weekday lunch menus at strong value, dinner tasting from €75. (Address updated: moved to HM Palma Blanc, Ramon y Cajal 12, in Oct 2024.)
+
+---
+
 <a id="arros9" name="arros9"></a>
 
 ## 🥘 Arròs9
@@ -1884,6 +1992,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="bar-espanya" name="bar-espanya"></a>
+
+## 🍢 Bar Espanya
+
+**Region:** Mallorca · **Neighborhood:** Sant Nicolau, Palma · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Bar%20Espanya%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Pintxos stacked on the counter (limited supply — arrive early); patatas bravas with sobrassada, homemade tortillas, croquettes. Second location in Sa Gerreria with terrace.
+
+---
+
 <a id="bar-espana" name="bar-espana"></a>
 
 ## 🍽️ Bar España
@@ -1922,11 +2045,11 @@ Each section is linked from that tab's `References` column.
 
 ## 🍷 Bar La Sang
 
-**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+**Region:** Mallorca · **Neighborhood:** Nord, Palma · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
 
-[Google Maps](https://www.google.com/maps/search/Bar+La+Sang%2C+Palma%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Bar%20La%20Sang%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Wine Bars.
@@ -1934,6 +2057,8 @@ Each section is linked from that tab's `References` column.
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - 'A brilliant natural wine bar serving earthy Mallorcan reds alongside tapas like burrata and anchovies. Intimate, wine-geek-friendly. Perfect if you love discovering small-producer wines.'
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Natural-wine focus (Mallorcan reds, Catalan whites, small Spanish producers); burrata-anchovy tostadas; cool and laid-back. Listed as TEMPORARILY CLOSED as of this guide — verify before visiting.
 
 ---
 
@@ -2035,18 +2160,20 @@ Each section is linked from that tab's `References` column.
 
 <a id="bodega-la-rambla" name="bodega-la-rambla"></a>
 
-## 🍷 Bodega La Rambla
+## 🍢 Bodega La Rambla
 
-**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
+**Region:** Mallorca · **Neighborhood:** Centre, Palma · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
 
-[Google Maps](https://www.google.com/maps/search/Bodega+La+Rambla%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Bodega%20La%20Rambla%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Since the 1940s; house variat with ensaladilla, fried squid, octopus fritters, mushrooms, cod; vegetarian variat available. Beloved local spot.
 
 ---
 
@@ -2877,23 +3004,6 @@ Each section is linked from that tab's `References` column.
 
 ---
 
-<a id="la-rosa-vermuteria" name="la-rosa-vermuteria"></a>
-
-## 🍷 La Rosa Vermutería
-
-**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$
-
-[Google Maps](https://www.google.com/maps/search/La+Rosa+Vermuter%C3%ADa%2C+Mallorca%2C+Spain)
-
-### Sources (2)
-
-- **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
-  - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
-- **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
-  - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
-
----
-
 <a id="la-vela" name="la-vela"></a>
 
 ## 🥗 La Vela
@@ -2908,6 +3018,21 @@ Each section is linked from that tab's `References` column.
   - Impromptu waterfront spot — massive salads, fresh mussels, casual paella.
 - **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Restaurant_Review-g1072491-d2234179-Reviews-Restaurante_La_Vela-Calella_de_Palafrugell_Palafrugell_Costa_Brava_Province_of_G.html)
   - TripAdvisor listing for Restaurante La Vela.
+
+---
+
+<a id="la-vieja" name="la-vieja"></a>
+
+## 🥔 La Vieja
+
+**Region:** Mallorca · **Neighborhood:** Sa Gerreria, Palma · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/La%20Vieja%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Papas arrugadas in volcanic-stone bowls with two mojos (one blended tableside); colorful murals; afternoon tapas on a sunny terrace.
 
 ---
 
@@ -2989,6 +3114,21 @@ Each section is linked from that tab's `References` column.
   - Outdoor venue in a sunflower field; four stages, restaurants, DJs into the night. 15-minute taxi.
 - **Mas Sorrer (official site) (cited in Matt's guide)** · 2026-07-29 · [link](https://www.massorrer.net/)
   - Mas Sorrer official site.
+
+---
+
+<a id="mercat-de-l-olivar" name="mercat-de-l-olivar"></a>
+
+## 🧺 Mercat de l'Olivar
+
+**Region:** Mallorca · **Neighborhood:** Centre, Palma · **Type:** Market · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Mercat%20de%20l%27Olivar%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Operating since the 1950s; Balearic cheeses, garlic, olives, local salts; Mercat Negre (seafood small plates) and Buades (ibérico, charcuterie, cheeses). Busy with visitors and locals.
 
 ---
 
@@ -3662,18 +3802,20 @@ Each section is linked from that tab's `References` column.
 
 <a id="toque-de-queda" name="toque-de-queda"></a>
 
-## 🍷 Toque de Queda
+## 🥂 Toque de Queda
 
-**Region:** Mallorca · **Neighborhood:** Old Town · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$$
+**Region:** Mallorca · **Neighborhood:** Centre, Palma · **Type:** Wine Bar · **Rating:** 3/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Toque+de+Queda%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Toque%20de%20Queda%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Lunch & Casual Tapas.
 - **The 18 Best Restaurants in Palma de Mallorca (The Infatuation)** · 2026-07-24 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
+- **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
+  - Converted ancient bakery and deli; exceptional charcuterie boards; roasted baby potatoes with paprika aioli, burrata salad with kale pesto; outdoor tables on the staircase street.
 
 ---
 
@@ -3706,21 +3848,6 @@ Each section is linked from that tab's `References` column.
   - Triton Diving (Llafranc) and Poseidon (Calella) run boat tours to the coast's best snorkeling reefs, accessible only by water.
 - **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Attraction_Review-g635891-d4958691-Reviews-or10-Triton_Diving_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_C.html)
   - TripAdvisor listing for Triton Diving Llafranc.
-
----
-
-<a id="vandal" name="vandal"></a>
-
-## 🍽️ Vandal
-
-**Region:** Mallorca · **Neighborhood:** Santa Catalina, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
-
-[Google Maps](https://www.google.com/maps/search/Vandal%2C+Mallorca%2C+Spain)
-
-### Sources (1)
-
-- **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
-  - Elevated modern tapas in Santa Catalina. 4/5.
 
 ---
 

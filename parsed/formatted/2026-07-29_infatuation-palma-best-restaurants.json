@@ -1,0 +1,534 @@
+{
+  "batch": "2026-07-29_infatuation-palma-best-restaurants",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 18,
+  "locations": [
+    {
+      "name": "Bar Espanya",
+      "region": "Mallorca",
+      "neighborhood": "Sant Nicolau, Palma",
+      "type": "Bar",
+      "emoji": "🍢",
+      "description": "Old-school pintxos counter on Carrer de Can Escursac — pintxos stacked on the bar in limited supply (arrive early for the best pick), plus patatas bravas with sobrassada and croquettes. A second location in Sa Gerreria adds terrace seating. The quick, cheap, standing counter stop of a Palma tapas crawl.",
+      "cost_range": "$$",
+      "address": "Carrer de Can Escursac, 12, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5709057,
+      "longitude": 2.6509374,
+      "google_map": "https://www.google.com/maps/search/Bar%20Espanya%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#bar-espanya",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Pintxos stacked on the counter (limited supply — arrive early); patatas bravas with sobrassada, homemade tortillas, croquettes. Second location in Sa Gerreria with terrace."
+        }
+      ],
+      "rating": 3,
+      "tags": "counter, palma, pintxos, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mercat de l'Olivar",
+      "region": "Mallorca",
+      "neighborhood": "Centre, Palma",
+      "type": "Market",
+      "emoji": "🧺",
+      "description": "Palma's big covered market since the 1950s — Balearic cheeses, olives, local salts, plus eat-in stalls: Mercat Negre for fresh-seafood small plates and Buades for ibérico ham and charcuterie. Quick-lunch counterpart to Santa Catalina Market on the other side of the center — and the meeting point where the Cooking Class Soqueta market tour begins.",
+      "cost_range": "$",
+      "address": "Plaça de l'Olivar, s/n, 07002 Palma, Illes Balears, Spain",
+      "latitude": 39.5737478,
+      "longitude": 2.6534932,
+      "google_map": "https://www.google.com/maps/search/Mercat%20de%20l%27Olivar%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mercat-de-l-olivar",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Operating since the 1950s; Balearic cheeses, garlic, olives, local salts; Mercat Negre (seafood small plates) and Buades (ibérico, charcuterie, cheeses). Busy with visitors and locals."
+        }
+      ],
+      "rating": 3,
+      "tags": "food-hall, market, palma, quick-lunch, seafood",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Botànic",
+      "region": "Mallorca",
+      "neighborhood": "La Llotja, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🌿",
+      "description": "The restaurant of Can Bordoy Grand House (the 16th-century-mansion hotel already on your list) — plant-forward international cooking served in the mansion's garden: salted tomato with Mallorcan-prawn carpaccio, spicy mango gazpacho, and a wine list with homegrown labels. Candlelit and romantic by night, an elegant garden lunch by day.",
+      "cost_range": "$$$$",
+      "address": "Carrer del Forn de la Glòria, 14, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5696597,
+      "longitude": 2.6444226,
+      "google_map": "https://www.google.com/maps/search/Bot%C3%A0nic%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#botanic",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "16th-century mansion garden setting; salted tomato with Mallorcan-prawn carpaccio, spicy mango gazpacho; thoughtful wine list with homegrown labels. Romantic candlelit evenings or Mediterranean lunch."
+        }
+      ],
+      "rating": 4,
+      "tags": "candlelit, garden, palma, plant-forward, romantic",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Aromata",
+      "region": "Mallorca",
+      "neighborhood": "Ponent, Palma (HM Palma Blanc)",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Andreu Genestra's approachable fine-dining room — suckling pig with ensaïmada in ham-citrus sauce, squid-aioli sandwiches, market fish with tumbet. Strong-value weekday lunch menus; dinner tasting from €75. Note: relocated in October 2024 from the Concepció mansion to the HM Palma Blanc hotel on Carrer de Ramon y Cajal — the Infatuation's old-mansion framing describes the previous location.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Ramon y Cajal, 12, 07011 Palma, Illes Balears, Spain",
+      "latitude": 39.5755931,
+      "longitude": 2.6420447,
+      "google_map": "https://www.google.com/maps/search/Aromata%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#aromata",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "One of the island's top chefs; suckling pig with ensaïmada in ham-citrus sauce, squid-aioli sandwiches, tumbet; weekday lunch menus at strong value, dinner tasting from €75. (Address updated: moved to HM Palma Blanc, Ramon y Cajal 12, in Oct 2024.)"
+        }
+      ],
+      "rating": 3,
+      "tags": "fine-dining, lunch-deal, mallorcan, palma, tasting-menu",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Fornet de la Soca",
+      "region": "Mallorca",
+      "neighborhood": "Sant Nicolau, Palma",
+      "type": "Cafe",
+      "emoji": "🥐",
+      "description": "Heritage bakery on Plaça de Weyler reviving recipes from Mallorcan homes and monasteries — sugar-topped ensaïmades (chocolate, cream, even a rare plaited-potato version), coca with roasted peppers, fig cupcakes. Always crowded, takeaway-only with plaza seating nearby: the ensaïmada stop of any Palma day, and the box to carry home.",
+      "cost_range": "$",
+      "address": "Plaça de Weyler, 9, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.57140589999999,
+      "longitude": 2.6501445,
+      "google_map": "https://www.google.com/maps/search/Fornet%20de%20la%20Soca%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#fornet-de-la-soca",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Recipes from local homes and monasteries; ensaïmades (classic, chocolate, cream, rare plaited potato), coca with roasted peppers, fig cupcakes. Always crowded; takeaway with nearby plaza seating."
+        }
+      ],
+      "rating": 4,
+      "tags": "bakery, ensaimada, heritage, palma, takeaway",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Fera",
+      "region": "Mallorca",
+      "neighborhood": "Sant Jaume, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Restored city-center mansion with a cobble-floored garden of orange and palm trees — Austrian chef Simon Petutschnig fuses Mallorcan produce with pan-Asian flavors: beets with ponzu and goat cheese, wagyu carpaccio in tom kha gai. Vegetarian tasting menus and à-la-carte lunches make it flexible for either a special occasion or a smart midday meal.",
+      "cost_range": "$$$$",
+      "address": "C/ de la Concepció, 4, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5720367,
+      "longitude": 2.6467614,
+      "google_map": "https://www.google.com/maps/search/Fera%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#fera",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Restored mansion, cobble-floored garden with orange and palm trees; Mallorcan produce with pan-Asian flavors (beets with ponzu, polenta with artichoke and sansho, wagyu carpaccio in tom kha gai); vegetarian tasting menus; lunch à la carte."
+        }
+      ],
+      "rating": 4,
+      "tags": "fusion, garden, mansion, palma, tasting-menu, vegetarian-friendly",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Vieja",
+      "region": "Mallorca",
+      "neighborhood": "Sa Gerreria, Palma",
+      "type": "Lunch Restaurant",
+      "emoji": "🥔",
+      "description": "Colorful, mural-covered Canarian spot in Sa Gerreria — papas arrugadas served in volcanic-stone bowls with two mojo sauces, one blended tableside with coriander. Sunny-terrace afternoon tapas, and a change of pace from the Mallorcan rotation.",
+      "cost_range": "$$",
+      "address": "Plaça de Sant Antoni, 07002 Palma, Illes Balears, Spain",
+      "latitude": 39.571857,
+      "longitude": 2.655651,
+      "google_map": "https://www.google.com/maps/search/La%20Vieja%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-vieja",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Papas arrugadas in volcanic-stone bowls with two mojos (one blended tableside); colorful murals; afternoon tapas on a sunny terrace."
+        }
+      ],
+      "rating": 3,
+      "tags": "canarian, casual, palma, terrace",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Santa Catalina Market",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Market",
+      "emoji": "🧺",
+      "description": "Palma's classic produce market in Santa Catalina — SheerLuxe rated it 5/5 for the freshest produce on the island, and the Infatuation names its eat-in stars: Bar Joan Frau for breakfast llonguets and a proper variat, and Arume's market sushi bar for dim sum with langoustines. Standing-room counters, walk-ins only; the surrounding blocks hold the neighborhood's restaurant cluster (El Perrito, Stagier, Vandal, Xoriguer).",
+      "cost_range": "$",
+      "address": "Plaça de la Navegació, s/n, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5711919,
+      "longitude": 2.6382749,
+      "google_map": "https://www.google.com/maps/search/Santa%20Catalina%20Market%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#santa-catalina-market",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Guide entry #1: classic Spanish market, metallic counters, local crowd; Bar Joan Frau (breakfast sandwiches, variat) and Arume sushi bar (dim sum with langoustines, oxtail). Standing room; walk-ins."
+        }
+      ],
+      "rating": 4,
+      "tags": "food-market, local, morning, palma, variat",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "La Rosa Vermutería",
+      "region": "Mallorca",
+      "neighborhood": "Sant Jaume, Palma",
+      "type": "Wine Bar",
+      "emoji": "🥂",
+      "description": "Wildly popular vermouth bar on Carrer de la Rosa — house vermouth, a giant tortilla pintxo, Mallorcan pork sausages, pork cheeks braised in vermouth, rice with smoked mushrooms. The Infatuation says it's 'worth waiting in line'; reserve if you can. The Palma counterpart of the vermut-hour ritual.",
+      "cost_range": "$$",
+      "address": "Carrer de la Rosa, 5, 07003 Palma, Illes Balears, Spain",
+      "latitude": 39.5717564,
+      "longitude": 2.6497467,
+      "google_map": "https://www.google.com/maps/search/La%20Rosa%20Vermuter%C3%ADa%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-rosa-vermuteria",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "'Worth waiting in line' for the house vermouth and giant tortilla pintxo; platters of Mallorcan pork sausages, croquettes, pork cheeks in vermouth, rice with smoked mushrooms. Reservations recommended."
+        }
+      ],
+      "rating": 4,
+      "tags": "charcuterie, palma, tapas, vermouth",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Stagier",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Tiny, romantic Chilean-Peruvian fusion room in Santa Catalina — chimichurri-butter sourdough, lobster-filled avocado rolls. The Infatuation calls it 'the most exciting addition to the neighborhood in recent years' and warns to book weeks ahead — treat it like a mini book-asap for the Palma nights.",
+      "cost_range": "$$$",
+      "address": "Carrer d'Espartero, 11, 07014 Palma, Illes Balears, Spain",
+      "latitude": 39.5708696,
+      "longitude": 2.6345123,
+      "google_map": "https://www.google.com/maps/search/Stagier%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#stagier",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "'The most exciting addition in recent years' to Santa Catalina — chimichurri-butter sourdough, lobster-filled avocado rolls. Date-night destination; book weeks ahead."
+        }
+      ],
+      "rating": 4,
+      "tags": "book-asap, date-night, fusion, intimate, palma, romantic",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Bar La Sang",
+      "region": "Mallorca",
+      "neighborhood": "Nord, Palma",
+      "type": "Wine Bar",
+      "emoji": "🍷",
+      "description": "A brilliant natural-wine bar pouring earthy Mallorcan reds and small-producer Spanish bottles alongside tapas like burrata-anchovy tostadas — intimate, wine-geek-friendly, indoor-outdoor. ⚠️ The Infatuation (May 2026) lists it as temporarily closed — check before going.",
+      "cost_range": "$$",
+      "address": "Carrer d'Antoni Frontera, 22, 07004 Palma, Illes Balears, Spain",
+      "latitude": 39.581688,
+      "longitude": 2.6530341,
+      "google_map": "https://www.google.com/maps/search/Bar%20La%20Sang%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#bar-la-sang",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Natural-wine focus (Mallorcan reds, Catalan whites, small Spanish producers); burrata-anchovy tostadas; cool and laid-back. Listed as TEMPORARILY CLOSED as of this guide — verify before visiting."
+        }
+      ],
+      "rating": 3,
+      "tags": "natural-wine, palma, small-producers, tapas, temporarily-closed, wine-geek",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Marc Fosh",
+      "region": "Mallorca",
+      "neighborhood": "Centre, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "1-Michelin-star tasting menus in a 17th-century monastery on Carrer de la Missió — watermelon soup with dill-cucumber spheres, caviar on crumpets, pea-sardine tartlets, farm-sourced throughout. The Infatuation calls it 'probably the most famous destination restaurant in Palma'; the €69 lunch menu is the value move vs. dinner from €139.",
+      "cost_range": "$$$$$",
+      "address": "Carrer de la Missió, 7A, 07003 Palma, Illes Balears, Spain",
+      "latitude": 39.5733484,
+      "longitude": 2.6513894,
+      "google_map": "https://www.google.com/maps/search/Marc%20Fosh%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#marc-fosh",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "'Probably the most famous destination restaurant in Palma' — 17th-century monastery; lunch from €69, dinner from €139; watermelon soup with dill-cucumber spheres, caviar on crumpets."
+        }
+      ],
+      "rating": 4,
+      "tags": "fine-dining, lunch-deal, michelin-star, palma, tasting-menu",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Bodega La Rambla",
+      "region": "Mallorca",
+      "neighborhood": "Centre, Palma",
+      "type": "Wine Bar",
+      "emoji": "🍢",
+      "description": "Old-school tavern going since the 1940s at Plaça des Patins — the classic place for the Mallorcan variat: one platter of ensaladilla, fried squid, octopus fritters, mushrooms, and cod (a vegetarian version exists too). Standing bar up front, sit-down room behind.",
+      "cost_range": "$$",
+      "address": "Via Roma, 6, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5758854,
+      "longitude": 2.6473402,
+      "google_map": "https://www.google.com/maps/search/Bodega%20La%20Rambla%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#bodega-la-rambla",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Since the 1940s; house variat with ensaladilla, fried squid, octopus fritters, mushrooms, cod; vegetarian variat available. Beloved local spot."
+        }
+      ],
+      "rating": 3,
+      "tags": "historic, palma, tapas, traditional, variat",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "El Perrito",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Santa Catalina's benchmark brunch café overlooking the market — llonguets (Mallorcan bread rolls) with Mahón cheese or cured ham and tomato, fresh island ingredients throughout. 'So good they opened a second location'; streetside tables go fast, regulars eat at the bar.",
+      "cost_range": "$$",
+      "address": "Carrer d'Anníbal, 20, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5714173,
+      "longitude": 2.6389145,
+      "google_map": "https://www.google.com/maps/search/El%20Perrito%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-perrito",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Llonguet with Mahón cheese or cured ham and tomato; fresh island ingredients; 'so good they opened a second location.' Streetside tables popular."
+        }
+      ],
+      "rating": 4,
+      "tags": "brunch, cafe, llonguet, palma, popular",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Toque de Queda",
+      "region": "Mallorca",
+      "neighborhood": "Centre, Palma",
+      "type": "Wine Bar",
+      "emoji": "🥂",
+      "description": "Converted ancient bakery-deli on a sunny staircase street in old Palma — exceptional charcuterie and cheese boards with grapes and jams, plus Mediterranean tapas like roasted baby potatoes with paprika aioli and burrata with kale pesto. Unfussy, cava-friendly, with outdoor tables on the steps.",
+      "cost_range": "$$$",
+      "address": "Carrer de Can Cavalleria, 15B, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5732364,
+      "longitude": 2.6471458,
+      "google_map": "https://www.google.com/maps/search/Toque%20de%20Queda%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#toque-de-queda",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Converted ancient bakery and deli; exceptional charcuterie boards; roasted baby potatoes with paprika aioli, burrata salad with kale pesto; outdoor tables on the staircase street."
+        }
+      ],
+      "rating": 3,
+      "tags": "cava, charcuterie, palma, small-plates, tapas",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "El Camino",
+      "region": "Mallorca",
+      "neighborhood": "Centre, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "A bustling, high-end tapas counter on Carrer dels Apuntadors from the team behind London's Barrafina — long bar, open kitchen, order-as-you-go: padrón peppers, fried zucchini flowers with goat cheese, individual tortillas, local Mallorcan wines. Third independent source to endorse it (Manus master list, wine-bar roundup, and now the Infatuation); Bar Día is a few doors down for the no-frills counterpart.",
+      "cost_range": "$$$",
+      "address": "Carrer dels Apuntadors, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.569204,
+      "longitude": 2.6447358,
+      "google_map": "https://www.google.com/maps/search/El%20Camino%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-camino",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Barrafina-team tapas bar, long counter regularly packed; padrón peppers, fried zucchini flowers with goat cheese, individual tortillas, local wines. Order as you go."
+        }
+      ],
+      "rating": 4,
+      "tags": "counter, high-end, open-kitchen, palma, tapas",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Vandal",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍸",
+      "description": "Nighttime-only lounge in Santa Catalina pairing playful small plates with cocktails — a ceviche cone with coconut foam, croquettes of maize, pork and huitlacoche. The Infatuation: it 'basically demands you have a great time.' Book ahead for weekends; the fun, sceney late-dinner slot of the Palma stretch.",
+      "cost_range": "$$$",
+      "address": "Plaça del Progrés, 9, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5715014,
+      "longitude": 2.6366075,
+      "google_map": "https://www.google.com/maps/search/Vandal%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#vandal",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "Nighttime-only lounge; ceviche–coconut-foam cone, croquettes with maize, pork, huitlacoche; cocktail pairings. 'Basically demands you have a great time.' Book ahead for weekends."
+        }
+      ],
+      "rating": 4,
+      "tags": "cocktails, late-night, nightlife, palma, sceney, tapas",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "DINS Santi Taura",
+      "region": "Mallorca",
+      "neighborhood": "La Calatrava, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "1-Michelin-star, 11-course tasting menu devoted purely to Mallorcan heritage recipes — razorfish with fried eggs, prawns with sobrassada, served on handmade ceramics inside a luxury hotel near the cathedral. The Infatuation calls it the restaurant 'leading the way' in Palma fine dining; the chef's-table bar seats are the move.",
+      "cost_range": "$$$$$",
+      "address": "Plaça de Llorenç Villalonga, 4, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5657104,
+      "longitude": 2.6530103,
+      "google_map": "https://www.google.com/maps/search/DINS%20Santi%20Taura%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#dins-santi-taura",
+      "references": [
+        {
+          "source": "The Infatuation — Isabella Noble",
+          "url": "https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca",
+          "date": "2026-05-29",
+          "note": "'Leading the way' in Palma's fine-dining scene — 11-course farm-to-table Mallorcan heritage menu; razorfish with fried eggs, prawns with sobrassada; handmade ceramic crockery; chef's table at the bar."
+        }
+      ],
+      "rating": 4,
+      "tags": "chefs-table, fine-dining, mallorcan, michelin-star, palma, tasting-menu",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}
