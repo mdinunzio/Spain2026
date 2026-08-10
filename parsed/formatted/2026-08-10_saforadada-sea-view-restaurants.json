@@ -1,0 +1,156 @@
+{
+  "batch": "2026-08-10_saforadada-sea-view-restaurants",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 5,
+  "locations": [
+    {
+      "name": "Es Vergeret",
+      "region": "Mallorca",
+      "neighborhood": "Cala Tuent (Escorca)",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Rustic cliffside terrace restaurant above remote Cala Tuent, in the shadow of Puig Major — paellas, local fish, and one of the great lunch views of the Tramuntana. Jessie Granader's boat-day lunch stop ('a very local restaurant with amazing views' — her charter's suggestion), and also on Sa Foradada's own list of fellow sea-view, boat-accessible restaurants. That's the move: arrive by boat on a charter day. By car it's a long hairpin mountain drive past the Sa Calobra road.",
+      "cost_range": "$$$",
+      "address": "Carrer Cala Tuent, s/n, 07315 Escorca, Illes Balears, Spain",
+      "latitude": 39.83944049999999,
+      "longitude": 2.7737298,
+      "google_map": "https://www.google.com/maps/search/Es+Vergeret%2C+Cala+Tuent%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#es-vergeret",
+      "references": [
+        {
+          "source": "Restaurante Sa Foradada (official site)",
+          "url": "https://restaurantesaforadada.com/",
+          "date": "2026-08-10",
+          "note": "Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat."
+        }
+      ],
+      "rating": 4,
+      "tags": "boat-access, cliffside, paella, remote, sea-views, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Es Vergeret, Cala Tuent, Escorca, Mallorca, Spain",
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Es Port",
+      "region": "Mallorca",
+      "neighborhood": "Port de Valldemossa",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "Seafood house at the tiny fishing cove of Port de Valldemossa, reached by a dramatic hairpin road down from Valldemossa village — fresh fish and rice dishes right on the water in a settlement of a few stone boathouses. From Sa Foradada's sea-view list, and the most itinerary-compatible of its suggestions: an easy pairing with the Son Moragues olive-estate visit or a Valldemossa afternoon during the Deià leg.",
+      "cost_range": "$$$",
+      "address": "Carrer Ponent, 5, Port de Valldemossa, 07170 Valldemossa, Illes Balears, Spain",
+      "latitude": 39.7179866,
+      "longitude": 2.5880316,
+      "google_map": "https://www.google.com/maps/search/Es+Port%2C+Port+de+Valldemossa%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#es-port",
+      "references": [
+        {
+          "source": "Restaurante Sa Foradada (official site)",
+          "url": "https://restaurantesaforadada.com/",
+          "date": "2026-08-10",
+          "note": "Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat."
+        }
+      ],
+      "rating": 3,
+      "tags": "fishing-cove, hairpin-road, seafood, sea-views, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Es Port, Port de Valldemossa, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sa Foradada",
+      "region": "Mallorca",
+      "neighborhood": "Sa Foradada peninsula, Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Wood-fired paella cooked on the cliffs at the tip of the Sa Foradada peninsula, below Son Marroig — rice and paella over wood, local fish, salads, local desserts; the paella is the must-order. Access and booking corrected from the official site: the primary arrival is by boat from Port de Sóller (~45 min, disembark at the little pier and climb the steps); the walk down from Son Marroig runs about an hour and the site itself doesn't recommend it — wear real shoes if you take the Ravello-style hike option. And despite earlier 'first-come' intel, the site's reviews say to book: call early in the morning while they're prepping. Still the standout candidate for the Sep 2 afternoon, chained to the Son Marroig sunset above.",
+      "cost_range": "$$$",
+      "address": "Diseminado Sa Foradada, 2, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7556054,
+      "longitude": 2.6223089,
+      "google_map": "https://www.google.com/maps/search/Sa+Foradada%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#sa-foradada",
+      "references": [
+        {
+          "source": "Restaurante Sa Foradada (official site)",
+          "url": "https://restaurantesaforadada.com/",
+          "date": "2026-08-10",
+          "note": "Open in 2026. Wood-fired rice/paella, local fish and seafood. Primary access by boat from Port de Sóller (~45 min); foot access ~1 h from Son Marroig (site does not recommend it). Booking: 'You have to book, call early morning as they're preparing the food.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "boat-access, book-by-phone, hike-access, paella, scenic, wood-fired",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Ca'n Lluc",
+      "region": "Mallorca",
+      "neighborhood": "Cala Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "The second beach restaurant at Cala Deià — on the same rocks as Ca's Patró March, about 30 meters along the cove. Terrace over the bay, well-reviewed seafood (grilled calamari, tuna steak), and a more relaxed, easier-to-book vibe than its famous neighbor. Surfaced from a Reddit thread about Ca's Patró March reservation difficulty as the same-cove fallback, and independently endorsed by Sa Foradada's own sea-view restaurant list.",
+      "cost_range": "$$$",
+      "address": "Urbanización Sa Cala, s/n, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7600035,
+      "longitude": 2.6414349,
+      "google_map": "https://www.google.com/maps/search/Ca%27n+Lluc%2C+Cala+Dei%C3%A0%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#ca-n-lluc",
+      "references": [
+        {
+          "source": "Restaurante Sa Foradada (official site)",
+          "url": "https://restaurantesaforadada.com/",
+          "date": "2026-08-10",
+          "note": "Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat."
+        }
+      ],
+      "rating": 3,
+      "tags": "backup-plan, cala-deia, lunch, seafood, sea-views, terrace, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Ca's Patró March",
+      "region": "Mallorca",
+      "neighborhood": "Cala Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🦐",
+      "description": "",
+      "cost_range": "$$$",
+      "address": "Carrer Sa Cala, 16, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7602197,
+      "longitude": 2.64093,
+      "google_map": "https://www.google.com/maps/search/Ca%27s+Patr%C3%B3+March%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#ca-s-patro-march",
+      "references": [
+        {
+          "source": "Restaurante Sa Foradada (official site)",
+          "url": "https://restaurantesaforadada.com/",
+          "date": "2026-08-10",
+          "note": "Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat."
+        }
+      ],
+      "rating": 5,
+      "tags": "book-asap, cliffside, lunch, sea-views, seafood, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

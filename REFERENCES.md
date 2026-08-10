@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_reddit-can-lluc*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants*
 
-*244 venues · 413 sources*
+*245 venues · 418 sources*
 
 ---
 
@@ -36,7 +36,7 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Ca%27s+Patr%C3%B3+March%2C+Mallorca%2C+Spain)
 
-### Sources (5)
+### Sources (6)
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - The endpoint of her Camí dels Pintors coastal hike (finished ~12:45): 'one of the most recommended spots… the fresh seafood with high quality olive oil was delicious.'
@@ -46,6 +46,8 @@ Each section is linked from that tab's `References` column.
   - PRIORITY 1: book online at midnight Mallorca time (6 PM ET); start trying Aug 17-18 for a Tue Sep 1 / Wed Sep 2 lunch. Slots fill in minutes — set your alarm.
 - **Reddit — r/VisitingMallorca** · 2026-08-10 · [link](https://www.reddit.com/r/VisitingMallorca/comments/1vj776w/cas_patr%C3%B3_march_reservations/)
   - Community thread on the difficulty of getting a Ca's Patró March reservation — confirms the book-early urgency; Ca'n Lluc next door is the community's same-cove fallback.
+- **Restaurante Sa Foradada (official site)** · 2026-08-10 · [link](https://restaurantesaforadada.com/)
+  - Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - A standout meal of her 4-day trip — beautiful seafood lunch on the water at Cala Deià (shrimp, paprika octopus). 5/5.
 
@@ -883,14 +885,16 @@ Each section is linked from that tab's `References` column.
 
 ## 🥘 Es Vergeret
 
-**Region:** Mallorca · **Neighborhood:** Cala Tuent · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+**Region:** Mallorca · **Neighborhood:** Cala Tuent (Escorca) · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Es+Vergeret%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Es+Vergeret%2C+Cala+Tuent%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - Her boat-day lunch stop (the charter's suggestion) — 'a very local restaurant with amazing views.'
+- **Restaurante Sa Foradada (official site)** · 2026-08-10 · [link](https://restaurantesaforadada.com/)
+  - Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat.
 
 ---
 
@@ -1489,12 +1493,14 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Sa Foradada peninsula, Deià · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Sa%20Foradada%2C%20Mallorca%2C%20Spain)
+[Google Maps](https://www.google.com/maps/search/Sa+Foradada%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Flagship item: wood-fired paella on a cliff by the sea, reached by a 45-min hike from Son Marroig. Incredibly memorable; no reservation — first come, first served. Perfect for Aug 31 or Sep 1-2.
+- **Restaurante Sa Foradada (official site)** · 2026-08-10 · [link](https://restaurantesaforadada.com/)
+  - Open in 2026. Wood-fired rice/paella, local fish and seafood. Primary access by boat from Port de Sóller (~45 min); foot access ~1 h from Son Marroig (site does not recommend it). Booking: 'You have to book, call early morning as they're preparing the food.'
 
 ---
 
@@ -2259,10 +2265,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Ca%27n+Lluc%2C+Cala+Dei%C3%A0%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Reddit — r/VisitingMallorca** · 2026-08-10 · [link](https://www.reddit.com/r/VisitingMallorca/comments/1vj776w/cas_patr%C3%B3_march_reservations/)
   - Thread about Ca's Patró March reservation difficulty; Ca'n Lluc is the recommendation captured from it — the neighboring restaurant on the same cove.
+- **Restaurante Sa Foradada (official site)** · 2026-08-10 · [link](https://restaurantesaforadada.com/)
+  - Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat.
 
 ---
 
@@ -2804,6 +2812,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Es Jonquet › Sights & Walks.
 - **TripAdvisor: Palma de Mallorca** · 2026-07-24 · [link](https://www.tripadvisor.com/)
   - Manus cited this source: TripAdvisor: Palma de Mallorca.
+
+---
+
+<a id="es-port" name="es-port"></a>
+
+## 🐟 Es Port
+
+**Region:** Mallorca · **Neighborhood:** Port de Valldemossa · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Es+Port%2C+Port+de+Valldemossa%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Restaurante Sa Foradada (official site)** · 2026-08-10 · [link](https://restaurantesaforadada.com/)
+  - Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat.
 
 ---
 
