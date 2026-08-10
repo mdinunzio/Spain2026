@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_reddit-can-lluc*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_reddit-can-lluc*
 
-*240 venues · 399 sources*
+*244 venues · 413 sources*
 
 ---
 
@@ -36,14 +36,16 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Ca%27s+Patr%C3%B3+March%2C+Mallorca%2C+Spain)
 
-### Sources (4)
+### Sources (5)
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - The endpoint of her Camí dels Pintors coastal hike (finished ~12:45): 'one of the most recommended spots… the fresh seafood with high quality olive oil was delicious.'
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — rustic, open-air seafood built directly into the cliffside above Cala Deià. Famous (heavily featured in The Night Manager); reservations notoriously difficult. Do a late lunch after swimming in the cove.
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - PRIORITY 1: book online at midnight Mallorca time (6 PM ET); start trying Aug 17-18 for a Tue Sep 1 / Wed Sep 2 lunch. Slots fill in minutes — set your alarm.
 - **Reddit — r/VisitingMallorca** · 2026-08-10 · [link](https://www.reddit.com/r/VisitingMallorca/comments/1vj776w/cas_patr%C3%B3_march_reservations/)
-  - Community thread on the difficulty of getting a Ca's Patró March reservation — no online booking. Confirms the book-early urgency; Ca'n Lluc next door is the community's same-cove fallback.
+  - Community thread on the difficulty of getting a Ca's Patró March reservation — confirms the book-early urgency; Ca'n Lluc next door is the community's same-cove fallback.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - A standout meal of her 4-day trip — beautiful seafood lunch on the water at Cala Deià (shrimp, paprika octopus). 5/5.
 
@@ -665,11 +667,11 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Palma · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Soqueta+cooking+class%2C+Palma%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Cooking%20Class%20Soqueta%2C%20Mallorca%2C%20Spain)
 
 > ⚠️ **Approximate location** — Geocoder resolved Soqueta's registered address out in Platja de Palma; the experience itself starts at Mercat de l'Olivar in central Palma. Confirm the meeting point when booking.
 
-### Sources (3)
+### Sources (4)
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — your 'Mamma Agata' equivalent, in Palma. A private, highly curated experience starting with a tour of the Mercat de l'Olivar to buy ingredients, followed by cooking in a gorgeous private kitchen.
@@ -677,6 +679,8 @@ Each section is linked from that tab's `References` column.
   - The top-rated cooking class in the city — a guided Mercat de l'Olivar tour then a private cooking session in a family kitchen. (Listed in Manus's Ultimate Palma Master List, under Palma › Cooking Classes.)
 - **Soqueta Experiences** · 2026-07-24 · [link](https://www.soquetaexperiences.com/)
   - Manus cited this source: Soqueta Experiences.
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - PRIORITY 1 — contact today via email/WhatsApp for Thu Sep 3, Fri Sep 4 or Sat Sep 5. Small operation, limited dates; private couples sessions book 2-3 weeks ahead in peak season. Slotted Sep 3 in the day-by-day plan.
 
 ---
 
@@ -722,9 +726,9 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** La Calatrava, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
 
-[Google Maps](https://www.google.com/maps/search/DINS%20Santi%20Taura%2C%20Palma%2C%20Mallorca%2C%20Spain)
+[Google Maps](https://www.google.com/maps/search/DINS%20Santi%20Taura%2C%20Mallorca%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Dinner (Fine Dining).
@@ -732,6 +736,8 @@ Each section is linked from that tab's `References` column.
   - Manus cited this source: Michelin Guide: DINS Santi Taura.
 - **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - 'Leading the way' in Palma's fine-dining scene — 11-course farm-to-table Mallorcan heritage menu; razorfish with fried eggs, prawns with sobrassada; handmade ceramic crockery; chef's table at the bar.
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - PRIORITY 3 — Michelin star, tiny restaurant; book online 1-2 weeks ahead for one of the Palma nights.
 
 ---
 
@@ -817,27 +823,6 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Wine Bars & Cocktails.
 - **20 Best Rooftop Bars and Restaurants in Mallorca (Where's the Rooftop)** · 2026-07-24 · [link](https://wherestherooftop.com/the-best-rooftop-bars-and-rooftop-restaurants-in-mallorca/)
   - Manus cited this source: 20 Best Rooftop Bars and Restaurants in Mallorca (Where's the Rooftop).
-
----
-
-<a id="el-olivo" name="el-olivo"></a>
-
-## 🫒 El Olivo
-
-**Region:** Mallorca · **Neighborhood:** Deià (La Residencia) · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$$
-
-[Google Maps](https://www.google.com/maps/search/El+Olivo%2C+Mallorca%2C+Spain)
-
-### Sources (4)
-
-- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - Recommended for the Deià leg's elevated, romantic dinners: 'breathtaking sunset views and menus built around fresh, vibrant local vegetables and Mediterranean fish, entirely free of heavy, red-meat-centric dishes.'
-- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
-  - BOOK IMMEDIATELY — at the Belmond; book a terrace table right at sunset. 'Arguably the most romantic dining room on the island.'
-- **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-09 · 70,543 views · 1,429 likes · [DZYf_CBR6dH](https://www.instagram.com/p/DZYf_CBR6dH/)
-  - Detailed critical review. 8-course tasting menu €195, wine pairing €140, non-alcoholic €120 — over €200pp all-in. Dishes described as "fine," "meh," "sad," "weird"; the signature pork a letdown; only the almond dessert impressed. "I wanted to love this place so badly…" 2/5.
-- **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
-  - Wanted to go — Instagram-famous — but couldn't get a reservation, so left it unrated.
 
 ---
 
@@ -1058,14 +1043,16 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Deià · **Type:** Hotel · **Rating:** 4/5 · **Cost:** $$$$$
 
-[Google Maps](https://www.google.com/maps/search/La+Residencia%2C+A+Belmond+Hotel%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/La%20Residencia%2C%20A%20Belmond%20Hotel%2C%20Mallorca%2C%20Spain)
 
-### Sources (5)
+### Sources (6)
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - Her 4-day base — 'every inch of La Residencia was truly breathtaking,' old-historical-meets-modern with the pool at the heart of the hotel. Arrived 6am, explored Deià, then pool days; the jet-lag-curing massages included 111Skin face masks.
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — the gold standard of the island. Romantic, deeply authentic but ultra-luxurious, with an incredible art collection and impeccable service. Rooms for late August will disappear quickly. Manus's advice: reach out immediately once flights are locked.
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Booked (check-in Sep 1). Flagship tip: La Residencia has its own boat departing Port de Sóller — ask the concierge at check-in; could be the Deià-leg boat day, saving the Sparkling Boats charter for Palma.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - Stayed here on her 4-day trip: "cannot say more positive things about" it. 5/5.
 - **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-09 · 70,543 views · 1,429 likes · [DZYf_CBR6dH](https://www.instagram.com/p/DZYf_CBR6dH/)
@@ -1196,6 +1183,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="mas-pastora" name="mas-pastora"></a>
+
+## 🏨 Mas Pastora
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Hotel · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Mas%20Pastora%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The Costa Brava hotel in the day-by-day plan: 'Mon Sep 7 — fly to BCN, drive to Costa Brava, settle into Mas Pastora'; Sep 10 relaxing day at the hotel pool with a slow walk to Calella.
+
+---
+
 <a id="mhares-sea-club" name="mhares-sea-club"></a>
 
 ## 🏖️ Mhares Sea Club
@@ -1234,14 +1236,16 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Deià · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Nama%2C+Dei%C3%A0%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Nama%2C%20Mallorca%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - Her last dinner and 'the best meal of our trip' — the pad thai was 'life-changing' and her Hugo spritz 'crispy and refreshing.'
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Right in Deià village — incredible Asian-Mediterranean fusion with a stunning outdoor terrace overlooking the valley. Great for a break from traditional Spanish food.
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Slotted in the day-by-day plan: dinner Mon Aug 31, after the Cala Muleta beach day.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - "The best Thai food" — a standout meal of her Deià stay. 5/5.
 
@@ -1370,16 +1374,18 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Private+Boat+Charter+%28Costa+Brava%29%2C+Costa+Brava%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Private%20Boat%20Charter%20%28Costa%20Brava%29%2C%20Costa%20Brava%2C%20Spain)
 
-> ⚠️ **Approximate location** — No operator identified yet — pinned at Llafranc, one of the two suggested departure towns. Booking research still needed.
+> ⚠️ **Approximate location** — Pinned at Llafranc, Nautiq's departure town.
 
-### Sources (2)
+### Sources (3)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The absolute best way to experience the Costa Brava beaches is from the water: hire a small private boat with a skipper out of Llafranc or Palamós, reach hidden coves inaccessible by land, then get dropped at a coastal village for a Michelin-starred dinner. The Croatia-yacht alternative.
 - **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The Boat Charter for the Llafranc leg: replicate the Croatia experience by chartering a traditional wooden llaüt (or sleek modern motorboat) out of Palamós or Llafranc marina; a skipper takes you north along the pine-fringed cliffs to anchor in secluded coves invisible from the road.
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - PRIORITY 3 — Nautiq: €450 for 4 hours from Llafranc, WhatsApp +34 618 786 569; confirm a week ahead. Slotted Wed Sep 9.
 
 ---
 
@@ -1474,6 +1480,21 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Barcelona Wine Bar match for Deià: the village's beloved tapas bar — rustic, wine-forward small plates, cozy family-like atmosphere, bustling in the evenings. Walk-in friendly; 'your neighborhood spot during the Deià leg.'
+
+---
+
+<a id="sa-foradada" name="sa-foradada"></a>
+
+## 🥘 Sa Foradada
+
+**Region:** Mallorca · **Neighborhood:** Sa Foradada peninsula, Deià · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Sa%20Foradada%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Flagship item: wood-fired paella on a cliff by the sea, reached by a 45-min hike from Son Marroig. Incredibly memorable; no reservation — first come, first served. Perfect for Aug 31 or Sep 1-2.
 
 ---
 
@@ -1598,6 +1619,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="son-marroig" name="son-marroig"></a>
+
+## 🌅 Son Marroig
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Son%20Marroig%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Flagship item: the single best sunset viewpoint on the island — free, 10-min drive from Deià, sunset from the marble temple on the cliff. Do it one evening during the Deià stay.
+
+---
+
 <a id="son-moragues" name="son-moragues"></a>
 
 ## 🫒 Son Moragues
@@ -1613,15 +1649,30 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="sparkling-boats" name="sparkling-boats"></a>
+
+## ⛵ Sparkling Boats
+
+**Region:** Mallorca · **Neighborhood:** Puerto Portals, Calvià · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Sparkling%20Boats%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - PRIORITY 1 — message today: WhatsApp +34 641 112 334 with preferred date (Sep 4 or 5). Peak season, limited fleet; 'peak season dates book out early.'
+
+---
+
 <a id="stagier" name="stagier"></a>
 
 ## 🍽️ Stagier
 
 **Region:** Mallorca · **Neighborhood:** Santa Catalina, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Stagier%2C%20Palma%2C%20Mallorca%2C%20Spain)
+[Google Maps](https://www.google.com/maps/search/Stagier%2C%20Mallorca%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Dinner (Upscale & Romantic).
@@ -1629,6 +1680,8 @@ Each section is linked from that tab's `References` column.
   - Manus cited this source: The 18 Best Restaurants in Palma de Mallorca (The Infatuation).
 - **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - 'The most exciting addition in recent years' to Santa Catalina — chimichurri-butter sourdough, lobster-filled avocado rolls. Date-night destination; book weeks ahead.
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Booked: Stagier dinner on Fri Sep 4 in the day-by-day plan, after the boat day.
 
 ---
 
@@ -1793,16 +1846,18 @@ Each section is linked from that tab's `References` column.
 
 ## 🧗 Via Ferrata Cala del Molí
 
-**Region:** Costa Brava · **Neighborhood:** Sant Feliu de Guíxols · **Type:** Activity · **Rating:** 4/5 · **Cost:** $
+**Region:** Mallorca · **Neighborhood:** Sant Feliu de Guíxols · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$
 
-[Google Maps](https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Costa%20Brava%2C%20Spain)
+[Google Maps](https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Instagram — Sorana Chiper — Mountains, Outdoor, Travel (@soranachiper)** · [C6q1pvwNRdy](https://www.instagram.com/reel/C6q1pvwNRdy/)
   - Specs reel: ~8 km, 20 m height, K1–K2 easy, 1–1.5 h; Nepalese bridges over the waves; beginner-accessible yet 'super fun.'
 - **Instagram — Kimmie Conner — Travel + Festival Blogger (@kimmconn)** · [DZK6Xs2vV0_](https://www.instagram.com/reel/DZK6Xs2vV0_/)
   - 'One of the most underrated adventure activities I've ever done… equal parts beautiful and terrifying. 10/10 would happily spend my holiday dangling off cliffs again.'
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - PRIORITY 2 — book this week for Tue Sep 8 or Wed Sep 9: GetYourGuide, Viator, or direct (info@enfilat.com, WhatsApp +34 627 972 400 / +34 623 10 42 37); confirm 72 hrs ahead. ~€46-48/person, 2-3 h, guide + equipment included. Chelsea's top pick.
 
 ---
 
@@ -2207,7 +2262,7 @@ Each section is linked from that tab's `References` column.
 ### Sources (1)
 
 - **Reddit — r/VisitingMallorca** · 2026-08-10 · [link](https://www.reddit.com/r/VisitingMallorca/comments/1vj776w/cas_patr%C3%B3_march_reservations/)
-  - Thread about Ca's Patró March reservation difficulty; Ca'n Lluc is the recommendation captured from it — the neighboring restaurant on the same cove. (Reddit blocks direct fetching; thread context verified via web search: two restaurants at Cala Deià, neither takes online reservations.)
+  - Thread about Ca's Patró March reservation difficulty; Ca'n Lluc is the recommendation captured from it — the neighboring restaurant on the same cove.
 
 ---
 
@@ -3501,9 +3556,9 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Illetes, Calvià · **Type:** Beach Club · **Rating:** 3/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Purobeach+Illetas%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Purobeach%20Illetas%2C%20Mallorca%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The Tramuntana coast is rugged — no plush beach clubs. For a true luxury beach club with plush daybeds and table service on that side of the island, drive toward Palma to Purobeach Illetas.
@@ -3511,6 +3566,8 @@ Each section is linked from that tab's `References` column.
   - A premium beach club on tiered cliffs at Illetes with panoramic views and DJ sets. (Listed in Manus's Ultimate Palma Master List, under Palma › Beach Clubs.)
 - **Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties)** · 2026-07-24 · [link](https://www.imperial-properties.com/en/ImperialPropertiesBlog/puro-beach-illetas-mallorca-beach-club-guide)
   - Manus cited this source: Puro Beach Illetas Mallorca: Beach Club Guide (Imperial Properties).
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - PRIORITY 2 — book a daybed/Balinese bed online at purobeach.com or call, for one of Sep 3-6. Daybeds sell out on weekends; weekday fine with a few days notice. Slotted Sat Sep 5.
 
 ---
 
@@ -3916,6 +3973,29 @@ Each section is linked from that tab's `References` column.
   - C-tier. Overhyped, busy, hard to access and park — says it's only worth it combined with the restaurant, Ca's Patró March.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - Visited for lunch at Ca's Patró March on the water rather than for the beach itself.
+
+---
+
+<a id="el-olivo" name="el-olivo"></a>
+
+## ⚠️ El Olivo
+
+**Region:** Mallorca · **Neighborhood:** Deià (La Residencia) · **Type:** Dinner Restaurant · **Rating:** 2/5 · **Cost:** $$$$$
+
+[Google Maps](https://www.google.com/maps/search/El%20Olivo%2C%20Mallorca%2C%20Spain)
+
+### Sources (5)
+
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - Recommended for the Deià leg's elevated, romantic dinners: 'breathtaking sunset views and menus built around fresh, vibrant local vegetables and Mediterranean fish, entirely free of heavy, red-meat-centric dishes.'
+- **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - BOOK IMMEDIATELY — at the Belmond; book a terrace table right at sunset. 'Arguably the most romantic dining room on the island.'
+- **Manus (booking-priority list)** · 2026-08-10 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Booked: El Olivo dinner on Wed Sep 2 in the day-by-day plan (terrace at sunset).
+- **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-09 · 70,543 views · 1,429 likes · [DZYf_CBR6dH](https://www.instagram.com/p/DZYf_CBR6dH/)
+  - Detailed critical review. 8-course tasting menu €195, wine pairing €140, non-alcoholic €120 — over €200pp all-in. Dishes described as "fine," "meh," "sad," "weird"; the signature pork a letdown; only the almond dessert impressed. "I wanted to love this place so badly…" 2/5.
+- **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
+  - Wanted to go — Instagram-famous — but couldn't get a reservation, so left it unrated.
 
 ---
 

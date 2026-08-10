@@ -1,0 +1,420 @@
+{
+  "batch": "2026-08-10_manus-booking-priorities",
+  "region": "Mallorca + Costa Brava",
+  "source_count": 1,
+  "venue_count": 14,
+  "locations": [
+    {
+      "name": "Sa Foradada",
+      "region": "Mallorca",
+      "neighborhood": "Sa Foradada peninsula, Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Wood-fired paella cooked on a cliff over the sea at the tip of the Sa Foradada peninsula — reached by a ~45-minute hike down from Son Marroig (or by boat). No reservations, first come first served; go early. Manus calls it 'incredibly memorable' and slots it for the Sep 2 anchor: hike down, paella lunch, hike back up for the Son Marroig sunset. The most Ravello-hike-to-lunch thing on the whole Mallorca list.",
+      "cost_range": "$$$",
+      "address": "Diseminado Sa Foradada, 2, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7556054,
+      "longitude": 2.6223089,
+      "google_map": "https://www.google.com/maps/search/Sa%20Foradada%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sa-foradada",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "Flagship item: wood-fired paella on a cliff by the sea, reached by a 45-min hike from Son Marroig. Incredibly memorable; no reservation — first come, first served. Perfect for Aug 31 or Sep 1-2."
+        }
+      ],
+      "rating": 4,
+      "tags": "first-come, hike-access, paella, scenic, wood-fired",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Son Marroig",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "🌅",
+      "description": "Archduke Ludwig Salvator's clifftop estate 10 minutes from Deià — per Manus, 'the single best sunset viewpoint on the island,' watched from the white marble temple on the cliff edge over the Sa Foradada rock arch. Free; do it one evening of the Deià stay. Also the trailhead for the Sa Foradada paella hike, so the two chain into one afternoon-to-sunset day.",
+      "cost_range": "",
+      "address": "Ctra. Ma-10, km 65.5, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.75133,
+      "longitude": 2.62901,
+      "google_map": "https://www.google.com/maps/search/Son%20Marroig%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#son-marroig",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "Flagship item: the single best sunset viewpoint on the island — free, 10-min drive from Deià, sunset from the marble temple on the cliff. Do it one evening during the Deià stay."
+        }
+      ],
+      "rating": 4,
+      "tags": "estate, free, sunset, tramuntana, viewpoint",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sparkling Boats",
+      "region": "Mallorca",
+      "neighborhood": "Puerto Portals, Calvià",
+      "type": "Activity",
+      "emoji": "⛵",
+      "description": "Private boat charter operator based at Puerto Portals marina — Manus's Priority-1 pick for the Palma-leg boat day (Fri Sep 4 or Sat Sep 5). Book via WhatsApp +34 641 112 334; limited peak-season fleet and their own site warns peak dates book out early. The Palma counterpart to the Nautiq charter on the Costa Brava leg.",
+      "cost_range": "$$$",
+      "address": "Puerto Portals, 07181 Portals Nous, Calvià, Illes Balears, Spain",
+      "latitude": 39.5315157,
+      "longitude": 2.5690022,
+      "google_map": "https://www.google.com/maps/search/Sparkling%20Boats%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sparkling-boats",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "PRIORITY 1 — message today: WhatsApp +34 641 112 334 with preferred date (Sep 4 or 5). Peak season, limited fleet; 'peak season dates book out early.'"
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, boat, book-asap, private-charter",
+      "source_rating_raw": "PRIORITY 1",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mas Pastora",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "The booked Costa Brava base (check-in Mon Sep 7, per the Manus itinerary) — in Llafranc, which settles the leg-3 base question: seafront promenade, the Camí de Ronda stroll to Calella for slow lunches, Casamar and the cocktail bars walkable, and Nautiq's charters departing from the same town. The Sep 10 wind-down day is built around its pool.",
+      "cost_range": "$$$$",
+      "address": "Carrer Clara Campoamor Rodríguez, s/n, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.8967781,
+      "longitude": 3.1955842,
+      "google_map": "https://www.google.com/maps/search/Mas%20Pastora%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mas-pastora",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "The Costa Brava hotel in the day-by-day plan: 'Mon Sep 7 — fly to BCN, drive to Costa Brava, settle into Mas Pastora'; Sep 10 relaxing day at the hotel pool with a slow walk to Calella."
+        }
+      ],
+      "rating": 4,
+      "tags": "base, booked, hotel, llafranc, pool",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ca's Patró March",
+      "region": "Mallorca",
+      "neighborhood": "Cala Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🦐",
+      "description": "Rustic, open-air seafood restaurant built into the cliffside above Cala Deià, right on the water — famous from The Night Manager, standout shrimp and paprika octopus, and the hardest table of the trip. Booking mechanics per Manus: reservations release ONLINE at midnight Mallorca time (6 PM ET), roughly two weeks out — for a Sep 1/2 lunch, start trying Aug 17-18 and set an alarm; slots fill in minutes. Ideal format: late lunch after swimming in the cove. If no slot lands, Ca'n Lluc sits 30 meters away on the same rocks. (The cove itself was rated C-tier — go for the restaurant, not the beach.)",
+      "cost_range": "$$$",
+      "address": "Carrer Sa Cala, 16, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7602197,
+      "longitude": 2.64093,
+      "google_map": "https://www.google.com/maps/search/Ca%27s%20Patr%C3%B3%20March%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ca-s-patro-march",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "PRIORITY 1: book online at midnight Mallorca time (6 PM ET); start trying Aug 17-18 for a Tue Sep 1 / Wed Sep 2 lunch. Slots fill in minutes — set your alarm."
+        }
+      ],
+      "rating": 5,
+      "tags": "book-asap, cliffside, lunch, midnight-release, reservation-required, seafood, waterfront",
+      "source_rating_raw": "PRIORITY 1",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Cooking Class Soqueta",
+      "region": "Mallorca",
+      "neighborhood": "Palma",
+      "type": "Activity",
+      "emoji": "👩‍🍳",
+      "description": "Private, highly curated cooking experience in Palma — the 'Mamma Agata equivalent': guided Mercat de l'Olivar tour to buy ingredients, then cooking in a private kitchen. Booking is direct and personal (email/WhatsApp, small operation, limited dates) and private couples sessions book up 2-3 weeks ahead in peak season — Manus made it Priority 1: contact today for Sep 3, 4, or 5, now slotted as the Sep 3 transfer-day-into-Palma anchor.",
+      "cost_range": "$$$",
+      "address": "Palma, Illes Balears, Spain",
+      "latitude": 39.5538499,
+      "longitude": 2.77594,
+      "google_map": "https://www.google.com/maps/search/Cooking%20Class%20Soqueta%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cooking-class-soqueta",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "PRIORITY 1 — contact today via email/WhatsApp for Thu Sep 3, Fri Sep 4 or Sat Sep 5. Small operation, limited dates; private couples sessions book 2-3 weeks ahead in peak season. Slotted Sep 3 in the day-by-day plan."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, book-asap, cooking-class, food-market, private",
+      "source_rating_raw": "PRIORITY 1",
+      "geocode_query": null,
+      "geo_note": "Geocoder resolved Soqueta's registered address out in Platja de Palma; the experience itself starts at Mercat de l'Olivar in central Palma. Confirm the meeting point when booking.",
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Via Ferrata Cala del Molí",
+      "region": "Mallorca",
+      "neighborhood": "Sant Feliu de Guíxols",
+      "type": "Activity",
+      "emoji": "🧗",
+      "description": "The only sea-cliff via ferrata in Europe — 20 m above the waves, K1–K2 beginner-friendly, 2-3 hours with Nepalese rope bridges across the coves; two creators raved (explicit 10/10) and it's Chelsea's top pick, slotted for the Tue Sep 8 morning. Booking: guided small groups at ~€46-48/person including guide and all equipment, via GetYourGuide/Viator or direct (info@enfilat.com, WhatsApp +34 627 972 400 / +34 623 10 42 37); confirm 72 hours in advance. ~25 minutes from Mas Pastora in Llafranc.",
+      "cost_range": "$$",
+      "address": "Carrer de Sicília, 17220 Sant Feliu de Guíxols, Girona, Spain",
+      "latitude": 41.779184,
+      "longitude": 3.041884,
+      "google_map": "https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#via-ferrata-cala-del-moli",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "PRIORITY 2 — book this week for Tue Sep 8 or Wed Sep 9: GetYourGuide, Viator, or direct (info@enfilat.com, WhatsApp +34 627 972 400 / +34 623 10 42 37); confirm 72 hrs ahead. ~€46-48/person, 2-3 h, guide + equipment included. Chelsea's top pick."
+        }
+      ],
+      "rating": 4,
+      "tags": "adventure, anchor-activity, book-asap, climbing, guided, sea-cliffs, via-ferrata",
+      "source_rating_raw": "PRIORITY 2",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Purobeach Illetas",
+      "region": "Mallorca",
+      "neighborhood": "Illetes, Calvià",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "description": "The plush, Miami-style luxury beach club near Palma — daybeds, Balinese beds, table service on the water at Illetes. Slotted for Sat Sep 5 in the plan; book a daybed online at purobeach.com (or call) — weekend daybeds sell out, weekdays hold with a few days' notice. The Arienzo/La Fontelina-style beach-club day of the Palma leg.",
+      "cost_range": "$$$",
+      "address": "Passeig Illetes, 58B, 07181 Cas Català-Illetes, Illes Balears, Spain",
+      "latitude": 39.5377519,
+      "longitude": 2.5915926,
+      "google_map": "https://www.google.com/maps/search/Purobeach%20Illetas%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#purobeach-illetas",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "PRIORITY 2 — book a daybed/Balinese bed online at purobeach.com or call, for one of Sep 3-6. Daybeds sell out on weekends; weekday fine with a few days notice. Slotted Sat Sep 5."
+        }
+      ],
+      "rating": 3,
+      "tags": "beach-club, book-asap, daybeds, sceney, waterfront",
+      "source_rating_raw": "PRIORITY 2",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Private Boat Charter (Costa Brava)",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Activity",
+      "emoji": "⛵",
+      "description": "The Costa Brava boat day — operator now identified: Nautiq, departing from Llafranc (steps from Mas Pastora), €450 for 4 hours with skipper. Book via WhatsApp +34 618 786 569 about a week ahead; less competitive than the Palma charters. Slotted Wed Sep 9: north along the pine-fringed cliffs to drop anchor in coves invisible from the road, with the cove-hopping-by-car day as the fallback.",
+      "cost_range": "$$$",
+      "address": "Llafranc, Girona, Spain",
+      "latitude": 41.8947345,
+      "longitude": 3.1935945,
+      "google_map": "https://www.google.com/maps/search/Private%20Boat%20Charter%20%28Costa%20Brava%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#private-boat-charter-costa-brava",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "PRIORITY 3 — Nautiq: €450 for 4 hours from Llafranc, WhatsApp +34 618 786 569; confirm a week ahead. Slotted Wed Sep 9."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, boat, llafranc, llaut, private-charter, snorkeling, swimming",
+      "source_rating_raw": "PRIORITY 3",
+      "geocode_query": null,
+      "geo_note": "Pinned at Llafranc, Nautiq's departure town.",
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "DINS Santi Taura",
+      "region": "Mallorca",
+      "neighborhood": "La Calatrava, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "⭐",
+      "description": "1-Michelin-star, 11-course tasting menu devoted purely to Mallorcan heritage recipes — razorfish with fried eggs, prawns with sobrassada, handmade ceramics, chef's-table bar seats — in a luxury hotel near the cathedral. The Infatuation's 'leading the way' pick for Palma fine dining; tiny room, so reserve online 1-2 weeks out for one of the Sep 3-6 Palma nights.",
+      "cost_range": "$$$$$",
+      "address": "Plaça de Llorenç Villalonga, 4, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5657104,
+      "longitude": 2.6530103,
+      "google_map": "https://www.google.com/maps/search/DINS%20Santi%20Taura%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#dins-santi-taura",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "PRIORITY 3 — Michelin star, tiny restaurant; book online 1-2 weeks ahead for one of the Palma nights."
+        }
+      ],
+      "rating": 4,
+      "tags": "chefs-table, fine-dining, mallorcan, michelin-star, palma, tasting-menu",
+      "source_rating_raw": "PRIORITY 3",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "La Residencia, A Belmond Hotel",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Iconic Belmond property in Deià — mountain views, Mallorcan antiques, an incredible art collection, olive groves, old-school Balearic glamour; unanimously praised across sources and now BOOKED for check-in Tue Sep 1. Insider tip from Manus: the hotel runs its own guest boat out of Port de Sóller — ask the concierge at check-in; if it sails, that becomes the Deià boat day (keeping Sparkling Boats for Palma). El Olivo downstairs is booked for the Sep 2 sunset dinner; Café Miro remains the bar to linger in.",
+      "cost_range": "$$$$$",
+      "address": "Carrer son Canals, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.74931,
+      "longitude": 2.6491283,
+      "google_map": "https://www.google.com/maps/search/La%20Residencia%2C%20A%20Belmond%20Hotel%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-residencia-a-belmond-hotel",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "Booked (check-in Sep 1). Flagship tip: La Residencia has its own boat departing Port de Sóller — ask the concierge at check-in; could be the Deià-leg boat day, saving the Sparkling Boats charter for Palma."
+        }
+      ],
+      "rating": 4,
+      "tags": "art, booked, hotel, hotel-boat, luxury, mountain-views, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "El Olivo",
+      "region": "Mallorca",
+      "neighborhood": "Deià (La Residencia)",
+      "type": "Dinner Restaurant",
+      "emoji": "⚠️",
+      "description": "Fine-dining restaurant at Belmond La Residencia — now BOOKED for the Wed Sep 2 sunset terrace dinner, exactly the format every source agrees is the point (Manus: 'arguably the most romantic dining room on the island'). Expectations note stands from the one detailed firsthand review (2/5, €200+pp, underwhelming food): go for the terrace, the sunset, and the occasion — not the tasting menu fireworks.",
+      "cost_range": "$$$$$",
+      "address": "Carrer son Canals, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7493656,
+      "longitude": 2.6489815,
+      "google_map": "https://www.google.com/maps/search/El%20Olivo%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-olivo",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "Booked: El Olivo dinner on Wed Sep 2 in the day-by-day plan (terrace at sunset)."
+        }
+      ],
+      "rating": 2,
+      "tags": "booked, dinner, fine-dining, overpriced, sunset, tasting-menu, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Stagier",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Tiny, romantic Chilean-Peruvian fusion room in Santa Catalina — chimichurri-butter sourdough, lobster-filled avocado rolls; the Infatuation's 'most exciting addition in recent years.' Now BOOKED for dinner Fri Sep 4, capping the Sparkling Boats day.",
+      "cost_range": "$$$",
+      "address": "Carrer d'Espartero, 11, 07014 Palma, Illes Balears, Spain",
+      "latitude": 39.5708696,
+      "longitude": 2.6345123,
+      "google_map": "https://www.google.com/maps/search/Stagier%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#stagier",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "Booked: Stagier dinner on Fri Sep 4 in the day-by-day plan, after the boat day."
+        }
+      ],
+      "rating": 4,
+      "tags": "booked, date-night, fusion, intimate, palma, romantic",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Nama",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Dinner Restaurant",
+      "emoji": "🍜",
+      "description": "Asian-Mediterranean fusion right in Deià village with a stunning outdoor terrace over the valley — 'the best Thai food' per the firsthand review, and Manus's pick for a break from Spanish food. Slotted for dinner Mon Aug 31 after the Cala Muleta day.",
+      "cost_range": "$$$",
+      "address": "Carrer Arxiduc Luís Salvador, 22, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7469315,
+      "longitude": 2.6490956,
+      "google_map": "https://www.google.com/maps/search/Nama%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#nama",
+      "references": [
+        {
+          "source": "Manus (booking-priority list)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-10",
+          "note": "Slotted in the day-by-day plan: dinner Mon Aug 31, after the Cala Muleta beach day."
+        }
+      ],
+      "rating": 4,
+      "tags": "dinner, fusion, terrace, thai, tramuntana, valley-views",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}
