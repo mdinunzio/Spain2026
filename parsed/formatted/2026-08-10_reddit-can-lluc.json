@@ -1,0 +1,66 @@
+{
+  "batch": "2026-08-10_reddit-can-lluc",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 2,
+  "locations": [
+    {
+      "name": "Ca'n Lluc",
+      "region": "Mallorca",
+      "neighborhood": "Cala Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "The second beach restaurant at Cala Deià — on the same rocks as Ca's Patró March, about 30 meters along the cove. Terrace over the bay, well-reviewed seafood (grilled calamari, tuna steak), and a more relaxed, easier-to-book vibe than its famous neighbor. Surfaced from a Reddit thread about how hard Ca's Patró March reservations are: if that table can't be secured, this is the same swim-then-lunch day at the same cove. Note: neither Cala Deià restaurant takes online reservations — book by phone or in person.",
+      "cost_range": "$$$",
+      "address": "Urbanización Sa Cala, s/n, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7600035,
+      "longitude": 2.6414349,
+      "google_map": "https://www.google.com/maps/search/Ca%27n+Lluc%2C+Cala+Dei%C3%A0%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#ca-n-lluc",
+      "references": [
+        {
+          "source": "Reddit — r/VisitingMallorca",
+          "url": "https://www.reddit.com/r/VisitingMallorca/comments/1vj776w/cas_patr%C3%B3_march_reservations/",
+          "date": "2026-08-10",
+          "note": "Thread about Ca's Patró March reservation difficulty; Ca'n Lluc is the recommendation captured from it — the neighboring restaurant on the same cove. (Reddit blocks direct fetching; thread context verified via web search: two restaurants at Cala Deià, neither takes online reservations.)"
+        }
+      ],
+      "rating": 3,
+      "tags": "backup-plan, cala-deia, lunch, seafood, terrace, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Can Lluc restaurant, Cala Deia, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ca's Patró March",
+      "region": "Mallorca",
+      "neighborhood": "Cala Deià",
+      "type": "Lunch Restaurant",
+      "emoji": "🦐",
+      "description": "Rustic, open-air seafood restaurant built into the cliffside above Cala Deià, right on the water — famous from The Night Manager, and reservations are notoriously difficult (a whole Reddit thread exists on the problem; no online booking — phone or in person only). Jessie Granader's standout meal (shrimp and paprika octopus); Manus flags it book-immediately with the ideal format: a late lunch after swimming in the cove. Note the tension in the sources: the beach itself was rated C-tier and overhyped — the cove is 'only worth it combined with the restaurant.' If no table opens up, Ca'n Lluc sits 30 meters away on the same rocks as the fallback.",
+      "cost_range": "$$$",
+      "address": "Carrer Sa Cala, 16, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7602197,
+      "longitude": 2.64093,
+      "google_map": "https://www.google.com/maps/search/Ca%27s+Patr%C3%B3+March%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#ca-s-patro-march",
+      "references": [
+        {
+          "source": "Reddit — r/VisitingMallorca",
+          "url": "https://www.reddit.com/r/VisitingMallorca/comments/1vj776w/cas_patr%C3%B3_march_reservations/",
+          "date": "2026-08-10",
+          "note": "Community thread on the difficulty of getting a Ca's Patró March reservation — no online booking. Confirms the book-early urgency; Ca'n Lluc next door is the community's same-cove fallback."
+        }
+      ],
+      "rating": 5,
+      "tags": "book-asap, cliffside, lunch, no-online-booking, reservation-required, seafood, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

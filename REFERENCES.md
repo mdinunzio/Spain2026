@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_reddit-can-lluc*
 
-*239 venues · 397 sources*
+*240 venues · 399 sources*
 
 ---
 
@@ -36,12 +36,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Ca%27s+Patr%C3%B3+March%2C+Mallorca%2C+Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - The endpoint of her Camí dels Pintors coastal hike (finished ~12:45): 'one of the most recommended spots… the fresh seafood with high quality olive oil was delicious.'
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — rustic, open-air seafood built directly into the cliffside above Cala Deià. Famous (heavily featured in The Night Manager); reservations notoriously difficult. Do a late lunch after swimming in the cove.
+- **Reddit — r/VisitingMallorca** · 2026-08-10 · [link](https://www.reddit.com/r/VisitingMallorca/comments/1vj776w/cas_patr%C3%B3_march_reservations/)
+  - Community thread on the difficulty of getting a Ca's Patró March reservation — no online booking. Confirms the book-early urgency; Ca'n Lluc next door is the community's same-cove fallback.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - A standout meal of her 4-day trip — beautiful seafood lunch on the water at Cala Deià (shrimp, paprika octopus). 5/5.
 
@@ -2191,6 +2193,21 @@ Each section is linked from that tab's `References` column.
   - The Winery Trip for the Deià leg: drive into the central plains to the Binissalem wine region, where Bodega Ribas offers intimate tastings in a stunning 18th-century courtyard.
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Wine tasting in Binissalem on the transfer day: Bodega Ribas is the oldest winery on the island, a stunning heritage estate — book a private tasting and vineyard tour.
+
+---
+
+<a id="ca-n-lluc" name="ca-n-lluc"></a>
+
+## 🐟 Ca'n Lluc
+
+**Region:** Mallorca · **Neighborhood:** Cala Deià · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Ca%27n+Lluc%2C+Cala+Dei%C3%A0%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Reddit — r/VisitingMallorca** · 2026-08-10 · [link](https://www.reddit.com/r/VisitingMallorca/comments/1vj776w/cas_patr%C3%B3_march_reservations/)
+  - Thread about Ca's Patró March reservation difficulty; Ca'n Lluc is the recommendation captured from it — the neighboring restaurant on the same cove. (Reddit blocks direct fetching; thread context verified via web search: two restaurants at Cala Deià, neither takes online reservations.)
 
 ---
 
