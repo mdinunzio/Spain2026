@@ -2,7 +2,7 @@
   "batch": "2026-07-22_manus-instagram-batch2-costa-brava",
   "region": "Costa Brava + Mallorca + Basque Country",
   "source_count": 10,
-  "venue_count": 51,
+  "venue_count": 50,
   "locations": [
     {
       "name": "Cap Sa Sal",
@@ -1170,35 +1170,6 @@
       "tags": "adventure, anchor-activity, climbing, free, sea-cliffs, via-ferrata",
       "source_rating_raw": "10/10",
       "geocode_query": "Via Ferrata Cala del Moli, Sant Feliu de Guixols, Girona, Spain",
-      "geo_note": null,
-      "flags": []
-    },
-    {
-      "name": "San Juan de Gaztelugatxe",
-      "region": "Basque Country",
-      "neighborhood": "Bermeo, Biscay",
-      "type": "Attraction",
-      "emoji": "🥾",
-      "description": "The Game of Thrones 'Dragonstone' islet near Bermeo — a ~20-minute hike across a stone bridge and up hundreds of cliff-carved stairs to a tiny hermitage. Free but requires an advance online reservation (protected area). Genuinely spectacular, but it's in the Basque Country — roughly 6 hours from both trip regions, so file under 'future trip' unless plans change radically.",
-      "cost_range": "",
-      "address": "Gaztelugatxe, 48130 Gaztelugatxeko Doniene, Biscay, Spain",
-      "latitude": 43.447,
-      "longitude": -2.785,
-      "google_map": "https://www.google.com/maps/search/San%20Juan%20de%20Gaztelugatxe%2C%20Basque%20Country%2C%20Spain",
-      "references_anchor": "REFERENCES.md#san-juan-de-gaztelugatxe",
-      "references": [
-        {
-          "shortcode": "DYcrj2-N8w5",
-          "url": "https://www.instagram.com/reel/DYcrj2-N8w5/",
-          "creator": "Elina Aleksandra",
-          "handle": "@elina.outdoor.explorer",
-          "note": "'One of the most unreal hikes in the Basque Country' — stone bridge, cliff stairs, hermitage; free but reserve online ahead (or refresh for cancellations)."
-        }
-      ],
-      "rating": 2,
-      "tags": "game-of-thrones, hike, out-of-region, reservation-required, scenic",
-      "source_rating_raw": null,
-      "geocode_query": "San Juan de Gaztelugatxe, Bermeo, Spain",
       "geo_note": null,
       "flags": []
     },
