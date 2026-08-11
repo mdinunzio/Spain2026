@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants*
 
-*245 venues · 418 sources*
+*262 venues · 454 sources*
 
 ---
 
@@ -50,6 +50,54 @@ Each section is linked from that tab's `References` column.
   - Listed in Sa Foradada's 'Looking for a Restaurant with sea views?' section — fellow seaside restaurants along the coast, accessible by boat.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - A standout meal of her 4-day trip — beautiful seafood lunch on the water at Cala Deià (shrimp, paprika octopus). 5/5.
+
+---
+
+<a id="cala-aiguablava" name="cala-aiguablava"></a>
+
+## 🏖️ Cala Aiguablava
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Beach · **Rating:** 5/5
+
+[Google Maps](https://www.google.com/maps/search/Cala%20Aiguablava%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (5)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - One of the few calas with finer sand. The water here is famously bright blue, and it is home to the restaurant Toc al Mar.
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - Heart icon on the Begur beach list.
+- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
+  - In the 'most beautiful beaches of Costa Brava' montage.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
+  - One of the 9 places — Platja d'Aiguablava.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - 'In one day I visited Platja Fonda, Cala Malaret, and Platja d'Aiguablava — these were some of my favorite beaches in Spain.'
+
+---
+
+<a id="cami-de-ronda" name="cami-de-ronda"></a>
+
+## 🥾 Camí de Ronda
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Attraction · **Rating:** 5/5
+
+[Google Maps](https://www.google.com/maps/search/Cam%C3%AD%20de%20Ronda%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — The Cami de Ronda runs for miles along the coast; this pin marks the Sa Tuna / Begur section, not a single point.
+
+### Sources (5)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The coastal hiking path connecting the best calas — walk cliff-top through pine forest and suddenly look down on a hidden, pristine beach.
+- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 'The crown jewel of the Costa Brava': Calella→Llafranc is flat, paved, 25 minutes and spectacular; the rehabilitated Cala Pedrosa→Tamariu stretch is the longer adventure.
+- **Barcelona Travel Hacks (cited in Matt's guide)** · 2026-07-29 · [link](https://www.barcelonatravelhacks.com/en/travel/costa-brava-cami-ronda-i/calella-palafrugell-to-aiguablava-day-2)
+  - Barcelona Travel Hacks' Camí de Ronda day-2 guide (Calella de Palafrugell to Aiguablava).
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 2: morning walk on the Camí de Ronda from S'Agaró.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - The recommended way to link the Begur beaches on foot — her favorite-beaches day was one Camí de Ronda walk.
 
 ---
 
@@ -221,6 +269,27 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="toc-al-mar" name="toc-al-mar"></a>
+
+## 🐟 Toc al Mar
+
+**Region:** Costa Brava · **Neighborhood:** Aiguablava, Begur · **Type:** Lunch Restaurant · **Rating:** 5/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Toc%20al%20Mar%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (4)
+
+- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The chiringuito example: a rustic beach restaurant sitting literally on the sand at Aiguablava, serving whole fish roasted over an oak-wood fire. A highly coveted reservation.
+- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
+  - The Beach Clubs & Dining pick for the Llafranc leg: book a table right on the sand at Toc al Mar in Aiguablava for a massive lunch of whole, oak-wood-fired fish and grilled coastal vegetables — 'a spectacular way to eat beautifully clean, high-protein meals right on the water.'
+- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
+  - 'Toca al Mar — paella' on the Begur foodies list.
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 3 lunch: 'delicious paella right on the beach' at Aiguablava.
+
+---
+
 <a id="adrian-quetglas" name="adrian-quetglas"></a>
 
 ## ⭐ Adrián Quetglas
@@ -293,12 +362,16 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Begur%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (4)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The hilltop anchor town for the top calas (Sa Tuna, Aiguablava).
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
   - One of the 9 places — hilltop town panorama; hub of the area.
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 3 + base advice: Begur old town, 'a mix of history and coastal vibes'; one of the three recommended bases.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - Recommended main base, 2-4 nights — 'close to so many beautiful beaches'; 15-min bus from Palafrugell.
 
 ---
 
@@ -365,27 +438,6 @@ Each section is linked from that tab's `References` column.
   - Pre-dinner drinks here with stunning views before his El Olivo meal — the bar rated 4/5 even as the restaurant got 2/5.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
   - Great meal; advises arriving early for a cocktail and backgammon on the terrace. 4/5.
-
----
-
-<a id="cala-aiguablava" name="cala-aiguablava"></a>
-
-## 🏖️ Cala Aiguablava
-
-**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Beach · **Rating:** 4/5
-
-[Google Maps](https://www.google.com/maps/search/Cala%20Aiguablava%2C%20Costa%20Brava%2C%20Spain)
-
-### Sources (4)
-
-- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - One of the few calas with finer sand. The water here is famously bright blue, and it is home to the restaurant Toc al Mar.
-- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
-  - Heart icon on the Begur beach list.
-- **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
-  - In the 'most beautiful beaches of Costa Brava' montage.
-- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
-  - One of the 9 places — Platja d'Aiguablava.
 
 ---
 
@@ -459,7 +511,7 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Cala%20Sa%20Tuna%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (4)
+### Sources (6)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - A tiny, incredibly picturesque cove surrounded by old fishermen's houses with colorful doors. It has a fantastic, quiet tavern right on the water.
@@ -469,6 +521,10 @@ Each section is linked from that tab's `References` column.
   - In the 'most beautiful beaches of Costa Brava' montage.
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
   - One of the 9 places to visit in Costa Brava.
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 3: Sa Tuna — 'one of Costa Brava's most charming coves.'
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - Second Begur beach day: Sa Tuna with Sa Riera and Illa Roja.
 
 ---
 
@@ -497,7 +553,7 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Calella%20de%20Palafrugell%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (3)
+### Sources (5)
 
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The guide's thesis: Calella + Llafranc + Palafrugell form a walkable 'golden triangle' — dining from Michelin-recognized to toes-in-the-sand, taxis €10–25 for everything else, Julivia tourist bus until late September. No car needed.
@@ -505,6 +561,10 @@ Each section is linked from that tab's `References` column.
   - Visit Palafrugell Instagram reel on the Julivia tourist bus.
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
   - One of the 9 places to visit in Costa Brava — whitewashed seaside town.
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 2 evening: 'picturesque fishing village' stroll; one of the three recommended bases.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - Whitewashed buildings against the coast, colorful pennants; walkable from Palafrugell with El Golfet nearby.
 
 ---
 
@@ -520,27 +580,6 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Iisa Hero | Solo & Adventure Travel (@heroiisa)** · 2026-03-06 · 997,233 views · 25,908 likes · [DVjZzGUjAVw](https://www.instagram.com/p/DVjZzGUjAVw/)
   - One of her three favorite beaches on the island, on the southeast coast.
-
----
-
-<a id="cami-de-ronda" name="cami-de-ronda"></a>
-
-## 🥾 Camí de Ronda
-
-**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Attraction · **Rating:** 4/5
-
-[Google Maps](https://www.google.com/maps/search/Cam%C3%AD%20de%20Ronda%2C%20Costa%20Brava%2C%20Spain)
-
-> ⚠️ **Approximate location** — The Cami de Ronda runs for miles along the coast; this pin marks the Sa Tuna / Begur section, not a single point.
-
-### Sources (3)
-
-- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - The coastal hiking path connecting the best calas — walk cliff-top through pine forest and suddenly look down on a hidden, pristine beach.
-- **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
-  - 'The crown jewel of the Costa Brava': Calella→Llafranc is flat, paved, 25 minutes and spectacular; the rehabilitated Cala Pedrosa→Tamariu stretch is the longer adventure.
-- **Barcelona Travel Hacks (cited in Matt's guide)** · 2026-07-29 · [link](https://www.barcelonatravelhacks.com/en/travel/costa-brava-cami-ronda-i/calella-palafrugell-to-aiguablava-day-2)
-  - Barcelona Travel Hacks' Camí de Ronda day-2 guide (Calella de Palafrugell to Aiguablava).
 
 ---
 
@@ -663,6 +702,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="compartir" name="compartir"></a>
+
+## ⭐ Compartir
+
+**Region:** Costa Brava · **Neighborhood:** Cadaqués · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Compartir%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 5 dinner: 'a top-rated restaurant by ex-elBulli chefs' — seafood-leaning fine dining.
+
+---
+
 <a id="cooking-class-soqueta" name="cooking-class-soqueta"></a>
 
 ## 👩‍🍳 Cooking Class Soqueta
@@ -751,12 +805,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/El%20Balc%C3%B3%20de%20Calella%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - At Hotel Sant Roc; cliff terrace over the bay — 'the premier spot in Calella to have a cocktail while watching the sun hide behind the cliffs.'
 - **Hotel Sant Roc (cited in Matt's guide)** · 2026-07-29 · [link](https://www.santroc.com/en/el-balco-de-calella)
   - Hotel Sant Roc official page for El Balcó de Calella.
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 2 lunch: 'amazing seafood with sea views.'
 
 ---
 
@@ -789,10 +845,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/El%20Golfet%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
   - One of the 9 places — rocky cove with shallow clear water near Calella.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - Reached on foot from Calella de Palafrugell on her Palafrugell day.
 
 ---
 
@@ -1093,7 +1151,7 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Llafranc%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - One of the towns Gemini recommends for hiring a small private boat with a skipper for the day.
@@ -1101,6 +1159,8 @@ Each section is linked from that tab's `References` column.
   - Leg 3 base (7 nights): 'Effortless beach access, coastal exploration, and world-class seafood.' Basing on the water in Llafranc is the launchpad for the active, exploratory half of the trip while still offering highly curated luxury.
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The second vertex of the walkable golden triangle: fine dining (Casamar), beachfront terraces, cocktail bars, dive/kayak operators and the lighthouse hike — all without a car.
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 4 morning at Llafranc Beach — 'a laid-back seaside escape'; one of the three recommended bases 'to explore the coast without changing hotels every night.'
 
 ---
 
@@ -1217,6 +1277,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="mirador-de-sant-josep" name="mirador-de-sant-josep"></a>
+
+## 🌅 Mirador de Sant Josep
+
+**Region:** Costa Brava · **Neighborhood:** Begur · **Type:** Attraction · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Mirador%20de%20Sant%20Josep%2C%20Costa%20Brava%2C%20Spain)
+
+> ⚠️ **Approximate location** — Pinned at the Castell de Begur viewpoint — the mirador sits on the castle hill above town.
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 3 sunset: 'stunning views over the sea.'
+
+---
+
 <a id="mistral-coffee-house" name="mistral-coffee-house"></a>
 
 ## ☕ Mistral Coffee House
@@ -1312,10 +1389,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Pals%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
   - 'Super cute' medieval village — cobblestones, bougainvillea, boutique shopping, pottery & ceramics workshops. Explicit 5/5 (ad post).
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 4: 'a perfectly preserved medieval village,' with dinner at Vicus.
 
 ---
 
@@ -1327,12 +1406,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Platja%20d%27en%20Malaret%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - Star — 'tiny jewel' on the Begur beach list.
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
   - 'Cala Malaret' — tiny cove reached via wooden stairs.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - First Begur beach day: Cala Malaret, 'some of my favorite beaches in Spain.'
 
 ---
 
@@ -1344,7 +1425,7 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Platja%20de%20l%27Illa%20Roja%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - Star icon on the Begur beach list (nudist beach).
@@ -1352,6 +1433,8 @@ Each section is linked from that tab's `References` column.
   - In the 'most beautiful beaches of Costa Brava' montage — flagged 'Nudista.'
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
   - One of the 9 places to visit — sandy beach with its famous red rock.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - Second Begur beach day: Illa Roja, shown with its massive reddish rock formation.
 
 ---
 
@@ -1363,12 +1446,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Platja%20Fonda%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - Circled — 'crystal waters' on the Begur beach list.
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
   - One of the 9 places to visit in Costa Brava.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - First Begur beach day (Camí de Ronda): Platja Fonda, 'some of my favorite beaches in Spain.'
 
 ---
 
@@ -1741,25 +1826,6 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Top-3 pick #2: hidden tapas bar in a vaulted-ceiling courtyard mansion — excellent cocktails, curated wine list, elevated tapas. 'Brimming with romance.' Perfect date night; reserve ~a week ahead for Fri/Sat.
-
----
-
-<a id="toc-al-mar" name="toc-al-mar"></a>
-
-## 🐟 Toc al Mar
-
-**Region:** Costa Brava · **Neighborhood:** Aiguablava, Begur · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
-
-[Google Maps](https://www.google.com/maps/search/Toc%20al%20Mar%2C%20Costa%20Brava%2C%20Spain)
-
-### Sources (3)
-
-- **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - The chiringuito example: a rustic beach restaurant sitting literally on the sand at Aiguablava, serving whole fish roasted over an oak-wood fire. A highly coveted reservation.
-- **Gemini** · 2026-07-21 · [link](https://gemini.google.com/app/8d0301803614e4d9)
-  - The Beach Clubs & Dining pick for the Llafranc leg: book a table right on the sand at Toc al Mar in Aiguablava for a massive lunch of whole, oak-wood-fired fish and grilled coastal vegetables — 'a spectacular way to eat beautifully clean, high-protein meals right on the water.'
-- **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
-  - 'Toca al Mar — paella' on the Begur foodies list.
 
 ---
 
@@ -2274,6 +2340,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cadaques" name="cadaques"></a>
+
+## 🏘️ Cadaqués
+
+**Region:** Costa Brava · **Neighborhood:** Cadaqués · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Cadaqu%C3%A9s%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 5: 'a charming whitewashed town that inspired Salvador Dalí.'
+
+---
+
 <a id="cafe-rialto" name="cafe-rialto"></a>
 
 ## ☕ Café Rialto
@@ -2338,6 +2419,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cala-bona-tossa" name="cala-bona-tossa"></a>
+
+## 🏖️ Cala Bona (Tossa)
+
+**Region:** Costa Brava · **Neighborhood:** Tossa de Mar · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Cala%20Bona%20%28Tossa%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 7: 'a peaceful beach to end the trip.'
+
+---
+
 <a id="cala-d-or" name="cala-d-or"></a>
 
 ## 🏘️ Cala d'Or
@@ -2369,6 +2465,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
   - In the 'most beautiful beaches of Costa Brava' montage.
+
+---
+
+<a id="cala-jugadora" name="cala-jugadora"></a>
+
+## 🏖️ Cala Jugadora
+
+**Region:** Costa Brava · **Neighborhood:** Cap de Creus · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Cala%20Jugadora%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 6: 'a secluded cove with crystal-clear water' — snorkeling stop.
 
 ---
 
@@ -2466,6 +2577,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="can-sophia" name="can-sophia"></a>
+
+## 🍽️ Can Sophia
+
+**Region:** Costa Brava · **Neighborhood:** Tossa de Mar · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Can%20Sophia%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 1 dinner: 'elegant Catalan cuisine.'
+
+---
+
 <a id="candela-bar-copes" name="candela-bar-copes"></a>
 
 ## 🍸 Candela Bar & Copes
@@ -2480,6 +2606,21 @@ Each section is linked from that tab's `References` column.
   - Converted 19th-century family house; warm patio, great cocktails, DJ later. The local nightlife meeting point.
 - **Naturaki — best chill-out terraces on the Costa Brava (cited in Matt's guide)** · 2026-07-29 · [link](https://www.naturaki.com/en/blog/terraces-costa-brava/)
   - Naturaki's best chill-out terraces roundup.
+
+---
+
+<a id="cap-de-creus-natural-park" name="cap-de-creus-natural-park"></a>
+
+## 🥾 Cap de Creus Natural Park
+
+**Region:** Costa Brava · **Neighborhood:** Cap de Creus · **Type:** Attraction · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Cap%20de%20Creus%20Natural%20Park%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 6: 'unbelievable rock formations and sea views.'
 
 ---
 
@@ -2664,6 +2805,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="dali-house-museum-portlligat" name="dali-house-museum-portlligat"></a>
+
+## 🎨 Dalí House-Museum (Portlligat)
+
+**Region:** Costa Brava · **Neighborhood:** Portlligat, Cadaqués · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Dal%C3%AD%20House-Museum%20%28Portlligat%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 5: 'a surrealist experience in his former home.'
+
+---
+
 <a id="de-tokio-a-lima-bar" name="de-tokio-a-lima-bar"></a>
 
 ## 🍸 De Tokio a Lima Bar
@@ -2795,6 +2951,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Sights & Walks.
 - **TripAdvisor: Palma de Mallorca** · 2026-07-24 · [link](https://www.tripadvisor.com/)
   - Manus cited this source: TripAdvisor: Palma de Mallorca.
+
+---
+
+<a id="es-blanc" name="es-blanc"></a>
+
+## 🍹 Es Blanc
+
+**Region:** Costa Brava · **Neighborhood:** Blanes · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Es%20Blanc%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 7 farewell: 'beachfront cocktails with a view.'
 
 ---
 
@@ -3003,6 +3174,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="jardi-botanic-marimurtra" name="jardi-botanic-marimurtra"></a>
+
+## 🌺 Jardí Botànic Marimurtra
+
+**Region:** Costa Brava · **Neighborhood:** Blanes · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Jard%C3%AD%20Bot%C3%A0nic%20Marimurtra%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 7: 'a gorgeous botanical garden in Blanes.'
+
+---
+
 <a id="jumeirah-mallorca" name="jumeirah-mallorca"></a>
 
 ## 🏨 Jumeirah Mallorca
@@ -3195,6 +3381,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="mas-oller" name="mas-oller"></a>
+
+## 🍷 Mas Oller
+
+**Region:** Costa Brava · **Neighborhood:** Torrent (Baix Empordà) · **Type:** Winery · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Mas%20Oller%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 4: wine tasting at 'a beautiful vineyard in the countryside.'
+
+---
+
 <a id="mas-sorrer" name="mas-sorrer"></a>
 
 ## 🎉 Mas Sorrer
@@ -3282,12 +3483,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Palafrugell%20%28town%29%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The inland vertex of the golden triangle: Sunday market since 1600, the area's most talked-about grill, and the local nightlife cluster. Taxis €10–25 from the coast.
 - **Visit Palafrugell (cited in Matt's guide)** · 2026-07-29 · [link](https://visitpalafrugell.cat/en/proposta/mercat-del-diumenge/)
   - Visit Palafrugell on the Sunday market.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - Her first base: 1-3 nights, walking to Calella de Palafrugell and El Golfet; 15-min bus onward to Begur.
 
 ---
 
@@ -3425,10 +3628,27 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Platja%20de%20Sa%20Riera%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 5,800 likes · [DVoT1MQET6N](https://www.instagram.com/p/DVoT1MQET6N/)
   - One of the 9 places — sandy bay with white buildings.
+- **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
+  - Second Begur beach day: Sa Riera with Sa Tuna and Illa Roja.
+
+---
+
+<a id="platja-de-sant-pol" name="platja-de-sant-pol"></a>
+
+## 🏖️ Platja de Sant Pol
+
+**Region:** Costa Brava · **Neighborhood:** S'Agaró / Sant Feliu de Guíxols · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20de%20Sant%20Pol%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 2: swim stop — 'crystal-clear waters and calm atmosphere,' after walking the Camí de Ronda from S'Agaró.
 
 ---
 
@@ -3474,6 +3694,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - 'Canadell's beach' on the Begur beach list.
+
+---
+
+<a id="platja-gran-tossa" name="platja-gran-tossa"></a>
+
+## 🏖️ Platja Gran (Tossa)
+
+**Region:** Costa Brava · **Neighborhood:** Tossa de Mar · **Type:** Beach · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Platja%20Gran%20%28Tossa%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 1: 'iconic beach with stunning views' below the walled town.
 
 ---
 
@@ -3594,6 +3829,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="rafa-s" name="rafa-s"></a>
+
+## 🐟 Rafa's
+
+**Region:** Costa Brava · **Neighborhood:** Roses · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Rafa%27s%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 6 dinner: 'a hidden gem for fresh seafood.'
+
+---
+
 <a id="restaurant-laudat" name="restaurant-laudat"></a>
 
 ## 🍽️ Restaurant Laudat
@@ -3683,6 +3933,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Santa Catalina pizza and pasta pick. 4/5.
+
+---
+
+<a id="roses" name="roses"></a>
+
+## 🏘️ Roses
+
+**Region:** Costa Brava · **Neighborhood:** Roses · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Roses%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 6: 'coastal promenade and golden hour views' at sunset.
 
 ---
 
@@ -3931,6 +4196,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="tossa-de-mar" name="tossa-de-mar"></a>
+
+## 🏘️ Tossa de Mar
+
+**Region:** Costa Brava · **Neighborhood:** Tossa de Mar · **Type:** Town/Village · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Tossa%20de%20Mar%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 1: 'a charming medieval town' — walled old quarter, paired with Platja Gran and dinner at Can Sophia.
+
+---
+
 <a id="triton-diving" name="triton-diving"></a>
 
 ## 🤿 Triton Diving
@@ -3945,6 +4225,21 @@ Each section is linked from that tab's `References` column.
   - Triton Diving (Llafranc) and Poseidon (Calella) run boat tours to the coast's best snorkeling reefs, accessible only by water.
 - **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Attraction_Review-g635891-d4958691-Reviews-or10-Triton_Diving_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_C.html)
   - TripAdvisor listing for Triton Diving Llafranc.
+
+---
+
+<a id="vicus" name="vicus"></a>
+
+## 🍽️ Vicus
+
+**Region:** Costa Brava · **Neighborhood:** Pals · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Vicus%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
+  - Day 4 dinner: 'a must-try for Catalan cuisine.'
 
 ---
 
