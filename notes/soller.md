@@ -59,3 +59,33 @@ Trains depart from **Palma station** (Plaça d'Espanya — walkable or a short t
 - **Saturdays are the busiest day** because of the market. The train can sell out. Don't wait until you're at the station — book online the night before or first thing that morning.
 - **Bring cash** for the market stalls (many don't take cards).
 - **The train station in Palma** is at Plaça d'Espanya — about a 10-15 minute walk from the Old Town / Palma Riad area.
+
+---
+
+## Sóller vs. Port de Sóller
+
+| | **Sóller** | **Port de Sóller** |
+| :--- | :--- | :--- |
+| **What it is** | An inland mountain town in a valley surrounded by the Tramuntana mountains | A horseshoe-shaped bay/harbor on the coast |
+| **Setting** | Nestled in a valley of orange and lemon groves, no sea views | Directly on the Mediterranean, curved beach and promenade |
+| **Vibe** | Charming, traditional Mallorcan town. Stone buildings, church, main plaza. Feels like a "real" town where people live. | Seaside resort village. Waterfront restaurants, boats bobbing in the harbor, people swimming and sunbathing. |
+| **The market** | YES — the famous Saturday market is here (Plaza Constitución, 9 AM – 2 PM) | No market |
+| **Shopping** | Boutiques, ceramics, olive oil shops, artisan goods — all around the main plaza and side streets | Mostly tourist-oriented waterfront shops |
+| **Restaurants** | More traditional/local — tapas bars, Mallorcan cuisine, cafes on the plaza | Waterfront seafood restaurants with harbor views — more "lunch by the sea" energy |
+| **Beach** | None — it's inland | Yes — a sandy beach along the bay, plus a few smaller coves nearby |
+| **Getting between them** | Take the vintage wooden tram (~30 min, €10 each way). It's a charming ride through orange groves. | Same tram back to Sóller |
+| **Distance apart** | ~5 km (15 min drive, 30 min tram) | |
+
+---
+
+## The Classic Day Trip Flow
+
+Most people do both in one day, which is exactly what I'd recommend for your Saturday:
+
+1. **Train from Palma → Sóller** (1 hour, scenic mountain ride)
+2. **Explore Sóller** — market, coffee in the plaza, browse shops (1.5-2 hours)
+3. **Tram from Sóller → Port de Sóller** (30 min, charming ride)
+4. **Lunch at a waterfront restaurant** in Port de Sóller with harbor views, maybe a quick swim
+5. **Tram back to Sóller → Train back to Palma**
+
+Think of it as: **Sóller = the Ravello** (charming hilltop/valley town for exploring and shopping) and **Port de Sóller = the Amalfi** (the waterfront below for seafood lunch and a swim). Same dynamic you loved on the Amalfi Coast, just Mallorcan.
