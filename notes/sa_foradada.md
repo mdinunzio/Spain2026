@@ -56,4 +56,41 @@ Given that Chelsea's top pick is the Via Ferrata (which is a similar "active adv
 
 That gives you a full, memorable day with a built-in "anchor activity" and still gets you back in time for your reservation.
 
+**You don't need to book Sa Foradada — it's first come, first served.** No reservations taken.
+
+Here's what you need to know:
+
+---
+
+## Sa Foradada Restaurant — How It Works
+
+| Detail | Info |
+| :--- | :--- |
+| **Reservations** | **None.** Walk-in only. First come, first served. |
+| **How to get a table** | Arrive early. The restaurant fills up at peak lunch (1:30-2:30 PM). If you arrive by 12:30-1:00 PM, you should be fine. |
+| **What to order** | Their famous **wood-fired paella** (cooked in massive cast-iron pans over open flame). Also great: fresh fish, calamari, sangria. |
+| **Paella note** | Paella takes ~20-30 min to prepare and typically requires a minimum of 2 people. Perfect for you. |
+| **Payment** | Bring **cash** just in case — it's a rustic, remote spot and card machines can be unreliable. |
+| **Open days** | Check locally or ask your hotel concierge, as hours can vary seasonally. Generally open for lunch daily in summer/early September. |
+
+---
+
+## Your Game Plan (Wed Sep 2)
+
+| Time | What |
+| :--- | :--- |
+| **10:00 AM** | Drive (or have Belmond arrange a transfer) to Son Marroig (~10 min from La Residencia) |
+| **10:15 AM** | Start the hike down to Sa Foradada (~45-60 min) |
+| **11:15 AM** | Arrive at the bottom. Swim in the crystal-clear water off the rocks. |
+| **12:30 PM** | Grab a table at the restaurant. Order paella + wine. |
+| **2:00 PM** | Finish lunch. One more swim if you want. |
+| **2:30 PM** | Hike back up (~60-90 min). Bring water — it's the hot part of the day. |
+| **4:00 PM** | Back at Son Marroig. Drive back to La Residencia. |
+| **Rest of afternoon** | Pool, nap, shower. |
+| **8:30 PM** | El Olivo dinner (booked). |
+
+**Pro tip:** Starting the hike at 10 AM means you arrive for an early lunch before the crowds. By 1:30 PM the restaurant gets busy with people who started later.
+
+That's it — no booking needed, just show up hungry!
+
 https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e
