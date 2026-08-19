@@ -1,4 +1,8 @@
 {
+  "BARRACÓ": {
+    "notes": "",
+    "selected": true
+  },
   "Basilica de Sant Francesc": {
     "notes": "",
     "selected": true
@@ -21,6 +25,10 @@
   },
   "El Olivo": {
     "notes": "Fine dining",
+    "selected": true
+  },
+  "Ferrocarril de Sóller (1912 train)": {
+    "notes": "",
     "selected": true
   },
   "Gran Folies Beach Club": {

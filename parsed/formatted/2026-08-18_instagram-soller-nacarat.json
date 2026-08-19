@@ -1,0 +1,105 @@
+{
+  "batch": "2026-08-18_instagram-soller-nacarat",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 3,
+  "locations": [
+    {
+      "name": "Restaurante Nacarat",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Family-run restaurant on Carrer de sa Lluna, Sóller's shopping street — kitchen open straight through 12:00–21:30 Wednesday–Sunday (closed Mon/Tue), which makes it a rare all-hours option after the 1912 train or the Fornalutx drive. Featured on Sara Caroline Bridgers' Sóller train-day reel; a few doors from Miga de Nube, so coffee-then-lunch happens on one street. Online reservations (myrestoo) or +34 971 63 48 38.",
+      "cost_range": "$$$",
+      "address": "Carrer de sa Lluna, 80, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7677852,
+      "longitude": 2.7178209,
+      "google_map": "https://www.google.com/maps/search/Restaurante+Nacarat%2C+S%C3%B3ller%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#restaurante-nacarat",
+      "references": [
+        {
+          "shortcode": "DayupzqKZAy",
+          "url": "https://www.instagram.com/p/DayupzqKZAy/",
+          "creator": "Sara Caroline Bridgers",
+          "handle": "@sarcar_",
+          "note": "Featured in her Sóller 1912-train day post (venue appears in the video; caption covers the train)."
+        },
+        {
+          "source": "Restaurant Nacarat (official site)",
+          "url": "https://www.restaurantnacarat.com/en/contacto",
+          "date": "2026-08-18",
+          "note": "Family-run ('familiar'), Carrer de sa Lluna 80, Sóller. Open Wed–Sun 12:00–21:30, closed Mon–Tue. Online reservations; +34 971 63 48 38."
+        }
+      ],
+      "rating": 3,
+      "tags": "all-day-kitchen, family-run, soller, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Nacarat, Carrer de sa Lluna 80, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Miga de Nube",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "\"Secret garden\" slow-café on Carrer de sa Lluna in Sóller for iced coffee and cake — now featured twice by Sara Caroline Bridgers (her original 4/5 recommendation and again on her 1912-train day reel). A few doors from Restaurante Nacarat, making the street a natural coffee-then-lunch pairing on a Sóller train day.",
+      "cost_range": "$",
+      "address": "Carrer de sa Lluna, 70, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7676715,
+      "longitude": 2.7175386,
+      "google_map": "https://www.google.com/maps/search/Miga+de+Nube%2C+S%C3%B3ller%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#miga-de-nube",
+      "references": [
+        {
+          "shortcode": "DayupzqKZAy",
+          "url": "https://www.instagram.com/p/DayupzqKZAy/",
+          "creator": "Sara Caroline Bridgers",
+          "handle": "@sarcar_",
+          "note": "Featured again in her Sóller 1912-train day post — second appearance from the creator who originally recommended it."
+        }
+      ],
+      "rating": 3,
+      "tags": "cafe, garden, morning, soller, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Ferrocarril de Sóller (1912 train)",
+      "region": "Mallorca",
+      "neighborhood": "Palma → Sóller",
+      "type": "Attraction",
+      "emoji": "🚂",
+      "description": "Vintage 1912 wooden train from Palma through the Tramuntana to Sóller, about an hour each way — roughly $46 round trip; buy tickets a day ahead. Sara Caroline Bridgers has now endorsed it twice: \"one of the best parts… do not miss this\" and, in her later post, \"easily one of my favorite things we have done in Mallorca.\" The natural anchor for a Sóller day during the Palma leg (Sep 3–7), chaining to sa Lluna street (Miga de Nube coffee, Nacarat lunch), the tram to Port de Sóller, or the Fornalutx loop.",
+      "cost_range": "$",
+      "address": "Carrer d'Eusebi Estada, 1, 07004 Palma, Illes Balears, Spain",
+      "latitude": 39.5766774,
+      "longitude": 2.6538486,
+      "google_map": "https://www.google.com/maps/search/Ferrocarril+de+S%C3%B3ller%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#ferrocarril-de-soller-1912-train",
+      "references": [
+        {
+          "shortcode": "DayupzqKZAy",
+          "url": "https://www.instagram.com/p/DayupzqKZAy/",
+          "creator": "Sara Caroline Bridgers",
+          "handle": "@sarcar_",
+          "note": "\"Easily one of my favorite things we have done in Mallorca\" — a must-add to a Mallorca itinerary. Her second endorsement of the train."
+        }
+      ],
+      "rating": 5,
+      "tags": "anchor-activity, attraction, scenic, transport, vintage",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

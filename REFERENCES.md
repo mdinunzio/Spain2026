@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat*
 
-*261 venues · 453 sources*
+*262 venues · 457 sources*
 
 ---
 
@@ -126,10 +126,12 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Palma → Sóller · **Type:** Attraction · **Rating:** 5/5 · **Cost:** $
 
-[Google Maps](https://www.google.com/maps/search/Ferrocarril+de+S%C3%B3ller+%281912+train%29%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Ferrocarril+de+S%C3%B3ller%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Instagram — Sara Caroline Bridgers (@sarcar_)** · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
+  - "Easily one of my favorite things we have done in Mallorca" — a must-add to a Mallorca itinerary. Her second endorsement of the train.
 - **Instagram — Sara Caroline Bridgers (@sarcar_)** · 2026-07-15 · 34,979 views · 3 likes · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
   - "One of the best parts… do not miss this." 1912 wooden train, Palma to Sóller, about an hour of mountain views. ~$46 round trip; advises buying tickets a day ahead. 5/5.
 
@@ -3451,10 +3453,12 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $
 
-[Google Maps](https://www.google.com/maps/search/Miga+de+Nube%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Miga+de+Nube%2C+S%C3%B3ller%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Instagram — Sara Caroline Bridgers (@sarcar_)** · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
+  - Featured again in her Sóller 1912-train day post — second appearance from the creator who originally recommended it.
 - **Instagram — Sara Caroline Bridgers (@sarcar_)** · 2026-07-15 · 34,979 views · 3 likes · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
   - A "secret garden" slow-café in Sóller for iced coffee and cake. 4/5.
 
@@ -3886,6 +3890,23 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Local white wine, stuffed peppers, squid — the rustic, home-cooked Mallorcan vibe with excellent local wines. 'Simple, honest food. Not fancy but deeply satisfying.'
+
+---
+
+<a id="restaurante-nacarat" name="restaurante-nacarat"></a>
+
+## 🍽️ Restaurante Nacarat
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Restaurante+Nacarat%2C+S%C3%B3ller%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Instagram — Sara Caroline Bridgers (@sarcar_)** · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
+  - Featured in her Sóller 1912-train day post (venue appears in the video; caption covers the train).
+- **Restaurant Nacarat (official site)** · 2026-08-18 · [link](https://www.restaurantnacarat.com/en/contacto)
+  - Family-run ('familiar'), Carrer de sa Lluna 80, Sóller. Open Wed–Sun 12:00–21:30, closed Mon–Tue. Online reservations; +34 971 63 48 38.
 
 ---
 
