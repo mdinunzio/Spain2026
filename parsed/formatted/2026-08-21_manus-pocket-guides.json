@@ -1,0 +1,664 @@
+{
+  "batch": "2026-08-21_manus-pocket-guides",
+  "region": "Mallorca + Costa Brava",
+  "source_count": 3,
+  "venue_count": 23,
+  "locations": [
+    {
+      "name": "Balm Restaurant",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Small family-run spot in Deià village with a 'traveling grandma's kitchen' concept — vegetable-forward seasonal cooking with excellent local meats and fish, very highly rated. The pocket guide's pick for a relaxed, high-quality walk-in dinner when you don't want the formality of El Olivo; next door to Restaurante Deià on Carrer Felipe Bauzà.",
+      "cost_range": "$$$",
+      "address": "Carrer Felipe Bauzà, 3, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7467208,
+      "longitude": 2.6493064,
+      "google_map": "https://www.google.com/maps/search/Balm%20Restaurant%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#balm-restaurant",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Walk-in dinner pick: family-run, 'traveling grandma's kitchen' — vegetable-forward seasonal menu, local meats and fish. High quality without El Olivo formality."
+        }
+      ],
+      "rating": 4,
+      "tags": "family-run, seasonal, vegetable-forward, village, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Balm Restaurant, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Caserra 71",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "🛍️",
+      "description": "British designer Matthew Williamson's concept boutique across three rooms of a historic Deià townhouse — vintage finds, beach coverups, party dresses; 1970s design meets Mediterranean languor. Part of the surprisingly deep Deià browsing lane along Carrer Arxiduc Luís Salvador.",
+      "cost_range": "$$$",
+      "address": "Carrer Arxiduc Luís Salvador, 20, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7469427,
+      "longitude": 2.6489127,
+      "google_map": "https://www.google.com/maps/search/Caserra%2071%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#caserra-71",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Matthew Williamson's brand-new boutique concept store in a historic townhouse — vintage, beachwear, 70s-meets-Mediterranean objects."
+        }
+      ],
+      "rating": 3,
+      "tags": "boutique, concept-store, designer, shopping",
+      "source_rating_raw": null,
+      "geocode_query": "Caserra 71, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Obsolete Collective",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "🛍️",
+      "description": "Multi-room Deià boutique of handmade furniture, fashion and accessories — natural dyes, beautiful fabrics, and a dedicated 'Island Born' room of Balearic brands. Houses the Lost in Beauty wellness lab for a spontaneous facial or massage.",
+      "cost_range": "$$$",
+      "address": "Passatge Viña Vieja, 2, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7467245,
+      "longitude": 2.649749,
+      "google_map": "https://www.google.com/maps/search/Obsolete%20Collective%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#obsolete-collective",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Handmade furniture, fashion, accessories; 'Island Born' Balearic-brands room; Lost in Beauty wellness lab for walk-in treatments."
+        }
+      ],
+      "rating": 3,
+      "tags": "artisan, boutique, shopping, wellness",
+      "source_rating_raw": null,
+      "geocode_query": "Obsolete Collective, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Joy, Made by Hand",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "👒",
+      "description": "Tiny Deià shop devoted to ancestral craft techniques — Colombian straw hats, alpaca blankets, Mallorcan textiles. The exact impromptu-shopping energy of the Ravello wanders.",
+      "cost_range": "$$",
+      "address": "Carrer Arxiduc Luís Salvador, 12, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7472673,
+      "longitude": 2.6485217,
+      "google_map": "https://www.google.com/maps/search/Joy%2C%20Made%20by%20Hand%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#joy-made-by-hand",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "A tiny gem focused on ancestral techniques: straw hats from Colombia, alpaca blankets, Mallorcan textiles."
+        }
+      ],
+      "rating": 3,
+      "tags": "artisan, shopping, textiles",
+      "source_rating_raw": null,
+      "geocode_query": "Joy Made by Hand, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ceramics by Joanna",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "🏺",
+      "description": "Deià institution since the 90s, run by a Chicago-born artist — hand-painted ceramics decorated with local fruits and flora, on the little Es Porxo square. The pocket guide calls it the perfect authentic souvenir; the strongest take-home-ceramics candidate of the Mallorca legs.",
+      "cost_range": "$$",
+      "address": "Es Porxo, 1, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7487653,
+      "longitude": 2.6485792,
+      "google_map": "https://www.google.com/maps/search/Ceramics%20by%20Joanna%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ceramics-by-joanna",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Local institution since the 90s; hand-painted ceramics with local fruits and flora — 'the perfect authentic souvenir.'"
+        }
+      ],
+      "rating": 3,
+      "tags": "ceramics, institution, shopping, souvenirs",
+      "source_rating_raw": null,
+      "geocode_query": "Ceramics by Joanna, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Gres Gallery",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "🏺",
+      "description": "Peaceful ceramics gallery run by three generations of female ceramic artists — minimalist, ancient-looking vessels and art pieces, a few doors up from Ceramics by Joanna.",
+      "cost_range": "$$$",
+      "address": "Carrer Arxiduc Luís Salvador, 4, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7487006,
+      "longitude": 2.6487478,
+      "google_map": "https://www.google.com/maps/search/Gres%20Gallery%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#gres-gallery",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "A peaceful refuge run by three generations of female ceramic artists; minimalist, ancient-looking vessels."
+        }
+      ],
+      "rating": 3,
+      "tags": "ceramics, gallery, minimalist, shopping",
+      "source_rating_raw": null,
+      "geocode_query": "Gres Gallery, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Robert Graves' House (Ca n'Alluny)",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Museum",
+      "emoji": "📚",
+      "description": "The preserved home of the English poet who put Deià on the map — an intimate look at its literary history with a beautiful garden, on the Sóller road at the village edge. Walk in and buy a ticket (~€7); about 45 minutes.",
+      "cost_range": "$",
+      "address": "Ctra. Sóller, 6, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.752859,
+      "longitude": 2.6474906,
+      "google_map": "https://www.google.com/maps/search/Robert%20Graves%27%20House%20%28Ca%20n%27Alluny%29%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#robert-graves-house-ca-n-alluny",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Just walk in (~€7): the preserved home of Robert Graves, with garden — a quiet 45-minute dose of the village's literary history."
+        }
+      ],
+      "rating": 3,
+      "tags": "culture, garden, literary, museum, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Casa Robert Graves, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sant Joan Baptista Church & Cemetery",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "⛪",
+      "description": "The walk to the top of Deià village — the small cemetery behind the church (where Robert Graves is buried) holds arguably the best panoramic view over the valley and sea. Peaceful, free, 30–45 minutes door to door; the built-in golden-hour stroll of the Deià stay.",
+      "cost_range": "",
+      "address": "Carrer Reverendo Jerónimo Pons, 1, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7489491,
+      "longitude": 2.6465286,
+      "google_map": "https://www.google.com/maps/search/Sant%20Joan%20Baptista%20Church%20%26%20Cemetery%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sant-joan-baptista-church-cemetery",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Walk to the church at the top of the village; the cemetery behind it offers arguably the best panoramic views over valley and sea."
+        }
+      ],
+      "rating": 3,
+      "tags": "free, panorama, viewpoint, village-walk",
+      "source_rating_raw": null,
+      "geocode_query": "Esglesia de Sant Joan Baptista, Deia, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Palma Riad",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "The booked Palma base (Sep 3–7) — a riad-style townhouse hotel on Carrer de Sant Jaume in the Old Town, literally next door to Tast Club and a two-minute walk from La Rosa Vermutería, Fornet de la Soca and the Born. The pocket guide's whole Palma roster is calibrated to be walkable from this door.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Jaume, 5, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.572062,
+      "longitude": 2.6472883,
+      "google_map": "https://www.google.com/maps/search/Palma%20Riad%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#palma-riad",
+      "references": [
+        {
+          "source": "Manus (Palma pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "The guide is 'designed for your days based at the Palma Riad in the Old Town' — every listed venue is walkable from it."
+        }
+      ],
+      "rating": 4,
+      "tags": "base, booked, hotel, old-town, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Palma Riad hotel, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Trastienda",
+      "region": "Mallorca",
+      "neighborhood": "La Rambla, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍢",
+      "description": "Comfortable terrace under the tall plane trees of La Rambla — solid, classic tapas in a relaxed outdoor setting. The pocket guide's people-watching option; steps from Bodega La Rambla and Toque de Queda for a one-street tapas evening.",
+      "cost_range": "$$",
+      "address": "La Rambla, 17, Centre, 07003 Palma, Illes Balears, Spain",
+      "latitude": 39.573765,
+      "longitude": 2.6490126,
+      "google_map": "https://www.google.com/maps/search/La%20Trastienda%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-trastienda",
+      "references": [
+        {
+          "source": "Manus (Palma pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Terrace under the La Rambla plane trees; solid classic tapas for sitting outside and people-watching."
+        }
+      ],
+      "rating": 3,
+      "tags": "outdoor, palma, people-watching, tapas, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "La Trastienda, La Rambla, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Cielo del Born",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "Rooftop at the Nivia Born Boutique Hotel overlooking the Passeig des Born — cathedral and skyline views, often with live music. One of the pocket guide's three Palma rooftops, all walkable from the Palma Riad.",
+      "cost_range": "$$$",
+      "address": "Carrer dels Paraires, 24, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5701222,
+      "longitude": 2.6471308,
+      "google_map": "https://www.google.com/maps/search/El%20Cielo%20del%20Born%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-cielo-del-born",
+      "references": [
+        {
+          "source": "Manus (Palma pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Rooftop at Nivia Born over the Passeig del Born — fantastic cathedral/skyline views, often live music."
+        }
+      ],
+      "rating": 3,
+      "tags": "cathedral-views, cocktails, live-music, palma, rooftop",
+      "source_rating_raw": null,
+      "geocode_query": "Nivia Born Boutique Hotel, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sky Bar (Hotel Saratoga)",
+      "region": "Mallorca",
+      "neighborhood": "Palma Centre",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "Rooftop bar at Hotel Saratoga on Passeig de Mallorca — a front-row seat to Palma's skyline from the harbor boats to the cathedral. (Distinct from the Hostal Cuba Sky Bar in Santa Catalina, already on the list.)",
+      "cost_range": "$$$",
+      "address": "Pg. de Mallorca, 6, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5718241,
+      "longitude": 2.6423863,
+      "google_map": "https://www.google.com/maps/search/Sky%20Bar%20%28Hotel%20Saratoga%29%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sky-bar-hotel-saratoga",
+      "references": [
+        {
+          "source": "Manus (Palma pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Front-row seat to Palma's iconic skyline, from the harbor boats to the Cathedral."
+        }
+      ],
+      "rating": 3,
+      "tags": "cocktails, palma, rooftop, skyline",
+      "source_rating_raw": null,
+      "geocode_query": "Hotel Saratoga, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Passeig del Born",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Attraction",
+      "emoji": "🛍️",
+      "description": "Palma's most elegant tree-lined boulevard — the spine of the shopping day: luxury houses on the Born itself, Avinguda Jaume III's boutiques one block over, concept stores Folklorious and ISSO in the center, vintage in Santa Catalina and the emerging Sa Gerreria artisan quarter beyond. Slotted for the Sep 5–6 Palma shopping/exploring days; the Riad sits two minutes away.",
+      "cost_range": "",
+      "address": "Passeig des Born, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5699649,
+      "longitude": 2.6464346,
+      "google_map": "https://www.google.com/maps/search/Passeig%20del%20Born%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#passeig-del-born",
+      "references": [
+        {
+          "source": "Manus (Palma pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "The elegant shopping spine: Born (luxury) + Jaume III (main artery), with Folklorious and ISSO concept stores, Villa Vintage in Santa Catalina, and Sa Gerreria as the artisan quarter."
+        }
+      ],
+      "rating": 3,
+      "tags": "boulevard, palma, shopping, stroll",
+      "source_rating_raw": null,
+      "geocode_query": "Passeig del Born, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Llagosta",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Lunch Restaurant",
+      "emoji": "🦞",
+      "description": "Beachfront seafood-and-rice house on the Llafranc seafront, steps from Mas Pastora — bay views, fresh fish, no booking needed. The default spontaneous lunch of the Costa Brava leg.",
+      "cost_range": "$$$",
+      "address": "Carrer de Francesc de Blanes, 24, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.893515,
+      "longitude": 3.1929392,
+      "google_map": "https://www.google.com/maps/search/La%20Llagosta%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-llagosta",
+      "references": [
+        {
+          "source": "Manus (Llafranc pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Beachfront dining just steps from your hotel — excellent fresh seafood and rice dishes with views of the bay."
+        }
+      ],
+      "rating": 3,
+      "tags": "beachfront, rice, seafood, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant La Llagosta, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Bar Tres Pins",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Bar",
+      "emoji": "🍢",
+      "description": "Casual tapas bar with a magnificent setting overlooking the Calella bay — fabulous tapas and sunset drinks. Pairs with the 25-minute Camí de Ronda stroll from Llafranc: walk over, tapas at Tres Pins or sunset at El Balcó, wander back.",
+      "cost_range": "$$",
+      "address": "Carrer dels Tres Pins, Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8887405,
+      "longitude": 3.1893306,
+      "google_map": "https://www.google.com/maps/search/Bar%20Tres%20Pins%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#bar-tres-pins",
+      "references": [
+        {
+          "source": "Manus (Llafranc pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Casual spot with a magnificent setting overlooking the bay — fabulous tapas and sunset drinks."
+        }
+      ],
+      "rating": 3,
+      "tags": "bay-views, sunset, tapas, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Bar Tres Pins, Calella de Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Croissanteria",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Cafe",
+      "emoji": "🥐",
+      "description": "Morning coffee, fresh pastries and light bites right on the Llafranc waterfront, on the same little square as Merci — the designated breakfast ritual of the Mas Pastora stay.",
+      "cost_range": "$",
+      "address": "Plaça del Promontori, 11, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.8943324,
+      "longitude": 3.1959471,
+      "google_map": "https://www.google.com/maps/search/La%20Croissanteria%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-croissanteria",
+      "references": [
+        {
+          "source": "Manus (Llafranc pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Your go-to for morning coffee, fresh pastries, and light bites right on the Llafranc waterfront."
+        }
+      ],
+      "rating": 3,
+      "tags": "breakfast, pastries, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "La Croissanteria, Llafranc, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Peratallada",
+      "region": "Costa Brava",
+      "neighborhood": "Peratallada (Baix Empordà)",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "One of Spain's most perfectly preserved medieval stone villages, 20 minutes inland — cobblestones, ivy-draped archways, small artisan shops, moat-carved walls. The pocket guide pairs it with Pals as a spontaneous late-afternoon excursion; incredibly photogenic and squarely the Ravello-wander archetype.",
+      "cost_range": "",
+      "address": "17113 Peratallada, Girona, Spain",
+      "latitude": 41.9754531,
+      "longitude": 3.0908105,
+      "google_map": "https://www.google.com/maps/search/Peratallada%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#peratallada",
+      "references": [
+        {
+          "source": "Manus (Llafranc pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "With Pals: 'two of the most perfectly preserved medieval stone villages in Spain' — cobblestones, ivy-draped archways, artisan shops. Perfect spontaneous late-afternoon excursion."
+        }
+      ],
+      "rating": 4,
+      "tags": "artisan-shops, medieval, photogenic, stone-village, village",
+      "source_rating_raw": null,
+      "geocode_query": "Peratallada, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sa Fonda",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Wine Bar",
+      "emoji": "🍢",
+      "description": "Deià's beloved village tapas bar — rustic, wine-forward, flavor-packed small plates in a cozy, almost family-like room that turns bustling and energetic in the evenings. Manus's pick as your walk-in 'neighborhood spot' for the Deià leg: the Barcelona Wine Bar of the village, steps from La Residencia. Pocket-guide addendum: it's the village's beating heart — tapas, burgers, cold beer on the terrace by day, and after 9 PM it often turns into the village hangout with live music.",
+      "cost_range": "$$",
+      "address": "Carrer Arxiduc Luís Salvador, 5, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7474822,
+      "longitude": 2.6486436,
+      "google_map": "https://www.google.com/maps/search/Sa%20Fonda%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sa-fonda",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "The village's beating heart — locals, expats and tourists mix; tapas, burgers, beers; after 9 PM often live music and a lively hangout."
+        }
+      ],
+      "rating": 4,
+      "tags": "casual, deia-village, late-night, live-music, tapas, walk-in, wine",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Hotel Corazón",
+      "region": "Mallorca",
+      "neighborhood": "Between Sóller & Deià",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Design-forward boutique hotel between Sóller and Deià, with a pool and courtyard breakfast. The most consistently endorsed property in the Instagram batch — 3 of 16 reels, all positive on both vibe and food (SheerLuxe: 'biggest fan; food is amazing'; Jillian Jaeger on dinner: 'such a vibe… the food is really, really good'). Manus seconds it as the bohemian, design-forward luxury fallback if La Residencia is full. Worth considering as a stay or just a dinner. Pocket-guide addendum: the restaurant is open to non-guests — a blissed-out, stylish terrace lunch of hyper-local, literally-harvested-on-property produce, a short drive from Deià.",
+      "cost_range": "$$$",
+      "address": "Carretera de Deià, km. 56, 7, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.773529,
+      "longitude": 2.6769299,
+      "google_map": "https://www.google.com/maps/search/Hotel%20Coraz%C3%B3n%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#hotel-corazon",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Restaurant open to non-guests: farm-to-table terrace (salads, fresh fish, medicinal herbs harvested from the property) — a stylish scenic lunch."
+        }
+      ],
+      "rating": 5,
+      "tags": "bohemian, boutique, design-forward, dinner, farm-to-table, hotel, non-guests-welcome, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Camí dels Pintors",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Attraction",
+      "emoji": "🥾",
+      "description": "The 'Painters' Path' — a panoramic coastal hike out of Deià that Jessie called spectacular and meditative, run along the cliffs and ending right at Ca's Patró March for a seafood lunch on the rocks (~2.5–3 hrs). This is the Mallorca version of the Ravello-to-Amalfi hike you loved: scenic, low-stakes, and it ends at a meal. Pair it with a Ca's Patró March reservation. Pocket-guide detail: start down at Cala Deià and follow the coast north to Llucalcari (~2.5 h round trip) — a tiny hamlet with a secret rocky cove where people take natural mud baths from the cliffs; far quieter than Cala Deià.",
+      "cost_range": "",
+      "address": "Cami Son Bujosa, 11, 07179 Deià, Illes Balears, Spain",
+      "latitude": 39.7604718,
+      "longitude": 2.6422501,
+      "google_map": "https://www.google.com/maps/search/Cam%C3%AD%20dels%20Pintors%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cami-dels-pintors",
+      "references": [
+        {
+          "source": "Manus (Deià pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "The Painter's Path: Cala Deià → Llucalcari, ~2.5 h round trip; secret rocky cove with natural cliff mud baths, much quieter than Cala Deià."
+        }
+      ],
+      "rating": 4,
+      "tags": "anchor-activity, coastal, deia, hiking, llucalcari, mud-baths, scenic, tramuntana",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Camí de Ronda",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Attraction",
+      "emoji": "🥾",
+      "description": "The coastal footpath connecting the best calas — cliff-top pine forest with hidden beaches below, and the single most personally-fitted activity on the Costa Brava list (the Ravello→Amalfi hike was your favorite day in Italy). Raised to a 5 on unanimous corroboration: Gemini's original pitch, Matt's guide (Calella→Llafranc flat and paved, 25 min; Cala Pedrosa→Tamariu newly rehabilitated), the 7-day reel (S'Agaró stretch), and Iisa Hero, who strung Fonda–Malaret–Aiguablava into one on-foot day and called the path the way to link beaches. From Mas Pastora the trail passes the door. Pocket-guide segment intel from the Llafranc base: Llafranc→Calella is the flat, paved 25-minute classic ('do this multiple times'); Llafranc→Tamariu is the rugged upgrade — 2-2.5 hours each way, moderate with real elevation, rewarded by a swim and lunch in the Tamariu cove.",
+      "cost_range": "",
+      "address": "Camí de Ronda, Girona, Spain",
+      "latitude": 41.9629628,
+      "longitude": 3.2285717,
+      "google_map": "https://www.google.com/maps/search/Cam%C3%AD%20de%20Ronda%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cami-de-ronda",
+      "references": [
+        {
+          "source": "Manus (Llafranc pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Llafranc→Calella: flat, paved, 25 min — do it multiple times. Llafranc→Tamariu: ~2-2.5 h each way, moderate/rugged, ending in a swim and lunch at Tamariu."
+        }
+      ],
+      "rating": 5,
+      "tags": "anchor-activity, coastal, hiking, scenic, snorkeling, tamariu-segment",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Begur",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "Hilltop town crowned by a castle and the consensus epicenter of Costa Brava recommendations — now explicitly named as the ideal base by two itinerary creators (2-4 nights, 'close to so many beautiful beaches') and featured by six more for its beaches and restaurants. The best calas (Sa Tuna, Aiguablava, Fonda, Malaret, Illa Roja) are all within 10 minutes, the densest dinner cluster on the coast is in town, and a 15-minute bus links it to Palafrugell for car-free days. Fifteen minutes from your booked base in Llafranc. Pocket-guide addendum: the best boutique shopping of the area — independent clothing, ceramics and artisan shops through town — and the free walk up to the castle ruins for 360° coastline views.",
+      "cost_range": "",
+      "address": "Begur, Girona, Spain",
+      "latitude": 41.9535354,
+      "longitude": 3.2025863,
+      "google_map": "https://www.google.com/maps/search/Begur%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#begur",
+      "references": [
+        {
+          "source": "Manus (Llafranc pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Best boutique shopping in the area (independent boutiques, ceramics, artisans); walk up to the Begur Castle ruins for free 360° views."
+        }
+      ],
+      "rating": 4,
+      "tags": "base, boutiques, castle, hilltop, scenic, town, village",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Hotel Sant Francesc",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Hotel",
+      "emoji": "🏨",
+      "description": "Boutique hotel in Palma's old town; SheerLuxe liked the rooftop pool bar. Worth a rooftop drink even without staying. Pocket-guide addendum: its Singular Rooftop Terrace is open for sunset cocktails and Mediterranean snacks — 'undeniably romantic,' and one of the three walkable rooftops of the Palma leg.",
+      "cost_range": "$$$$",
+      "address": "Plaça de Sant Francesc, 5, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5690094,
+      "longitude": 2.6526267,
+      "google_map": "https://www.google.com/maps/search/Hotel%20Sant%20Francesc%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#hotel-sant-francesc",
+      "references": [
+        {
+          "source": "Manus (Palma pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-21",
+          "note": "Singular Rooftop Terrace atop the hotel: undeniably romantic, perfect for sunset cocktails and Mediterranean snacks."
+        }
+      ],
+      "rating": 3,
+      "tags": "boutique, hotel, palma, rooftop, sunset-cocktails",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides*
 
-*262 venues · 457 sources*
+*279 venues · 480 sources*
 
 ---
 
@@ -86,7 +86,7 @@ Each section is linked from that tab's `References` column.
 
 > ⚠️ **Approximate location** — The Cami de Ronda runs for miles along the coast; this pin marks the Sa Tuna / Begur section, not a single point.
 
-### Sources (5)
+### Sources (6)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The coastal hiking path connecting the best calas — walk cliff-top through pine forest and suddenly look down on a hidden, pristine beach.
@@ -98,6 +98,8 @@ Each section is linked from that tab's `References` column.
   - Day 2: morning walk on the Camí de Ronda from S'Agaró.
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
   - The recommended way to link the Begur beaches on foot — her favorite-beaches day was one Camí de Ronda walk.
+- **Manus (Llafranc pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Llafranc→Calella: flat, paved, 25 min — do it multiple times. Llafranc→Tamariu: ~2-2.5 h each way, moderate/rugged, ending in a swim and lunch at Tamariu.
 
 ---
 
@@ -177,12 +179,14 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Between Sóller & Deià · **Type:** Hotel · **Rating:** 5/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Hotel+Coraz%C3%B3n%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Hotel%20Coraz%C3%B3n%2C%20Mallorca%2C%20Spain)
 
-### Sources (4)
+### Sources (5)
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - If the Belmond is full: a newly opened, highly curated luxury boutique hotel between Deià and Sóller, with a slightly more bohemian, design-forward luxury vibe.
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Restaurant open to non-guests: farm-to-table terrace (salads, fresh fish, medicinal herbs harvested from the property) — a stylish scenic lunch.
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - "Biggest fan; food is amazing." Listed under her mountain recommendations. 5/5.
 - **Instagram — Jillian Jaeger (@jillianjaeger)** · 2026-07-08 · 19,980 views · 416 likes · [DajIgMZxL3D](https://www.instagram.com/p/DajIgMZxL3D/)
@@ -324,6 +328,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="balm-restaurant" name="balm-restaurant"></a>
+
+## 🍽️ Balm Restaurant
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Balm%20Restaurant%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Walk-in dinner pick: family-run, 'traveling grandma's kitchen' — vegetable-forward seasonal menu, local meats and fish. High quality without El Olivo formality.
+
+---
+
 <a id="bar-abaco" name="bar-abaco"></a>
 
 ## 🍸 Bar Ábaco
@@ -364,7 +383,7 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Begur%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (4)
+### Sources (5)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The hilltop anchor town for the top calas (Sa Tuna, Aiguablava).
@@ -374,6 +393,8 @@ Each section is linked from that tab's `References` column.
   - Day 3 + base advice: Begur old town, 'a mix of history and coastal vibes'; one of the three recommended bases.
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
   - Recommended main base, 2-4 nights — 'close to so many beautiful beaches'; 15-min bus from Palafrugell.
+- **Manus (Llafranc pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Best boutique shopping in the area (independent boutiques, ceramics, artisans); walk up to the Begur Castle ruins for free 360° views.
 
 ---
 
@@ -591,14 +612,16 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 4/5
 
-[Google Maps](https://www.google.com/maps/search/Cam%C3%AD+dels+Pintors%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Cam%C3%AD%20dels%20Pintors%2C%20Mallorca%2C%20Spain)
 
 > ⚠️ **Approximate location** — A coastal trail rather than a single point; pinned near the Deià trailhead.
 
-### Sources (1)
+### Sources (2)
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - 'Truly spectacular… it truly felt meditative.' A panoramic coastal hike in Deià (~10:00–12:45) ending at Ca's Patró March.
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The Painter's Path: Cala Deià → Llucalcari, ~2.5 h round trip; secret rocky cove with natural cliff mud baths, much quieter than Cala Deià.
 
 ---
 
@@ -1383,6 +1406,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="palma-riad" name="palma-riad"></a>
+
+## 🏨 Palma Riad
+
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Hotel · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Palma%20Riad%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Palma pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The guide is 'designed for your days based at the Palma Riad in the Old Town' — every listed venue is walkable from it.
+
+---
+
 <a id="pals" name="pals"></a>
 
 ## 🏘️ Pals
@@ -1397,6 +1435,21 @@ Each section is linked from that tab's `References` column.
   - 'Super cute' medieval village — cobblestones, bougainvillea, boutique shopping, pottery & ceramics workshops. Explicit 5/5 (ad post).
 - **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
   - Day 4: 'a perfectly preserved medieval village,' with dinner at Vicus.
+
+---
+
+<a id="peratallada" name="peratallada"></a>
+
+## 🏘️ Peratallada
+
+**Region:** Costa Brava · **Neighborhood:** Peratallada (Baix Empordà) · **Type:** Town/Village · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Peratallada%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Llafranc pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - With Pals: 'two of the most perfectly preserved medieval stone villages in Spain' — cobblestones, ivy-draped archways, artisan shops. Perfect spontaneous late-afternoon excursion.
 
 ---
 
@@ -1565,12 +1618,14 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Deià · **Type:** Wine Bar · **Rating:** 4/5 · **Cost:** $$
 
-[Google Maps](https://www.google.com/maps/search/Sa+Fonda%2C+Dei%C3%A0%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Sa%20Fonda%2C%20Mallorca%2C%20Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Manus** · 2026-07-27 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Barcelona Wine Bar match for Deià: the village's beloved tapas bar — rustic, wine-forward small plates, cozy family-like atmosphere, bustling in the evenings. Walk-in friendly; 'your neighborhood spot during the Deià leg.'
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The village's beating heart — locals, expats and tourists mix; tapas, burgers, beers; after 9 PM often live music and a lively hangout.
 
 ---
 
@@ -2210,6 +2265,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="bar-tres-pins" name="bar-tres-pins"></a>
+
+## 🍢 Bar Tres Pins
+
+**Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Bar%20Tres%20Pins%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Llafranc pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Casual spot with a magnificent setting overlooking the bay — fabulous tapas and sunset drinks.
+
+---
+
 <a id="basilica-de-sant-francesc" name="basilica-de-sant-francesc"></a>
 
 ## ⛪ Basilica de Sant Francesc
@@ -2662,6 +2732,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="caserra-71" name="caserra-71"></a>
+
+## 🛍️ Caserra 71
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Caserra%2071%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Matthew Williamson's brand-new boutique concept store in a historic townhouse — vintage, beachwear, 70s-meets-Mediterranean objects.
+
+---
+
 <a id="cassai" name="cassai"></a>
 
 ## 🥘 Cassai
@@ -2719,6 +2804,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
   - 'Vineyard tour — this is a must!!' and 'the winery & the wine was amazing!!' Explicit 5/5 (ad post).
+
+---
+
+<a id="ceramics-by-joanna" name="ceramics-by-joanna"></a>
+
+## 🏺 Ceramics by Joanna
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Ceramics%20by%20Joanna%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Local institution since the 90s; hand-painted ceramics with local fruits and flora — 'the perfect authentic souvenir.'
 
 ---
 
@@ -2887,6 +2987,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Modern restaurant in central Palma; called out excellent sangria. 4/5.
+
+---
+
+<a id="el-cielo-del-born" name="el-cielo-del-born"></a>
+
+## 🍸 El Cielo del Born
+
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Cocktail Bar · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/El%20Cielo%20del%20Born%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Palma pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rooftop at Nivia Born over the Passeig del Born — fantastic cathedral/skyline views, often live music.
 
 ---
 
@@ -3110,16 +3225,33 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="gres-gallery" name="gres-gallery"></a>
+
+## 🏺 Gres Gallery
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Gres%20Gallery%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - A peaceful refuge run by three generations of female ceramic artists; minimalist, ancient-looking vessels.
+
+---
+
 <a id="hotel-sant-francesc" name="hotel-sant-francesc"></a>
 
 ## 🏨 Hotel Sant Francesc
 
 **Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Hotel · **Rating:** 3/5 · **Cost:** $$$$
 
-[Google Maps](https://www.google.com/maps/search/Hotel+Sant+Francesc%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Hotel%20Sant%20Francesc%2C%20Mallorca%2C%20Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Manus (Palma pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Singular Rooftop Terrace atop the hotel: undeniably romantic, perfect for sunset cocktails and Mediterranean snacks.
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Palma old town boutique hotel with a great rooftop pool bar. 4/5.
 
@@ -3191,6 +3323,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="joy-made-by-hand" name="joy-made-by-hand"></a>
+
+## 👒 Joy, Made by Hand
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Joy%2C%20Made%20by%20Hand%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - A tiny gem focused on ancestral techniques: straw hats from Colombia, alpaca blankets, Mallorcan textiles.
+
+---
+
 <a id="jumeirah-mallorca" name="jumeirah-mallorca"></a>
 
 ## 🏨 Jumeirah Mallorca
@@ -3251,6 +3398,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-croissanteria" name="la-croissanteria"></a>
+
+## 🥐 La Croissanteria
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/La%20Croissanteria%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Llafranc pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Your go-to for morning coffee, fresh pastries, and light bites right on the Llafranc waterfront.
+
+---
+
 <a id="la-fabrica" name="la-fabrica"></a>
 
 ## ☕ La Fábrica
@@ -3270,6 +3432,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-llagosta" name="la-llagosta"></a>
+
+## 🦞 La Llagosta
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/La%20Llagosta%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Llafranc pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Beachfront dining just steps from your hotel — excellent fresh seafood and rice dishes with views of the bay.
+
+---
+
 <a id="la-molienda" name="la-molienda"></a>
 
 ## ☕ La Molienda
@@ -3284,6 +3461,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Cafes.
 - **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
   - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="la-trastienda" name="la-trastienda"></a>
+
+## 🍢 La Trastienda
+
+**Region:** Mallorca · **Neighborhood:** La Rambla, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/La%20Trastienda%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Palma pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Terrace under the La Rambla plane trees; solid classic tapas for sitting outside and people-watching.
 
 ---
 
@@ -3479,6 +3671,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="obsolete-collective" name="obsolete-collective"></a>
+
+## 🛍️ Obsolete Collective
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Obsolete%20Collective%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Handmade furniture, fashion, accessories; 'Island Born' Balearic-brands room; Lost in Beauty wellness lab for walk-in treatments.
+
+---
+
 <a id="palafrugell-town" name="palafrugell-town"></a>
 
 ## 🏘️ Palafrugell (town)
@@ -3557,6 +3764,21 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-24 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping.
+
+---
+
+<a id="passeig-del-born" name="passeig-del-born"></a>
+
+## 🛍️ Passeig del Born
+
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Attraction · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Passeig%20del%20Born%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Palma pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The elegant shopping spine: Born (luxury) + Jaume III (main artery), with Folklorious and ISSO concept stores, Villa Vintage in Santa Catalina, and Sa Gerreria as the artisan quarter.
 
 ---
 
@@ -3957,6 +4179,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="robert-graves-house-ca-n-alluny" name="robert-graves-house-ca-n-alluny"></a>
+
+## 📚 Robert Graves' House (Ca n'Alluny)
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Museum · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Robert%20Graves%27%20House%20%28Ca%20n%27Alluny%29%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Just walk in (~€7): the preserved home of Robert Graves, with garden — a quiet 45-minute dose of the village's literary history.
+
+---
+
 <a id="roses" name="roses"></a>
 
 ## 🏘️ Roses
@@ -4019,6 +4256,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="sant-joan-baptista-church-cemetery" name="sant-joan-baptista-church-cemetery"></a>
+
+## ⛪ Sant Joan Baptista Church & Cemetery
+
+**Region:** Mallorca · **Neighborhood:** Deià · **Type:** Attraction · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Sant%20Joan%20Baptista%20Church%20%26%20Cemetery%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Walk to the church at the top of the village; the cemetery behind it offers arguably the best panoramic views over valley and sea.
+
+---
+
 <a id="santanyi" name="santanyi"></a>
 
 ## 🏘️ Santanyí
@@ -4054,6 +4306,21 @@ Each section is linked from that tab's `References` column.
   - One of the best markets on the island (Wednesdays & Saturdays) — takes over the whole village. Perfect for the 'impromptu shopping and exploring' you loved in Ravello: local ceramics, linens, artisan foods.
 - **Instagram — Eric M. Hammer (@theerichammer)** · 2026-06-05 · 48,798 views · 1,150 likes · [DZNcqIvRShi](https://www.instagram.com/p/DZNcqIvRShi/)
   - Wed/Sat street market — bread, ensaïmadas, ceramics, wood crafts, truffle products, fans, clothing. Bought ceramic chopstick rests (€6), an apple empanada (€7), an Estrella Damm. Verdict was explicitly mixed: "a letdown in terms of range of vendors… still cool and something to do on the east side." 3/5.
+
+---
+
+<a id="sky-bar-hotel-saratoga" name="sky-bar-hotel-saratoga"></a>
+
+## 🍸 Sky Bar (Hotel Saratoga)
+
+**Region:** Mallorca · **Neighborhood:** Palma Centre · **Type:** Cocktail Bar · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Sky%20Bar%20%28Hotel%20Saratoga%29%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Palma pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Front-row seat to Palma's iconic skyline, from the harbor boats to the Cathedral.
 
 ---
 
