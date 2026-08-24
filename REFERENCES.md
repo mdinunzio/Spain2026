@@ -7,24 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure*
 
-*279 venues · 480 sources*
-
----
-
-<a id="bens-d-avall" name="bens-d-avall"></a>
-
-## ⭐ Bens d'Avall
-
-**Region:** Mallorca · **Neighborhood:** Sóller / Deià coast · **Type:** Dinner Restaurant · **Rating:** 5/5 · **Cost:** $$$$
-
-[Google Maps](https://www.google.com/maps/search/Bens+d%27Avall%2C+Mallorca%2C+Spain)
-
-### Sources (1)
-
-- **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
-  - Her fine-dining pick for the Tramuntana coast: "one of my favorite restaurants in the world." 5/5.
+*279 venues · 481 sources*
 
 ---
 
@@ -4634,6 +4619,23 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Neutral aside only — noted it as opening in summer 2026, with no review attached.
+
+---
+
+<a id="bens-d-avall" name="bens-d-avall"></a>
+
+## ⚠️ Bens d'Avall
+
+**Region:** Mallorca · **Neighborhood:** Sóller / Deià coast · **Type:** Dinner Restaurant · **Rating:** 1/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Bens+d%27Avall%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Bens d'Avall (official site)** · 2026-08-24 · [link](https://www.bensdavall.com/informacion?lang=en)
+  - Closure notice on the official site: 'The restaurant will remain closed throughout 2026. We plan to reopen in 2027.'
+- **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
+  - Her fine-dining pick for the Tramuntana coast: "one of my favorite restaurants in the world." 5/5.
 
 ---
 

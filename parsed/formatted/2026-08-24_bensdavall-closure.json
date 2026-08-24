@@ -1,0 +1,38 @@
+{
+  "batch": "2026-08-24_bensdavall-closure",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 1,
+  "locations": [
+    {
+      "name": "Bens d'Avall",
+      "region": "Mallorca",
+      "neighborhood": "Sóller / Deià coast",
+      "type": "Dinner Restaurant",
+      "emoji": "⚠️",
+      "description": "⚠️ CLOSED FOR ALL OF 2026 — the official website states the restaurant will remain closed throughout 2026 and plans to reopen in 2027. Was the region's iconic cliffside sunset fine-dining terrace (unanimously praised across the Instagram batch, previously a 5 on this list). Keep for a future Mallorca trip; not bookable for this one.",
+      "cost_range": "$$$$",
+      "address": "Carretera de Deià, km.56, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7765719,
+      "longitude": 2.6666189,
+      "google_map": "https://www.google.com/maps/search/Bens+d%27Avall%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#bens-d-avall",
+      "references": [
+        {
+          "source": "Bens d'Avall (official site)",
+          "url": "https://www.bensdavall.com/informacion?lang=en",
+          "date": "2026-08-24",
+          "note": "Closure notice on the official site: 'The restaurant will remain closed throughout 2026. We plan to reopen in 2027.'"
+        }
+      ],
+      "rating": 1,
+      "tags": "closed-2026, cliffside, dinner, fine-dining, future-trip, scenic, sunset, tramuntana",
+      "source_rating_raw": "CLOSED 2026",
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}
