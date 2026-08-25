@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views*
 
-*279 venues · 481 sources*
+*284 venues · 489 sources*
 
 ---
 
@@ -432,6 +432,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="ca-n-eduardo" name="ca-n-eduardo"></a>
+
+## 🦞 Ca n'Eduardo
+
+**Region:** Mallorca · **Neighborhood:** Moll de Pescadors, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Ca+n%27Eduardo%2C+Palma%2C+Mallorca%2C+Spain)
+
+### Sources (2)
+
+- **Claude (traditional-with-views research chat)** · 2026-08-24 · [link](https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a)
+  - 80-year institution on top of the fish auction; lobster paella + market fish; terrace across the harbor to the cathedral; continuous kitchen 1–10 PM.
+- **Ca n'Eduardo (official site)** · 2026-08-24 · [link](https://www.caneduardo.com/en/)
+  - Seafront by the fishing port; rooftop terrace over harbor, marina and cathedral; fish and shellfish direct from the auction rooms below; lobster paella the specialty.
+
+---
+
 <a id="cafe-bar-miro-la-residencia" name="cafe-bar-miro-la-residencia"></a>
 
 ## 🍸 Café / Bar Miro (La Residencia)
@@ -823,6 +840,23 @@ Each section is linked from that tab's `References` column.
   - Hotel Sant Roc official page for El Balcó de Calella.
 - **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
   - Day 2 lunch: 'amazing seafood with sea views.'
+
+---
+
+<a id="el-bungalow" name="el-bungalow"></a>
+
+## 🥘 El Bungalow
+
+**Region:** Mallorca · **Neighborhood:** Ciutat Jardí, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/El+Bungalow%2C+Ciutat+Jard%C3%AD%2C+Palma%2C+Spain)
+
+### Sources (2)
+
+- **Claude (traditional-with-views research chat)** · 2026-08-24 · [link](https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a)
+  - 'If you only do two' pick #1 — sunset dinner, best view-to-price ratio near the city. Seafood paella, salt-baked sea bass, sherry clams. Caveat: long-running coastal-authority dispute — confirm open when booking.
+- **Charles Marlow — Hidden Gems** · 2026-08-24 · [link](https://www.charlesmarlow.com/stories/hidden-gems-8-restaurant-el-bungalow-2)
+  - Family-run beachfront restaurant since 1983 in a converted 1920s bungalow; paella and arroz negro on the sand with sunset views of the Palma coastline.
 
 ---
 
@@ -3624,6 +3658,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="meson-ca-n-pedro" name="meson-ca-n-pedro"></a>
+
+## 🍖 Mesón Ca'n Pedro
+
+**Region:** Mallorca · **Neighborhood:** Génova, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Mes%C3%B3n+Ca%27n+Pedro%2C+G%C3%A9nova%2C+Palma%2C+Spain)
+
+### Sources (1)
+
+- **Claude (traditional-with-views research chat)** · 2026-08-24 · [link](https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a)
+  - 'If you only do two' pick #2 — since 1976, the classic locals' Sunday-lunch spot for Mallorcan mountain cooking; summer terrace over the bay. canpedro.es · 971 70 21 62.
+
+---
+
 <a id="miga-de-nube" name="miga-de-nube"></a>
 
 ## ☕ Miga de Nube
@@ -4221,6 +4270,38 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Wanderlusters (@wanderlusters.couple)** · [CtPSZsLrom8](https://www.instagram.com/reel/CtPSZsLrom8/)
   - In the 'most beautiful beaches of Costa Brava' montage.
+
+---
+
+<a id="sa-cranca" name="sa-cranca"></a>
+
+## 🥘 Sa Cranca
+
+**Region:** Mallorca · **Neighborhood:** Passeig Marítim, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Sa+Cranca%2C+Passeig+Mar%C3%ADtim%2C+Palma%2C+Spain)
+
+### Sources (1)
+
+- **Claude (traditional-with-views research chat)** · 2026-08-24 · [link](https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a)
+  - Palma's long-running paella/rice specialist; marina in front, cathedral lit behind; the low-effort proper-rice night.
+
+---
+
+<a id="sa-roqueta" name="sa-roqueta"></a>
+
+## 🐟 Sa Roqueta
+
+**Region:** Mallorca · **Neighborhood:** Portixol, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Sa+Roqueta%2C+Portixol%2C+Palma%2C+Spain)
+
+### Sources (2)
+
+- **Claude (traditional-with-views research chat)** · 2026-08-24 · [link](https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a)
+  - Family-run since 1987 in an old fisherman's house; fish paella, aguiat de peix, grilled fish; view over the small Portixol harbor. Easy dinner night without leaving the city.
+- **SeeMallorca review** · 2026-08-24 · [link](https://www.seemallorca.com/food/reviews/sa-roqueta-restaurant-review-portixol)
+  - 'No laminated menus or pushy signage — just a neighborhood restaurant serving great seafood to people who appreciate it.' Terrace among the boats; lunch drifts into the afternoon.
 
 ---
 

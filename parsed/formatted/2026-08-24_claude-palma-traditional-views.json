@@ -1,0 +1,166 @@
+{
+  "batch": "2026-08-24_claude-palma-traditional-views",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 5,
+  "locations": [
+    {
+      "name": "Ca n'Eduardo",
+      "region": "Mallorca",
+      "neighborhood": "Moll de Pescadors, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🦞",
+      "description": "80-year-old seafood institution sitting directly above the fish auction at Palma's fishing pier — the catch comes upstairs from the boats below. Rooftop terrace looks across the harbor to the cathedral. Order the lobster paella or whatever the lonja landed. Kitchen runs continuously 1–10 PM, so it works for an early dinner; a 15-minute seafront walk from the Palma Riad — the only view-dinner in Palma that needs no taxi.",
+      "cost_range": "$$$$",
+      "address": "Carrer Contramuelle Mollet, 3, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5684507,
+      "longitude": 2.6406613,
+      "google_map": "https://www.google.com/maps/search/Ca+n%27Eduardo%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#ca-n-eduardo",
+      "references": [
+        {
+          "source": "Claude (traditional-with-views research chat)",
+          "url": "https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a",
+          "date": "2026-08-24",
+          "note": "80-year institution on top of the fish auction; lobster paella + market fish; terrace across the harbor to the cathedral; continuous kitchen 1–10 PM."
+        },
+        {
+          "source": "Ca n'Eduardo (official site)",
+          "url": "https://www.caneduardo.com/en/",
+          "date": "2026-08-24",
+          "note": "Seafront by the fishing port; rooftop terrace over harbor, marina and cathedral; fish and shellfish direct from the auction rooms below; lobster paella the specialty."
+        }
+      ],
+      "rating": 4,
+      "tags": "cathedral-views, harbor, institution, paella, rooftop-terrace, seafood, walkable",
+      "source_rating_raw": null,
+      "geocode_query": "Ca n'Eduardo, Contramuelle Mollet, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sa Roqueta",
+      "region": "Mallorca",
+      "neighborhood": "Portixol, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🐟",
+      "description": "Family-run since 1987 in an old fisherman's house in Portixol, Palma's fishing-village pocket — a small, un-touristy neighborhood seafood room with a terrace over the little harbor. Fish paella, aguiat de peix (Mallorcan fish stew), grilled whole fish; prices run high but honest for the quality. Pairs perfectly with the Paseo Marítimo → Portixol promenade walk at golden hour (~25 min from the old town, or a short cab).",
+      "cost_range": "$$$",
+      "address": "Carrer de la Sirena, 11, Portixol, 07006 Palma, Illes Balears, Spain",
+      "latitude": 39.560384,
+      "longitude": 2.6701507,
+      "google_map": "https://www.google.com/maps/search/Sa+Roqueta%2C+Portixol%2C+Palma%2C+Spain",
+      "references_anchor": "REFERENCES.md#sa-roqueta",
+      "references": [
+        {
+          "source": "Claude (traditional-with-views research chat)",
+          "url": "https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a",
+          "date": "2026-08-24",
+          "note": "Family-run since 1987 in an old fisherman's house; fish paella, aguiat de peix, grilled fish; view over the small Portixol harbor. Easy dinner night without leaving the city."
+        },
+        {
+          "source": "SeeMallorca review",
+          "url": "https://www.seemallorca.com/food/reviews/sa-roqueta-restaurant-review-portixol",
+          "date": "2026-08-24",
+          "note": "'No laminated menus or pushy signage — just a neighborhood restaurant serving great seafood to people who appreciate it.' Terrace among the boats; lunch drifts into the afternoon."
+        }
+      ],
+      "rating": 3,
+      "tags": "family-run, fishing-village, harbor-terrace, paella, portixol, seafood",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Sa Roqueta, Portixol, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Bungalow",
+      "region": "Mallorca",
+      "neighborhood": "Ciutat Jardí, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🥘",
+      "description": "1920s beach house at sea level on the rocks of Ciutat Jardí, family-run as a restaurant since 1983 and beloved by locals — terrace tables practically in the water looking straight across the bay to the cathedral; sunset dinner is the move. Order the seafood paella, salt-baked sea bass, or sherry clams. Two practical notes: book the terrace specifically, and the building has a long-running dispute with the coastal authority — confirm it's open when you book. ~10-minute cab from the center.",
+      "cost_range": "$$$",
+      "address": "Carrer dels Esculls, 2, 07007 Palma, Illes Balears, Spain",
+      "latitude": 39.5500147,
+      "longitude": 2.6912675,
+      "google_map": "https://www.google.com/maps/search/El+Bungalow%2C+Ciutat+Jard%C3%AD%2C+Palma%2C+Spain",
+      "references_anchor": "REFERENCES.md#el-bungalow",
+      "references": [
+        {
+          "source": "Claude (traditional-with-views research chat)",
+          "url": "https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a",
+          "date": "2026-08-24",
+          "note": "'If you only do two' pick #1 — sunset dinner, best view-to-price ratio near the city. Seafood paella, salt-baked sea bass, sherry clams. Caveat: long-running coastal-authority dispute — confirm open when booking."
+        },
+        {
+          "source": "Charles Marlow — Hidden Gems",
+          "url": "https://www.charlesmarlow.com/stories/hidden-gems-8-restaurant-el-bungalow-2",
+          "date": "2026-08-24",
+          "note": "Family-run beachfront restaurant since 1983 in a converted 1920s bungalow; paella and arroz negro on the sand with sunset views of the Palma coastline."
+        }
+      ],
+      "rating": 4,
+      "tags": "beachfront, cathedral-views, paella, sunset, terrace, verify-open",
+      "source_rating_raw": null,
+      "geocode_query": "El Bungalow, Carrer d'Esculls, Ciudad Jardin, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mesón Ca'n Pedro",
+      "region": "Mallorca",
+      "neighborhood": "Génova, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍖",
+      "description": "The classic locals' Sunday-lunch house since 1976, up in the hillside village of Génova (~10-min cab) — Mallorcan mountain cooking with a summer terrace over the whole bay of Palma. Pa amb oli, frito mallorquín, snails, and meat or fish cooked on a hot stone: the 'drive to Alaró' experience without the drive. ⚠️ Chelsea note: the menu's center of gravity is meaty (lamb, frito, snails) — fish on the hot stone exists, but of the view-traditional set this is the least accommodating pick.",
+      "cost_range": "$$",
+      "address": "Carrer del Rector Vives, 14, Génova, 07015 Palma, Illes Balears, Spain",
+      "latitude": 39.5660727,
+      "longitude": 2.6002683,
+      "google_map": "https://www.google.com/maps/search/Mes%C3%B3n+Ca%27n+Pedro%2C+G%C3%A9nova%2C+Palma%2C+Spain",
+      "references_anchor": "REFERENCES.md#meson-ca-n-pedro",
+      "references": [
+        {
+          "source": "Claude (traditional-with-views research chat)",
+          "url": "https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a",
+          "date": "2026-08-24",
+          "note": "'If you only do two' pick #2 — since 1976, the classic locals' Sunday-lunch spot for Mallorcan mountain cooking; summer terrace over the bay. canpedro.es · 971 70 21 62."
+        }
+      ],
+      "rating": 3,
+      "tags": "bay-views, hillside, institution, mallorcan, meat-heavy, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "Meson Ca'n Pedro, Genova, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sa Cranca",
+      "region": "Mallorca",
+      "neighborhood": "Passeig Marítim, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🥘",
+      "description": "Palma's long-running paella and rice specialist on the Passeig Marítim — marina and yachts in front, the cathedral lit up behind at night. Any of the rice dishes or the fideuà; a low-effort, 10-minute-walk night when you want rice done properly with a view and no production around it.",
+      "cost_range": "$$$",
+      "address": "Passeig Marítim, 07014 Palma, Illes Balears, Spain",
+      "latitude": 39.5694138,
+      "longitude": 2.6363289,
+      "google_map": "https://www.google.com/maps/search/Sa+Cranca%2C+Passeig+Mar%C3%ADtim%2C+Palma%2C+Spain",
+      "references_anchor": "REFERENCES.md#sa-cranca",
+      "references": [
+        {
+          "source": "Claude (traditional-with-views research chat)",
+          "url": "https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a",
+          "date": "2026-08-24",
+          "note": "Palma's long-running paella/rice specialist; marina in front, cathedral lit behind; the low-effort proper-rice night."
+        }
+      ],
+      "rating": 3,
+      "tags": "fideua, marina-views, paella, rice, walkable",
+      "source_rating_raw": null,
+      "geocode_query": "Sa Cranca, Passeig Maritim, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    }
+  ]
+}
