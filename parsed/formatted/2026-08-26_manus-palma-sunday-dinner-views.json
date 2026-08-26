@@ -1,0 +1,380 @@
+{
+  "batch": "2026-08-26_manus-palma-sunday-dinner-views",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 11,
+  "locations": [
+    {
+      "name": "El Patio de Glòria",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Dinner Restaurant",
+      "emoji": "🍋",
+      "description": "Lemon-tree patio inside a restored 16th-century manor on Carrer de Sant Jaume — a THREE-minute walk from the Palma Riad. Manus's 'tired and romantic with almost no effort' pick, and the menu reads like Chelsea's order sheet: tuna, scallops, octopus, cod, turbot, seafood rice, vegetable fideuà, pumpkin ravioli. Sunday dinner 19:00–22:30. No sea view — a beautiful enclosed patio instead — which after a full Purobeach day may be exactly right.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Sant Jaume, 20, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.57351999999999,
+      "longitude": 2.64805,
+      "google_map": "https://www.google.com/maps/search/El%20Patio%20de%20Gl%C3%B2ria%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-patio-de-gloria",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rank 3 / strongest contingency and 'arguably the most romantic option': 3 minutes from the hotel; menu includes tuna, scallops, octopus, cod, turbot, seafood rice, vegetable fideuà, pumpkin ravioli. Sunday 19:00–22:30."
+        },
+        {
+          "source": "El Patio de Glòria (official)",
+          "url": "https://elpatiodegloria.com/en/menu/",
+          "date": "2026-08-26",
+          "note": "Official 2026 menu and opening hours."
+        }
+      ],
+      "rating": 4,
+      "tags": "courtyard, patio, romantic, seafood, walkable",
+      "source_rating_raw": null,
+      "geocode_query": "El Patio de Gloria, Hotel Gloria de Sant Jaume, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Caballito de Mar",
+      "region": "Mallorca",
+      "neighborhood": "La Lonja, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🐟",
+      "description": "Polished Mediterranean seafood-and-rice house beside the marina at Passeig de Sagrera, a 9-minute walk from the Riad — Manus's runner-up for the Sunday waterfront dinner: slightly more intimate and visitor-friendly than Ca n'Eduardo, with a touch less old-fishing-port character. Daily dinner 19:00–22:30.",
+      "cost_range": "$$$$",
+      "address": "Passeig de Sagrera, 5, Bajo, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5679802,
+      "longitude": 2.6446749,
+      "google_map": "https://www.google.com/maps/search/Caballito%20de%20Mar%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#caballito-de-mar",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rank 2: verified 9-minute walk; Mediterranean fish, seafood, rice and shareable dishes beside the marina; daily dinner kitchen 19:00–22:30."
+        },
+        {
+          "source": "Caballito de Mar (official)",
+          "url": "https://caballitodemar.com/en/",
+          "date": "2026-08-26",
+          "note": "Official site."
+        }
+      ],
+      "rating": 3,
+      "tags": "marina, rice, seafood, terrace, walkable",
+      "source_rating_raw": null,
+      "geocode_query": "Caballito de Mar restaurant, Passeig Sagrera, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Restaurant Pesquero",
+      "region": "Mallorca",
+      "neighborhood": "Moll de la Llotja, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "⚓",
+      "description": "The most casual of Palma's traditional waterfront options — a big dockside terrace facing the fishing boats at the Llotja pier. Fish, shellfish, rice, fideuà, grilled squid, tumbet, vegetable rice; open daily with dinner 18:00–22:00. Choose it for ease and atmosphere over culinary precision; 12 minutes on foot.",
+      "cost_range": "$$$",
+      "address": "Muelle de la Lonja, s/n, Plaça de la Llotja, 5, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5685452,
+      "longitude": 2.6422807,
+      "google_map": "https://www.google.com/maps/search/Restaurant%20Pesquero%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#restaurant-pesquero",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rank 4: 'the most casual traditional-waterfront option' — dockside terrace facing fishing boats; fish, rice, fideuà, tumbet all Chelsea-friendly; dinner 18:00–22:00 daily."
+        },
+        {
+          "source": "Restaurant Pesquero (official)",
+          "url": "https://www.restaurantpesquero.com/en-gb",
+          "date": "2026-08-26",
+          "note": "Official site."
+        }
+      ],
+      "rating": 3,
+      "tags": "casual, dockside, seafood, terrace, walkable",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Pesquero, Moll de la Llotja, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Quadrat Restaurant & Garden",
+      "region": "Mallorca",
+      "neighborhood": "Plaça Sant Francesc, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🌿",
+      "description": "The garden restaurant of Hotel Sant Francesc on one of Palma's handsomest squares — relaxed local-Mediterranean cooking in one of the city's prettiest hotel gardens (Sunday dinner 19:00–22:30). Manus's 'quiet garden, not another waterfront scene' option; pairs with a Singular Rooftop aperitif upstairs at the same hotel. 11 minutes on foot.",
+      "cost_range": "$$$$",
+      "address": "Plaça de Sant Francesc, 5, Patio, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5690094,
+      "longitude": 2.6526267,
+      "google_map": "https://www.google.com/maps/search/Quadrat%20Restaurant%20%26%20Garden%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#quadrat-restaurant-garden",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rank 5: relaxed local and Mediterranean cooking in one of Palma's prettiest hotel gardens; scenic but not waterfront, somewhat hotel-like. Sunday 19:00–22:30."
+        },
+        {
+          "source": "Quadrat (official)",
+          "url": "https://hotelsantfrancesc.com/en/gastronomy/quadrat-restaurant/",
+          "date": "2026-08-26",
+          "note": "Official page."
+        }
+      ],
+      "rating": 3,
+      "tags": "garden, hotel-restaurant, mediterranean, quiet",
+      "source_rating_raw": null,
+      "geocode_query": "Quadrat Restaurant, Hotel Sant Francesc, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "De Tokio a Lima",
+      "region": "Mallorca",
+      "neighborhood": "Passeig des Born, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍣",
+      "description": "Elevated terrace over the leafy Passeig des Born (at Can Alomar) — Mediterranean-Japanese-Peruvian cooking with strong seafood and vegetable choices, local wines and cocktails, 4 minutes from the Riad. The polished-fusion wildcard of the Born cluster; confirm Sunday inventory when booking.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Sant Feliu, 1, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5699081,
+      "longitude": 2.6460958,
+      "google_map": "https://www.google.com/maps/search/De%20Tokio%20a%20Lima%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#de-tokio-a-lima",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rank 6: excellent terrace over Paseo del Borne; Mediterranean–Japanese–Peruvian; strong seafood/vegetable choices; confirm exact Sunday inventory."
+        },
+        {
+          "source": "De Tokio a Lima (official)",
+          "url": "https://detokioalima.com/palma/",
+          "date": "2026-08-26",
+          "note": "Official site."
+        }
+      ],
+      "rating": 3,
+      "tags": "born, fusion, nikkei, terrace, walkable",
+      "source_rating_raw": null,
+      "geocode_query": "De Tokio a Lima, Passeig des Born, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mar de Nudos",
+      "region": "Mallorca",
+      "neighborhood": "Moll Vell, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🛥️",
+      "description": "Stylish marina terrace on the Moll Vell with Cathedral views — seafood-heavy Mediterranean plus Japanese (sushi), cocktails and a lively scene, open daily until 1 AM. Scene-driven and international rather than traditional; Manus's 'cocktails and energy' waterfront pick. 11 minutes on foot.",
+      "cost_range": "$$$$",
+      "address": "Carrer del Moll, 6, Local 1, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5664872,
+      "longitude": 2.6436608,
+      "google_map": "https://www.google.com/maps/search/Mar%20de%20Nudos%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mar-de-nudos",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rank 8: stylish marina terrace, seafood-heavy Med + Japanese menu, daily until 1:00 AM; scene-driven rather than traditional Mallorcan."
+        },
+        {
+          "source": "Mar de Nudos (official)",
+          "url": "https://www.mardenudos.com/",
+          "date": "2026-08-26",
+          "note": "Official site."
+        }
+      ],
+      "rating": 3,
+      "tags": "cathedral-views, late-night, marina, sceney, sushi",
+      "source_rating_raw": null,
+      "geocode_query": "Mar de Nudos, Moll Vell, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "OMBU Born",
+      "region": "Mallorca",
+      "neighborhood": "Passeig des Born, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍢",
+      "description": "Creative global tapas with a big outdoor terrace right on the Passeig des Born — tuna, scallop, prawns, octopus, salmon, tofu, aubergine, burrata; Sunday dinner 18:30–23:30, 5 minutes from the Riad. The people-watching option; no water view, no tradition, maximum ease.",
+      "cost_range": "$$$",
+      "address": "Passeig des Born, 5-7, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5690932,
+      "longitude": 2.6461399,
+      "google_map": "https://www.google.com/maps/search/OMBU%20Born%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ombu-born",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rank 9: excellent people-watching on the Born; flexible menu of tuna, scallop, prawns, squid, octopus, salmon, tofu, aubergine, burrata. Sunday 18:30–23:30."
+        },
+        {
+          "source": "OMBU Born (official)",
+          "url": "https://fornprojects.com/en/restaurant/ombu-born/",
+          "date": "2026-08-26",
+          "note": "Official menu and hours."
+        }
+      ],
+      "rating": 3,
+      "tags": "born, creative-tapas, people-watching, terrace, walkable",
+      "source_rating_raw": null,
+      "geocode_query": "OMBU restaurant, Passeig des Born, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "ALMAQ Rooftop (Es Princep)",
+      "region": "Mallorca",
+      "neighborhood": "La Calatrava, Palma",
+      "type": "Cocktail Bar",
+      "emoji": "🍸",
+      "description": "The rooftop at Es Princep on the old city wall — per Manus the strongest pure panorama in walkable Palma: sea, bay and Cathedral in one sweep, 17 minutes on foot (near DINS Santi Taura). Terrace runs from 10:30 to sunset with drinks/music later — use it as a golden-hour aperitif on a flexible evening rather than a dinner anchor.",
+      "cost_range": "$$$",
+      "address": "Carrer de Bala Roja, 1, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.5656525,
+      "longitude": 2.6552605,
+      "google_map": "https://www.google.com/maps/search/ALMAQ%20Rooftop%20%28Es%20Princep%29%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#almaq-rooftop-es-princep",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rooftop note: 'strongest pure panorama of the sea, bay and Cathedral,' 17-min walk; terrace hours 10:30–sunset with later drinks — better as an earlier aperitif than a Sunday dinner dependency."
+        },
+        {
+          "source": "ALMAQ at Es Princep (official)",
+          "url": "https://www.esprincep.com/en/eat-and-drink/almaq",
+          "date": "2026-08-26",
+          "note": "Official page and hours."
+        }
+      ],
+      "rating": 3,
+      "tags": "aperitif, cathedral-views, panorama, rooftop, sunset",
+      "source_rating_raw": null,
+      "geocode_query": "ALMAQ rooftop, Es Princep hotel, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "CUIT (Nakar Hotel)",
+      "region": "Mallorca",
+      "neighborhood": "Jaume III, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🍸",
+      "description": "Rooftop restaurant at the Nakar Hotel on Jaume III with city-and-bay views (by Miquel Calent). Schedule caveat that matters for this trip: the restaurant runs Monday–Saturday — Sundays it's the rooftop BAR only. A candidate for a weeknight dinner or drinks, not the Sep 6 Sunday slot.",
+      "cost_range": "$$$$",
+      "address": "Hotel Nakar, Av. de Jaume III, 21, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5722523,
+      "longitude": 2.6433895,
+      "google_map": "https://www.google.com/maps/search/CUIT%20%28Nakar%20Hotel%29%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cuit-nakar-hotel",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Excellent city/bay views, but official schedule lists the restaurant Mon–Sat; only the rooftop bar operates Sunday evening — do not book as the Sep 6 dinner."
+        },
+        {
+          "source": "CUIT at Nakar (official)",
+          "url": "https://nakarhotel.com/cuit-restaurant/",
+          "date": "2026-08-26",
+          "note": "Official opening hours."
+        }
+      ],
+      "rating": 3,
+      "tags": "city-views, not-sunday, rooftop, walkable",
+      "source_rating_raw": null,
+      "geocode_query": "CUIT restaurant, Nakar Hotel, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ca n'Eduardo",
+      "region": "Mallorca",
+      "neighborhood": "Moll de Pescadors, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🦞",
+      "description": "80-year-old seafood institution sitting directly above the fish auction at Palma's fishing pier — the catch comes upstairs from the boats below. Rooftop terrace looks across the harbor to the cathedral. Order the lobster paella or whatever the lonja landed. Kitchen runs continuously 1–10 PM, so it works for an early dinner; a 15-minute seafront walk from the Palma Riad — the only view-dinner in Palma that needs no taxi. Manus's executive pick for the Sep 6 Sunday dinner: verified Sunday service with the kitchen continuous to 10 PM, a verified 13-minute walk from the Riad, and the advice to book 8:30–8:45 PM requesting an exterior table facing the fishing harbor and Cathedral. Chelsea-flexible beyond seafood too: cod, shellfish and vegetable paellas plus a free-range-chicken rice.",
+      "cost_range": "$$$$",
+      "address": "Carrer Contramuelle Mollet, 3, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5684507,
+      "longitude": 2.6406613,
+      "google_map": "https://www.google.com/maps/search/Ca%20n%27Eduardo%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ca-n-eduardo",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Executive recommendation for Sunday Sep 6: reserve 8:30/8:45 PM, request exterior table facing harbor + Cathedral; Sunday kitchen continuous to 22:00; 13-min walk verified. Menu incl. cod/shellfish/vegetable paellas and free-range-chicken rice."
+        }
+      ],
+      "rating": 4,
+      "tags": "book-exterior-table, cathedral-views, harbor, institution, paella, rooftop-terrace, seafood, sunday-verified, walkable",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Forn de Sant Joan",
+      "region": "Mallorca",
+      "neighborhood": "Palma Centre",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Traditional Spanish restaurant in central Palma. SheerLuxe's Editor-in-Chief called it her \"absolute favorite restaurant on the island.\" Single-source but an unambiguous superlative; the best dinner candidate for a Palma night. Manus's Sunday report ranks it the strongest food-first indoor fallback (open daily, Sunday dinner 19:00–23:30): scallop, ceviche, salmon, tuna, prawns, lobster pasta, turbot, monkfish, sea bass and vegetable dishes in the atmospheric 19th-century former bakery in La Lonja.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sant Joan, 4, Centre, 07012 Palma, Illes Balears, Spain",
+      "latitude": 39.5688868,
+      "longitude": 2.6449578,
+      "google_map": "https://www.google.com/maps/search/Forn%20de%20Sant%20Joan%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#forn-de-sant-joan",
+      "references": [
+        {
+          "source": "Manus (Sunday dinner with a view report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Rank 10: strongest food-first indoor fallback — historic bakery ambience, broad seafood menu; Sunday dinner 19:00–23:30."
+        },
+        {
+          "source": "Forn de Sant Joan (official)",
+          "url": "https://fornprojects.com/en/restaurant/forn/",
+          "date": "2026-08-26",
+          "note": "Official menu and hours."
+        }
+      ],
+      "rating": 4,
+      "tags": "dinner, indoor, sunday-verified, palma, tapas, traditional",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

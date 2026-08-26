@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_manus-palma-sunday-dinner-views*
 
-*303 venues · 515 sources*
+*312 venues · 536 sources*
 
 ---
 
@@ -457,14 +457,16 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Moll de Pescadors, Palma · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
 
-[Google Maps](https://www.google.com/maps/search/Ca+n%27Eduardo%2C+Palma%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Ca%20n%27Eduardo%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Claude (traditional-with-views research chat)** · 2026-08-24 · [link](https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a)
   - 80-year institution on top of the fish auction; lobster paella + market fish; terrace across the harbor to the cathedral; continuous kitchen 1–10 PM.
 - **Ca n'Eduardo (official site)** · 2026-08-24 · [link](https://www.caneduardo.com/en/)
   - Seafront by the fishing port; rooftop terrace over harbor, marina and cathedral; fish and shellfish direct from the auction rooms below; lobster paella the specialty.
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Executive recommendation for Sunday Sep 6: reserve 8:30/8:45 PM, request exterior table facing harbor + Cathedral; Sunday kitchen continuous to 22:00; 13-min walk verified. Menu incl. cod/shellfish/vegetable paellas and free-range-chicken rice.
 
 ---
 
@@ -966,6 +968,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="el-patio-de-gloria" name="el-patio-de-gloria"></a>
+
+## 🍋 El Patio de Glòria
+
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/El%20Patio%20de%20Gl%C3%B2ria%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rank 3 / strongest contingency and 'arguably the most romantic option': 3 minutes from the hotel; menu includes tuna, scallops, octopus, cod, turbot, seafood rice, vegetable fideuà, pumpkin ravioli. Sunday 19:00–22:30.
+- **El Patio de Glòria (official)** · 2026-08-26 · [link](https://elpatiodegloria.com/en/menu/)
+  - Official 2026 menu and opening hours.
+
+---
+
 <a id="el-perrito" name="el-perrito"></a>
 
 ## ☕ El Perrito
@@ -1074,10 +1093,14 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Palma Centre · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$
 
-[Google Maps](https://www.google.com/maps/search/Forn+de+Sant+Joan%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Forn%20de%20Sant%20Joan%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (1)
+### Sources (3)
 
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rank 10: strongest food-first indoor fallback — historic bakery ambience, broad seafood menu; Sunday dinner 19:00–23:30.
+- **Forn de Sant Joan (official)** · 2026-08-26 · [link](https://fornprojects.com/en/restaurant/forn/)
+  - Official menu and hours.
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - "Absolute favorite restaurant on the island" — traditional Spanish in central Palma. 5/5.
 
@@ -2139,6 +2162,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="almaq-rooftop-es-princep" name="almaq-rooftop-es-princep"></a>
+
+## 🍸 ALMAQ Rooftop (Es Princep)
+
+**Region:** Mallorca · **Neighborhood:** La Calatrava, Palma · **Type:** Cocktail Bar · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/ALMAQ%20Rooftop%20%28Es%20Princep%29%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rooftop note: 'strongest pure panorama of the sea, bay and Cathedral,' 17-min walk; terrace hours 10:30–sunset with later drinks — better as an earlier aperitif than a Sunday dinner dependency.
+- **ALMAQ at Es Princep (official)** · 2026-08-26 · [link](https://www.esprincep.com/en/eat-and-drink/almaq)
+  - Official page and hours.
+
+---
+
 <a id="arab-baths-banys-arabs" name="arab-baths-banys-arabs"></a>
 
 ## 🏛️ Arab Baths (Banys Àrabs)
@@ -2558,6 +2598,23 @@ Each section is linked from that tab's `References` column.
 
 - **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Local citrus or almond ice cream on the main square — excellent spontaneity.
+
+---
+
+<a id="caballito-de-mar" name="caballito-de-mar"></a>
+
+## 🐟 Caballito de Mar
+
+**Region:** Mallorca · **Neighborhood:** La Lonja, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Caballito%20de%20Mar%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rank 2: verified 9-minute walk; Mediterranean fish, seafood, rice and shareable dishes beside the marina; daily dinner kitchen 19:00–22:30.
+- **Caballito de Mar (official)** · 2026-08-26 · [link](https://caballitodemar.com/en/)
+  - Official site.
 
 ---
 
@@ -3086,6 +3143,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cuit-nakar-hotel" name="cuit-nakar-hotel"></a>
+
+## 🍸 CUIT (Nakar Hotel)
+
+**Region:** Mallorca · **Neighborhood:** Jaume III, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/CUIT%20%28Nakar%20Hotel%29%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Excellent city/bay views, but official schedule lists the restaurant Mon–Sat; only the rooftop bar operates Sunday evening — do not book as the Sep 6 dinner.
+- **CUIT at Nakar (official)** · 2026-08-26 · [link](https://nakarhotel.com/cuit-restaurant/)
+  - Official opening hours.
+
+---
+
 <a id="dali-house-museum-portlligat" name="dali-house-museum-portlligat"></a>
 
 ## 🎨 Dalí House-Museum (Portlligat)
@@ -3098,6 +3172,23 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
   - Day 5: 'a surrealist experience in his former home.'
+
+---
+
+<a id="de-tokio-a-lima" name="de-tokio-a-lima"></a>
+
+## 🍣 De Tokio a Lima
+
+**Region:** Mallorca · **Neighborhood:** Passeig des Born, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/De%20Tokio%20a%20Lima%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rank 6: excellent terrace over Paseo del Borne; Mediterranean–Japanese–Peruvian; strong seafood/vegetable choices; confirm exact Sunday inventory.
+- **De Tokio a Lima (official)** · 2026-08-26 · [link](https://detokioalima.com/palma/)
+  - Official site.
 
 ---
 
@@ -3786,6 +3877,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="mar-de-nudos" name="mar-de-nudos"></a>
+
+## 🛥️ Mar de Nudos
+
+**Region:** Mallorca · **Neighborhood:** Moll Vell, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Mar%20de%20Nudos%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rank 8: stylish marina terrace, seafood-heavy Med + Japanese menu, daily until 1:00 AM; scene-driven rather than traditional Mallorcan.
+- **Mar de Nudos (official)** · 2026-08-26 · [link](https://www.mardenudos.com/)
+  - Official site.
+
+---
+
 <a id="mas-generos" name="mas-generos"></a>
 
 ## 🍽️ Mas Generós
@@ -3954,6 +4062,23 @@ Each section is linked from that tab's `References` column.
 
 - **Manus (Deià pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Handmade furniture, fashion, accessories; 'Island Born' Balearic-brands room; Lost in Beauty wellness lab for walk-in treatments.
+
+---
+
+<a id="ombu-born" name="ombu-born"></a>
+
+## 🍢 OMBU Born
+
+**Region:** Mallorca · **Neighborhood:** Passeig des Born, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/OMBU%20Born%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rank 9: excellent people-watching on the Born; flexible menu of tuna, scallop, prawns, squid, octopus, salmon, tofu, aubergine, burrata. Sunday 18:30–23:30.
+- **OMBU Born (official)** · 2026-08-26 · [link](https://fornprojects.com/en/restaurant/ombu-born/)
+  - Official menu and hours.
 
 ---
 
@@ -4326,6 +4451,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="quadrat-restaurant-garden" name="quadrat-restaurant-garden"></a>
+
+## 🌿 Quadrat Restaurant & Garden
+
+**Region:** Mallorca · **Neighborhood:** Plaça Sant Francesc, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Quadrat%20Restaurant%20%26%20Garden%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rank 5: relaxed local and Mediterranean cooking in one of Palma's prettiest hotel gardens; scenic but not waterfront, somewhat hotel-like. Sunday 19:00–22:30.
+- **Quadrat (official)** · 2026-08-26 · [link](https://hotelsantfrancesc.com/en/gastronomy/quadrat-restaurant/)
+  - Official page.
+
+---
+
 <a id="rafa-s" name="rafa-s"></a>
 
 ## 🐟 Rafa's
@@ -4368,6 +4510,23 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - In Santanyí, a beautiful, romantic courtyard and an exceptional wine list. Perfect for a high-end, relaxed dinner where you can just walk back to Can Ferrereta afterward.
+
+---
+
+<a id="restaurant-pesquero" name="restaurant-pesquero"></a>
+
+## ⚓ Restaurant Pesquero
+
+**Region:** Mallorca · **Neighborhood:** Moll de la Llotja, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Restaurant%20Pesquero%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sunday dinner with a view report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Rank 4: 'the most casual traditional-waterfront option' — dockside terrace facing fishing boats; fish, rice, fideuà, tumbet all Chelsea-friendly; dinner 18:00–22:00 daily.
+- **Restaurant Pesquero (official)** · 2026-08-26 · [link](https://www.restaurantpesquero.com/en-gb)
+  - Official site.
 
 ---
 
