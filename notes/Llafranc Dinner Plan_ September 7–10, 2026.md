@@ -1,8 +1,8 @@
 # Llafranc Dinner Plan: September 7–10, 2026
 
 **Prepared for Michael and Chelsea**  
-**Base:** Hotel Mas Pastora, Llafranc  
-**Already booked:** Casamar, Thursday September 10 at 8:30 p.m.
+**Base:** Hotel Mas Pastora, Llafranc ([📍 Map](https://www.google.com/maps/search/Hotel%20Mas%20Pastora%2C%20Llafranc%2C%20Spain))  
+**Already booked:** Casamar ([📍 Map](https://www.google.com/maps/search/Restaurant%20Casamar%2C%20Llafranc%2C%20Spain) · 🚶 10 min), Thursday September 10 at 8:30 p.m.
 
 ## Executive recommendation
 
@@ -23,6 +23,8 @@ This allocation gives you four distinct experiences: **Llafranc neighborhood res
 
 ### 1. La Blava — Calella de Palafrugell
 
+> [📍 Map](https://www.google.com/maps/search/La%20Blava%2C%20Calella%20de%20Palafrugell%2C%20Spain) · 🚶 24 min (flat) / 🚗 14 min
+
 **Best overall fit.** La Blava occupies a former fisherman’s house directly over Port Bo beach, beneath Calella’s traditional arches. Its cooking is explicitly rooted in the Empordà—vegetables, fish, rice and olive oil treated simply rather than theatrically.[1] The result is romantic and destination-worthy without feeling like another formal tasting-menu evening.
 
 Chelsea can eat extremely well here without working around the menu. The cuisine is seafood- and vegetable-led, with Pals rice and fish at the center. The official calendar currently shows dinner availability for two on **Monday, Tuesday and Wednesday**, including terrace and indoor tables.[2]
@@ -35,6 +37,8 @@ Chelsea can eat extremely well here without working around the menu. The cuisine
 
 ### 2. La Llagosta — Llafranc
 
+> [📍 Map](https://www.google.com/maps/search/Restaurant%20La%20Llagosta%2C%20Llafranc%2C%20Spain) · 🚶 8 min
+
 **Best arrival-night choice.** La Llagosta is a family-run waterfront restaurant descended from a local fishing family. It specializes in Palamós fish, shellfish, Pals rice, vegetables from its own garden and Empordà wine.[4] The exterior terrace and enclosed glass dining room both face the bay.
 
 Its great strategic advantage is location: it is only **seven minutes/500 m on foot from Mas Pastora**, on a mostly flat route.[5] You can check in, explore the promenade, return to the hotel and then walk to dinner without coordinating another car.
@@ -46,6 +50,8 @@ The restaurant is open for lunch and dinner daily in summer except Wednesday. It
 **Order direction:** Market fish, shellfish and a rice dish for two; tell the restaurant Chelsea does not eat red meat or duck.
 
 ### 3. Casa Juanita — Begur
+
+> [📍 Map](https://www.google.com/maps/search/Casa%20Juanita%2C%20Begur%2C%20Spain) · 🚗 19 min
 
 **Best authentic-food choice and best change of scenery.** Casa Juanita began in 1978 in a seventeenth-century building and still cooks local rock fish in its original holm-oak wood oven. The fish is prepared with potato, onion, tomato, garlic, parsley, white wine and olive oil—precisely the honest, deeply local food you are seeking.[8]
 
@@ -60,6 +66,8 @@ Casa Juanita is **closed Monday** and normally serves dinner Tuesday–Saturday.
 
 ### 4. El Balcó de Calella — Hotel Sant Roc
 
+> [📍 Map](https://www.google.com/maps/search/El%20Balc%C3%B3%20de%20Calella%2C%20Hotel%20Sant%20Roc%2C%20Spain) · 🚶 32 min (+50 m climb) / 🚗 14 min
+
 **Best panoramic view.** This is the strongest place to watch Calella’s coves and whitewashed village from above. The restaurant offers first-row interior balcony, outdoor pergola and garden tables beneath trees, with marine-oriented Mediterranean cooking.[9]
 
 The official calendar currently shows first-row sea-view availability on **Monday September 7 and Wednesday September 9**. It is **closed Tuesday September 8**.[10] Book the **8:00 p.m.** seating to preserve the last daylight and request the first row.
@@ -70,6 +78,8 @@ The official calendar currently shows first-row sea-view availability on **Monda
 **Caveat:** More polished and hotel-like than La Blava; choose it if the panorama matters more than being at water level.
 
 ### 5. Toc al Mar — Aiguablava
+
+> [📍 Map](https://www.google.com/maps/search/Toc%20al%20Mar%2C%20Aiguablava%2C%20Spain) · 🚗 15 min
 
 **Best literal beach setting and best wood-fired seafood.** Toc al Mar sits practically on the sand at Aiguablava in a former fishermen’s hut. It specializes in local wild fish, shellfish and seafood cooked over holm-oak wood; Michelin highlights its Catalan seafood cooking, terrace and view.[12] [13]
 
@@ -84,6 +94,8 @@ The official live calendar presently shows first-line heated-terrace availabilit
 
 ### 6. Sa Rascassa — Cala d’Aiguafreda
 
+> [📍 Map](https://www.google.com/maps/search/Hostal%20Sa%20Rascassa%2C%20Aiguafreda%2C%20Begur%2C%20Spain) · 🚗 26 min
+
 **Most intimate romantic escape.** Sa Rascassa is a tiny hostal restaurant hidden at Cala d’Aiguafreda. Its menu is Mediterranean and Catalan, led by fresh rock fish and rice, served in a tranquil garden/courtyard environment.[16] It does not offer the sweeping panorama of El Balcó, but its isolation and intimacy are extremely romantic.
 
 The official September calendar showed **Monday September 7 and Wednesday September 9 as bookable dates** and omitted Tuesday September 8, indicating Tuesday closure.[17] Independent reviews are strong: Tripadvisor displays approximately **4.4/5 from more than 500 restaurant reviews**, while hotel reviews repeatedly praise the quiet cove and food.[18]
@@ -93,6 +105,8 @@ The official September calendar showed **Monday September 7 and Wednesday Septem
 **Best date:** Wednesday if you want a deeply romantic, tucked-away evening rather than Calella’s energy.
 
 ### 7. Sol i Mar — Calella de Palafrugell
+
+> [📍 Map](https://www.google.com/maps/search/Sol%20i%20Mar%2C%20Calella%20de%20Palafrugell%2C%20Spain) · 🚶 24 min / 🚗 14 min
 
 **Best straightforward waterfront backup.** Sol i Mar has a small exterior terrace directly on Calella’s promenade and an interior dining room with good sea views. It serves traditional seafood and Mediterranean food in a simpler, less design-forward format than La Blava.[20]
 
@@ -104,6 +118,8 @@ From May through September it is open Tuesday–Sunday from 11:00 a.m.–11:00 p
 
 ### 8. El Far Restaurant — Sant Sebastià lighthouse
 
+> [📍 Map](https://www.google.com/maps/search/Hotel%20El%20Far%2C%20Far%20de%20Sant%20Sebasti%C3%A0%2C%20Llafranc%2C%20Spain) · 🚶 26 min uphill / 🚗 8 min
+
 **Best traditional restaurant with a dramatic elevated view.** El Far’s terrace sits beside the Sant Sebastià lighthouse, about 175 m above the sea. Its menu emphasizes Mediterranean rice, Palamós fish and shellfish and local produce.[22]
 
 Its 2026 schedule shows dinner service on **Monday September 7 and Wednesday September 9**, while it becomes **closed Tuesday beginning September 8**.[22]
@@ -114,6 +130,8 @@ Its 2026 schedule shows dinner service on **Monday September 7 and Wednesday Sep
 
 ### 9. Far Nomo — Sant Sebastià lighthouse
 
+> [📍 Map](https://www.google.com/maps/search/Far%20Nomo%2C%20Llafranc%2C%20Spain) · 🚶 25 min uphill / 🚗 8 min
+
 **Best non-Catalan change of pace.** Far Nomo pairs a dramatic lighthouse/cliff setting with Japanese-Mediterranean food. Chelsea has abundant choices: shrimp and vegetable gyoza, miso eggplant, tuna/salmon/red-mullet raw dishes, seafood noodles, shrimp tempura, grilled octopus, chicken kara-age, sushi and vegetarian rolls.[23]
 
 **Best date:** Any date subject to Resy availability.  
@@ -121,6 +139,8 @@ Its 2026 schedule shows dinner service on **Monday September 7 and Wednesday Sep
 **Caveat:** Avoid foie/duck and meat-based dishes; this does not meet the “traditional Costa Brava food” brief as closely as the restaurants ranked above.
 
 ### 10. Sa Jambina — Palafrugell town
+
+> [📍 Map](https://www.google.com/maps/search/Restaurant%20Sa%20Jambina%2C%20Palafrugell%2C%20Spain) · 🚗 9 min
 
 **Best food-first alternative.** Michelin-selected Sa Jambina has moved to Palafrugell and now serves elegant, unshowy fish-focused cuisine built around market fish, Mediterranean shellfish, red-prawn tartare and whole baked fish.[24] It is the strongest pure culinary option on this list after Casamar, but it does not have an ocean view and is slightly more polished than your stated target.
 
@@ -131,19 +151,23 @@ The official booking flow showed **Wednesday September 9 availability at 8:30, 9
 
 ### 11. Tragamar — Calella de Palafrugell
 
+> [📍 Map](https://www.google.com/maps/search/Tragamar%2C%20Calella%20de%20Palafrugell%2C%20Spain) · 🚶 21 min / 🚗 14 min
+
 **Best stylish water-level alternative with mixed execution feedback.** Tragamar sits on Canadell beach and offers an appealing Chelsea-compatible menu: fish-and-prawn croquettes, cod, garlic prawns, mussels, tuna and amberjack crudo, seafood rice, baby cuttlefish, sardines, Palamós prawns, whole wild fish, lemon chicken and vegetable dishes.[26]
 
 The look and location are excellent; reviews praise the setting more consistently than the execution and value. Exact September 7–9 hours could not be verified through a functioning primary booking source, so call before relying on it.
 
 ### 12. Terrassa Terramar — Llafranc
 
+> [📍 Map](https://www.google.com/maps/search/Hotel%20Terramar%2C%20Llafranc%2C%20Spain) · 🚶 6 min
+
 **Best easy beachfront hotel-terrace backup.** Terrassa Terramar sits on Llafranc’s promenade with direct bay views and serves Mediterranean/Empordà food.[27] It is convenient and scenic, but the exact September 7–9 calendar was unstable during verification. Treat it as a hotel-concierge backup rather than your first booking.
 
 ### Spontaneous-only backups
 
-**Calau** is the lively Calella pincho bar for a no-reservation night, but seasonal opening information is inconsistent and Tuesday closure is commonly reported. It is intentionally casual and should remain a spontaneous option rather than an anchor reservation.
+**Calau** ([📍 Map](https://www.google.com/maps/search/Calau%2C%20Costa%20Brava%2C%20Spain) · 🚶 24 min / 🚗 13 min) is the lively Calella pincho bar for a no-reservation night, but seasonal opening information is inconsistent and Tuesday closure is commonly reported. It is intentionally casual and should remain a spontaneous option rather than an anchor reservation.
 
-**Isabella’s Llafranc** is directly on the beach and open daily for dinner, with Italian/Mediterranean food and handmade pasta.[28] The setting is strong, but independent review sentiment is mixed enough that it should be a convenience fallback rather than one of your three planned dinners.
+**Isabella’s Llafranc** ([📍 Map](https://www.google.com/maps/search/Isabella%E2%80%99s%2C%20Llafranc%2C%20Spain) · 🚶 7 min) is directly on the beach and open daily for dinner, with Italian/Mediterranean food and handmade pasta.[28] The setting is strong, but independent review sentiment is mixed enough that it should be a convenience fallback rather than one of your three planned dinners.
 
 ---
 
