@@ -9,7 +9,7 @@ Each section is linked from that tab's `References` column.
 
 *Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note*
 
-*327 venues · 590 sources*
+*327 venues · 591 sources*
 
 ---
 
@@ -2102,12 +2102,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Tourist+Service%2C+Llafranc%2C+Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Thursday Sep 10 chill-day note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md)
   - The keystone of the choose-your-energy day: kayak/SUP walk-up rentals, the €50 guided kayak+snorkel (best adventure-to-effort ratio), €275 two-hour private boat, and taxi-boat returns. Save the number; call the morning of.
 - **Tourist Service (official)** · 2026-08-26 · [link](https://www.touristservice.es/en/kayak-excursions/)
   - Published rates: kayaks (single €20/35/45, double €30/50/70 for 1/2/4 h), SUP €20/35/45, guided kayak+snorkel €50 pp ~2.5 h, private boat €175–475 (1–4 h).
+- **Tourist Service (official homepage)** · 2026-08-27 · [link](https://www.touristservice.es/en/home-2-english/)
+  - Official site confirming the operation and address: C/ Cypsela 1, 17211 Llafranc.
 
 ---
 

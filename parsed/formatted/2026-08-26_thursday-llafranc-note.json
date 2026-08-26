@@ -12,7 +12,7 @@
       "emoji": "🛶",
       "description": "The Llafranc waterfront activity hub, a ~4-minute walk from Mas Pastora — kayak and SUP rental (double kayak €30/1h, €50/2h; SUP €20/1h), a guided kayak-and-snorkel excursion (€50 pp, ~2.5 h, gear + underwater photos included, routes to El Golfet, Cala Pedrosa and the Tobacco Cave), private skippered boats (€175/1h to €475/4h for 2–5 guests) and a taxi boat — the elegant return leg for a one-way Tamariu hike. The single most useful contact of the chill-day menu: call after breakfast, decide by weather and energy. +34 696 02 72 03 · info@touristservice.es.",
       "cost_range": "$$",
-      "address": "Passeig de Cipsela, 1, 17211 Llafranc, Girona, Spain",
+      "address": "C/ Cypsela 1 (Passeig de Cipsela), 17211 Llafranc, Girona, Spain",
       "latitude": 41.894236,
       "longitude": 3.19392,
       "google_map": "https://www.google.com/maps/search/Tourist+Service%2C+Llafranc%2C+Spain",
@@ -29,6 +29,12 @@
           "url": "https://www.touristservice.es/en/kayak-excursions/",
           "date": "2026-08-26",
           "note": "Published rates: kayaks (single €20/35/45, double €30/50/70 for 1/2/4 h), SUP €20/35/45, guided kayak+snorkel €50 pp ~2.5 h, private boat €175–475 (1–4 h)."
+        },
+        {
+          "source": "Tourist Service (official homepage)",
+          "url": "https://www.touristservice.es/en/home-2-english/",
+          "date": "2026-08-27",
+          "note": "Official site confirming the operation and address: C/ Cypsela 1, 17211 Llafranc."
         }
       ],
       "rating": 4,

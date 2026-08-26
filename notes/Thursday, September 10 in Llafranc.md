@@ -7,7 +7,7 @@
 
 ## The short answer
 
-Do **not** formally schedule this day. Your location makes it unusually easy to decide after breakfast. Hotel Mas Pastora is approximately a five-minute, mostly flat walk from the Llafranc waterfront and **Tourist Service** ([📍 Map](https://www.google.com/maps/search/Tourist%20Service%2C%20Passeig%20de%20Cipsela%201%2C%20Llafranc%2C%20Spain) · 🚶 6 min), the local kayak, paddleboard, taxi-boat and skippered-boat operator.[1] The three strongest spontaneous pivots are therefore:
+Do **not** formally schedule this day. Your location makes it unusually easy to decide after breakfast. Hotel Mas Pastora is approximately a five-minute, mostly flat walk from the Llafranc waterfront and **Tourist Service** ([📍 Map](https://www.google.com/maps/search/C%2F%20Cypsela%201%2C%2017211%20Llafranc%2C%20Girona%2C%20Spain) · [🌐 Website](https://www.touristservice.es/en/home-2-english/) · 🚶 6 min), the local kayak, paddleboard, taxi-boat and skippered-boat operator.[1] The three strongest spontaneous pivots are therefore:
 
 | How you feel | Best plan | Commitment |
 |---|---|---:|
@@ -53,7 +53,7 @@ A **double kayak for two hours** is the best unplanned option: enough time to pa
 SUP rentals are €20 for one hour, €35 for two hours and €45 for four hours. The operator suggests paddling south toward Calella and El Golfet ([📍 Map](https://www.google.com/maps/search/Platja%20del%20Golfet%2C%20Calella%20de%20Palafrugell%2C%20Spain)) or north toward openings in the cliffs, but SUP range is naturally shorter than kayak range.[4]
 
 **Reservation:** Walk-up may be possible, but call after breakfast to protect against limited September staffing or sea conditions.  
-**Contact:** Tourist Service, +34 696 02 72 03; info@touristservice.es.  
+**Contact:** Tourist Service, +34 696 02 72 03; info@touristservice.es. · [🌐 touristservice.es](https://www.touristservice.es/en/home-2-english/) · [📍 C/ Cypsela 1, 17211 Llafranc](https://www.google.com/maps/search/C%2F%20Cypsela%201%2C%2017211%20Llafranc%2C%20Girona%2C%20Spain)  
 **Best timing:** Before noon, when the sea is generally the most comfortable.  
 **Bring:** Swimsuit, water, sun protection, towel and shoes/sandals that can get wet.
 
@@ -178,7 +178,7 @@ Drive to Begur, walk to the castle and browse the old town. Return toward Llafra
 
 ## My recommendation
 
-Preserve September 10 as unstructured, but save **Tourist Service (+34 696 02 72 03)** in your phone. On the morning itself, choose between beach-only, a two-hour double kayak or the guided kayak-and-snorkel outing according to weather and energy. If the sea is unappealing, drive 16 minutes to Begur. That gives you four excellent day shapes without pre-committing your final day.
+Preserve September 10 as unstructured, but save **Tourist Service (+34 696 02 72 03 · [🌐 Website](https://www.touristservice.es/en/home-2-english/))** in your phone. On the morning itself, choose between beach-only, a two-hour double kayak or the guided kayak-and-snorkel outing according to weather and energy. If the sea is unappealing, drive 16 minutes to Begur. That gives you four excellent day shapes without pre-committing your final day.
 
 ## References
 
