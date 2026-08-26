@@ -12,7 +12,7 @@ The current official railway timetable shows Palma departures at **10:10 a.m. an
 
 | Time | Recommended flow | Why it works |
 |---|---|---|
-| **9:30 a.m.** | Arrive at Palma’s Sóller railway station and buy a train-only return ticket | Train-only tickets are sold at the station on the day; the online product is for the combined train-and-tram trip.[1][2] |
+| **9:30 a.m.** | Arrive at Palma’s Sóller railway station ([📍 Map](https://www.google.com/maps/search/Ferrocarril%20de%20S%C3%B3ller%2C%20Palma%2C%20Spain)) and buy a train-only return ticket | Train-only tickets are sold at the station on the day; the online product is for the combined train-and-tram trip.[1][2] |
 | **10:10–11:10 a.m.** | Historic train Palma → Sóller | Earliest practical current departure and the best chance of reaching the market before peak congestion.[1] |
 | **11:10–11:25 a.m.** | Look into the free Picasso and Miró rooms inside Sóller station | You arrive directly at the gallery; it requires no detour or reservation.[3] |
 | **11:25 a.m.–1:00 p.m.** | Saturday market, food hall, Plaça de la Constitució and church exterior | This places the time-sensitive market before museums, cafés and walks.[4][5] |
@@ -23,7 +23,7 @@ The current official railway timetable shows Palma departures at **10:10 a.m. an
 
 ## Saturday market: where to spend your attention
 
-The **Mercat Municipal de Sóller** occupies its indoor hall at Plaça des Mercat and is reported open Monday through Saturday from 8:00 a.m. to 2:00 p.m. On Saturday, the weekly market spreads through Plaça de la Constitució and neighboring streets until approximately 2:00 p.m.[4][5] The atmosphere is the attraction, but quality is mixed: the strongest purchases are producer foods and identifiable crafts, while some outdoor stalls sell generic clothing and souvenirs.
+The **Mercat Municipal de Sóller** ([📍 Map](https://www.google.com/maps/search/Mercat%20Municipal%20de%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) occupies its indoor hall at Plaça des Mercat and is reported open Monday through Saturday from 8:00 a.m. to 2:00 p.m. On Saturday, the weekly market spreads through Plaça de la Constitució and neighboring streets until approximately 2:00 p.m.[4][5] The atmosphere is the attraction, but quality is mixed: the strongest purchases are producer foods and identifiable crafts, while some outdoor stalls sell generic clothing and souvenirs.
 
 | Seek out | Why it fits you | What to avoid |
 |---|---|---|
@@ -38,12 +38,12 @@ If you are hungry immediately, the market can replace a formal lunch: assemble o
 
 | Place | Best use | Setting and quality | Spontaneity |
 |---|---|---|---|
-| **Can Prunera Café & Wine Bar** | Best refined coffee or wine pause | Inside the museum’s sculpture garden; the café, boutique and garden can be visited without purchasing museum admission.[9][10] | **Excellent.** Walk in after the market. |
-| **Alameda Shop** | Specialty coffee, cake and tasteful browsing | Organic coffee, baked goods and a curated concept store at Carrer del Metge Maiol 2, just off Sa Lluna.[11] | **Excellent**, subject to a free table. |
-| **La Confiança** | Traditional pastry and historic interior | A long-running bakery on Carrer de sa Lluna, valued for its preserved decorative interior and ensaïmadas.[6] | **Good.** Best as takeaway if crowded. |
-| **Café Sóller** | Tram-and-church people-watching | The central-square terrace provides the iconic Sóller view; choose it for atmosphere, coffee or orange juice rather than a destination meal.[6] | **Excellent**, although tables turn slowly at peak time. |
-| **Ca’n Pau Gelats Artesans** | Local citrus or almond ice cream | Handmade ice cream, sorbet and slush on the main square; Sóller orange or almond is the move.[6] | **Excellent.** |
-| **Mister McCoy’s Island Ices** | Gelato plus natural wine | Small-batch ice cream and wine, with a balcony facing the railway approach.[6][12] | **Good**, if open and space is available. |
+| **Can Prunera Café & Wine Bar** ([📍 Map](https://www.google.com/maps/search/Can%20Prunera%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Best refined coffee or wine pause | Inside the museum’s sculpture garden; the café, boutique and garden can be visited without purchasing museum admission.[9][10] | **Excellent.** Walk in after the market. |
+| **Alameda Shop** ([📍 Map](https://www.google.com/maps/search/Alameda%20Shop%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Specialty coffee, cake and tasteful browsing | Organic coffee, baked goods and a curated concept store at Carrer del Metge Maiol 2, just off Sa Lluna.[11] | **Excellent**, subject to a free table. |
+| **La Confiança** ([📍 Map](https://www.google.com/maps/search/La%20Confian%C3%A7a%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Traditional pastry and historic interior | A long-running bakery on Carrer de sa Lluna, valued for its preserved decorative interior and ensaïmadas.[6] | **Good.** Best as takeaway if crowded. |
+| **Café Sóller** ([📍 Map](https://www.google.com/maps/search/Caf%C3%A9%20S%C3%B3ller%2C%20Pla%C3%A7a%20Constituci%C3%B3%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Tram-and-church people-watching | The central-square terrace provides the iconic Sóller view; choose it for atmosphere, coffee or orange juice rather than a destination meal.[6] | **Excellent**, although tables turn slowly at peak time. |
+| **Ca’n Pau Gelats Artesans** ([📍 Map](https://www.google.com/maps/search/Gelats%20Pau%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Local citrus or almond ice cream | Handmade ice cream, sorbet and slush on the main square; Sóller orange or almond is the move.[6] | **Excellent.** |
+| **Mister McCoy’s Island Ices** ([📍 Map](https://www.google.com/maps/search/Mister%20McCoy%E2%80%99s%20Island%20Ices%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Gelato plus natural wine | Small-batch ice cream and wine, with a balcony facing the railway approach.[6][12] | **Good**, if open and space is available. |
 
 **My café pick:** use **Can Prunera** rather than lingering in the busiest part of the main square. It gives you art, a garden and a drink in one stop, and feels more curated than the obvious terraces.
 
@@ -53,38 +53,38 @@ There is no honest way to guarantee a Saturday walk-in at Sóller’s better sma
 
 | Rank | Restaurant | Why it suits you | Saturday strategy |
 |---:|---|---|---|
-| **1** | **Pueblo** | A stylish seasonal bistro with local citrus, vegetables, grilled meat and cocktails; relaxed but elevated rather than formal.[6] | Current listings indicate Friday–Sunday lunch service. Try at noon or reserve if you want certainty. |
-| **2** | **Casa Álvaro** | Authentic Spanish cooking and wine, including tapas, paella, fideuà, croquettes and a small terrace. More traditional and flexible than Pueblo.[8] | Reported open daily for lunch and dinner; strong spontaneous fallback, but call if you need paella at a fixed time. |
-| **3** | **La Romaguera** | Contemporary sharing plates, aged steak and Mallorcan wine in a tucked-away street with a small terrace.[7] | Open for Saturday lunch according to its current operating profile, but its size makes a walk-in uncertain. |
-| **4** | **RE Organic** | Organic light meals, juices, vegetarian/vegan choices and organic wine, away from the central-square bustle.[6][12] | Best light-lunch fallback; verify the day’s opening hours while in town. |
+| **1** | **Pueblo** ([📍 Map](https://www.google.com/maps/search/Pueblo%20restaurant%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | A stylish seasonal bistro with local citrus, vegetables, grilled meat and cocktails; relaxed but elevated rather than formal.[6] | Current listings indicate Friday–Sunday lunch service. Try at noon or reserve if you want certainty. |
+| **2** | **Casa Álvaro** ([📍 Map](https://www.google.com/maps/search/Casa%20%C3%81lvaro%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Authentic Spanish cooking and wine, including tapas, paella, fideuà, croquettes and a small terrace. More traditional and flexible than Pueblo.[8] | Reported open daily for lunch and dinner; strong spontaneous fallback, but call if you need paella at a fixed time. |
+| **3** | **La Romaguera** ([📍 Map](https://www.google.com/maps/search/La%20Romaguera%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Contemporary sharing plates, aged steak and Mallorcan wine in a tucked-away street with a small terrace.[7] | Open for Saturday lunch according to its current operating profile, but its size makes a walk-in uncertain. |
+| **4** | **RE Organic** ([📍 Map](https://www.google.com/maps/search/RE%20Organic%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Organic light meals, juices, vegetarian/vegan choices and organic wine, away from the central-square bustle.[6][12] | Best light-lunch fallback; verify the day’s opening hours while in town. |
 | **5** | **Market grazing** | Most flexible and the best expression of Saturday Sóller | No reservation, no schedule pressure, and no mediocre table chosen out of desperation. |
 
-**Do not plan around Ca’n Pintxo on this visit.** Although it is one of Sóller’s better creative tapas restaurants, its current official schedule lists **Saturday as closed**.[13]
+**Do not plan around Ca’n Pintxo ([📍 Map](https://www.google.com/maps/search/Ca%E2%80%99n%20Pintxo%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) on this visit.** Although it is one of Sóller’s better creative tapas restaurants, its current official schedule lists **Saturday as closed**.[13]
 
 ## Shopping circuit: Carrer de sa Lluna
 
-Carrer de sa Lluna is Sóller’s principal pedestrian shopping lane and runs from Plaça de la Constitució toward Can Prunera.[3] The shops below are the strongest matches for local design, useful souvenirs and adult taste.
+Carrer de sa Lluna ([📍 Map](https://www.google.com/maps/search/Carrer%20de%20sa%20Lluna%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) is Sóller’s principal pedestrian shopping lane and runs from Plaça de la Constitució toward Can Prunera.[3] The shops below are the strongest matches for local design, useful souvenirs and adult taste.
 
 | Shop | What to look for | Saturday note |
 |---|---|---|
-| **ArteArtesania**, Sa Lluna 43 | Contemporary jewelry, ceramics, leather, glass, prints and small-format art by named makers | Official Saturday hours are **10:30 a.m.–2:00 p.m.** Make this a priority before lunch.[14] |
-| **Ben Calçat**, Sa Lluna 74 | Traditional Mallorcan shoes made in the workshop behind the store | Secondary current sources report Saturday morning opening; verify at the door.[15] |
-| **Alameda Shop**, Metge Maiol 2 | Design gifts, lifestyle objects, coffee and baked goods | An easy shopping-and-café combination.[11] |
-| **Casa Bel Boutique**, Sa Lluna 79 | Mediterranean dresses, separates, kimonos and crochet bags | The current boutique is confirmed at this address; check the posted Saturday hours.[16] |
-| **Fet a Sóller / local-product retailers** | Citrus preserves, olive oil, orange salt, honey, cosmetics and regional pantry goods | The company works with small Mallorcan producers and maintains a Sóller shop; confirm the current central location.[17] |
-| **Flor de Sal d’Es Trenc** | Mallorcan sea salt in useful, packable formats and complementary pantry goods | Better souvenir value than decorative clutter.[6] |
+| **ArteArtesania**, Sa Lluna 43 ([📍 Map](https://www.google.com/maps/search/ArteArtesania%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Contemporary jewelry, ceramics, leather, glass, prints and small-format art by named makers | Official Saturday hours are **10:30 a.m.–2:00 p.m.** Make this a priority before lunch.[14] |
+| **Ben Calçat**, Sa Lluna 74 ([📍 Map](https://www.google.com/maps/search/Ben%20Cal%C3%A7at%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Traditional Mallorcan shoes made in the workshop behind the store | Secondary current sources report Saturday morning opening; verify at the door.[15] |
+| **Alameda Shop**, Metge Maiol 2 ([📍 Map](https://www.google.com/maps/search/Alameda%20Shop%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Design gifts, lifestyle objects, coffee and baked goods | An easy shopping-and-café combination.[11] |
+| **Casa Bel Boutique**, Sa Lluna 79 ([📍 Map](https://www.google.com/maps/search/Casa%20Bel%20Boutique%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Mediterranean dresses, separates, kimonos and crochet bags | The current boutique is confirmed at this address; check the posted Saturday hours.[16] |
+| **Fet a Sóller / local-product retailers** ([📍 Map](https://www.google.com/maps/search/Fet%20a%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Citrus preserves, olive oil, orange salt, honey, cosmetics and regional pantry goods | The company works with small Mallorcan producers and maintains a Sóller shop; confirm the current central location.[17] |
+| **Flor de Sal d’Es Trenc** ([📍 Map](https://www.google.com/maps/search/Flor%20de%20Sal%20d%E2%80%99Es%20Trenc%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | Mallorcan sea salt in useful, packable formats and complementary pantry goods | Better souvenir value than decorative clutter.[6] |
 
-**Important closure:** Lluna52 makes attractive handmade jewelry, but its published Summer 2026 schedule lists **Saturday closed**, so do not build your shopping route around it.[18]
+**Important closure:** Lluna52 ([📍 Map](https://www.google.com/maps/search/Lluna52%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) makes attractive handmade jewelry, but its published Summer 2026 schedule lists **Saturday closed**, so do not build your shopping route around it.[18]
 
 ## Sights and attractions
 
 | Place | Time needed | Why it matters | Walk-in practicality |
 |---|---:|---|---|
-| **Sala Picasso & Sala Miró, Sóller station** | 15–25 min | Free permanent displays of 50 Picasso ceramics and 35 Miró engravings; the easiest high-value cultural stop of the day.[3] | **Excellent**—see it when you step off the train. |
-| **Plaça de la Constitució** | 15–30 min | Sóller’s social center, with the tram passing through and the mountains framing the square.[3] | **Excellent**, though busiest at midday. |
-| **Sant Bartomeu and Banc de Sóller façades** | 15–25 min | Joan Rubió, a Gaudí disciple, designed both striking Modernista façades.[3] | **Excellent.** Enter the church if open; otherwise the exterior is the essential view. |
-| **Can Prunera** | 60–90 min | Sóller’s finest Art Nouveau house, with original interiors, Modern and contemporary art, sculpture garden, café and shop.[9][10] | **Very good.** General admission is €11; no advance booking required for a self-guided visit.[9] |
-| **MUCBO Botanical Garden + Natural Sciences Museum** | 60–90 min | A quieter combination of endemic Balearic plants, geology, fossils and biodiversity.[19] | **Good if open.** Verify Saturday closing time before walking over. |
+| **Sala Picasso & Sala Miró, Sóller station** ([📍 Map](https://www.google.com/maps/search/Estaci%C3%B3%20de%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | 15–25 min | Free permanent displays of 50 Picasso ceramics and 35 Miró engravings; the easiest high-value cultural stop of the day.[3] | **Excellent**—see it when you step off the train. |
+| **Plaça de la Constitució** ([📍 Map](https://www.google.com/maps/search/Pla%C3%A7a%20de%20la%20Constituci%C3%B3%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | 15–30 min | Sóller’s social center, with the tram passing through and the mountains framing the square.[3] | **Excellent**, though busiest at midday. |
+| **Sant Bartomeu and Banc de Sóller façades** ([📍 Map](https://www.google.com/maps/search/Esgl%C3%A9sia%20de%20Sant%20Bartomeu%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | 15–25 min | Joan Rubió, a Gaudí disciple, designed both striking Modernista façades.[3] | **Excellent.** Enter the church if open; otherwise the exterior is the essential view. |
+| **Can Prunera** ([📍 Map](https://www.google.com/maps/search/Can%20Prunera%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | 60–90 min | Sóller’s finest Art Nouveau house, with original interiors, Modern and contemporary art, sculpture garden, café and shop.[9][10] | **Very good.** General admission is €11; no advance booking required for a self-guided visit.[9] |
+| **MUCBO Botanical Garden + Natural Sciences Museum** ([📍 Map](https://www.google.com/maps/search/Jard%C3%AD%20Bot%C3%A0nic%20de%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) | 60–90 min | A quieter combination of endemic Balearic plants, geology, fossils and biodiversity.[19] | **Good if open.** Verify Saturday closing time before walking over. |
 | **Carrer de sa Lluna and old-town lanes** | 30–75 min | Architecture, shops, bakeries and small details rather than a single attraction | **Ideal** for unstructured wandering. |
 
 Can Prunera’s detailed official spring–summer schedule lists Saturday opening from 10:00 a.m. into the evening, although different widgets on its site have displayed inconsistent closing times. Treat it as an afternoon option but check that day’s posted closing time.[9]
@@ -93,12 +93,12 @@ Can Prunera’s detailed official spring–summer schedule lists Saturday openin
 
 | Mood | Route | Time | Notes |
 |---|---|---:|---|
-| **Easy village-and-groves walk** | Sóller → **Biniaraix** → Sóller | 60–90 min with a drink | The official railway guide describes Biniaraix as roughly a 20-minute walk from the continuation of Sa Lluna through citrus gardens. This is the best short active option.[3] |
-| **A taste of the historic trail** | Sóller → Biniaraix → first section of **Barranc de Biniaraix** → return | 90–150 min | Walk only the opening dry-stone staircase and turn back; the full gorge is not a casual add-on in September heat.[3] |
-| **Substantial valley walk** | Sóller → Binibassí → Fornalutx → Biniaraix → Sóller | 2–3 hr | Beautiful but it should replace Can Prunera and most shopping, not be added to them.[6][12] |
-| **Hidden chapel walk** | Sóller → **Sa Capelleta** → Sóller | Roughly 1.5–2 hr | Peaceful and unusual, but less efficient than Biniaraix for a one-day visitor.[6] |
+| **Easy village-and-groves walk** | Sóller → **Biniaraix** ([📍 Map](https://www.google.com/maps/search/Biniaraix%2C%20Mallorca%2C%20Spain)) → Sóller | 60–90 min with a drink | The official railway guide describes Biniaraix as roughly a 20-minute walk from the continuation of Sa Lluna through citrus gardens. This is the best short active option.[3] |
+| **A taste of the historic trail** | Sóller → Biniaraix → first section of **Barranc de Biniaraix** ([📍 Map](https://www.google.com/maps/search/Barranc%20de%20Biniaraix%2C%20Mallorca%2C%20Spain)) → return | 90–150 min | Walk only the opening dry-stone staircase and turn back; the full gorge is not a casual add-on in September heat.[3] |
+| **Substantial valley walk** | Sóller → Binibassí ([📍 Map](https://www.google.com/maps/search/Binibass%C3%AD%2C%20Mallorca%2C%20Spain)) → Fornalutx ([📍 Map](https://www.google.com/maps/search/Fornalutx%2C%20Mallorca%2C%20Spain)) → Biniaraix → Sóller | 2–3 hr | Beautiful but it should replace Can Prunera and most shopping, not be added to them.[6][12] |
+| **Hidden chapel walk** | Sóller → **Sa Capelleta** ([📍 Map](https://www.google.com/maps/search/Sa%20Capelleta%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) → Sóller | Roughly 1.5–2 hr | Peaceful and unusual, but less efficient than Biniaraix for a one-day visitor.[6] |
 
-**Do not plan Ecovinyassa for Saturday.** The citrus farm’s official site says it opens Monday, Wednesday, Thursday and Friday only, and reservations are essential.[20]
+**Do not plan Ecovinyassa ([📍 Map](https://www.google.com/maps/search/Ecovinyassa%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)) for Saturday.** The citrus farm’s official site says it opens Monday, Wednesday, Thursday and Friday only, and reservations are essential.[20]
 
 ## Choose-your-mood shortcuts
 
