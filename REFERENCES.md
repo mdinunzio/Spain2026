@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_manus-palma-sunday-dinner-views*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views*
 
-*312 venues · 536 sources*
+*317 venues · 550 sources*
 
 ---
 
@@ -982,6 +982,23 @@ Each section is linked from that tab's `References` column.
   - Rank 3 / strongest contingency and 'arguably the most romantic option': 3 minutes from the hotel; menu includes tuna, scallops, octopus, cod, turbot, seafood rice, vegetable fideuà, pumpkin ravioli. Sunday 19:00–22:30.
 - **El Patio de Glòria (official)** · 2026-08-26 · [link](https://elpatiodegloria.com/en/menu/)
   - Official 2026 menu and opening hours.
+
+---
+
+<a id="el-pedro-pals" name="el-pedro-pals"></a>
+
+## 🥘 El Pedró (Pals)
+
+**Region:** Costa Brava · **Neighborhood:** Pals · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/El%20Pedr%C3%B3%20%28Pals%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Mas Oller Tue/Wed day-plan report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Best Tuesday choice: open Tue & Wed 13:00–15:30; a 13:15 reservation after the 11:00 tour leaves the afternoon for medieval Pals.
+- **El Pedró (official)** · 2026-08-26 · [link](https://elpedropals.com/en/home/)
+  - Official schedule and restaurant information.
 
 ---
 
@@ -2870,6 +2887,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="can-nau" name="can-nau"></a>
+
+## 🍽️ Can Nau
+
+**Region:** Costa Brava · **Neighborhood:** Peratallada · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Can%20Nau%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Mas Oller Tue/Wed day-plan report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Most casual/traditional Tuesday village option — 18th-century house, summer terrace; open Tuesday, closed Wednesday; confirm by phone (+34 972 63 40 35).
+- **Visit Peratallada — Can Nau** · 2026-08-26 · [link](https://www.visitperatallada.cat/en/venues/l/1014-can-nau--peratallada.html)
+  - Venue listing.
+
+---
+
 <a id="can-sophia" name="can-sophia"></a>
 
 ## 🍽️ Can Sophia
@@ -2899,6 +2933,23 @@ Each section is linked from that tab's `References` column.
   - Converted 19th-century family house; warm patio, great cocktails, DJ later. The local nightlife meeting point.
 - **Naturaki — best chill-out terraces on the Costa Brava (cited in Matt's guide)** · 2026-07-29 · [link](https://www.naturaki.com/en/blog/terraces-costa-brava/)
   - Naturaki's best chill-out terraces roundup.
+
+---
+
+<a id="candelaria-peratallada" name="candelaria-peratallada"></a>
+
+## 🍢 Candelaria (Peratallada)
+
+**Region:** Costa Brava · **Neighborhood:** Peratallada · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Candelaria%20%28Peratallada%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Mas Oller Tue/Wed day-plan report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Best Wednesday lunch + Peratallada combination: 13:00–15:00, then village until ~4:25, then the 5:00 tasting. Tuesday closed per live calendar.
+- **Candelaria (reservations)** · 2026-08-26 · [link](https://docandelaria.myrestoo.net/en/reservar)
+  - Official live reservation calendar.
 
 ---
 
@@ -3289,6 +3340,23 @@ Each section is linked from that tab's `References` column.
   - At Hotel Alga; Nicolazzi family since 1853; senyoret rice with prawns and cuttlefish in a garden by the pool; Catalan-only wine list. Book ~1 week ahead.
 - **Ara in English (cited in Matt's guide)** · 2026-07-29 · [link](https://en.ara.cat/food/the-best-kept-secret-of-calella-palafrugell-restaurant-with-more-history-than-many-museums_1_5723148.html)
   - Ara in English: 'Calella de Palafrugell's best-kept secret: a restaurant with more history than many museums.'
+
+---
+
+<a id="el-mas-mas-de-torrent" name="el-mas-mas-de-torrent"></a>
+
+## 🍽️ El Mas (Mas de Torrent)
+
+**Region:** Costa Brava · **Neighborhood:** Torrent (Baix Empordà) · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/El%20Mas%20%28Mas%20de%20Torrent%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Mas Oller Tue/Wed day-plan report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Most polished option, open for lunch both dates; 3 min from the winery — solves any Tuesday/Wednesday closure concern.
+- **Relais & Châteaux — El Mas** · 2026-08-26 · [link](https://www.relaischateaux.com/us/restaurant/el-mas/)
+  - Schedule and restaurant page.
 
 ---
 
@@ -3781,6 +3849,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-sala-de-l-isaac" name="la-sala-de-l-isaac"></a>
+
+## 🥘 La Sala de l'Isaac
+
+**Region:** Costa Brava · **Neighborhood:** Llofriu (nr. Mas Oller) · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/La%20Sala%20de%20l%27Isaac%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Mas Oller Tue/Wed day-plan report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Best Wednesday traditional lunch (13:00–15:00), 2 min from the winery; live calendar marks Tuesday closed.
+- **La Sala de l'Isaac (reservations)** · 2026-08-26 · [link](https://salaisaac.myrestoo.net/en/reservar)
+  - Official live reservation calendar.
+
+---
+
 <a id="la-trastienda" name="la-trastienda"></a>
 
 ## 🍢 La Trastienda
@@ -3917,10 +4002,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Mas%20Oller%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (3)
 
 - **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
   - Day 4: wine tasting at 'a beautiful vineyard in the countryside.'
+- **Manus (Mas Oller Tue/Wed day-plan report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Exact availability: Tue Sep 8 — English guided tour 11:00 + tastings 1:30/4:00/5:00; Wed Sep 9 — tastings 1:30/5:00 only. Guided visit ~90 min €26 incl. tasting and delicacies; terrace tasting 1 h €15.
+- **Mas Oller (official booking)** · 2026-08-26 · [link](https://www.masoller.cat/en/book-online)
+  - Official wine-tourism calendars.
 
 ---
 
@@ -5016,10 +5105,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Vicus%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (3)
 
 - **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
   - Day 4 dinner: 'a must-try for Catalan cuisine.'
+- **Manus (Mas Oller Tue/Wed day-plan report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Best Wednesday food-forward lunch: no Tuesday lunch; Wednesday ~13:30–15:15; pairs with the 5:00 tasting.
+- **Michelin Guide — Vicus** · 2026-08-26 · [link](https://guide.michelin.com/us/en/catalunya/pals/restaurant/vicus)
+  - Guide entry: contemporary takes on traditional Catalan cooking, rices for sharing.
 
 ---
 

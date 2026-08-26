@@ -1,0 +1,250 @@
+{
+  "batch": "2026-08-26_manus-mas-oller-day-plan",
+  "region": "Costa Brava",
+  "source_count": 1,
+  "venue_count": 7,
+  "locations": [
+    {
+      "name": "La Sala de l'Isaac",
+      "region": "Costa Brava",
+      "neighborhood": "Llofriu (nr. Mas Oller)",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Traditional Empordà dining room 2 minutes down the road from Mas Oller (15 from Mas Pastora) — regional cooking, grilled fish and seafood, and Pals rice; lunch 13:00–15:00. Schedule caveat that shaped the day plan: its live calendar shows TUESDAY CLOSED, Wednesday open — so it's the natural Wednesday pairing with the 5 PM terrace tasting, not the Tuesday tour day.",
+      "cost_range": "$$$",
+      "address": "Carrer Barceloneta, 44, 17124 Llofriu, Girona, Spain",
+      "latitude": 41.9383347,
+      "longitude": 3.1310559,
+      "google_map": "https://www.google.com/maps/search/La%20Sala%20de%20l%27Isaac%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-sala-de-l-isaac",
+      "references": [
+        {
+          "source": "Manus (Mas Oller Tue/Wed day-plan report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Best Wednesday traditional lunch (13:00–15:00), 2 min from the winery; live calendar marks Tuesday closed."
+        },
+        {
+          "source": "La Sala de l'Isaac (reservations)",
+          "url": "https://salaisaac.myrestoo.net/en/reservar",
+          "date": "2026-08-26",
+          "note": "Official live reservation calendar."
+        }
+      ],
+      "rating": 3,
+      "tags": "closed-tuesday, emporda, pals-rice, seafood, traditional",
+      "source_rating_raw": null,
+      "geocode_query": "La Sala de l'Isaac restaurant, Gi-652, Torrent, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Pedró (Pals)",
+      "region": "Costa Brava",
+      "neighborhood": "Pals",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Homemade Mediterranean cooking and Pals rice inside the medieval village — open for lunch Tuesday AND Wednesday (13:00–15:30), which makes it the designated post-tour lunch of the Tuesday Mas Oller plan: 11:00 English tour, 13:15 table here, then an hour wandering Pals's lanes. 7 minutes from the winery, 21 from Mas Pastora. Good regional food in a historic setting without another tasting-menu production.",
+      "cost_range": "$$$",
+      "address": "Carrer de les Placetes, 29, 17256 Pals, Girona, Spain",
+      "latitude": 41.971297,
+      "longitude": 3.143719,
+      "google_map": "https://www.google.com/maps/search/El%20Pedr%C3%B3%20%28Pals%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-pedro-pals",
+      "references": [
+        {
+          "source": "Manus (Mas Oller Tue/Wed day-plan report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Best Tuesday choice: open Tue & Wed 13:00–15:30; a 13:15 reservation after the 11:00 tour leaves the afternoon for medieval Pals."
+        },
+        {
+          "source": "El Pedró (official)",
+          "url": "https://elpedropals.com/en/home/",
+          "date": "2026-08-26",
+          "note": "Official schedule and restaurant information."
+        }
+      ],
+      "rating": 4,
+      "tags": "medieval-village, mediterranean, pals, pals-rice, tuesday-open",
+      "source_rating_raw": null,
+      "geocode_query": "El Pedro restaurant, Pals, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Can Nau",
+      "region": "Costa Brava",
+      "neighborhood": "Peratallada",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "Traditional Empordà cooking, seasonal dishes and Pals rice in an 18th-century rural house with a summer terrace in Peratallada — the casual, home-style Tuesday alternative if the stone village appeals more than Pals (open Tue ~noon–16:30, CLOSED Wednesday). Hours come from a local listing rather than a live calendar — confirm by phone before building the afternoon on it: +34 972 63 40 35. 11 minutes from the winery, 26 from Mas Pastora.",
+      "cost_range": "$$",
+      "address": "Plaça dels Esquiladors, 2, 17113 Peratallada, Girona, Spain",
+      "latitude": 41.9775935,
+      "longitude": 3.0893899,
+      "google_map": "https://www.google.com/maps/search/Can%20Nau%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#can-nau",
+      "references": [
+        {
+          "source": "Manus (Mas Oller Tue/Wed day-plan report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Most casual/traditional Tuesday village option — 18th-century house, summer terrace; open Tuesday, closed Wednesday; confirm by phone (+34 972 63 40 35)."
+        },
+        {
+          "source": "Visit Peratallada — Can Nau",
+          "url": "https://www.visitperatallada.cat/en/venues/l/1014-can-nau--peratallada.html",
+          "date": "2026-08-26",
+          "note": "Venue listing."
+        }
+      ],
+      "rating": 3,
+      "tags": "closed-wednesday, emporda, home-style, peratallada, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "Can Nau restaurant, Peratallada, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Candelaria (Peratallada)",
+      "region": "Costa Brava",
+      "neighborhood": "Peratallada",
+      "type": "Lunch Restaurant",
+      "emoji": "🍢",
+      "description": "Creative shared plates in an old stone house on Peratallada's Carrer Major — relaxed, design-conscious, and the anchor of the best Wednesday sightseeing sequence: 13:00 lunch, explore Peratallada until ~16:25, then the 12-minute drive to Mas Oller's 5 PM tasting. Live calendar: Tuesday CLOSED, Wednesday lunch 13:00–15:00. 11 minutes from the winery, 25 from Mas Pastora.",
+      "cost_range": "$$$",
+      "address": "Carrer Major, 9, 17113 Peratallada, Girona, Spain",
+      "latitude": 41.977579,
+      "longitude": 3.0905742,
+      "google_map": "https://www.google.com/maps/search/Candelaria%20%28Peratallada%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#candelaria-peratallada",
+      "references": [
+        {
+          "source": "Manus (Mas Oller Tue/Wed day-plan report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Best Wednesday lunch + Peratallada combination: 13:00–15:00, then village until ~4:25, then the 5:00 tasting. Tuesday closed per live calendar."
+        },
+        {
+          "source": "Candelaria (reservations)",
+          "url": "https://docandelaria.myrestoo.net/en/reservar",
+          "date": "2026-08-26",
+          "note": "Official live reservation calendar."
+        }
+      ],
+      "rating": 3,
+      "tags": "closed-tuesday, creative, peratallada, shared-plates, stone-house",
+      "source_rating_raw": null,
+      "geocode_query": "Candelaria restaurant, Peratallada, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Mas (Mas de Torrent)",
+      "region": "Costa Brava",
+      "neighborhood": "Torrent (Baix Empordà)",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "The restaurant of Relais & Châteaux Mas de Torrent, 3 minutes from Mas Oller — contemporary Catalan cooking with Empordà views from the farmhouse terrace. Open for lunch on BOTH Tuesday and Wednesday, making it the closure-proof polished option for either winery day; it will feel like a luxury-hotel meal rather than a village find, which is exactly its job as the reliable fallback. 19 minutes from Mas Pastora.",
+      "cost_range": "$$$$",
+      "address": "Mas de Torrent Hotel & Spa, Afueras de Torrent, S/N, 17123 Torrent, Girona, Spain",
+      "latitude": 41.954088,
+      "longitude": 3.1248033,
+      "google_map": "https://www.google.com/maps/search/El%20Mas%20%28Mas%20de%20Torrent%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-mas-mas-de-torrent",
+      "references": [
+        {
+          "source": "Manus (Mas Oller Tue/Wed day-plan report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Most polished option, open for lunch both dates; 3 min from the winery — solves any Tuesday/Wednesday closure concern."
+        },
+        {
+          "source": "Relais & Châteaux — El Mas",
+          "url": "https://www.relaischateaux.com/us/restaurant/el-mas/",
+          "date": "2026-08-26",
+          "note": "Schedule and restaurant page."
+        }
+      ],
+      "rating": 3,
+      "tags": "catalan, hotel-restaurant, polished, reliable, views",
+      "source_rating_raw": null,
+      "geocode_query": "El Mas restaurant, Mas de Torrent Hotel, Torrent, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mas Oller",
+      "region": "Costa Brava",
+      "neighborhood": "Torrent (Baix Empordà)",
+      "type": "Winery",
+      "emoji": "🍷",
+      "description": "Countryside vineyard in Torrent, minutes from Mas de Torrent and ~15 from Llafranc — DO Empordà wines (crisp whites, Garnacha-driven reds) with tastings among the vines. The close-to-base winery of the Costa Brava leg (Celler Perelada is the far-north alternative), and a natural fit for the slow Sep 10 afternoon. Availability verified for the trip week (checked Aug 26): the ENGLISH GUIDED TOUR runs Tuesday Sep 8 at 11:00 only (90 min, €26 pp, includes tasting and local delicacies); Wednesday Sep 9 offers terrace tastings only (€15 pp, 1 h) at 1:30 and 5:00 PM — book the 5:00 and avoid the lunch-conflicting 1:30. Sixteen minutes' drive from Mas Pastora; both guests tasting means a pre-booked car or taxi legs (Taxi Palafrugell 24, WhatsApp +34 624 583 129; hotel reception also arranges transfers).",
+      "cost_range": "$$",
+      "address": "Mas Oller s/n, Carretera, GI-652, Km.0, 230, 17123, Girona, Spain",
+      "latitude": 41.947824,
+      "longitude": 3.1255047,
+      "google_map": "https://www.google.com/maps/search/Mas%20Oller%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mas-oller",
+      "references": [
+        {
+          "source": "Manus (Mas Oller Tue/Wed day-plan report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Exact availability: Tue Sep 8 — English guided tour 11:00 + tastings 1:30/4:00/5:00; Wed Sep 9 — tastings 1:30/5:00 only. Guided visit ~90 min €26 incl. tasting and delicacies; terrace tasting 1 h €15."
+        },
+        {
+          "source": "Mas Oller (official booking)",
+          "url": "https://www.masoller.cat/en/book-online",
+          "date": "2026-08-26",
+          "note": "Official wine-tourism calendars."
+        }
+      ],
+      "rating": 3,
+      "tags": "availability-verified, book-online, emporda, tasting, tuesday-tour, vineyard, wine, winery",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Vicus",
+      "region": "Costa Brava",
+      "neighborhood": "Pals",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Contemporary Catalan cooking in Pals village — the itinerary reel's 'must-try for Catalan cuisine' dinner after a medieval-village wander. Joins Pahissa del Mas and Comedor Verdor in the Pals dinner cluster, 15 minutes from Llafranc. Day-plan detail for the winery week: NO Tuesday lunch service, but Wednesday lunch runs ~13:30–15:15 — a 1:30 table followed by the 5:00 Mas Oller tasting is the food-forward Wednesday sequence (4 minutes from the winery).",
+      "cost_range": "$$$",
+      "address": "Carrer Enginyer Algarra, 51, 17256 Pals, Girona, Spain",
+      "latitude": 41.9686464,
+      "longitude": 3.1486077,
+      "google_map": "https://www.google.com/maps/search/Vicus%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#vicus",
+      "references": [
+        {
+          "source": "Manus (Mas Oller Tue/Wed day-plan report)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-26",
+          "note": "Best Wednesday food-forward lunch: no Tuesday lunch; Wednesday ~13:30–15:15; pairs with the 5:00 tasting."
+        },
+        {
+          "source": "Michelin Guide — Vicus",
+          "url": "https://guide.michelin.com/us/en/catalunya/pals/restaurant/vicus",
+          "date": "2026-08-26",
+          "note": "Guide entry: contemporary takes on traditional Catalan cooking, rices for sharing."
+        }
+      ],
+      "rating": 3,
+      "tags": "catalan, dinner, no-tuesday-lunch, pals",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}
