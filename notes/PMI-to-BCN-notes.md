@@ -12,3 +12,5 @@ For the leg out of Palma, plan on:
 Hard cutoffs to know: gates typically close 20–30 minutes before departure on both carriers, and neither will hold the plane. Check in online the day before so you already have boarding passes and can skip the desk entirely with carry-on.
 
 Two things that shave real time at PMI: the airport sells a Fast Lane security pass for a few euros that's worth it on a summer Monday, and the terminal is big, so budget 10 minutes to walk to Module C/D gates where most domestic flights leave. On the BCN side, arrival is quick — you're out of Terminal 1 and into a taxi or the train within 15–20 minutes of landing, and it's about 1.5–2 hours by car to the Costa Brava from there.
+
+The ride from the Palma Riad to PMI takes about 12 minutes.
