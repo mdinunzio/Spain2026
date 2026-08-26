@@ -1,0 +1,114 @@
+{
+  "batch": "2026-08-26_chiringuitos-note-gaps",
+  "region": "Costa Brava",
+  "source_count": 1,
+  "venue_count": 3,
+  "locations": [
+    {
+      "name": "Cala Pedrosa",
+      "region": "Costa Brava",
+      "neighborhood": "Between Llafranc & Tamariu",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Spectacular unspoiled pebble cove halfway between Llafranc and Tamariu, reachable only by sea or by a steep ~800 m spur off the Camí de Ronda — which is exactly why it stays near-empty. The natural midpoint reward of the rugged Llafranc→Tamariu hike, and a prime anchor-drop candidate for a boat day. Its fishermen's-hut chiringuito (separate entry) is the reason to time a visit around lunch.",
+      "cost_range": "",
+      "address": "Cala Pedrosa, 17212 Tamariu, Palafrugell, Girona, Spain",
+      "latitude": 41.9079044,
+      "longitude": 3.2067625,
+      "google_map": "https://www.google.com/maps/search/Cala+Pedrosa%2C+Tamariu%2C+Girona%2C+Spain",
+      "references_anchor": "REFERENCES.md#cala-pedrosa",
+      "references": [
+        {
+          "source": "Costa Brava chiringuitos pocket note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/chiringuitos_costa_brava.md",
+          "date": "2026-08-26",
+          "note": "The 'adventure one' of the chiringuito roster — boat-or-footpath-only cove on the Llafranc→Tamariu hike; natural stop on the Sep 9 boat day or the big coastal walk."
+        },
+        {
+          "source": "Visit Palafrugell",
+          "url": "https://visitpalafrugell.cat/en/tamariu/beaches-from-tamariu/cala-pedrosa/",
+          "date": "2026-08-26",
+          "note": "Unspoilt pebble cove south of Tamariu, reachable by sea, the coastal path, or the road down to Tamariu."
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, boat-access, cove, hike-access, pebbles, secluded",
+      "source_rating_raw": null,
+      "geocode_query": "Cala Pedrosa, Tamariu, Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Chiringuito de Cala Pedrosa",
+      "region": "Costa Brava",
+      "neighborhood": "Cala Pedrosa (Llafranc–Tamariu path)",
+      "type": "Bar",
+      "emoji": "🥘",
+      "description": "An old fishermen's hut on the pebbles of boat-or-footpath-only Cala Pedrosa, run as a tiny bar-restaurant — omelettes, pa amb tomàquet, day-boat fish, salads and rice dishes cooked in the open air by the woman who runs it, at fair prices with warm, personal service. The single most 'only here' lunch of the Costa Brava leg: earn it via the Camí de Ronda hike from Llafranc (~45–60 min) or drop anchor on the boat day. Cash; seasonal and weather-dependent.",
+      "cost_range": "$$",
+      "address": "Cala Pedrosa, 17212 Tamariu, Palafrugell, Girona, Spain",
+      "latitude": 41.9079044,
+      "longitude": 3.2067625,
+      "google_map": "https://www.google.com/maps/search/Cala+Pedrosa%2C+Tamariu%2C+Girona%2C+Spain",
+      "references_anchor": "REFERENCES.md#chiringuito-de-cala-pedrosa",
+      "references": [
+        {
+          "source": "Costa Brava chiringuitos pocket note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/chiringuitos_costa_brava.md",
+          "date": "2026-08-26",
+          "note": "Star pick ⭐ of the chiringuito roster: fishermen's hut cooking open-air rice, omelettes and day-boat fish on a cove you can only reach by sea or the coastal path. Bring cash."
+        },
+        {
+          "source": "TripAdvisor",
+          "url": "https://www.tripadvisor.com/Restaurant_Review-g652128-d8605349-Reviews-Cala_Pedrosa-Tamariu_Palafrugell_Costa_Brava_Province_of_Girona_Catalonia.html",
+          "date": "2026-08-26",
+          "note": "Rustic Catalan hut adapted for hikers: fresh fish of the day, omelettes, salads, 'spectacular rice dishes cooked in the open air'; fideuà at fair prices, warm personalized attention."
+        }
+      ],
+      "rating": 4,
+      "tags": "cash-only, chiringuito, hidden-gem, hike-access, open-air-rice, seasonal",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": "Pinned at the cove itself — the hut sits on the beach; access on foot via a steep ~800 m spur from the Camí de Ronda, or by boat.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Platja de l'Illa Roja",
+      "region": "Costa Brava",
+      "neighborhood": "Begur–Pals coast",
+      "type": "Beach",
+      "emoji": "🏖️",
+      "description": "Sandy beach beneath the famous red-rock landmark between Sa Riera and Platja de Pals, reached from the Camí de Ronda — a star pick across four Instagram posts (historically nudist, mixed use today). Practical caveat for the Sep 7–11 week: its beloved seasonal chiringuito is a July–August operation and is usually gone by early September — bring water and don't plan a lunch around it.",
+      "cost_range": "",
+      "address": "Platja de l'Illa Roja, 17255 Begur, Girona, Spain",
+      "latitude": 41.977897,
+      "longitude": 3.210073,
+      "google_map": "https://www.google.com/maps/search/Platja+de+l%27Illa+Roja%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#platja-de-l-illa-roja",
+      "references": [
+        {
+          "source": "Costa Brava chiringuitos pocket note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/chiringuitos_costa_brava.md",
+          "date": "2026-08-26",
+          "note": "⚠️ The famous Illa Roja seasonal bar is a July–August operation — don't count on it during the Sep 7–11 stay."
+        },
+        {
+          "source": "Visit Costa Brava",
+          "url": "https://www.visitacostabrava.com/en/begur/what-to-visit/beaches-and-coves/illa-roja",
+          "date": "2026-08-26",
+          "note": "Secluded beach with no permanent restaurants; a seasonal beach bar usually sets up in summer but is not guaranteed outside July and August."
+        }
+      ],
+      "rating": 4,
+      "tags": "beach, cami-de-ronda, nudist, red-rock, scenic, seasonal-bar-jul-aug",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

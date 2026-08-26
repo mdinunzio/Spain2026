@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views*
 
-*317 venues · 550 sources*
+*319 venues · 556 sources*
 
 ---
 
@@ -519,6 +519,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="cala-pedrosa" name="cala-pedrosa"></a>
+
+## 🏖️ Cala Pedrosa
+
+**Region:** Costa Brava · **Neighborhood:** Between Llafranc & Tamariu · **Type:** Beach · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Cala+Pedrosa%2C+Tamariu%2C+Girona%2C+Spain)
+
+### Sources (2)
+
+- **Costa Brava chiringuitos pocket note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/chiringuitos_costa_brava.md)
+  - The 'adventure one' of the chiringuito roster — boat-or-footpath-only cove on the Llafranc→Tamariu hike; natural stop on the Sep 9 boat day or the big coastal walk.
+- **Visit Palafrugell** · 2026-08-26 · [link](https://visitpalafrugell.cat/en/tamariu/beaches-from-tamariu/cala-pedrosa/)
+  - Unspoilt pebble cove south of Tamariu, reachable by sea, the coastal path, or the road down to Tamariu.
+
+---
+
 <a id="cala-s-alguer" name="cala-s-alguer"></a>
 
 ## 🏖️ Cala s'Alguer
@@ -747,6 +764,25 @@ Each section is linked from that tab's `References` column.
   - Top special-occasion table: ex-Michelin-star (still Guide-listed), refined tasting menu ~€100pp, modern Catalan seafood, sunset views over the bay. Book 2–3 weeks ahead.
 - **Michelin Guide (cited in Matt's guide)** · 2026-07-29 · [link](https://guide.michelin.com/us/en/catalunya/llafranc/restaurant/casamar)
   - Michelin Guide entry for Casamar, Llafranc.
+
+---
+
+<a id="chiringuito-de-cala-pedrosa" name="chiringuito-de-cala-pedrosa"></a>
+
+## 🥘 Chiringuito de Cala Pedrosa
+
+**Region:** Costa Brava · **Neighborhood:** Cala Pedrosa (Llafranc–Tamariu path) · **Type:** Bar · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Cala+Pedrosa%2C+Tamariu%2C+Girona%2C+Spain)
+
+> ⚠️ **Approximate location** — Pinned at the cove itself — the hut sits on the beach; access on foot via a steep ~800 m spur from the Camí de Ronda, or by boat.
+
+### Sources (2)
+
+- **Costa Brava chiringuitos pocket note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/chiringuitos_costa_brava.md)
+  - Star pick ⭐ of the chiringuito roster: fishermen's hut cooking open-air rice, omelettes and day-boat fish on a cove you can only reach by sea or the coastal path. Bring cash.
+- **TripAdvisor** · 2026-08-26 · [link](https://www.tripadvisor.com/Restaurant_Review-g652128-d8605349-Reviews-Cala_Pedrosa-Tamariu_Palafrugell_Costa_Brava_Province_of_Girona_Catalonia.html)
+  - Rustic Catalan hut adapted for hikers: fresh fish of the day, omelettes, salads, 'spectacular rice dishes cooked in the open air'; fideuà at fair prices, warm personalized attention.
 
 ---
 
@@ -1588,9 +1624,9 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Begur–Pals coast · **Type:** Beach · **Rating:** 4/5
 
-[Google Maps](https://www.google.com/maps/search/Platja%20de%20l%27Illa%20Roja%2C%20Costa%20Brava%2C%20Spain)
+[Google Maps](https://www.google.com/maps/search/Platja+de+l%27Illa+Roja%2C+Costa+Brava%2C+Spain)
 
-### Sources (4)
+### Sources (6)
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - Star icon on the Begur beach list (nudist beach).
@@ -1600,6 +1636,10 @@ Each section is linked from that tab's `References` column.
   - One of the 9 places to visit — sandy beach with its famous red rock.
 - **Instagram — Iisa Hero — Solo & Adventure Travel (@heroiisa)** · 6,700 likes · [DVd0lgfDMHE](https://www.instagram.com/reel/DVd0lgfDMHE/)
   - Second Begur beach day: Illa Roja, shown with its massive reddish rock formation.
+- **Costa Brava chiringuitos pocket note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/chiringuitos_costa_brava.md)
+  - ⚠️ The famous Illa Roja seasonal bar is a July–August operation — don't count on it during the Sep 7–11 stay.
+- **Visit Costa Brava** · 2026-08-26 · [link](https://www.visitacostabrava.com/en/begur/what-to-visit/beaches-and-coves/illa-roja)
+  - Secluded beach with no permanent restaurants; a seasonal beach bar usually sets up in summer but is not guaranteed outside July and August.
 
 ---
 
