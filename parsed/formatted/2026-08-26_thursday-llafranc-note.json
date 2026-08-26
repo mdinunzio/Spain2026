@@ -1,0 +1,216 @@
+{
+  "batch": "2026-08-26_thursday-llafranc-note",
+  "region": "Costa Brava",
+  "source_count": 1,
+  "venue_count": 6,
+  "locations": [
+    {
+      "name": "Tourist Service (Llafranc)",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Activity",
+      "emoji": "🛶",
+      "description": "The Llafranc waterfront activity hub, a ~4-minute walk from Mas Pastora — kayak and SUP rental (double kayak €30/1h, €50/2h; SUP €20/1h), a guided kayak-and-snorkel excursion (€50 pp, ~2.5 h, gear + underwater photos included, routes to El Golfet, Cala Pedrosa and the Tobacco Cave), private skippered boats (€175/1h to €475/4h for 2–5 guests) and a taxi boat — the elegant return leg for a one-way Tamariu hike. The single most useful contact of the chill-day menu: call after breakfast, decide by weather and energy. +34 696 02 72 03 · info@touristservice.es.",
+      "cost_range": "$$",
+      "address": "Passeig de Cipsela, 1, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.894236,
+      "longitude": 3.19392,
+      "google_map": "https://www.google.com/maps/search/Tourist+Service%2C+Llafranc%2C+Spain",
+      "references_anchor": "REFERENCES.md#tourist-service-llafranc",
+      "references": [
+        {
+          "source": "Thursday Sep 10 chill-day note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md",
+          "date": "2026-08-26",
+          "note": "The keystone of the choose-your-energy day: kayak/SUP walk-up rentals, the €50 guided kayak+snorkel (best adventure-to-effort ratio), €275 two-hour private boat, and taxi-boat returns. Save the number; call the morning of."
+        },
+        {
+          "source": "Tourist Service (official)",
+          "url": "https://www.touristservice.es/en/kayak-excursions/",
+          "date": "2026-08-26",
+          "note": "Published rates: kayaks (single €20/35/45, double €30/50/70 for 1/2/4 h), SUP €20/35/45, guided kayak+snorkel €50 pp ~2.5 h, private boat €175–475 (1–4 h)."
+        }
+      ],
+      "rating": 4,
+      "tags": "boat-taxi, kayak, llafranc, snorkeling, sup, walk-up, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": "Tourist Service Llafranc kayak rental, Llafranc, Palafrugell, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Can Mario Museum & Cork Museum",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell (town)",
+      "type": "Museum",
+      "emoji": "🗿",
+      "description": "Contemporary Catalan sculpture museum (Fundació Vila Casas) in a former cork factory in Palafrugell — ~220 works plus outdoor sculpture, with the Cork Museum and climbable Modernista water tower in the same complex (views over Palafrugell and the Empordanet). The designated cloudy-day pivot of the Costa Brava leg: summer schedule Wed–Sun 11:00–19:30, €10; ten minutes by car from Llafranc, pairs with lunch or shopping in town.",
+      "cost_range": "$",
+      "address": "Plaça de Can Mario, 7, 17200 Palafrugell, Girona, Spain",
+      "latitude": 41.918687,
+      "longitude": 3.166125,
+      "google_map": "https://www.google.com/maps/search/Museu+Can+Mario%2C+Palafrugell%2C+Spain",
+      "references_anchor": "REFERENCES.md#can-mario-museum-cork-museum",
+      "references": [
+        {
+          "source": "Thursday Sep 10 chill-day note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md",
+          "date": "2026-08-26",
+          "note": "Cloudy-weather pivot: ~220 sculptures in a former cork factory, Wed–Sun 11:00–19:30 (open Thu Sep 10), €10; two-hour cultural break + Palafrugell lunch."
+        },
+        {
+          "source": "Fundació Vila Casas (official)",
+          "url": "https://www.fundaciovilacasas.com/en/museum/can-mario-museum-palafrugell",
+          "date": "2026-08-26",
+          "note": "Official museum page: collection, hours and admission."
+        }
+      ],
+      "rating": 3,
+      "tags": "cork-museum, culture, museum, rainy-day, sculpture",
+      "source_rating_raw": null,
+      "geocode_query": "Museu Can Mario, Fundacio Vila Casas, Palafrugell, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Jetski Platja d'Aro",
+      "region": "Costa Brava",
+      "neighborhood": "Platja d'Aro",
+      "type": "Activity",
+      "emoji": "🌊",
+      "description": "Two-seat guided jet-ski tours (no license required) running caves-and-hidden-coast routes from Platja d'Aro — roughly a 30-minute drive from Llafranc. Per the chill-day note: not a spontaneous pivot — it needs an advance reservation and a fixed slot, so book ahead or skip in favor of the walk-up kayak options at Llafranc. +34 694 279 391.",
+      "cost_range": "$$$",
+      "address": "Passeig Marítim, 37, 17250 Platja d'Aro, Girona, Spain",
+      "latitude": 41.812017,
+      "longitude": 3.067043,
+      "google_map": "https://www.google.com/maps/search/Jetski+Platja+d%27Aro%2C+Spain",
+      "references_anchor": "REFERENCES.md#jetski-platja-d-aro",
+      "references": [
+        {
+          "source": "Thursday Sep 10 chill-day note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md",
+          "date": "2026-08-26",
+          "note": "Nearest verified jet-ski operator (none in Llafranc itself): ~30-min drive; guided two-seat tours, no license; confirm inventory and pricing at +34 694 279 391. Reserve ahead — not a same-day pivot."
+        },
+        {
+          "source": "Jetski Platja d'Aro (official)",
+          "url": "https://jetskiplatjadaro.com/en/",
+          "date": "2026-08-26",
+          "note": "Official site."
+        }
+      ],
+      "rating": 2,
+      "tags": "caves-route, jet-ski, no-license, reserve-ahead",
+      "source_rating_raw": null,
+      "geocode_query": "Jetski Platja d'Aro, Platja d'Aro, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Lassdive (L'Estartit)",
+      "region": "Costa Brava",
+      "neighborhood": "L'Estartit",
+      "type": "Activity",
+      "emoji": "🌊",
+      "description": "Watersports operator on the L'Estartit seafront — license-free jet skis (from ~€90), flyboard, wakeboard and snorkeling near the Medes Islands marine reserve. A 35–45-minute drive from Llafranc, so per the chill-day note it's a reserve-ahead commitment rather than a spontaneous option; conveniently near Vinilo Wine Bar if a north-coast day materializes. WhatsApp +34 627 030 036.",
+      "cost_range": "$$$",
+      "address": "Passeig Marítim, s/n, 17258 L'Estartit, Girona, Spain",
+      "latitude": 42.055028,
+      "longitude": 3.203819,
+      "google_map": "https://www.google.com/maps/search/Lassdive%2C+L%27Estartit%2C+Spain",
+      "references_anchor": "REFERENCES.md#lassdive-l-estartit",
+      "references": [
+        {
+          "source": "Thursday Sep 10 chill-day note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md",
+          "date": "2026-08-26",
+          "note": "License-free jet skis from ~€90 plus flyboard/wakeboard/snorkeling; 35–45-min drive; WhatsApp +34 627 030 036. Reserve in advance — not a dependable same-day pivot."
+        },
+        {
+          "source": "Lassdive (official)",
+          "url": "https://www.lassdive.com/eng/",
+          "date": "2026-08-26",
+          "note": "Official site."
+        }
+      ],
+      "rating": 2,
+      "tags": "flyboard, jet-ski, no-license, reserve-ahead, watersports",
+      "source_rating_raw": null,
+      "geocode_query": "Lassdive, L'Estartit, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Triton Diving",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Activity",
+      "emoji": "🤿",
+      "description": "Dive-and-snorkel operator on Llafranc's Plaça dels Pins running boat tours to the best snorkeling reefs on this coast — spots reachable only by water; Poseidon in Calella is the equivalent operator one cove over. Operating since 1979 with 4.8/5 on both Google and TripAdvisor; the 2026 calendar lists boat-based beginner try-dives around €105 per person — a real adventure option for the chill day, but one to confirm a day or two ahead (schedule, medical requirements, duration), not improvise after breakfast.",
+      "cost_range": "$$",
+      "address": "Plaça dels Pins, 3, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.895285,
+      "longitude": 3.195457,
+      "google_map": "https://www.google.com/maps/search/Triton+Diving%2C+Llafranc%2C+Spain",
+      "references_anchor": "REFERENCES.md#triton-diving",
+      "references": [
+        {
+          "source": "Thursday Sep 10 chill-day note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md",
+          "date": "2026-08-26",
+          "note": "Beginner try-dives ~€105 pp per the 2026 calendar; est. 1979, 4.8/5 on Google and TripAdvisor. Confirm schedule and medical requirements ahead — not a casual same-day pivot."
+        },
+        {
+          "source": "Triton Diving (official)",
+          "url": "https://www.tritonllafranc.com/en/",
+          "date": "2026-08-26",
+          "note": "Official site: ratings, try-dive offering and 2026 calendar."
+        }
+      ],
+      "rating": 3,
+      "tags": "boat-tour, diving, operator, since-1979, snorkeling, try-dive",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Cap Roig Botanical Gardens",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Attraction",
+      "emoji": "🌺",
+      "description": "Cliff-top botanical gardens created in 1927 facing the Mediterranean — 20 hectares and ~800 species woven through contemporary sculpture, the castle of the eccentric Woevodsky couple and coastal viewpoints; the #1-rated attraction in Calella, with El Golfet cove directly below. Verified for the trip week: September weekdays 10:00–20:00 (last entry an hour before close), €7, full self-guided circuit ~1.5 hours — the best refined low-exertion outing of the Llafranc stay.",
+      "cost_range": "$",
+      "address": "Carrer Camí del Rus, s/n, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.87625600000001,
+      "longitude": 3.1751821,
+      "google_map": "https://www.google.com/maps/search/Cap+Roig+Botanical+Gardens%2C+Costa+Brava%2C+Spain",
+      "references_anchor": "REFERENCES.md#cap-roig-botanical-gardens",
+      "references": [
+        {
+          "source": "Thursday Sep 10 chill-day note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md",
+          "date": "2026-08-26",
+          "note": "September weekday hours 10:00–20:00 (last entry 1 h before close), €7; ~1.5 h circuit; 20 ha, ~800 species, sculpture. Pairs with Calella or El Golfet; leave-open, no booking needed."
+        },
+        {
+          "source": "Palafrugell Plus (official)",
+          "url": "https://plus.palafrugell.cat/en/jardins-de-cap-roig/",
+          "date": "2026-08-26",
+          "note": "Official hours and admission."
+        }
+      ],
+      "rating": 4,
+      "tags": "botanical-garden, cliffside, culture, scenic, sculpture, verified-hours",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}

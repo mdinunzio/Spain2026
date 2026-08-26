@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note*
 
-*319 venues · 556 sources*
+*323 venues · 568 sources*
 
 ---
 
@@ -724,14 +724,18 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Calella de Palafrugell · **Type:** Attraction · **Rating:** 4/5 · **Cost:** $
 
-[Google Maps](https://www.google.com/maps/search/Cap%20Roig%20Botanical%20Gardens%2C%20Costa%20Brava%2C%20Spain)
+[Google Maps](https://www.google.com/maps/search/Cap+Roig+Botanical+Gardens%2C+Costa+Brava%2C+Spain)
 
-### Sources (2)
+### Sources (4)
 
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Created 1927 on a cliff over the sea; 800+ botanical species with art and history; #1 attraction in town.
 - **Spain.info (cited in Matt's guide)** · 2026-07-29 · [link](https://www.spain.info/en/places-of-interest/cap-roig-botanical-gardens/)
   - Spain.info on Cap Roig Botanical Gardens.
+- **Thursday Sep 10 chill-day note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md)
+  - September weekday hours 10:00–20:00 (last entry 1 h before close), €7; ~1.5 h circuit; 20 ha, ~800 species, sculpture. Pairs with Calella or El Golfet; leave-open, no booking needed.
+- **Palafrugell Plus (official)** · 2026-08-26 · [link](https://plus.palafrugell.cat/en/jardins-de-cap-roig/)
+  - Official hours and admission.
 
 ---
 
@@ -2053,6 +2057,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="tourist-service-llafranc" name="tourist-service-llafranc"></a>
+
+## 🛶 Tourist Service (Llafranc)
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Tourist+Service%2C+Llafranc%2C+Spain)
+
+### Sources (2)
+
+- **Thursday Sep 10 chill-day note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md)
+  - The keystone of the choose-your-energy day: kayak/SUP walk-up rentals, the €50 guided kayak+snorkel (best adventure-to-effort ratio), €275 two-hour private boat, and taxi-boat returns. Save the number; call the morning of.
+- **Tourist Service (official)** · 2026-08-26 · [link](https://www.touristservice.es/en/kayak-excursions/)
+  - Published rates: kayaks (single €20/35/45, double €30/50/70 for 1/2/4 h), SUP €20/35/45, guided kayak+snorkel €50 pp ~2.5 h, private boat €175–475 (1–4 h).
+
+---
+
 <a id="tragamar" name="tragamar"></a>
 
 ## 🥘 Tragamar
@@ -2924,6 +2945,23 @@ Each section is linked from that tab's `References` column.
 
 - **Substack — Consciously Considered (Jessie Granader)** · 2026-04-26 · [link](https://consciouslyconsidered.substack.com/p/mallorca-considered)
   - Her dinner after the morning in Valldemossa.
+
+---
+
+<a id="can-mario-museum-cork-museum" name="can-mario-museum-cork-museum"></a>
+
+## 🗿 Can Mario Museum & Cork Museum
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell (town) · **Type:** Museum · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Museu+Can+Mario%2C+Palafrugell%2C+Spain)
+
+### Sources (2)
+
+- **Thursday Sep 10 chill-day note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md)
+  - Cloudy-weather pivot: ~220 sculptures in a former cork factory, Wed–Sun 11:00–19:30 (open Thu Sep 10), €10; two-hour cultural break + Palafrugell lunch.
+- **Fundació Vila Casas (official)** · 2026-08-26 · [link](https://www.fundaciovilacasas.com/en/museum/can-mario-museum-palafrugell)
+  - Official museum page: collection, hours and admission.
 
 ---
 
@@ -5126,14 +5164,18 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Activity · **Rating:** 3/5 · **Cost:** $$
 
-[Google Maps](https://www.google.com/maps/search/Triton%20Diving%2C%20Costa%20Brava%2C%20Spain)
+[Google Maps](https://www.google.com/maps/search/Triton+Diving%2C+Llafranc%2C+Spain)
 
-### Sources (2)
+### Sources (4)
 
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Triton Diving (Llafranc) and Poseidon (Calella) run boat tours to the coast's best snorkeling reefs, accessible only by water.
 - **TripAdvisor (cited in Matt's guide)** · 2026-07-29 · [link](https://www.tripadvisor.com/Attraction_Review-g635891-d4958691-Reviews-or10-Triton_Diving_Llafranc-Llafranc_Palafrugell_Costa_Brava_Province_of_Girona_C.html)
   - TripAdvisor listing for Triton Diving Llafranc.
+- **Thursday Sep 10 chill-day note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md)
+  - Beginner try-dives ~€105 pp per the 2026 calendar; est. 1979, 4.8/5 on Google and TripAdvisor. Confirm schedule and medical requirements ahead — not a casual same-day pivot.
+- **Triton Diving (official)** · 2026-08-26 · [link](https://www.tritonllafranc.com/en/)
+  - Official site: ratings, try-dive offering and 2026 calendar.
 
 ---
 
@@ -5293,6 +5335,40 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Neutral aside only — noted it as opening in summer 2026, with no review attached.
+
+---
+
+<a id="jetski-platja-d-aro" name="jetski-platja-d-aro"></a>
+
+## 🌊 Jetski Platja d'Aro
+
+**Region:** Costa Brava · **Neighborhood:** Platja d'Aro · **Type:** Activity · **Rating:** 2/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Jetski+Platja+d%27Aro%2C+Spain)
+
+### Sources (2)
+
+- **Thursday Sep 10 chill-day note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md)
+  - Nearest verified jet-ski operator (none in Llafranc itself): ~30-min drive; guided two-seat tours, no license; confirm inventory and pricing at +34 694 279 391. Reserve ahead — not a same-day pivot.
+- **Jetski Platja d'Aro (official)** · 2026-08-26 · [link](https://jetskiplatjadaro.com/en/)
+  - Official site.
+
+---
+
+<a id="lassdive-l-estartit" name="lassdive-l-estartit"></a>
+
+## 🌊 Lassdive (L'Estartit)
+
+**Region:** Costa Brava · **Neighborhood:** L'Estartit · **Type:** Activity · **Rating:** 2/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Lassdive%2C+L%27Estartit%2C+Spain)
+
+### Sources (2)
+
+- **Thursday Sep 10 chill-day note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Thursday%2C%20September%2010%20in%20Llafranc.md)
+  - License-free jet skis from ~€90 plus flyboard/wakeboard/snorkeling; 35–45-min drive; WhatsApp +34 627 030 036. Reserve in advance — not a dependable same-day pivot.
+- **Lassdive (official)** · 2026-08-26 · [link](https://www.lassdive.com/eng/)
+  - Official site.
 
 ---
 
