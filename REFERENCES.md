@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note*
 
-*323 venues · 568 sources*
+*327 venues · 590 sources*
 
 ---
 
@@ -272,7 +272,7 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Toc%20al%20Mar%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (4)
+### Sources (6)
 
 - **Gemini** · 2026-07-17 · [link](https://gemini.google.com/app/8d0301803614e4d9)
   - The chiringuito example: a rustic beach restaurant sitting literally on the sand at Aiguablava, serving whole fish roasted over an oak-wood fire. A highly coveted reservation.
@@ -282,6 +282,10 @@ Each section is linked from that tab's `References` column.
   - 'Toca al Mar — paella' on the Begur foodies list.
 - **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
   - Day 3 lunch: 'delicious paella right on the beach' at Aiguablava.
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 5: first-line terrace live all three nights; rice not served at dinner — grilled fish/shellfish only; prebook both taxi legs.
+- **Toc al Mar (reservations)** · 2026-08-26 · [link](https://tocalmar.myrestoo.net/en/reservar)
+  - Official reservation calendar with the dinner rice note.
 
 ---
 
@@ -747,10 +751,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Casa%20Juanita%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (3)
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - Circled + heart on the Begur foodies list — 'fish in the oven.'
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 3 / best authentic food + change of scenery: 1978, holm-oak oven, market rock fish; closed Mon; phone-only reservations; ask fish price by weight.
+- **Casa Juanita (official)** · 2026-08-26 · [link](https://casajuanita.cat/)
+  - Official history, menu and reservation policy.
 
 ---
 
@@ -910,7 +918,7 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/El%20Balc%C3%B3%20de%20Calella%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (3)
+### Sources (5)
 
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - At Hotel Sant Roc; cliff terrace over the bay — 'the premier spot in Calella to have a cocktail while watching the sun hide behind the cliffs.'
@@ -918,6 +926,10 @@ Each section is linked from that tab's `References` column.
   - Hotel Sant Roc official page for El Balcó de Calella.
 - **Instagram — Francesca Giovinazzo & Tommaso Fogliata (@takemyhearteverywhere)** · 106,000 likes · [DGv2dA_tXPa](https://www.instagram.com/reel/DGv2dA_tXPa/)
   - Day 2 lunch: 'amazing seafood with sea views.'
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 4 / best panoramic view: live Mon & Wed, closed Tue; book 8:00 PM first row; taxi over the climbing walk.
+- **El Balcó de Calella (reservations)** · 2026-08-26 · [link](https://elbalcodecalella.myrestoo.net/en/reservar)
+  - Official reservation calendar.
 
 ---
 
@@ -1250,12 +1262,16 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/La%20Blava%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (4)
 
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Under the voltes arches right on the sand at Port Bo — 'widely considered one of the most romantic spots in town.'
 - **La Blava (official site) (cited in Matt's guide)** · 2026-07-29 · [link](https://www.lablava.com/)
   - La Blava official site.
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 1 / best overall fit: fisherman's house over Port Bo, Empordà cooking, Chelsea-ideal; live Mon–Wed; best date Wed Sep 9 at 8:00–8:15.
+- **La Blava (reservations)** · 2026-08-26 · [link](https://lablava.myrestoo.net/en/reservar)
+  - Official reservation calendar.
 
 ---
 
@@ -1815,6 +1831,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="sa-jambina" name="sa-jambina"></a>
+
+## 🐟 Sa Jambina
+
+**Region:** Costa Brava · **Neighborhood:** Palafrugell (town) · **Type:** Dinner Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Sa%20Jambina%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 10 but 'strongest pure culinary option after Casamar': Wed Sep 9 live at 20:30/21:00/21:30/22:00; Tue not bookable online; Mon call.
+- **Sa Jambina (official)** · 2026-08-26 · [link](https://www.restaurantsajambina.com/)
+  - Official restaurant page; reservations via myrestoo.
+
+---
+
 <a id="sa-rascassa" name="sa-rascassa"></a>
 
 ## 🕯️ Sa Rascassa
@@ -1823,10 +1856,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Sa%20Rascassa%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (3)
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - On the romantic list — the hostal restaurant at Cala Aiguafreda.
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 6 / most intimate: Mon & Wed bookable, Tue closed; 26-min drive; prearrange the return.
+- **Sa Rascassa (official)** · 2026-08-26 · [link](https://www.hostalsarascassa.com/EN/sa-rascassa-restaurant.html)
+  - Official restaurant page.
 
 ---
 
@@ -3421,6 +3458,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="el-far-restaurant-sant-sebastia" name="el-far-restaurant-sant-sebastia"></a>
+
+## 🍽️ El Far Restaurant (Sant Sebastià)
+
+**Region:** Costa Brava · **Neighborhood:** Far de Sant Sebastià, Llafranc · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/El%20Far%20Restaurant%20%28Sant%20Sebasti%C3%A0%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 8: dramatic elevated view, classic Mediterranean menu; open Mon Sep 7 and Wed Sep 9, closed Tue; taxi not walk after wine.
+- **Hotel El Far (official)** · 2026-08-26 · [link](https://www.hotelelfar.com/en/restaurant-costa-brava)
+  - Official restaurant page and schedule.
+
+---
+
 <a id="el-mas-mas-de-torrent" name="el-mas-mas-de-torrent"></a>
 
 ## 🍽️ El Mas (Mas de Torrent)
@@ -3548,6 +3602,23 @@ Each section is linked from that tab's `References` column.
   - Widely considered Mallorca's most beautiful beach — a protected natural park with miles of untouched white sand and Caribbean-clear water, free of large resort development. Reachable via Fontsanta's complimentary guest shuttle.
 - **Instagram — Doina | Mallorca Slow Living (@explorersandwich)** · 2026-04-12 · 197,649 views · 4,284 likes · [DXCXO-_DWUT](https://www.instagram.com/p/DXCXO-_DWUT/)
   - B-tier. "Most beautiful beach in Mallorca… compared to the Maldives," transparent water — but extremely crowded for a natural reserve. Points to Sa Ràpita as the stress-free alternative.
+
+---
+
+<a id="far-nomo" name="far-nomo"></a>
+
+## 🍣 Far Nomo
+
+**Region:** Costa Brava · **Neighborhood:** Far de Sant Sebastià, Llafranc · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/Far%20Nomo%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 9: best non-Catalan change of pace — abundant Chelsea options (gyoza, raw fish, tempura, veggie rolls); verify dates on Resy.
+- **Grupo Nomo (official)** · 2026-08-26 · [link](https://gruponomo.com/pages/restaurante-japones-llafranc-far)
+  - Official restaurant page.
 
 ---
 
@@ -3888,10 +3959,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/La%20Llagosta%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (3)
 
 - **Manus (Llafranc pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Beachfront dining just steps from your hotel — excellent fresh seafood and rice dishes with views of the bay.
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 2 / best arrival night: 7–8 min flat walk; live Mon & Tue, closed Wed; ~€50 pp; garden vegetables and Empordà wine.
+- **La Llagosta (official)** · 2026-08-26 · [link](https://www.hostallallagosta.com/en/our-restaurant/)
+  - Official restaurant page; reservations via myrestoo.
 
 ---
 
@@ -5006,12 +5081,16 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Sol%20i%20Mar%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (4)
 
 - **Manus (Matt's Calella guide)** · 2026-07-29 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Classic spot, high quality at reasonable prices; crispy squid and paella socarrat 'legendary among locals.'
 - **Excellence Luxury Villas (cited in Matt's guide)** · 2026-07-29 · [link](https://excellenceluxuryvillas.com/luxury-travel-guides/palafrugell-best-restaurants/)
   - From Excellence Luxury Villas' Palafrugell dining guide.
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 7 / best easygoing backup: closed Mon; live Tue & Wed with terrace and sea-view interior tables.
+- **Sol i Mar (official)** · 2026-08-26 · [link](https://www.solimarcalella.com/)
+  - Official site and opening schedule.
 
 ---
 
@@ -5091,6 +5170,23 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Santa Catalina › Cafes & Brunch.
 - **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
   - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="terrassa-terramar" name="terrassa-terramar"></a>
+
+## 🍽️ Terrassa Terramar
+
+**Region:** Costa Brava · **Neighborhood:** Llafranc · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Terrassa%20Terramar%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (2)
+
+- **Llafranc dinner-plan note (repo)** · 2026-08-26 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md)
+  - Rank 12: convenient and scenic beachfront terrace; exact Sep 7–9 calendar unstable during research — treat as concierge backup.
+- **Hotel Terramar (official)** · 2026-08-26 · [link](https://www.hterramar.com/en/restaurants/)
+  - Official restaurants page.
 
 ---
 

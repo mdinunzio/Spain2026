@@ -1,0 +1,396 @@
+{
+  "batch": "2026-08-26_llafranc-dinner-plan",
+  "region": "Costa Brava",
+  "source_count": 1,
+  "venue_count": 11,
+  "locations": [
+    {
+      "name": "El Far Restaurant (Sant Sebastià)",
+      "region": "Costa Brava",
+      "neighborhood": "Far de Sant Sebastià, Llafranc",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "The restaurant of Hotel El Far, terrace beside the Sant Sebastià lighthouse ~175 m above the sea — Mediterranean rice dishes, Palamós fish and shellfish, local produce; classic scenic cooking without avant-garde technique. Trip-week schedule: dinner Monday and Wednesday; closed Tuesdays from Sep 8. Take a taxi up (🚗 8 min), not the steep walk after wine.",
+      "cost_range": "$$$$",
+      "address": "Carrer de l'Uruguai, 87, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.896092,
+      "longitude": 3.202468,
+      "google_map": "https://www.google.com/maps/search/El%20Far%20Restaurant%20%28Sant%20Sebasti%C3%A0%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-far-restaurant-sant-sebastia",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 8: dramatic elevated view, classic Mediterranean menu; open Mon Sep 7 and Wed Sep 9, closed Tue; taxi not walk after wine."
+        },
+        {
+          "source": "Hotel El Far (official)",
+          "url": "https://www.hotelelfar.com/en/restaurant-costa-brava",
+          "date": "2026-08-26",
+          "note": "Official restaurant page and schedule."
+        }
+      ],
+      "rating": 3,
+      "tags": "elevated-views, lighthouse, rice, seafood, terrace",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Far Nomo",
+      "region": "Costa Brava",
+      "neighborhood": "Far de Sant Sebastià, Llafranc",
+      "type": "Dinner Restaurant",
+      "emoji": "🍣",
+      "description": "Japanese-Mediterranean from Grupo Nomo in the lighthouse/cliff setting above Llafranc — sushi, gyoza, miso eggplant, tuna/salmon/red-mullet raw plates, tempura, grilled octopus, chicken kara-age and vegetarian rolls, with cocktails and the drop-away view. The change-of-pace dinner after several Mediterranean nights; books via Resy. Chelsea-rich menu (skip the foie/duck and meat plates).",
+      "cost_range": "$$$$",
+      "address": "Passeig de Pau Casals, 64, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.896005,
+      "longitude": 3.202345,
+      "google_map": "https://www.google.com/maps/search/Far%20Nomo%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#far-nomo",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 9: best non-Catalan change of pace — abundant Chelsea options (gyoza, raw fish, tempura, veggie rolls); verify dates on Resy."
+        },
+        {
+          "source": "Grupo Nomo (official)",
+          "url": "https://gruponomo.com/pages/restaurante-japones-llafranc-far",
+          "date": "2026-08-26",
+          "note": "Official restaurant page."
+        }
+      ],
+      "rating": 3,
+      "tags": "cliff-views, cocktails, japanese, lighthouse, resy, sushi",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sa Jambina",
+      "region": "Costa Brava",
+      "neighborhood": "Palafrugell (town)",
+      "type": "Dinner Restaurant",
+      "emoji": "🐟",
+      "description": "Michelin-selected, fish-first cooking now relocated to Palafrugell town — market fish, Mediterranean shellfish, red-prawn tartare and whole baked fish, elegant but unshowy. Per the dinner-plan note, the strongest pure culinary option of the leg after Casamar; no sea view, 9 minutes by car from Mas Pastora. Trip-week calendar showed Wednesday Sep 9 bookable at 8:30–10:00 PM; Tuesday not reservable online; Monday by phone.",
+      "cost_range": "$$$$",
+      "address": "Carrer de Picasso, 37, 17200 Palafrugell, Girona, Spain",
+      "latitude": 41.914978,
+      "longitude": 3.167175,
+      "google_map": "https://www.google.com/maps/search/Sa%20Jambina%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sa-jambina",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 10 but 'strongest pure culinary option after Casamar': Wed Sep 9 live at 20:30/21:00/21:30/22:00; Tue not bookable online; Mon call."
+        },
+        {
+          "source": "Sa Jambina (official)",
+          "url": "https://www.restaurantsajambina.com/",
+          "date": "2026-08-26",
+          "note": "Official restaurant page; reservations via myrestoo."
+        }
+      ],
+      "rating": 4,
+      "tags": "fish-first, food-first, michelin-selected, palafrugell",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Terrassa Terramar",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "The beachfront terrace of Hotel Terramar on Llafranc's promenade — Mediterranean/Empordà cooking with direct bay views, a 6-minute walk from Mas Pastora. Filed per the dinner-plan note as the easy hotel-terrace backup rather than a first booking (its September calendar was unstable during verification — have the concierge confirm).",
+      "cost_range": "$$$",
+      "address": "Passeig de Cipsela, 1, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.894221,
+      "longitude": 3.194005,
+      "google_map": "https://www.google.com/maps/search/Terrassa%20Terramar%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#terrassa-terramar",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 12: convenient and scenic beachfront terrace; exact Sep 7–9 calendar unstable during research — treat as concierge backup."
+        },
+        {
+          "source": "Hotel Terramar (official)",
+          "url": "https://www.hterramar.com/en/restaurants/",
+          "date": "2026-08-26",
+          "note": "Official restaurants page."
+        }
+      ],
+      "rating": 3,
+      "tags": "backup, bay-views, promenade, terrace, walkable",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Blava",
+      "region": "Costa Brava",
+      "neighborhood": "Port Bo, Calella de Palafrugell",
+      "type": "Dinner Restaurant",
+      "emoji": "🕯️",
+      "description": "Tucked under Calella's traditional stone arches (the voltes) right on the Port Bo sand — widely considered one of the most romantic spots in town for traditional Mediterranean seafood. The candlelit-on-the-beach dinner of this leg. Dinner-plan verdict: rank 1 of the Llafranc-week options — booked-in as the Wednesday Sep 9 romantic dinner (live calendar showed Mon–Wed dinner availability, terrace and indoor). ~€40–70 pp; 24-minute flat walk over in daylight, taxi back after wine; ask for 'una mesa exterior con vistas al mar, si es posible.' Table assignments aren't final until the restaurant confirms.",
+      "cost_range": "$$$",
+      "address": "Carrer Miramar, 3, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8884352,
+      "longitude": 3.1852225,
+      "google_map": "https://www.google.com/maps/search/La%20Blava%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-blava",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 1 / best overall fit: fisherman's house over Port Bo, Empordà cooking, Chelsea-ideal; live Mon–Wed; best date Wed Sep 9 at 8:00–8:15."
+        },
+        {
+          "source": "La Blava (reservations)",
+          "url": "https://lablava.myrestoo.net/en/reservar",
+          "date": "2026-08-26",
+          "note": "Official reservation calendar."
+        }
+      ],
+      "rating": 4,
+      "tags": "live-calendar, on-the-sand, romantic, seafood, voltes, wednesday-pick",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "La Llagosta",
+      "region": "Costa Brava",
+      "neighborhood": "Llafranc",
+      "type": "Lunch Restaurant",
+      "emoji": "🦞",
+      "description": "Beachfront seafood-and-rice house on the Llafranc seafront, steps from Mas Pastora — bay views, fresh fish, no booking needed. The default spontaneous lunch of the Costa Brava leg. Dinner-plan intel: the arrival-night pick (Mon Sep 7, 8:30 PM — terrace or the glass sea-view room). Family fishing-house pedigree; Palamós fish, Pals rice, vegetables from their own garden, Empordà wine; ~€50 pp before drinks. ⚠️ CLOSED WEDNESDAYS; live calendar showed Mon and Tue open. Tell them Chelsea doesn't eat red meat or duck when booking.",
+      "cost_range": "$$$",
+      "address": "Carrer de Francesc de Blanes, 24, 17211 Llafranc, Girona, Spain",
+      "latitude": 41.893515,
+      "longitude": 3.1929392,
+      "google_map": "https://www.google.com/maps/search/La%20Llagosta%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-llagosta",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 2 / best arrival night: 7–8 min flat walk; live Mon & Tue, closed Wed; ~€50 pp; garden vegetables and Empordà wine."
+        },
+        {
+          "source": "La Llagosta (official)",
+          "url": "https://www.hostallallagosta.com/en/our-restaurant/",
+          "date": "2026-08-26",
+          "note": "Official restaurant page; reservations via myrestoo."
+        }
+      ],
+      "rating": 3,
+      "tags": "beachfront, closed-wednesday, monday-pick, rice, seafood, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Casa Juanita",
+      "region": "Costa Brava",
+      "neighborhood": "Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🐟",
+      "description": "Circled-and-hearted on Sea Salt Living's Begur list for its oven-baked fish ('fish in the oven') — an old-school seafood house in Begur town and one of the guide's clearest favorites. Dinner-plan intel: the Tuesday Sep 8 pick, paired with a pre-dinner Begur wander to the castle viewpoint. Running since 1978 in a 17th-century building, still cooking rock fish in the original holm-oak wood oven. ⚠️ Closed Mondays; reservations by LIVE PHONE CALL only (+34 972 62 20 13 — voicemail doesn't count); whole fish is priced by weight, so ask cost before ordering. Chelsea note: skip the Iberian-ham-with-squid starter; the fish, escalivada, anchovies, octopus and cod all fit.",
+      "cost_range": "$$$",
+      "address": "Carrer Pi i Ralló, 7, 17255 Begur, Girona, Spain",
+      "latitude": 41.9548707,
+      "longitude": 3.2076928,
+      "google_map": "https://www.google.com/maps/search/Casa%20Juanita%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#casa-juanita",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 3 / best authentic food + change of scenery: 1978, holm-oak oven, market rock fish; closed Mon; phone-only reservations; ask fish price by weight."
+        },
+        {
+          "source": "Casa Juanita (official)",
+          "url": "https://casajuanita.cat/",
+          "date": "2026-08-26",
+          "note": "Official history, menu and reservation policy."
+        }
+      ],
+      "rating": 4,
+      "tags": "begur-town, closed-monday, dinner, oven-baked-fish, phone-only-booking, seafood, tuesday-pick, wood-oven",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Toc al Mar",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguablava, Begur",
+      "type": "Lunch Restaurant",
+      "emoji": "🐟",
+      "description": "Beach restaurant directly on the sand at Cala Aiguablava — whole fish and paella over an oak-wood fire, long barefoot-luxury lunches. The most-corroborated restaurant on the Costa Brava list: two Gemini conversations, Matt's guide-adjacent batches, the Sea Salt Living Begur guide, and now the 106K-like 7-day itinerary reel ('delicious paella right on the beach'). Raised to a 5: it's the flagship lunch of the Costa Brava leg, 15 minutes from Mas Pastora. Reservations coveted — book well ahead for early September. Dinner-plan intel for the Llafranc week: first-line heated-terrace dinner slots showed LIVE for all three nights (Sep 7–9, 8:00–9:30 PM) — and a critical menu rule: ⚠️ NO RICE DISHES AT DINNER, so book it for whole wild fish and shellfish over the holm-oak fire (sea bream, sea bass, scorpionfish, Begur lobster, Palamós prawns), not paella. 16-minute taxi each way — prearrange both legs; don't improvise a return from the cove after 10 PM.",
+      "cost_range": "$$$",
+      "address": "Carrer Platja d'Aiguablava, 8, 17255 Begur, Girona, Spain",
+      "latitude": 41.9337333,
+      "longitude": 3.2163528,
+      "google_map": "https://www.google.com/maps/search/Toc%20al%20Mar%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#toc-al-mar",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 5: first-line terrace live all three nights; rice not served at dinner — grilled fish/shellfish only; prebook both taxi legs."
+        },
+        {
+          "source": "Toc al Mar (reservations)",
+          "url": "https://tocalmar.myrestoo.net/en/reservar",
+          "date": "2026-08-26",
+          "note": "Official reservation calendar with the dinner rice note."
+        }
+      ],
+      "rating": 5,
+      "tags": "book-asap, chiringuito, heated-terrace, live-calendar, lunch, no-rice-at-dinner, paella, reservation-required, seafood, waterfront, wood-fired",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Sa Rascassa",
+      "region": "Costa Brava",
+      "neighborhood": "Aiguafreda, Begur",
+      "type": "Dinner Restaurant",
+      "emoji": "🕯️",
+      "description": "Romantic pick from Sea Salt Living's Begur guide — the restaurant of tiny Hostal Sa Rascassa, tucked in the pines steps from Cala Aiguafreda. Garden-terrace dinners in one of the quietest corners of the Begur coast. Dinner-plan intel: the most intimate romantic escape of the week — garden courtyard at the Aiguafreda cove, rock fish and rice, 4.4/5 across 500+ TripAdvisor reviews. ⚠️ Closed Tuesday Sep 8 (calendar showed Mon and Wed bookable); it's a deliberate 26-minute drive, so book a driver or prearranged return taxi — no cars wait in the cove.",
+      "cost_range": "$$$",
+      "address": "Cala d’Aiguafreda, 3, 17255 Aiguafreda, Girona, Spain",
+      "latitude": 41.9645873,
+      "longitude": 3.2260433,
+      "google_map": "https://www.google.com/maps/search/Sa%20Rascassa%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sa-rascassa",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 6 / most intimate: Mon & Wed bookable, Tue closed; 26-min drive; prearrange the return."
+        },
+        {
+          "source": "Sa Rascassa (official)",
+          "url": "https://www.hostalsarascassa.com/EN/sa-rascassa-restaurant.html",
+          "date": "2026-08-26",
+          "note": "Official restaurant page."
+        }
+      ],
+      "rating": 4,
+      "tags": "closed-tuesday, garden, hidden-gem, prebook-taxi, romantic, terrace",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Sol i Mar",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Lunch Restaurant",
+      "emoji": "🦑",
+      "description": "Classic Calella establishment on Carrer Miramar known for high-quality ingredients at reasonable prices — the crispy squid and the socarrat (caramelized crust) on the paella are legendary among locals. Dinner-plan intel: the straightforward waterfront backup for the Llafranc week — ⚠️ closed Mondays (May–Sep schedule Tue–Sun 11:00–23:00); live calendar showed terrace and sea-view interior dinner slots on Tue Sep 8 and Wed Sep 9.",
+      "cost_range": "$$",
+      "address": "Carrer Miramar, 19, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.8884138,
+      "longitude": 3.1858943,
+      "google_map": "https://www.google.com/maps/search/Sol%20i%20Mar%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sol-i-mar",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 7 / best easygoing backup: closed Mon; live Tue & Wed with terrace and sea-view interior tables."
+        },
+        {
+          "source": "Sol i Mar (official)",
+          "url": "https://www.solimarcalella.com/",
+          "date": "2026-08-26",
+          "note": "Official site and opening schedule."
+        }
+      ],
+      "rating": 3,
+      "tags": "closed-monday, live-calendar, local-favorite, paella, seafood, value",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "El Balcó de Calella",
+      "region": "Costa Brava",
+      "neighborhood": "Calella de Palafrugell",
+      "type": "Bar",
+      "emoji": "🍸",
+      "description": "The cliff terrace at Hotel Sant Roc over the Calella bay — double-duty: the premier sunset-cocktail spot in town (Matt's guide) AND a seafood lunch with sea views (the 7-day itinerary reel rates the food itself a favorite). Either way, the golden-hour ritual of a Calella/Llafranc base. Dinner-plan intel: the panoramic-dinner option of the week — first-row balcony, pergola and garden tables above Calella's coves. ⚠️ Closed Tuesday Sep 8; first-row sea-view slots showed live for Mon Sep 7 and Wed Sep 9 — book the 8:00 PM seating to keep the last daylight and request the first row. 31-minute walk with ~50 m of climb: treat it as a short taxi outing.",
+      "cost_range": "$$$",
+      "address": "Plaça Atlàntic, 2, 17210 Calella de Palafrugell, Girona, Spain",
+      "latitude": 41.885833,
+      "longitude": 3.181389,
+      "google_map": "https://www.google.com/maps/search/El%20Balc%C3%B3%20de%20Calella%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-balco-de-calella",
+      "references": [
+        {
+          "source": "Llafranc dinner-plan note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Dinner%20Plan_%20September%207%E2%80%9310%2C%202026.md",
+          "date": "2026-08-26",
+          "note": "Rank 4 / best panoramic view: live Mon & Wed, closed Tue; book 8:00 PM first row; taxi over the climbing walk."
+        },
+        {
+          "source": "El Balcó de Calella (reservations)",
+          "url": "https://elbalcodecalella.myrestoo.net/en/reservar",
+          "date": "2026-08-26",
+          "note": "Official reservation calendar."
+        }
+      ],
+      "rating": 4,
+      "tags": "cliffside, closed-tuesday, cocktails, first-row-request, live-calendar, seafood, sunset, terrace",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}
