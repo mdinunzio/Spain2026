@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide*
 
-*284 venues · 489 sources*
+*303 venues · 515 sources*
 
 ---
 
@@ -113,12 +113,16 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Palma → Sóller · **Type:** Attraction · **Rating:** 5/5 · **Cost:** $
 
-[Google Maps](https://www.google.com/maps/search/Ferrocarril+de+S%C3%B3ller%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/Ferrocarril%20de%20S%C3%B3ller%20%281912%20train%29%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
 
-### Sources (2)
+### Sources (4)
 
 - **Instagram — Sara Caroline Bridgers (@sarcar_)** · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
   - "Easily one of my favorite things we have done in Mallorca" — a must-add to a Mallorca itinerary. Her second endorsement of the train.
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Official timetable: Palma 10:10/10:50 out; Sóller returns 14:00, 17:15 (confirm at office), 18:00, 18:30, 19:30. Train-only tickets sold at the station same-day; online sells the combined train+tram.
+- **Tren de Sóller (official)** · 2026-08-25 · [link](https://trendesoller.com/eng/timetable)
+  - Official timetable and fares page.
 - **Instagram — Sara Caroline Bridgers (@sarcar_)** · 2026-07-15 · 34,979 views · 3 likes · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
   - "One of the best parts… do not miss this." 1912 wooden train, Palma to Sóller, about an hour of mountain views. ~$46 round trip; advises buying tickets a day ahead. 5/5.
 
@@ -380,6 +384,21 @@ Each section is linked from that tab's `References` column.
   - Recommended main base, 2-4 nights — 'close to so many beautiful beaches'; 15-min bus from Palafrugell.
 - **Manus (Llafranc pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Best boutique shopping in the area (independent boutiques, ceramics, artisans); walk up to the Begur Castle ruins for free 360° views.
+
+---
+
+<a id="biniaraix-the-barranc-steps" name="biniaraix-the-barranc-steps"></a>
+
+## 🥾 Biniaraix & the Barranc Steps
+
+**Region:** Mallorca · **Neighborhood:** Biniaraix (Sóller valley) · **Type:** Attraction · **Rating:** 4/5
+
+[Google Maps](https://www.google.com/maps/search/Biniaraix%20%26%20the%20Barranc%20Steps%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Easy village-and-groves walk: Sóller → Biniaraix → Sóller, 60–90 min with a drink; or add the first section of the Barranc staircase. Choose it OR Can Prunera as the afternoon anchor.
 
 ---
 
@@ -660,6 +679,23 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Cafes & Brunch.
 - **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
   - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="can-prunera-museu-modernista" name="can-prunera-museu-modernista"></a>
+
+## 🎨 Can Prunera Museu Modernista
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Museum · **Rating:** 4/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Can%20Prunera%20Museu%20Modernista%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - One of the 'best three experiences': the Art Nouveau house with sculpture-garden café. €11 self-guided, no booking; café/boutique/garden accessible without admission. Saturday open from 10:00 — verify posted closing time.
+- **Can Prunera (official)** · 2026-08-25 · [link](https://canprunera.com/en/visit/)
+  - Official visit information: admission, hours, and the café/garden access policy.
 
 ---
 
@@ -1306,6 +1342,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="mercat-municipal-de-soller" name="mercat-municipal-de-soller"></a>
+
+## 🧺 Mercat Municipal de Sóller
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Market · **Rating:** 4/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Mercat%20Municipal%20de%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The Saturday market takes over the center until ~14:00; make it the first priority off the 10:10 train. Best buys: producer foods and identifiable crafts; quality is mixed at the generic stalls.
+
+---
+
 <a id="mhares-sea-club" name="mhares-sea-club"></a>
 
 ## 🏖️ Mhares Sea Club
@@ -1566,6 +1617,21 @@ Each section is linked from that tab's `References` column.
 
 - **Manus** · 2026-07-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - BOOK IMMEDIATELY — skip the crowded group catamarans; charter a private classic sailboat out of Port de Sóller to sail the dramatic northern coastline at sunset with local wine and tapas.
+
+---
+
+<a id="pueblo-soller" name="pueblo-soller"></a>
+
+## 🍽️ Pueblo (Sóller)
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Pueblo%20%28S%C3%B3ller%29%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Ranked #1 for your tastes: 'stylish seasonal bistro… relaxed but elevated rather than formal.' Fri–Sun lunch service; try at noon or reserve.
 
 ---
 
@@ -1877,10 +1943,12 @@ Each section is linked from that tab's `References` column.
 
 **Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Town/Village · **Rating:** 4/5
 
-[Google Maps](https://www.google.com/maps/search/S%C3%B3ller%2C+Mallorca%2C+Spain)
+[Google Maps](https://www.google.com/maps/search/S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
 
-### Sources (3)
+### Sources (4)
 
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - The Saturday shape: market → Sa Lluna shopping → side-street lunch → Can Prunera OR Biniaraix → gelato/wine → 17:15 or 18:00 train home. Crowded 11:00–14:00; that's the plan working, not failing.
 - **Instagram — Iisa Hero | Solo & Adventure Travel (@heroiisa)** · 2026-03-06 · 997,233 views · 25,908 likes · [DVjZzGUjAVw](https://www.instagram.com/p/DVjZzGUjAVw/)
   - Her recommended northern base at 2–3 nights, with Port de Sóller, Valldemossa, Deià and Fornalutx all reachable by bus — no car needed.
 - **Instagram — Ali Chilton (@nycfoodfaves)** · 2026-07-09 · 86,697 views · 1,943 likes · [Dako0jSRR5U](https://www.instagram.com/p/Dako0jSRR5U/)
@@ -2056,6 +2124,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="alameda-shop" name="alameda-shop"></a>
+
+## ☕ Alameda Shop
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Alameda%20Shop%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Specialty coffee + tasteful browsing in one stop; excellent spontaneity subject to a free table.
+
+---
+
 <a id="arab-baths-banys-arabs" name="arab-baths-banys-arabs"></a>
 
 ## 🏛️ Arab Baths (Banys Àrabs)
@@ -2115,6 +2198,23 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — Tiina Blomgren (@travellingcloset)** · [DPypqF3iMbl](https://www.instagram.com/p/DPypqF3iMbl/)
   - Long lunch; 'my husband loooved the anchovies!' — anchovies on bread, croquettes. Explicit 5/5 (ad post).
+
+---
+
+<a id="arteartesania" name="arteartesania"></a>
+
+## 🛍️ ArteArtesania
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/ArteArtesania%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Priority shop: named-maker craft and art. Official Saturday hours 10:30–14:00 — make it a priority before lunch.
+- **ArteArtesania (official)** · 2026-08-25 · [link](https://www.arteartesania.com/en/author-handicraft/)
+  - Official shop info and Saturday hours.
 
 ---
 
@@ -2361,6 +2461,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="ben-calcat" name="ben-calcat"></a>
+
+## 🛍️ Ben Calçat
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Ben%20Cal%C3%A7at%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Traditional Mallorcan shoes made on site; Saturday morning opening reported by secondary sources — verify at the door.
+
+---
+
 <a id="blau-llafranc" name="blau-llafranc"></a>
 
 ## 🍤 Blau Llafranc
@@ -2431,6 +2546,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="ca-n-pau-gelats-artesans" name="ca-n-pau-gelats-artesans"></a>
+
+## 🍦 Ca'n Pau Gelats Artesans
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Ca%27n%20Pau%20Gelats%20Artesans%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Local citrus or almond ice cream on the main square — excellent spontaneity.
+
+---
+
 <a id="cadaques" name="cadaques"></a>
 
 ## 🏘️ Cadaqués
@@ -2477,6 +2607,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Cafes.
 - **Specialty Coffee in Palma: The Best Cafés (Estilo Palma)** · 2026-07-24 · [link](https://www.estilopalma.com/2025/04/specialty-coffee-in-palma-the-best-cafes/)
   - Manus cited this source: Specialty Coffee in Palma: The Best Cafés (Estilo Palma).
+
+---
+
+<a id="cafe-soller" name="cafe-soller"></a>
+
+## ☕ Café Sóller
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Caf%C3%A9%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Tram-and-church people-watching on the main square; go for atmosphere, coffee or orange juice, not a destination meal.
 
 ---
 
@@ -2748,6 +2893,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping.
 - **The Best Shopping Streets in Palma (Veebrant)** · 2026-07-24 · [link](https://veebrant.com/shopping-streets-palma-mallorca/)
   - Manus cited this source: The Best Shopping Streets in Palma (Veebrant).
+
+---
+
+<a id="casa-alvaro" name="casa-alvaro"></a>
+
+## 🥘 Casa Álvaro
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Casa%20%C3%81lvaro%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Ranked #2: authentic Spanish cooking and wine; open daily; the strong spontaneous fallback.
 
 ---
 
@@ -3154,6 +3314,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="fet-a-soller" name="fet-a-soller"></a>
+
+## 🛍️ Fet a Sóller
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Fet%20a%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+> ⚠️ **Approximate location** — Pinned at the Fet a Sóller production site (Son Angelats polígon); the guide advises confirming the current town-shop location.
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Works with small Mallorcan producers; citrus preserves, oil, orange salt, honey. Confirm the current central shop location.
+
+---
+
 <a id="finca-serena" name="finca-serena"></a>
 
 ## 🏨 Finca Serena
@@ -3417,6 +3594,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="la-confianca" name="la-confianca"></a>
+
+## 🥐 La Confiança
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/La%20Confian%C3%A7a%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Traditional pastry and historic interior on Sa Lluna; good — best takeaway if crowded.
+
+---
+
 <a id="la-croissanteria" name="la-croissanteria"></a>
 
 ## 🥐 La Croissanteria
@@ -3480,6 +3672,21 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Coffee Corridor › Cafes.
 - **The best coffee shops in Palma (abcMallorca)** · 2026-07-24 · [link](https://www.abc-mallorca.com/best-cafes-palma/)
   - Manus cited this source: The best coffee shops in Palma (abcMallorca).
+
+---
+
+<a id="la-romaguera" name="la-romaguera"></a>
+
+## 🍽️ La Romaguera
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/La%20Romaguera%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Ranked #3: contemporary sharing plates in a tucked-away street; its size makes walk-ins uncertain.
 
 ---
 
@@ -3687,6 +3894,36 @@ Each section is linked from that tab's `References` column.
   - Featured again in her Sóller 1912-train day post — second appearance from the creator who originally recommended it.
 - **Instagram — Sara Caroline Bridgers (@sarcar_)** · 2026-07-15 · 34,979 views · 3 likes · [DayupzqKZAy](https://www.instagram.com/p/DayupzqKZAy/)
   - A "secret garden" slow-café in Sóller for iced coffee and cake. 4/5.
+
+---
+
+<a id="mister-mccoy-s-island-ices" name="mister-mccoy-s-island-ices"></a>
+
+## 🍦 Mister McCoy's Island Ices
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Bar · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Mister%20McCoy%27s%20Island%20Ices%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Gelato plus natural wine with a balcony over the railway approach; good if open and space allows.
+
+---
+
+<a id="mucbo-jardi-botanic-de-soller" name="mucbo-jardi-botanic-de-soller"></a>
+
+## 🌺 MUCBO — Jardí Botànic de Sóller
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Attraction · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/MUCBO%20%E2%80%94%20Jard%C3%AD%20Bot%C3%A0nic%20de%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - A quieter combination of endemic plants, geology and fossils; good if open — verify Saturday closing time.
 
 ---
 
@@ -4104,6 +4341,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="re-organic" name="re-organic"></a>
+
+## 🥗 RE Organic
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/RE%20Organic%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - Best light-lunch fallback: organic dishes, juices, veg/vegan options, organic wine; verify the day's hours in town.
+
+---
+
 <a id="restaurant-laudat" name="restaurant-laudat"></a>
 
 ## 🍽️ Restaurant Laudat
@@ -4302,6 +4554,21 @@ Each section is linked from that tab's `References` column.
   - Family-run since 1987 in an old fisherman's house; fish paella, aguiat de peix, grilled fish; view over the small Portixol harbor. Easy dinner night without leaving the city.
 - **SeeMallorca review** · 2026-08-24 · [link](https://www.seemallorca.com/food/reviews/sa-roqueta-restaurant-review-portixol)
   - 'No laminated menus or pushy signage — just a neighborhood restaurant serving great seafood to people who appreciate it.' Terrace among the boats; lunch drifts into the afternoon.
+
+---
+
+<a id="sala-picasso-sala-miro-estacio-de-soller" name="sala-picasso-sala-miro-estacio-de-soller"></a>
+
+## 🎨 Sala Picasso & Sala Miró (Estació de Sóller)
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Attraction · **Rating:** 3/5
+
+[Google Maps](https://www.google.com/maps/search/Sala%20Picasso%20%26%20Sala%20Mir%C3%B3%20%28Estaci%C3%B3%20de%20S%C3%B3ller%29%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - See it when you step off the train: free Picasso ceramics and Miró engravings rooms in the station; no detour, no reservation.
 
 ---
 
@@ -4631,6 +4898,23 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="ca-n-pintxo" name="ca-n-pintxo"></a>
+
+## 🍢 Ca'n Pintxo
+
+**Region:** Mallorca · **Neighborhood:** Sóller · **Type:** Dinner Restaurant · **Rating:** 2/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Ca%27n%20Pintxo%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 'Do not plan around Ca'n Pintxo on this visit' — official schedule lists Saturday closed.
+- **Ca'n Pintxo (official)** · 2026-08-25 · [link](https://www.canpintxo.com/en/)
+  - Official website schedule showing Saturday closure.
+
+---
+
 <a id="cala-deia" name="cala-deia"></a>
 
 ## 🏖️ Cala Deià
@@ -4645,6 +4929,23 @@ Each section is linked from that tab's `References` column.
   - C-tier. Overhyped, busy, hard to access and park — says it's only worth it combined with the restaurant, Ca's Patró March.
 - **Instagram — Jessie Granader (@jessiegranader)** · 2026-04-30 · 193,090 views · 4,926 likes · [DXxV5EBp4OB](https://www.instagram.com/p/DXxV5EBp4OB/)
   - Visited for lunch at Ca's Patró March on the water rather than for the beach itself.
+
+---
+
+<a id="ecovinyassa" name="ecovinyassa"></a>
+
+## 🍊 Ecovinyassa
+
+**Region:** Mallorca · **Neighborhood:** Sóller valley (Fornalutx road) · **Type:** Attraction · **Rating:** 2/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Ecovinyassa%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain)
+
+### Sources (2)
+
+- **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
+  - 'Do not plan Ecovinyassa for Saturday' — open Mon/Wed/Thu/Fri only, reservations essential.
+- **Ecovinyassa (official)** · 2026-08-25 · [link](https://www.ecovinyassa.com/en/)
+  - Official opening days and reservation policy.
 
 ---
 

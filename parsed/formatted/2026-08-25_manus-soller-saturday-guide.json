@@ -1,0 +1,632 @@
+{
+  "batch": "2026-08-25_manus-soller-saturday-guide",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 21,
+  "locations": [
+    {
+      "name": "Mercat Municipal de Sóller",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Market",
+      "emoji": "🧺",
+      "description": "Sóller's indoor food hall (Mon–Sat 8:00–14:00) plus the Saturday street market spilling through Plaça de la Constitució until ~14:00 — the anchor of the Sep 5 train day. Strategy from the guide: market first (crowds peak 11:00–14:00), buy producer foods and named-maker crafts (orange products, olive oil, honey, sea salt, ceramics) and skip the generic stalls; a market picnic of olives, cheese, bread and gelato is the most spontaneous lunch in town.",
+      "cost_range": "$",
+      "address": "Plaça des Mercat, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.76733369999999,
+      "longitude": 2.7144293,
+      "google_map": "https://www.google.com/maps/search/Mercat%20Municipal%20de%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mercat-municipal-de-soller",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "The Saturday market takes over the center until ~14:00; make it the first priority off the 10:10 train. Best buys: producer foods and identifiable crafts; quality is mixed at the generic stalls."
+        }
+      ],
+      "rating": 4,
+      "tags": "food-hall, market, morning, saturday, soller",
+      "source_rating_raw": null,
+      "geocode_query": "Mercat Municipal de Soller, Placa des Mercat, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Can Prunera Museu Modernista",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Museum",
+      "emoji": "🎨",
+      "description": "Sóller's finest Art Nouveau house at the top of Carrer de sa Lluna — original Modernista interiors, modern and contemporary art, and a sculpture-garden café and wine bar you can visit WITHOUT museum admission (€11 self-guided, no advance booking). The guide's café pick for the day: art, garden and a glass of wine in one stop, more curated than the main-square terraces.",
+      "cost_range": "$$",
+      "address": "Carrer de sa Lluna, 86, 90, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7678424,
+      "longitude": 2.7180541,
+      "google_map": "https://www.google.com/maps/search/Can%20Prunera%20Museu%20Modernista%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#can-prunera-museu-modernista",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "One of the 'best three experiences': the Art Nouveau house with sculpture-garden café. €11 self-guided, no booking; café/boutique/garden accessible without admission. Saturday open from 10:00 — verify posted closing time."
+        },
+        {
+          "source": "Can Prunera (official)",
+          "url": "https://canprunera.com/en/visit/",
+          "date": "2026-08-25",
+          "note": "Official visit information: admission, hours, and the café/garden access policy."
+        }
+      ],
+      "rating": 4,
+      "tags": "art-nouveau, cafe, garden, museum, wine-bar",
+      "source_rating_raw": null,
+      "geocode_query": "Can Prunera Museu Modernista, Carrer de sa Lluna, Soller, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Sala Picasso & Sala Miró (Estació de Sóller)",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Attraction",
+      "emoji": "🎨",
+      "description": "Free permanent galleries inside the Sóller railway station itself — 50 Picasso ceramics and 35 Miró engravings. The easiest high-value cultural stop of the trip: you literally walk past it stepping off the 1912 train. 15–25 minutes.",
+      "cost_range": "",
+      "address": "Plaça d'Espanya, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7650783,
+      "longitude": 2.7149954,
+      "google_map": "https://www.google.com/maps/search/Sala%20Picasso%20%26%20Sala%20Mir%C3%B3%20%28Estaci%C3%B3%20de%20S%C3%B3ller%29%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#sala-picasso-sala-miro-estacio-de-soller",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "See it when you step off the train: free Picasso ceramics and Miró engravings rooms in the station; no detour, no reservation."
+        }
+      ],
+      "rating": 3,
+      "tags": "art, free, station, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Estacion de tren de Soller, Placa d'Espanya, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Pueblo (Sóller)",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "The guide's #1 Sóller lunch: a stylish seasonal bistro off Plaça d'Espanya — local citrus, vegetables, grilled dishes and cocktails; relaxed but elevated. Listings indicate Friday–Sunday lunch service, which fits the Saturday train day exactly; arrive at noon or reserve for certainty.",
+      "cost_range": "$$$",
+      "address": "Plaça d'Espanya, 11, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7653567,
+      "longitude": 2.7147862,
+      "google_map": "https://www.google.com/maps/search/Pueblo%20%28S%C3%B3ller%29%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#pueblo-soller",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Ranked #1 for your tastes: 'stylish seasonal bistro… relaxed but elevated rather than formal.' Fri–Sun lunch service; try at noon or reserve."
+        }
+      ],
+      "rating": 4,
+      "tags": "bistro, citrus, lunch, seasonal, soller",
+      "source_rating_raw": null,
+      "geocode_query": "Pueblo restaurant, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Casa Álvaro",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Traditional Spanish cooking in central Sóller — tapas, paella, fideuà, croquettes, small terrace. Reported open daily for lunch and dinner: the guide's strongest spontaneous fallback when Pueblo is full (call ahead if you want paella at a set time).",
+      "cost_range": "$$",
+      "address": "07100 Sóller, Balearic Islands, Spain",
+      "latitude": 39.7670693,
+      "longitude": 2.7157866,
+      "google_map": "https://www.google.com/maps/search/Casa%20%C3%81lvaro%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#casa-alvaro",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Ranked #2: authentic Spanish cooking and wine; open daily; the strong spontaneous fallback."
+        }
+      ],
+      "rating": 3,
+      "tags": "fideua, paella, tapas, traditional, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Casa Alvaro restaurant, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Romaguera",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Dinner Restaurant",
+      "emoji": "🍽️",
+      "description": "Contemporary sharing plates, aged steak and Mallorcan wine in a tucked-away street (Carrer de Sa Mar) with a small terrace. Open Saturday lunch, but small enough that walk-ins are uncertain — reserve if it's the pick.",
+      "cost_range": "$$$",
+      "address": "Carrer de Sa Mar, 26, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7670082,
+      "longitude": 2.7134485,
+      "google_map": "https://www.google.com/maps/search/La%20Romaguera%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-romaguera",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Ranked #3: contemporary sharing plates in a tucked-away street; its size makes walk-ins uncertain."
+        }
+      ],
+      "rating": 3,
+      "tags": "sharing-plates, small, soller, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "La Romaguera restaurant, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "RE Organic",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Cafe",
+      "emoji": "🥗",
+      "description": "Organic light meals, juices, vegetarian/vegan plates and organic wine on Carrer de Sa Mar, away from the main-square bustle — the guide's best light-lunch fallback for the market day.",
+      "cost_range": "$$",
+      "address": "Carrer de Sa Mar, 43, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7675786,
+      "longitude": 2.7127701,
+      "google_map": "https://www.google.com/maps/search/RE%20Organic%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#re-organic",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Best light-lunch fallback: organic dishes, juices, veg/vegan options, organic wine; verify the day's hours in town."
+        }
+      ],
+      "rating": 3,
+      "tags": "healthy, light-lunch, organic, vegetarian",
+      "source_rating_raw": null,
+      "geocode_query": "RE Organic, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Alameda Shop",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Specialty organic coffee, cakes and a curated concept store just off Sa Lluna (Carrer des Metge Maiol 2) — the easy shopping-and-café combination stop of the circuit.",
+      "cost_range": "$$",
+      "address": "Carrer des Metge A. Maiol, 2, bajos, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.76627999999999,
+      "longitude": 2.716275,
+      "google_map": "https://www.google.com/maps/search/Alameda%20Shop%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#alameda-shop",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Specialty coffee + tasteful browsing in one stop; excellent spontaneity subject to a free table."
+        }
+      ],
+      "rating": 3,
+      "tags": "coffee, concept-store, shopping, specialty-coffee",
+      "source_rating_raw": null,
+      "geocode_query": "Alameda Shop, Carrer del Metge Maiol 2, Soller, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "La Confiança",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Cafe",
+      "emoji": "🥐",
+      "description": "Long-running bakery on Carrer de sa Lluna with a beautifully preserved historic interior — ensaïmadas are the order; best as takeaway when the street is crowded.",
+      "cost_range": "$",
+      "address": "Carrer de sa Lluna, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7676685,
+      "longitude": 2.7174145,
+      "google_map": "https://www.google.com/maps/search/La%20Confian%C3%A7a%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-confianca",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Traditional pastry and historic interior on Sa Lluna; good — best takeaway if crowded."
+        }
+      ],
+      "rating": 3,
+      "tags": "bakery, ensaimada, historic, takeaway",
+      "source_rating_raw": null,
+      "geocode_query": "Forn La Confianza, Carrer de sa Lluna, Soller, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Café Sóller",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "The central-square terrace on Plaça de la Constitució — the iconic Sóller view with the wooden tram rattling past and mountains framing the square. Choose it for atmosphere, coffee or fresh orange juice rather than a destination meal.",
+      "cost_range": "$$",
+      "address": "Plaça de sa Constitució, 13, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7665827,
+      "longitude": 2.7152663,
+      "google_map": "https://www.google.com/maps/search/Caf%C3%A9%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#cafe-soller",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Tram-and-church people-watching on the main square; go for atmosphere, coffee or orange juice, not a destination meal."
+        }
+      ],
+      "rating": 3,
+      "tags": "people-watching, square, terrace, tram-views",
+      "source_rating_raw": null,
+      "geocode_query": "Cafe Soller, Placa Constitucio, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ca'n Pau Gelats Artesans",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Cafe",
+      "emoji": "🍦",
+      "description": "Handmade ice cream, sorbet and slush on the main square — Sóller orange or almond is the move, tied to the valley's own groves.",
+      "cost_range": "$",
+      "address": "Plaça de sa Constitució, 14A, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7666397,
+      "longitude": 2.7154634,
+      "google_map": "https://www.google.com/maps/search/Ca%27n%20Pau%20Gelats%20Artesans%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ca-n-pau-gelats-artesans",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Local citrus or almond ice cream on the main square — excellent spontaneity."
+        }
+      ],
+      "rating": 3,
+      "tags": "gelato, orange, square, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Ca'n Pau Gelats Artesans, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mister McCoy's Island Ices",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Bar",
+      "emoji": "🍦",
+      "description": "Small-batch ice cream plus natural wine, with a balcony facing the railway approach at Plaça d'Espanya — the guide's 'drink with atmosphere' wildcard.",
+      "cost_range": "$$",
+      "address": "Plaça d'Espanya, 12, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.765457,
+      "longitude": 2.7148022,
+      "google_map": "https://www.google.com/maps/search/Mister%20McCoy%27s%20Island%20Ices%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mister-mccoy-s-island-ices",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Gelato plus natural wine with a balcony over the railway approach; good if open and space allows."
+        }
+      ],
+      "rating": 3,
+      "tags": "balcony, gelato, natural-wine",
+      "source_rating_raw": null,
+      "geocode_query": "Mister McCoy's Island Ices, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "ArteArtesania",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Attraction",
+      "emoji": "🛍️",
+      "description": "Contemporary jewelry, ceramics, leather, glass and small-format art by named makers at Sa Lluna 43 — the strongest shop of the circuit for Ravello-style browsing. Saturday hours are 10:30–14:00 only, so hit it BEFORE lunch.",
+      "cost_range": "$$$",
+      "address": "Carrer de sa Lluna, 43, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.767451,
+      "longitude": 2.7168009,
+      "google_map": "https://www.google.com/maps/search/ArteArtesania%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#arteartesania",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Priority shop: named-maker craft and art. Official Saturday hours 10:30–14:00 — make it a priority before lunch."
+        },
+        {
+          "source": "ArteArtesania (official)",
+          "url": "https://www.arteartesania.com/en/author-handicraft/",
+          "date": "2026-08-25",
+          "note": "Official shop info and Saturday hours."
+        }
+      ],
+      "rating": 3,
+      "tags": "artisan, ceramics, jewelry, shopping, saturday-morning-only",
+      "source_rating_raw": null,
+      "geocode_query": "ArteArtesania, Carrer de sa Lluna 43, Soller, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ben Calçat",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Attraction",
+      "emoji": "🛍️",
+      "description": "Traditional Mallorcan shoes made in the workshop directly behind the store at Sa Lluna 74 — the authentic-souvenir counterpart to the craft galleries. Saturday morning opening reported; verify at the door.",
+      "cost_range": "$$",
+      "address": "Carrer de sa Lluna, 74, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7676391,
+      "longitude": 2.7176805,
+      "google_map": "https://www.google.com/maps/search/Ben%20Cal%C3%A7at%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ben-calcat",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Traditional Mallorcan shoes made on site; Saturday morning opening reported by secondary sources — verify at the door."
+        }
+      ],
+      "rating": 3,
+      "tags": "artisan, shoes, shopping, workshop",
+      "source_rating_raw": null,
+      "geocode_query": "Ben Calcat, Carrer de sa Lluna 74, Soller, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Fet a Sóller",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Attraction",
+      "emoji": "🛍️",
+      "description": "Local-producer retail — Sóller citrus preserves, olive oil, orange salt, honey, cosmetics and regional pantry goods from small Mallorcan makers. The best packable-souvenir density in town; confirm the current central-shop location when there.",
+      "cost_range": "$$",
+      "address": "Poligono Son Angelats, Carrer d'en Cristòfol Quintana Colom, 1, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7695119,
+      "longitude": 2.7040183,
+      "google_map": "https://www.google.com/maps/search/Fet%20a%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#fet-a-soller",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Works with small Mallorcan producers; citrus preserves, oil, orange salt, honey. Confirm the current central shop location."
+        }
+      ],
+      "rating": 3,
+      "tags": "local-products, orange, pantry, shopping, souvenirs",
+      "source_rating_raw": null,
+      "geocode_query": "Fet a Soller shop, Soller, Mallorca, Spain",
+      "geo_note": "Pinned at the Fet a Sóller production site (Son Angelats polígon); the guide advises confirming the current town-shop location.",
+      "flags": [
+        "location-approximate"
+      ]
+    },
+    {
+      "name": "Biniaraix & the Barranc Steps",
+      "region": "Mallorca",
+      "neighborhood": "Biniaraix (Sóller valley)",
+      "type": "Attraction",
+      "emoji": "🥾",
+      "description": "The guide's best short active option: continue up Carrer de sa Lluna through the citrus groves ~20 minutes to the tiny stone hamlet of Biniaraix (60–90 min round trip with a drink), optionally tasting the opening dry-stone staircase of the Barranc de Biniaraix before turning back. The Sóller-valley version of the Ravello wander — do it INSTEAD of Can Prunera if the afternoon calls for movement, not in addition.",
+      "cost_range": "",
+      "address": "07101 Biniarraix, Illes Balears, Spain",
+      "latitude": 39.7708882,
+      "longitude": 2.7350096,
+      "google_map": "https://www.google.com/maps/search/Biniaraix%20%26%20the%20Barranc%20Steps%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#biniaraix-the-barranc-steps",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Easy village-and-groves walk: Sóller → Biniaraix → Sóller, 60–90 min with a drink; or add the first section of the Barranc staircase. Choose it OR Can Prunera as the afternoon anchor."
+        }
+      ],
+      "rating": 4,
+      "tags": "citrus-groves, hamlet, hike, valley, walk",
+      "source_rating_raw": null,
+      "geocode_query": "Biniaraix, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "MUCBO — Jardí Botànic de Sóller",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Attraction",
+      "emoji": "🌺",
+      "description": "Botanical garden of endemic Balearic plants paired with the Natural Sciences Museum on the Palma road — the quiet break from market crowds (60–90 min). Verify Saturday closing time before walking over.",
+      "cost_range": "$",
+      "address": "Ctra. Palma, Ma-10, Km 30,5, 07100 Port de Sóller, Illes Balears, Spain",
+      "latitude": 39.7644701,
+      "longitude": 2.7094111,
+      "google_map": "https://www.google.com/maps/search/MUCBO%20%E2%80%94%20Jard%C3%AD%20Bot%C3%A0nic%20de%20S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mucbo-jardi-botanic-de-soller",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "A quieter combination of endemic plants, geology and fossils; good if open — verify Saturday closing time."
+        }
+      ],
+      "rating": 3,
+      "tags": "botanical-garden, museum, quiet",
+      "source_rating_raw": null,
+      "geocode_query": "Jardi Botanic de Soller MUCBO, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ecovinyassa",
+      "region": "Mallorca",
+      "neighborhood": "Sóller valley (Fornalutx road)",
+      "type": "Attraction",
+      "emoji": "🍊",
+      "description": "Citrus-farm visit among the orange groves on the Fornalutx road — charming, but NOT for this trip's Saturday: officially open Monday, Wednesday, Thursday and Friday only, with reservations essential. Filed for a future Mallorca visit (or a weekday if plans ever shift).",
+      "cost_range": "$$",
+      "address": "Carr. de Fornalutx, 3, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7700883,
+      "longitude": 2.7265811,
+      "google_map": "https://www.google.com/maps/search/Ecovinyassa%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ecovinyassa",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "'Do not plan Ecovinyassa for Saturday' — open Mon/Wed/Thu/Fri only, reservations essential."
+        },
+        {
+          "source": "Ecovinyassa (official)",
+          "url": "https://www.ecovinyassa.com/en/",
+          "date": "2026-08-25",
+          "note": "Official opening days and reservation policy."
+        }
+      ],
+      "rating": 2,
+      "tags": "citrus-farm, closed-saturday, future-trip, reservation-required",
+      "source_rating_raw": null,
+      "geocode_query": "Ecovinyassa, Fornalutx, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ca'n Pintxo",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Dinner Restaurant",
+      "emoji": "🍢",
+      "description": "One of Sóller's better creative tapas rooms — but its current official schedule lists SATURDAY AS CLOSED, so it's off the board for the Sep 5 train day. Noted for any future non-Saturday Sóller visit.",
+      "cost_range": "$$$",
+      "address": "Carrer de la Rectoria, 1, 07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7661778,
+      "longitude": 2.7139278,
+      "google_map": "https://www.google.com/maps/search/Ca%27n%20Pintxo%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ca-n-pintxo",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "'Do not plan around Ca'n Pintxo on this visit' — official schedule lists Saturday closed."
+        },
+        {
+          "source": "Ca'n Pintxo (official)",
+          "url": "https://www.canpintxo.com/en/",
+          "date": "2026-08-25",
+          "note": "Official website schedule showing Saturday closure."
+        }
+      ],
+      "rating": 2,
+      "tags": "closed-saturday, creative, future-trip, tapas",
+      "source_rating_raw": null,
+      "geocode_query": "Ca'n Pintxo restaurant, Soller, Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ferrocarril de Sóller (1912 train)",
+      "region": "Mallorca",
+      "neighborhood": "Palma → Sóller",
+      "type": "Attraction",
+      "emoji": "🚂",
+      "description": "Vintage 1912 wooden train from Palma through the Tramuntana to Sóller (~1 h each way; ~$46 round trip) — twice endorsed by Sara Caroline Bridgers and the anchor of the Sep 5 Sóller day. Current official timetable: Palma departures 10:10 and 10:50 (take the 10:10 to beat the market wind-down); returns from Sóller at 14:00, 17:15 (confirm at the ticket office), 18:00, 18:30 and 19:30. Buy the train-only return at the station on the day — the online product is the combined train-and-tram ticket. Bonus at arrival: the station's free Picasso and Miró rooms.",
+      "cost_range": "$",
+      "address": "Carrer d'Eusebi Estada, 1, 07004 Palma, Illes Balears, Spain",
+      "latitude": 39.5766774,
+      "longitude": 2.6538486,
+      "google_map": "https://www.google.com/maps/search/Ferrocarril%20de%20S%C3%B3ller%20%281912%20train%29%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ferrocarril-de-soller-1912-train",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "Official timetable: Palma 10:10/10:50 out; Sóller returns 14:00, 17:15 (confirm at office), 18:00, 18:30, 19:30. Train-only tickets sold at the station same-day; online sells the combined train+tram."
+        },
+        {
+          "source": "Tren de Sóller (official)",
+          "url": "https://trendesoller.com/eng/timetable",
+          "date": "2026-08-25",
+          "note": "Official timetable and fares page."
+        }
+      ],
+      "rating": 5,
+      "tags": "anchor-activity, attraction, scenic, timetable-verified, transport, vintage",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Sóller",
+      "region": "Mallorca",
+      "neighborhood": "Sóller",
+      "type": "Town/Village",
+      "emoji": "🏘️",
+      "description": "Golden-stone market town in its citrus valley, ringed by the Tramuntana — the anchor of the Sep 5 Saturday: market and food hall first (crowds peak 11:00–14:00), lunch on a side street rather than an obvious square terrace, then ONE afternoon anchor — Can Prunera for art and garden, or the Biniaraix groves walk for movement — and gelato or wine before the evening train. Modernista façades by Gaudí's disciple Joan Rubió (Sant Bartomeu church and the Banc de Sóller) frame the main square as the tram passes through.",
+      "cost_range": "",
+      "address": "07100 Sóller, Illes Balears, Spain",
+      "latitude": 39.7666667,
+      "longitude": 2.7166667,
+      "google_map": "https://www.google.com/maps/search/S%C3%B3ller%2C%20S%C3%B3ller%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#soller",
+      "references": [
+        {
+          "source": "Manus (Sóller Saturday pocket guide)",
+          "url": "https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e",
+          "date": "2026-08-25",
+          "note": "The Saturday shape: market → Sa Lluna shopping → side-street lunch → Can Prunera OR Biniaraix → gelato/wine → 17:15 or 18:00 train home. Crowded 11:00–14:00; that's the plan working, not failing."
+        }
+      ],
+      "rating": 4,
+      "tags": "market-town, modernista, saturday-plan, town, tramuntana, valley",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}
