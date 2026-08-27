@@ -1,3 +1,15 @@
+Yes, they take reservations, and in the first week of September you'll want one. One thing to untangle first: there are two different "Sa Foradada" places, and they book differently.
+
+**Restaurante Sa Foradada (the one at sea level)** is the wood-fire paella shack I mentioned before, at the bottom of the rock. You have to book, and the advice is to call early in the morning while they're prepping the food — it's phone-only, roughly 10:30 to 12:30, and same-day or a day or two ahead is normal, since they cook paellas to order. Their site is restaurantesaforadada.com and it confirms they're operating this season. You reach it by hiking 45 minutes down from the Son Marroig estate (and back up) or by boat from Port de Sóller.
+
+**Foradada Restaurant (the one at the top, at the Mirador)** is a separate group with three spaces along the road: Foradada Mirador, Foradada Bar, and Foradada Mar. They take phone reservations from 9:00 am to 12:30 pm at +34 646 109 362, and also by email at reservas@foradadarestaurant.com. This is the famous sunset spot, and parking there is a known problem, with big crowds arriving at sunset, so book ahead and arrive early.
+
+The easiest path from where you're staying: ask the La Residencia concierge to make the call for you. It's about a 10-minute drive from the hotel, they book this constantly, and they'll know the current hours and whether the lower restaurant is running that day (sea conditions occasionally close it). Just be specific about which one you want — the paella-by-the-water experience is the sea-level one; the sunset-with-a-drink experience is the Mirador.
+
+---
+
+# Older Information:
+
 [Sa Foradada](https://www.google.com/maps/place/Sa+Foradada/@39.7556056,2.6032555,15z/data=!4m10!1m2!2m1!1sSa+Foradada!3m6!1s0x1297efd77aa08259:0xebdb7723601140a1!8m2!3d39.7556054!4d2.6223089!15sCgtTYSBGb3JhZGFkYVoNIgtzYSBmb3JhZGFkYZIBEnNwYW5pc2hfcmVzdGF1cmFudOABAA!16s%2Fg%2F11bw70bks9?entry=ttu&g_ep=EgoyMDI2MDgwNS4xIKXMDSoASAFQAw%3D%3D)
 
 Yes! Sa Foradada is absolutely accessible by foot from the mainland — that's actually the most popular way to get there. Here's how it works from La Residencia:
