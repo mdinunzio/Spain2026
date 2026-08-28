@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note, 2026-08-27_palma-thursday-note*
 
-*327 venues · 591 sources*
+*329 venues · 594 sources*
 
 ---
 
@@ -3686,6 +3686,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="forn-del-santo-cristo" name="forn-del-santo-cristo"></a>
+
+## 🥐 Forn del Santo Cristo
+
+**Region:** Mallorca · **Neighborhood:** Palma Old Town · **Type:** Cafe · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Forn%20del%20Santo%20Cristo%2C%20Palma%2C%20Mallorca%2C%20Spain)
+
+### Sources (1)
+
+- **Palma Thursday Sep 3 note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/palma-thursday-sep-3.md)
+  - Crawl finisher: 'a late-night ensaïmada from Forn del Santo Cristo if it's open, otherwise Ca'n Joan de S'Aigo the next morning.'
+
+---
+
 <a id="gala-dali-castle-pubol" name="gala-dali-castle-pubol"></a>
 
 ## 🏰 Gala Dalí Castle (Púbol)
@@ -4193,10 +4208,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Mercat%20de%20l%27Olivar%2C%20Palma%2C%20Mallorca%2C%20Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **The Infatuation — Isabella Noble** · 2026-05-29 · [link](https://www.theinfatuation.com/mallorca/guides/best-restaurants-palma-de-mallorca)
   - Operating since the 1950s; Balearic cheeses, garlic, olives, local salts; Mercat Negre (seafood small plates) and Buades (ibérico, charcuterie, cheeses). Busy with visitors and locals.
+- **Palma Thursday Sep 3 note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/palma-thursday-sep-3.md)
+  - Market strategy: stall-to-bar grilling, oyster-and-cava counter, 45-minute standing lunch; morning place — Thu 1 PM is the tail end; reportedly open Fri/Sat evenings, verify on the day.
 
 ---
 
@@ -4419,6 +4436,21 @@ Each section is linked from that tab's `References` column.
 
 - **Manus (Palma pocket guide)** · 2026-08-21 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - The elegant shopping spine: Born (luxury) + Jaume III (main artery), with Folklorious and ISSO concept stores, Villa Vintage in Santa Catalina, and Sa Gerreria as the artisan quarter.
+
+---
+
+<a id="patron-lunares" name="patron-lunares"></a>
+
+## 🎣 Patrón Lunares
+
+**Region:** Mallorca · **Neighborhood:** Santa Catalina, Palma · **Type:** Dinner Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Patr%C3%B3n+Lunares%2C+Palma%2C+Mallorca%2C+Spain)
+
+### Sources (1)
+
+- **Palma Thursday Sep 3 note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/palma-thursday-sep-3.md)
+  - Tapas-crawl backup: 'proper Mallorcan plates in an old fishermen's club' — use if Toque de Queda is slammed. Santa Catalina, ~10 min west of the crawl.
 
 ---
 

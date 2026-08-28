@@ -37,9 +37,9 @@ Two separate things, and the market one has a timing catch, so I'll take that fi
 
 Palma has two markets worth your time, and both are morning places. They wind down after lunch, so a Thursday 1pm arrival from Deià is the tail end, not the sweet spot.
 
-**Mercat de l'Olivar** is the big central one, five minutes from Palma Riad. Ground floor is produce, cured meats, and a serious fish hall; the move is the bar counters built into the market itself. You can buy prawns or a piece of fish from a stall and have the adjacent bar grill it for a few euros, or just sit at the oyster and cava counter. Traditional hours are morning to mid-afternoon; if you go Thursday, go straight from dropping your bags and treat it as lunch. It's also known to stay open into the evening on Fridays and Saturdays, so verify the hours on the day, because Friday evening before Stagier or Saturday before the Sóller train could be the better slot.
+**Mercat de l'Olivar** ([📍 Map](https://www.google.com/maps/search/Mercat%20de%20l%20Olivar%2C%20Palma%2C%20Mallorca%2C%20Spain)) is the big central one, five minutes from Palma Riad. Ground floor is produce, cured meats, and a serious fish hall; the move is the bar counters built into the market itself. You can buy prawns or a piece of fish from a stall and have the adjacent bar grill it for a few euros, or just sit at the oyster and cava counter. Traditional hours are morning to mid-afternoon; if you go Thursday, go straight from dropping your bags and treat it as lunch. It's also known to stay open into the evening on Fridays and Saturdays, so verify the hours on the day, because Friday evening before Stagier or Saturday before the Sóller train could be the better slot.
 
-**Mercat de Santa Catalina** is smaller, older, and more neighborhood: a covered hall in the Santa Catalina district with produce, a fish corner, and a handful of tiny bars where locals stand with a vermut and a plate of boquerones at 11am. This one is the better "vibe" market and it's a ten-minute walk from Es Baluard. Closed Sunday, so not on the 6th.
+**Mercat de Santa Catalina** ([📍 Map](https://www.google.com/maps/search/Mercat%20de%20Santa%20Catalina%2C%20Palma%2C%20Mallorca%2C%20Spain)) is smaller, older, and more neighborhood: a covered hall in the Santa Catalina district with produce, a fish corner, and a handful of tiny bars where locals stand with a vermut and a plate of boquerones at 11am. This one is the better "vibe" market and it's a ten-minute walk from Es Baluard. Closed Sunday, so not on the 6th.
 
 What a market visit looks like in practice: walk the whole thing once without buying, then pick a counter, stand, and order three or four things: a plate of jamón, grilled gambas, a couple of oysters, a vermut or a caña. Forty-five minutes, done, then wander out into the streets around it. Don't try to make it a sit-down meal.
 
@@ -47,7 +47,7 @@ What a market visit looks like in practice: walk the whole thing once without bu
 
 This is the whole evening, 7pm to around midnight, two clusters connected by one walk. No booking anywhere.
 
-**Cluster 1 — Santa Catalina (7:00–8:30).** Start on the rooftop at Bar Cuba for a drink with the harbor light, then Patrón Lunares for the Mallorcan plates: frito mallorquín, tumbet, sobrassada with honey, snails if you're brave. Two plates, one drink, out.
+**Cluster 1 — Santa Catalina (7:00–8:30).** Start on the rooftop at Bar Cuba ([📍 Map](https://www.google.com/maps/search/Hostal%20Cuba%2C%20Santa%20Catalina%2C%20Palma%2C%20Mallorca%2C%20Spain)) for a drink with the harbor light, then Patrón Lunares for the Mallorcan plates: frito mallorquín, tumbet, sobrassada with honey, snails if you're brave. Two plates, one drink, out.
 
 **The walk (8:30–8:45).** East along the seafront past Es Baluard, into the old town.
 
@@ -59,6 +59,6 @@ This is the whole evening, 7pm to around midnight, two clusters connected by one
 
 **Finish (11:00).** Abaco on Carrer de Sant Joan for one absurd cocktail in the mansion.
 
-Order two or three things per bar, share everything, one drink each per stop, and never sit down for long. If you're flagging after three stops, skip straight to Toque de Queda and Abaco. If you're still hungry at the end, a late-night ensaïmada from Forn del Santo Cristo if it's open, otherwise Ca'n Joan de S'Aigo the next morning.
+Order two or three things per bar, share everything, one drink each per stop, and never sit down for long. If you're flagging after three stops, skip straight to Toque de Queda and Abaco. If you're still hungry at the end, a late-night ensaïmada from Forn del Santo Cristo ([📍 Map](https://www.google.com/maps/search/Forn%20del%20Santo%20Cristo%2C%20Carrer%20de%20Paraires%2C%20Palma%2C%20Mallorca%2C%20Spain)) if it's open, otherwise Ca'n Joan de S'Aigo the next morning.
 
 One practical note: Palma eats late, so the bars in cluster 2 are dead at 8pm and packed by 10. Starting in Santa Catalina and arriving in the old town around 9 is deliberate.

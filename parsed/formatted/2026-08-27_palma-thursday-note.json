@@ -2,7 +2,7 @@
   "batch": "2026-08-27_palma-thursday-note",
   "region": "Mallorca",
   "source_count": 1,
-  "venue_count": 1,
+  "venue_count": 3,
   "locations": [
     {
       "name": "Patrón Lunares",
@@ -10,7 +10,7 @@
       "neighborhood": "Santa Catalina, Palma",
       "type": "Dinner Restaurant",
       "emoji": "🎣",
-      "description": "Proper Mallorcan plates served in a restyled old fishermen's club in Santa Catalina — nautical-social-club room, market fish and island classics, on Carrer de la Fàbrica a few doors from Xoriguer. Filed in the Thursday tapas-crawl plan as the backup if Toque de Queda is slammed; also a solid standalone Santa Catalina dinner. 🚶 14 min from the Palma Riad.",
+      "description": "Proper Mallorcan plates served in a restyled old fishermen's club in Santa Catalina — frito mallorquín, tumbet, sobrassada with honey, snails, market fish — on Carrer de la Fàbrica a few doors from Xoriguer. Opens the tapas-crawl plan (cluster 1 with the Bar Cuba rooftop) and doubles as the backup if Toque de Queda is slammed. ⚠️ Chelsea note: the signature plates lean pork (frito, sobrassada) — the tumbet and fish dishes are her lane. 🚶 14 min from the Palma Riad.",
       "cost_range": "$$$",
       "address": "Carrer de la Fàbrica, 30, 07013 Palma, Illes Balears, Spain",
       "latitude": 39.572829,
@@ -26,11 +26,69 @@
         }
       ],
       "rating": 3,
-      "tags": "fishermens-club, mallorcan, palma, santa-catalina, walk-in",
+      "tags": "fishermens-club, mallorcan, palma, pork-leaning, santa-catalina, walk-in",
       "source_rating_raw": null,
       "geocode_query": "Patron Lunares, Santa Catalina, Palma de Mallorca, Spain",
       "geo_note": null,
       "flags": []
+    },
+    {
+      "name": "Forn del Santo Cristo",
+      "region": "Mallorca",
+      "neighborhood": "Palma Old Town",
+      "type": "Cafe",
+      "emoji": "🥐",
+      "description": "Historic Palma bakery (est. 1910) on Carrer de Paraires — ensaïmadas in every size plus crema-filled variants, boxed for carrying home. Filed in the tapas-crawl plan as the late-night ensaïmada finisher if open, with Ca'n Joan de S'Aigo the next-morning alternative; also the practical buy-the-airport-box stop before the Monday flight. 🚶 2 min from the Palma Riad.",
+      "cost_range": "$",
+      "address": "Carrer dels Paraires, 2, Centre, 07001 Palma, Illes Balears, Spain",
+      "latitude": 39.57090890000001,
+      "longitude": 2.6478583,
+      "google_map": "https://www.google.com/maps/search/Forn%20del%20Santo%20Cristo%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#forn-del-santo-cristo",
+      "references": [
+        {
+          "source": "Palma Thursday Sep 3 note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/palma-thursday-sep-3.md",
+          "date": "2026-08-27",
+          "note": "Crawl finisher: 'a late-night ensaïmada from Forn del Santo Cristo if it's open, otherwise Ca'n Joan de S'Aigo the next morning.'"
+        }
+      ],
+      "rating": 3,
+      "tags": "bakery, ensaimada, historic, late-night, palma",
+      "source_rating_raw": null,
+      "geocode_query": "Forn del Santo Cristo, Carrer de Paraires, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Mercat de l'Olivar",
+      "region": "Mallorca",
+      "neighborhood": "Centre, Palma",
+      "type": "Market",
+      "emoji": "🧺",
+      "description": "Palma's big covered market since the 1950s — Balearic cheeses, olives, local salts, plus eat-in stalls: Mercat Negre for fresh-seafood small plates and Buades for ibérico and charcuterie; also where the Cooking Class Soqueta market tour begins. The crawl-note move: buy prawns or fish from a stall and have the adjacent bar grill it for a few euros, or sit at the oyster-and-cava counter — a 45-minute standing lunch, not a sit-down meal. Morning-to-mid-afternoon rhythm (a Thursday 1 PM arrival is the tail end); known to run into the evening Fridays and Saturdays — verify on the day, since Friday pre-Stagier or Saturday pre-Sóller may be the better slot. 🚶 12 min from the Riad.",
+      "cost_range": "$",
+      "address": "Plaça de l'Olivar, s/n, 07002 Palma, Illes Balears, Spain",
+      "latitude": 39.5737478,
+      "longitude": 2.6534932,
+      "google_map": "https://www.google.com/maps/search/Mercat%20de%20l%27Olivar%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#mercat-de-l-olivar",
+      "references": [
+        {
+          "source": "Palma Thursday Sep 3 note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/palma-thursday-sep-3.md",
+          "date": "2026-08-27",
+          "note": "Market strategy: stall-to-bar grilling, oyster-and-cava counter, 45-minute standing lunch; morning place — Thu 1 PM is the tail end; reportedly open Fri/Sat evenings, verify on the day."
+        }
+      ],
+      "rating": 3,
+      "tags": "food-hall, grill-counters, market, palma, quick-lunch, seafood",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
     }
   ]
 }
