@@ -8,26 +8,26 @@ Leave Deià at noon, arrive Palma ~1pm. Palma Riad holds bags until 3pm check-in
 
 | Time | Stop | Notes |
 |---|---|---|
-| 1:00 PM | Drop bags at Palma Riad | Quick lunch nearby |
-| 1:30 PM | Ca'n Joan de S'Aigo | Café open since 1700. Ensaïmada + almond ice cream. Essential stop. |
-| 3:30 PM | La Seu (Palma Cathedral) | Timed ticket. Gaudí canopy, Barceló chapel. Walk the seafront below afterwards. |
-| 5:00 PM | Old town wander | Arab Baths, Carrer de Sant Miquel, Passeig del Born as shops reopen |
-| 7:00 PM | Es Baluard rooftop | Drink on the fortress walls, harbor below. Santa Catalina is 10 min on foot from here. |
+| 1:00 PM | Drop bags at Palma Riad ([📍 Map](https://www.google.com/maps/search/Palma%20Riad%2C%20Carrer%20de%20Sant%20Jaume%205%2C%20Palma%2C%20Mallorca%2C%20Spain)) | Quick lunch nearby |
+| 1:30 PM | Ca'n Joan de S'Aigo ([📍 Map](https://www.google.com/maps/search/Ca%20n%20Joan%20de%20S%20Aigo%2C%20Carrer%20de%20Can%20Sanc%2C%20Palma%2C%20Mallorca%2C%20Spain)) | Café open since 1700. Ensaïmada + almond ice cream. Essential stop. |
+| 3:30 PM | La Seu (Palma Cathedral) ([📍 Map](https://www.google.com/maps/search/Catedral%20de%20Mallorca%2C%20Palma%2C%20Mallorca%2C%20Spain)) | Timed ticket. Gaudí canopy, Barceló chapel. Walk the seafront below afterwards. |
+| 5:00 PM | Old town wander | Arab Baths ([📍 Map](https://www.google.com/maps/search/Banys%20Arabs%2C%20Palma%2C%20Mallorca%2C%20Spain)), Carrer de Sant Miquel ([📍 Map](https://www.google.com/maps/search/Carrer%20de%20Sant%20Miquel%2C%20Palma%2C%20Mallorca%2C%20Spain)), Passeig del Born ([📍 Map](https://www.google.com/maps/search/Passeig%20des%20Born%2C%20Palma%2C%20Mallorca%2C%20Spain)) as shops reopen |
+| 7:00 PM | Es Baluard rooftop ([📍 Map](https://www.google.com/maps/search/Es%20Baluard%20Museum%2C%20Palma%2C%20Mallorca%2C%20Spain)) | Drink on the fortress walls, harbor below. Santa Catalina is 10 min on foot from here. |
 
 ## Tapas crawl (all walk-in, ~10 min apart on foot)
 
 | Time | Stop | Order |
 |---|---|---|
-| 8:00 PM | La Rosa Vermutería | Vermut, conservas, Mallorcan cheese |
-| 8:45 PM | Bar España | Tiny old-school bar, the tapas locals grew up on |
-| 9:30 PM | Toque de Queda | Cava + charcuterie in a converted old bakery in Sa Gerreria. Busy after 9:30. |
-| 10:30 PM | Abaco (Carrer de Sant Joan) | Nightcap in an over-the-top 17th-century mansion bar. Pricey; one drink each is plenty. |
+| 8:00 PM | La Rosa Vermutería ([📍 Map](https://www.google.com/maps/search/La%20Rosa%20Vermuteria%2C%20Carrer%20de%20la%20Rosa%2C%20Palma%2C%20Mallorca%2C%20Spain)) | Vermut, conservas, Mallorcan cheese |
+| 8:45 PM | Bar España ([📍 Map](https://www.google.com/maps/search/Bar%20Espanya%2C%20Carrer%20de%20Can%20Escursac%2C%20Palma%2C%20Mallorca%2C%20Spain)) | Tiny old-school bar, the tapas locals grew up on |
+| 9:30 PM | Toque de Queda ([📍 Map](https://www.google.com/maps/search/Toque%20de%20Queda%2C%20Carrer%20de%20Can%20Cavalleria%2C%20Palma%2C%20Mallorca%2C%20Spain)) | Cava + charcuterie in a converted old bakery in Sa Gerreria. Busy after 9:30. |
+| 10:30 PM | Abaco (Carrer de Sant Joan) ([📍 Map](https://www.google.com/maps/search/Abaco%2C%20Carrer%20de%20Sant%20Joan%201%2C%20Palma%2C%20Mallorca%2C%20Spain)) | Nightcap in an over-the-top 17th-century mansion bar. Pricey; one drink each is plenty. |
 
 Rules of the crawl: two or three things per place, keep moving.
 
 ## Backups
-- **Bar Dia** (Carrer dels Apuntadors) — cheap, loud, unpretentious classic. No reservations. Good fourth food stop.
-- **Patrón Lunares** (Santa Catalina, 10 min west) — proper Mallorcan plates in an old fishermen's club. Use if Toque de Queda is slammed.
+- **Bar Dia** ([📍 Map](https://www.google.com/maps/search/Bar%20Dia%2C%20Carrer%20dels%20Apuntadors%2018%2C%20Palma%2C%20Mallorca%2C%20Spain)) — cheap, loud, unpretentious classic. No reservations. Good fourth food stop.
+- **Patrón Lunares** ([📍 Map](https://www.google.com/maps/search/Patron%20Lunares%2C%20Carrer%20de%20la%20Fabrica%2030%2C%20Palma%2C%20Mallorca%2C%20Spain)) (Santa Catalina, 10 min west) — proper Mallorcan plates in an old fishermen's club. Use if Toque de Queda is slammed.
 
 # Tapas Info
 

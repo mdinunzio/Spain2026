@@ -1,0 +1,36 @@
+{
+  "batch": "2026-08-27_palma-thursday-note",
+  "region": "Mallorca",
+  "source_count": 1,
+  "venue_count": 1,
+  "locations": [
+    {
+      "name": "Patrón Lunares",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Dinner Restaurant",
+      "emoji": "🎣",
+      "description": "Proper Mallorcan plates served in a restyled old fishermen's club in Santa Catalina — nautical-social-club room, market fish and island classics, on Carrer de la Fàbrica a few doors from Xoriguer. Filed in the Thursday tapas-crawl plan as the backup if Toque de Queda is slammed; also a solid standalone Santa Catalina dinner. 🚶 14 min from the Palma Riad.",
+      "cost_range": "$$$",
+      "address": "Carrer de la Fàbrica, 30, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.572829,
+      "longitude": 2.637127,
+      "google_map": "https://www.google.com/maps/search/Patr%C3%B3n+Lunares%2C+Palma%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#patron-lunares",
+      "references": [
+        {
+          "source": "Palma Thursday Sep 3 note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/palma-thursday-sep-3.md",
+          "date": "2026-08-27",
+          "note": "Tapas-crawl backup: 'proper Mallorcan plates in an old fishermen's club' — use if Toque de Queda is slammed. Santa Catalina, ~10 min west of the crawl."
+        }
+      ],
+      "rating": 3,
+      "tags": "fishermens-club, mallorcan, palma, santa-catalina, walk-in",
+      "source_rating_raw": null,
+      "geocode_query": "Patron Lunares, Santa Catalina, Palma de Mallorca, Spain",
+      "geo_note": null,
+      "flags": []
+    }
+  ]
+}
