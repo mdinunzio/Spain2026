@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note, 2026-08-27_palma-thursday-note*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note, 2026-08-27_palma-thursday-note, 2026-08-27_sep7-lunch-options*
 
-*329 venues · 595 sources*
+*336 venues · 603 sources*
 
 ---
 
@@ -669,6 +669,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="can-blau-palamos" name="can-blau-palamos"></a>
+
+## 🥘 Can Blau (Palamós)
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Can%20Blau%20%28Palam%C3%B3s%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Sep 7 lunch-options note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md)
+  - Locals' pick for rice and gambas, highest rated; fish by weight — ask first; Mon 1:00–4:00.
+
+---
+
 <a id="can-ferrereta" name="can-ferrereta"></a>
 
 ## 🏨 Can Ferrereta
@@ -1272,6 +1287,21 @@ Each section is linked from that tab's `References` column.
   - Rank 1 / best overall fit: fisherman's house over Port Bo, Empordà cooking, Chelsea-ideal; live Mon–Wed; best date Wed Sep 9 at 8:00–8:15.
 - **La Blava (reservations)** · 2026-08-26 · [link](https://lablava.myrestoo.net/en/reservar)
   - Official reservation calendar.
+
+---
+
+<a id="la-gamba-palamos" name="la-gamba-palamos"></a>
+
+## 🦐 La Gamba (Palamós)
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Lunch Restaurant · **Rating:** 4/5 · **Cost:** $$$$
+
+[Google Maps](https://www.google.com/maps/search/La%20Gamba%20%28Palam%C3%B3s%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Sep 7 lunch-options note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md)
+  - Option 1 pick: the classic since 1918; small gambas a la plancha are the order; Mon 1:00–3:45; arrival-day timing means no reservation stress.
 
 ---
 
@@ -2688,6 +2718,21 @@ Each section is linked from that tab's `References` column.
 
 ---
 
+<a id="ca-l-amadeu-palamos" name="ca-l-amadeu-palamos"></a>
+
+## ⚓ Ca L'Amadeu (Palamós)
+
+**Region:** Costa Brava · **Neighborhood:** Marina Palamós · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Ca%20L%27Amadeu%20%28Palam%C3%B3s%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Sep 7 lunch-options note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md)
+  - The low-effort option with luggage in the car: marina terrace, secure lot, open through 5 PM.
+
+---
+
 <a id="ca-n-lluc" name="ca-n-lluc"></a>
 
 ## 🐟 Ca'n Lluc
@@ -3063,12 +3108,14 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Candelaria%20%28Peratallada%29%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (2)
+### Sources (3)
 
 - **Manus (Mas Oller Tue/Wed day-plan report)** · 2026-08-26 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - Best Wednesday lunch + Peratallada combination: 13:00–15:00, then village until ~4:25, then the 5:00 tasting. Tuesday closed per live calendar.
 - **Candelaria (reservations)** · 2026-08-26 · [link](https://docandelaria.myrestoo.net/en/reservar)
   - Official live reservation calendar.
+- **Sep 7 lunch-options note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md)
+  - Conflicting claim: 'closed Mondays… open Tuesday 1:00–3:30' — contradicts the Aug 26 live-calendar finding (Tue closed / Wed open). Verify before booking.
 
 ---
 
@@ -3120,6 +3167,36 @@ Each section is linked from that tab's `References` column.
   - Listed in Manus's Ultimate Palma Master List, under Old Town › Shopping.
 - **The Best Shopping Streets in Palma (Veebrant)** · 2026-07-24 · [link](https://veebrant.com/shopping-streets-palma-mallorca/)
   - Manus cited this source: The Best Shopping Streets in Palma (Veebrant).
+
+---
+
+<a id="casa-flora-girona" name="casa-flora-girona"></a>
+
+## 🍽️ Casa Flora (Girona)
+
+**Region:** Costa Brava · **Neighborhood:** Girona Old Town · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$
+
+[Google Maps](https://www.google.com/maps/search/Casa%20Flora%20%28Girona%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Sep 7 lunch-options note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md)
+  - Option 3 alternative: excellent family-run set lunch; hours unpublished — call ahead.
+
+---
+
+<a id="casa-marieta-girona" name="casa-marieta-girona"></a>
+
+## 🍽️ Casa Marieta (Girona)
+
+**Region:** Costa Brava · **Neighborhood:** Girona Old Town · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/Casa%20Marieta%20%28Girona%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Sep 7 lunch-options note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md)
+  - Option 3: the classic on Plaça Independència; CLOSED Mondays — hold for the Sep 10 Girona rescue day.
 
 ---
 
@@ -3427,6 +3504,21 @@ Each section is linked from that tab's `References` column.
 
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Modern restaurant in central Palma; called out excellent sangria. 4/5.
+
+---
+
+<a id="el-borinot-peratallada" name="el-borinot-peratallada"></a>
+
+## 🥘 El Borinot (Peratallada)
+
+**Region:** Costa Brava · **Neighborhood:** Peratallada · **Type:** Lunch Restaurant · **Rating:** 3/5 · **Cost:** $$$
+
+[Google Maps](https://www.google.com/maps/search/El%20Borinot%20%28Peratallada%29%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Sep 7 lunch-options note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md)
+  - Option 2's Monday-open pick: fideuà under the arches, 12:30–3:15.
 
 ---
 
@@ -4295,6 +4387,21 @@ Each section is linked from that tab's `References` column.
 
 - **Manus (Sóller Saturday pocket guide)** · 2026-08-25 · [link](https://manus.im/app/ab5BWyMlDZtFqjZJo9zm5e)
   - A quieter combination of endemic plants, geology and fossils; good if open — verify Saturday closing time.
+
+---
+
+<a id="museu-de-la-pesca" name="museu-de-la-pesca"></a>
+
+## 🎣 Museu de la Pesca
+
+**Region:** Costa Brava · **Neighborhood:** Palamós · **Type:** Museum · **Rating:** 3/5 · **Cost:** $
+
+[Google Maps](https://www.google.com/maps/search/Museu%20de%20la%20Pesca%2C%20Costa%20Brava%2C%20Spain)
+
+### Sources (1)
+
+- **Sep 7 lunch-options note (repo)** · 2026-08-27 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md)
+  - Post-lunch stroll: walk the port past the fishing boats, peek at the Museu de la Pesca, then Camí de Ronda to Cala S'Alguer (~25 min each way).
 
 ---
 

@@ -1,0 +1,234 @@
+{
+  "batch": "2026-08-27_sep7-lunch-options",
+  "region": "Costa Brava",
+  "source_count": 1,
+  "venue_count": 8,
+  "locations": [
+    {
+      "name": "La Gamba (Palamós)",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Lunch Restaurant",
+      "emoji": "🦐",
+      "description": "The Palamós classic since 1918, on the port square facing the fishing boats — the shrine of the gamba de Palamós, landed at this exact dock. The arrival-day lunch plan for Mon Sep 7 (BCN 93 min → here, then 22 min to Mas Pastora): order the SMALL gambas a la plancha, which the note flags as tastier than the big ones. Monday lunch 1:00–3:45 PM; +34 972 31 46 33.",
+      "cost_range": "$$$$",
+      "address": "Plaça de Sant Pere, 1, 17230 Palamós, Girona, Spain",
+      "latitude": 41.845018,
+      "longitude": 3.128732,
+      "google_map": "https://www.google.com/maps/search/La%20Gamba%20%28Palam%C3%B3s%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#la-gamba-palamos",
+      "references": [
+        {
+          "source": "Sep 7 lunch-options note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md",
+          "date": "2026-08-27",
+          "note": "Option 1 pick: the classic since 1918; small gambas a la plancha are the order; Mon 1:00–3:45; arrival-day timing means no reservation stress."
+        }
+      ],
+      "rating": 4,
+      "tags": "gambas, historic, monday-open, palamos, port",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant La Gamba, Palamos, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Can Blau (Palamós)",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "One street back from the Palamós port — the locals' pick for rice dishes and gambas, and the highest-rated of the port cluster. Whole fish is priced by weight: ask before they cook it. Monday lunch 1:00–4:00 PM; +34 972 31 61 13.",
+      "cost_range": "$$$",
+      "address": "Carrer del Vapor, 3, 17230 Palamós, Girona, Spain",
+      "latitude": 41.844962,
+      "longitude": 3.1280393,
+      "google_map": "https://www.google.com/maps/search/Can%20Blau%20%28Palam%C3%B3s%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#can-blau-palamos",
+      "references": [
+        {
+          "source": "Sep 7 lunch-options note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md",
+          "date": "2026-08-27",
+          "note": "Locals' pick for rice and gambas, highest rated; fish by weight — ask first; Mon 1:00–4:00."
+        }
+      ],
+      "rating": 4,
+      "tags": "gambas, local-favorite, monday-open, palamos, rice",
+      "source_rating_raw": null,
+      "geocode_query": "Restaurant Can Blau, Palamos, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Ca L'Amadeu (Palamós)",
+      "region": "Costa Brava",
+      "neighborhood": "Marina Palamós",
+      "type": "Lunch Restaurant",
+      "emoji": "⚓",
+      "description": "In the Palamós marina with a terrace over the boats and the easiest parking of the port cluster (secure lot) — the note's low-effort option with luggage in the car on the arrival-day drive. Open through 5:00 PM; +34 972 31 37 43.",
+      "cost_range": "$$$",
+      "address": "Carrer PORT SPORTIU MARINA PALAMOS, Torre 1, 17230 Palamós, Girona, Spain",
+      "latitude": 41.8474041,
+      "longitude": 3.134951,
+      "google_map": "https://www.google.com/maps/search/Ca%20L%27Amadeu%20%28Palam%C3%B3s%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#ca-l-amadeu-palamos",
+      "references": [
+        {
+          "source": "Sep 7 lunch-options note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md",
+          "date": "2026-08-27",
+          "note": "The low-effort option with luggage in the car: marina terrace, secure lot, open through 5 PM."
+        }
+      ],
+      "rating": 3,
+      "tags": "luggage-friendly, marina, parking, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "Ca l'Amadeu, Marina Palamos, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Museu de la Pesca",
+      "region": "Costa Brava",
+      "neighborhood": "Palamós",
+      "type": "Museum",
+      "emoji": "🎣",
+      "description": "Fishing museum on the Palamós dock — the story of the port that lands the famous red prawns, a natural 20-minute stop between the port lunch and the Camí de Ronda walk to Cala S'Alguer's whitewashed fishermen's huts.",
+      "cost_range": "$",
+      "address": "Zona Portuària, Calle del Muelle, s/n, 17230 Palamós, Girona, Spain",
+      "latitude": 41.8451067,
+      "longitude": 3.1270225,
+      "google_map": "https://www.google.com/maps/search/Museu%20de%20la%20Pesca%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#museu-de-la-pesca",
+      "references": [
+        {
+          "source": "Sep 7 lunch-options note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md",
+          "date": "2026-08-27",
+          "note": "Post-lunch stroll: walk the port past the fishing boats, peek at the Museu de la Pesca, then Camí de Ronda to Cala S'Alguer (~25 min each way)."
+        }
+      ],
+      "rating": 3,
+      "tags": "fishing, maritime, museum, palamos, port",
+      "source_rating_raw": null,
+      "geocode_query": "Museu de la Pesca, Palamos, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "El Borinot (Peratallada)",
+      "region": "Costa Brava",
+      "neighborhood": "Peratallada",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Fideuà on a terrace under Peratallada's medieval arches — 'genuinely good' per the lunch note, and the reliable Monday option in the village (open Mon 12:30–3:15 PM, when D.O. Candelaria is closed). +34 872 99 37 48.",
+      "cost_range": "$$$",
+      "address": "Carrer del Form, 15, 17113 Peratallada, Girona, Spain",
+      "latitude": 41.9770054,
+      "longitude": 3.0892067,
+      "google_map": "https://www.google.com/maps/search/El%20Borinot%20%28Peratallada%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#el-borinot-peratallada",
+      "references": [
+        {
+          "source": "Sep 7 lunch-options note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md",
+          "date": "2026-08-27",
+          "note": "Option 2's Monday-open pick: fideuà under the arches, 12:30–3:15."
+        }
+      ],
+      "rating": 3,
+      "tags": "fideua, medieval-arches, monday-open, peratallada, terrace",
+      "source_rating_raw": null,
+      "geocode_query": "El Borinot, Peratallada, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Casa Marieta (Girona)",
+      "region": "Costa Brava",
+      "neighborhood": "Girona Old Town",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "The Catalan classic on Girona's arcaded Plaça Independència 'since forever' — ⚠️ closed Mondays, so not for the Sep 7 arrival drive; filed for a Girona day (the Sep 10 flex idea) alongside Arròs9, La Fábrica and the Old Town cluster. +34 972 20 10 16.",
+      "cost_range": "$$$",
+      "address": "Pl. de la Independència, 5, 6, 17001 Girona, Spain",
+      "latitude": 41.9857837,
+      "longitude": 2.8232711,
+      "google_map": "https://www.google.com/maps/search/Casa%20Marieta%20%28Girona%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#casa-marieta-girona",
+      "references": [
+        {
+          "source": "Sep 7 lunch-options note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md",
+          "date": "2026-08-27",
+          "note": "Option 3: the classic on Plaça Independència; CLOSED Mondays — hold for the Sep 10 Girona rescue day."
+        }
+      ],
+      "rating": 3,
+      "tags": "catalan-classic, closed-monday, girona, placa-independencia",
+      "source_rating_raw": null,
+      "geocode_query": "Casa Marieta, Placa Independencia, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Casa Flora (Girona)",
+      "region": "Costa Brava",
+      "neighborhood": "Girona Old Town",
+      "type": "Lunch Restaurant",
+      "emoji": "🍽️",
+      "description": "Family-run set-lunch spot on Carrer de les Ballesteries at the foot of Girona's old town — excellent value per the lunch note; hours unpublished, call ahead (+34 685 27 66 16). The Girona-day companion to Casa Marieta.",
+      "cost_range": "$$",
+      "address": "Carrer de les Ballesteries, 3, 17004 Girona, Spain",
+      "latitude": 41.9854845,
+      "longitude": 2.8249305,
+      "google_map": "https://www.google.com/maps/search/Casa%20Flora%20%28Girona%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#casa-flora-girona",
+      "references": [
+        {
+          "source": "Sep 7 lunch-options note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md",
+          "date": "2026-08-27",
+          "note": "Option 3 alternative: excellent family-run set lunch; hours unpublished — call ahead."
+        }
+      ],
+      "rating": 3,
+      "tags": "call-ahead, family-run, girona, set-lunch",
+      "source_rating_raw": null,
+      "geocode_query": "Casa Flora restaurant, Girona, Spain",
+      "geo_note": null,
+      "flags": []
+    },
+    {
+      "name": "Candelaria (Peratallada)",
+      "region": "Costa Brava",
+      "neighborhood": "Peratallada",
+      "type": "Lunch Restaurant",
+      "emoji": "🍢",
+      "description": "Creative shared plates in an old stone house on Peratallada's Carrer Major — relaxed, design-conscious, and the anchor of the best Wednesday sightseeing sequence: 13:00 lunch, explore Peratallada until ~16:25, then the 12-minute drive to Mas Oller's 5 PM tasting. Live calendar: Tuesday CLOSED, Wednesday lunch 13:00–15:00. 11 minutes from the winery, 25 from Mas Pastora. ⚠️ SCHEDULE CONFLICT between sources: the Aug 26 live-calendar check showed Tuesday CLOSED / Wednesday open, while the Sep 7 lunch note claims closed Mondays and OPEN Tuesday 1:00–3:30. Verify on the official calendar (docandelaria.myrestoo.net) before anchoring the Tuesday Peratallada lunch; El Borinot or El Pedró are the safe Tuesday fallbacks.",
+      "cost_range": "$$$",
+      "address": "Carrer Major, 9, 17113 Peratallada, Girona, Spain",
+      "latitude": 41.977579,
+      "longitude": 3.0905742,
+      "google_map": "https://www.google.com/maps/search/Candelaria%20%28Peratallada%29%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#candelaria-peratallada",
+      "references": [
+        {
+          "source": "Sep 7 lunch-options note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/sep-7-lunch-options.md",
+          "date": "2026-08-27",
+          "note": "Conflicting claim: 'closed Mondays… open Tuesday 1:00–3:30' — contradicts the Aug 26 live-calendar finding (Tue closed / Wed open). Verify before booking."
+        }
+      ],
+      "rating": 3,
+      "tags": "closed-tuesday, creative, peratallada, shared-plates, stone-house, verify-schedule",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    }
+  ]
+}
