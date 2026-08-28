@@ -9,7 +9,7 @@ Each section is linked from that tab's `References` column.
 
 *Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note, 2026-08-27_palma-thursday-note, 2026-08-27_sep7-lunch-options*
 
-*336 venues · 603 sources*
+*336 venues · 604 sources*
 
 ---
 
@@ -5275,10 +5275,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Spot%2C+Mallorca%2C+Spain)
 
-> ⚠️ **Approximate location** — geocoder fell back to Santa Catalina centroid; generic name, not resolved
+### Sources (2)
 
-### Sources (1)
-
+- **Grupo Tragaluz (official)** · 2026-08-27 · [link](https://grupotragaluz.com/en/restaurants/spot-mallorca/)
+  - Address resolved: Plaça de la Verge del Miracle 3, Santa Catalina — pin corrected from the neighborhood-centroid fallback.
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Santa Catalina pick — called it epic and trendy. 4/5.
 

@@ -1082,11 +1082,11 @@
       "neighborhood": "Santa Catalina, Palma",
       "type": "Dinner Restaurant",
       "emoji": "🍽️",
-      "description": "Trendy restaurant in Santa Catalina; SheerLuxe called it epic. One of nine Palma venues from a single rapid-fire guide reel, so the detail is thin — treat as a shortlist candidate, not a booking.",
+      "description": "Trendy sharing-plates restaurant on Plaça de la Verge del Miracle in Santa Catalina — Grupo Tragaluz (the Tragamar family), running since 2017: Mediterranean base with Japanese and Mexican touches, relaxed room, Resy-bookable. SheerLuxe called it epic; single-source shortlist candidate rather than a booking. (+34 971 658 603.)",
       "cost_range": "$$",
-      "address": "Santa Catalina, Ponent District, Palma, Balearic Islands, Spain",
-      "latitude": 39.572311,
-      "longitude": 2.636918,
+      "address": "Plaça de la Verge del Miracle, 3, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5711345,
+      "longitude": 2.6354606,
       "google_map": "https://www.google.com/maps/search/Spot%2C+Mallorca%2C+Spain",
       "references_anchor": "REFERENCES.md#spot",
       "references": [
@@ -1099,16 +1099,20 @@
           "likes": 11869,
           "views": 533938,
           "note": "Santa Catalina pick — called it epic and trendy. 4/5."
+        },
+        {
+          "source": "Grupo Tragaluz (official)",
+          "url": "https://grupotragaluz.com/en/restaurants/spot-mallorca/",
+          "date": "2026-08-27",
+          "note": "Address resolved: Plaça de la Verge del Miracle 3, Santa Catalina — pin corrected from the neighborhood-centroid fallback."
         }
       ],
       "rating": 3,
       "tags": "dinner, palma, trendy",
       "source_rating_raw": "4 (inferred)",
       "geocode_query": "Spot restaurant, Santa Catalina, Palma, Mallorca, Spain",
-      "geo_note": "geocoder fell back to Santa Catalina centroid; generic name, not resolved",
-      "flags": [
-        "location-approximate"
-      ]
+      "geo_note": null,
+      "flags": []
     },
     {
       "name": "Rikito",
