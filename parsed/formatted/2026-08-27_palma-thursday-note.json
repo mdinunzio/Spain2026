@@ -2,7 +2,7 @@
   "batch": "2026-08-27_palma-thursday-note",
   "region": "Mallorca",
   "source_count": 1,
-  "venue_count": 3,
+  "venue_count": 4,
   "locations": [
     {
       "name": "Patrón Lunares",
@@ -83,6 +83,36 @@
       ],
       "rating": 3,
       "tags": "food-hall, grill-counters, market, palma, quick-lunch, seafood",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ]
+    },
+    {
+      "name": "Santa Catalina Market",
+      "region": "Mallorca",
+      "neighborhood": "Santa Catalina, Palma",
+      "type": "Market",
+      "emoji": "🧺",
+      "description": "The Mercat de Santa Catalina — Palma's smaller, older neighborhood market hall: produce, a fish corner, and a handful of tiny bars where locals stand with a vermut and a plate of boquerones at 11 AM. The better 'vibe' market of Palma's two (l'Olivar is the bigger central one), 10 minutes on foot from Es Baluard with the neighborhood's restaurant cluster around it (El Perrito, Stagier, Vandal, Xoriguer). Morning place — winds down after lunch; ⚠️ closed Sundays, so not an option on Sep 6. The Infatuation's eat-in picks: Bar Joan Frau for breakfast llonguets and variat, Arume's market sushi counter.",
+      "cost_range": "$",
+      "address": "Plaça de la Navegació, s/n, 07013 Palma, Illes Balears, Spain",
+      "latitude": 39.5711919,
+      "longitude": 2.6382749,
+      "google_map": "https://www.google.com/maps/search/Mercat%20de%20Santa%20Catalina%2C%20Palma%2C%20Mallorca%2C%20Spain",
+      "references_anchor": "REFERENCES.md#santa-catalina-market",
+      "references": [
+        {
+          "source": "Palma Thursday Sep 3 note (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/palma-thursday-sep-3.md",
+          "date": "2026-08-27",
+          "note": "The better 'vibe' market: covered hall, fish corner, tiny vermut bars at 11 AM; morning place, winds down after lunch; closed Sunday (not on the 6th)."
+        }
+      ],
+      "rating": 4,
+      "tags": "closed-sunday, food-market, local, morning, palma, variat, vermut",
       "source_rating_raw": null,
       "geocode_query": null,
       "geo_note": null,
