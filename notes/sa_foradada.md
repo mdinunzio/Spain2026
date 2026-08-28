@@ -6,6 +6,43 @@ Yes, they take reservations, and in the first week of September you'll want one.
 
 The easiest path from where you're staying: ask the La Residencia concierge to make the call for you. It's about a 10-minute drive from the hotel, they book this constantly, and they'll know the current hours and whether the lower restaurant is running that day (sea conditions occasionally close it). Just be specific about which one you want — the paella-by-the-water experience is the sea-level one; the sunset-with-a-drink experience is the Mirador.
 
+- [Conversation](https://claude.ai/chat/734ab89a-a9a1-443f-b4b1-fa28f956db3a)
+- [Hiking Info](https://www.barcoscalobra.com/sa-foradada/?lang=en)
+- [Booking?](https://guidavera.com/spain/mallorca/restaurants/restaurante-sa-foradada)
+
+Email the concierge now. There's no downside to asking early, and a couple of real upsides.
+
+The sea-level restaurant is phone-only and answers in a narrow morning window, so a concierge who tries it a few mornings in a row has a much better shot than one who starts calling on Sept 1 for a lunch the next day. La Residencia's concierge team is used to guests pre-arranging exactly this; a short note with your names, arrival date, and "Restaurante Sa Foradada, sea level, lunch on Wednesday Sept 2, two people, around 2pm, paella" gives them everything they need. They'll also tell you if there's a Wednesday quirk or a weather closure risk.
+
+Two things to say in the email:
+
+- Ask them to reserve the paella when they book, not just the table. The paellas are cooked to order over the wood fire and some days they'll want the order in advance.
+- Ask whether they recommend hiking down from Son Marroig or taking the boat from Port de Sóller, and if the latter, whether they can arrange it. The hike back up in early-September heat after a paella and a bottle of wine is the part people underestimate.
+
+Then on arrival on the 31st, just confirm it's in the book. If the concierge hasn't managed to get through by then, you still have the morning of Sept 1 and Sept 2 itself to call, which is how most people end up booking anyway.
+
+```
+Subject: Concierge request: Sa Foradada lunch reservation, Wed 2 Sept — arriving 31 Aug
+
+Dear La Residencia Concierge Team,
+
+My partner Chelsea and I are looking forward to arriving at La Residencia on Monday, 31 August, and staying with you through the week. I'm writing ahead of our arrival to ask for help with a lunch reservation.
+
+We'd love to have lunch at Restaurante Sa Foradada — the restaurant at sea level below the rock, not the Mirador at the top — on Wednesday, 2 September, for two people. We already have a dinner reservation at El Olivo that evening at 8:30pm, so we'd prefer an early lunch, ideally around 1:00pm or the earliest sitting they offer.
+
+I understand they take reservations by phone in the mornings and that the paellas are cooked to order, so if it's possible to reserve a paella for two at the time of booking, we'd be very grateful.
+
+Our plan is to hike down from Son Marroig, but if you'd suggest the boat from Port de Sóller instead, or can arrange one, we're open to it.
+
+Thank you very much — we're really looking forward to Deià.
+
+Warm regards,
+Michael DiNunzio
++1 845-283-2583
+```
+
+On the boat question: hotels don't usually keep a boat on standby for this kind of trip, but a property like La Residencia will happily arrange one. Two realistic versions: a scheduled or private trip from Port de Sóller with a local operator (Barcos Azules runs the coast, and there are no-license rental boats you can take yourselves), or a private charter the concierge books for you, which is the expensive option. Hiking down and eating early, then walking back up before the worst heat, is the classic way to do it and fits your 8:30 dinner. If you decide you'd rather not climb back up, the workable compromise is to ask the concierge whether a boat can meet you at the cove after lunch and return you to Port de Sóller, then a taxi back to Deià. Worth asking, but don't count on it in early September without booking it in advance.
+
 ---
 
 # Older Information:
