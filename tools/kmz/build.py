@@ -2,12 +2,17 @@
 
 Always reads the live Locations tab (the single source of truth). Single layer
 by default; pass --split-by to emit one KMZ per region/type/selected, so each
-imports as its own toggleable My Maps layer.
+imports as its own toggleable My Maps layer. Pass --filter to build a curated
+single-purpose export (selected picks, lunch spots, cafes, bars) instead of
+everything.
 
 Usage:
     python -m tools.kmz.build
     python -m tools.kmz.build --split-by region
-    python -m tools.kmz.build --split-by selected --upload
+    python -m tools.kmz.build --filter selected --upload
+    python -m tools.kmz.build --filter lunch --upload
+    python -m tools.kmz.build --filter cafes --upload
+    python -m tools.kmz.build --filter bars --upload
 """
 
 import re
@@ -28,26 +33,46 @@ DEFAULT_OUT = Path("parsed/kmz")
 DEFAULT_CACHE = Path(".twemoji-cache")
 MY_MAPS_LAYER_LIMIT = 10
 
+# Curated single-purpose exports, layered on top of --split-by. Each maps to
+# one predicate over the full venue list and one output filename/doc label.
+FILTER_PREDICATES = {
+    "all": lambda v: True,
+    "selected": lambda v: v.selected,
+    "lunch": lambda v: v.venue_type == "Lunch Restaurant",
+    "cafes": lambda v: v.venue_type == "Cafe",
+    "bars": lambda v: v.venue_type in {"Bar", "Cocktail Bar", "Wine Bar"},
+}
+FILTER_LABELS = {
+    "all": "Spain 2026",
+    "selected": "Spain 2026 · Selected",
+    "lunch": "Spain 2026 · Lunch Spots",
+    "cafes": "Spain 2026 · Cafés",
+    "bars": "Spain 2026 · Bars & Drinks",
+}
+
 
 def slugify_filename(text: str) -> str:
     """Make a filesystem-safe slug for an output filename."""
     return re.sub(r"[^a-z0-9]+", "-", text.lower()).strip("-") or "venues"
 
 
-def group_venues(venues: list[Venue], split_by: str) -> dict[str, list[Venue]]:
+def group_venues(
+    venues: list[Venue], split_by: str, none_label: str = "Spain 2026"
+) -> dict[str, list[Venue]]:
     """Partition venues into named groups per the split dimension.
 
     Args:
         venues: Venues to group.
         split_by: One of "none", "region", "type", "selected".
+        none_label: Group/document label to use when split_by is "none".
 
     Returns:
-        Ordered mapping of group label -> venues. A single "Spain 2026" group
-        when split_by is "none". For "selected", the committed venues come
-        first as "Selected", the rest as "Candidates".
+        Ordered mapping of group label -> venues. A single group under
+        none_label when split_by is "none". For "selected", the committed
+        venues come first as "Selected", the rest as "Candidates".
     """
     if split_by == "none":
-        return {"Spain 2026": venues}
+        return {none_label: venues}
 
     if split_by == "selected":
         groups: dict[str, list[Venue]] = {}
@@ -70,6 +95,13 @@ def order_for_output(venues: list[Venue]) -> list[Venue]:
 
 
 @click.command()
+@click.option(
+    "--filter",
+    "venue_filter",
+    type=click.Choice(list(FILTER_PREDICATES)),
+    default="all",
+    help="Restrict to one curated subset before building. Default: everything.",
+)
 @click.option(
     "--split-by",
     type=click.Choice(["none", "region", "type", "selected"]),
@@ -95,6 +127,7 @@ def order_for_output(venues: list[Venue]) -> list[Venue]:
 )
 @click.option("--profile", default=None, help="mgdio Google profile.")
 def main(
+    venue_filter: str,
     split_by: str,
     out: Path,
     cache_dir: Path,
@@ -110,8 +143,14 @@ def main(
     except KmzError as error:
         raise click.ClickException(str(error)) from error
 
-    click.echo(f"Loaded {len(venues)} venues from the Locations tab.")
-    groups = group_venues(venues, split_by)
+    venues = [v for v in venues if FILTER_PREDICATES[venue_filter](v)]
+    if not venues:
+        raise click.ClickException(f"No venues match --filter={venue_filter}.")
+
+    click.echo(
+        f"Loaded {len(venues)} venues from the Locations tab (filter={venue_filter})."
+    )
+    groups = group_venues(venues, split_by, FILTER_LABELS[venue_filter])
     click.echo(f"Split by {split_by}: {len(groups)} file(s).")
     if len(groups) > MY_MAPS_LAYER_LIMIT:
         click.echo(
@@ -126,8 +165,9 @@ def main(
             ordered = order_for_output(members)
             icons = render_icons({v.emoji for v in ordered if v.emoji}, cache_dir)
             kml = build_kml(ordered, label)
-            suffix = "" if split_by == "none" else f"_{slugify_filename(label)}"
-            kmz_path = out / f"spain2026{suffix}.kmz"
+            filter_suffix = "" if venue_filter == "all" else f"_{venue_filter}"
+            split_suffix = "" if split_by == "none" else f"_{slugify_filename(label)}"
+            kmz_path = out / f"spain2026{filter_suffix}{split_suffix}.kmz"
             write_kmz(kmz_path, kml, icons)
             written.append((kmz_path, len(ordered), len(icons)))
     except KmzError as error:

@@ -46,11 +46,26 @@ Run from the repo root (`c:\Users\mdinu\Code\Spain2026`) with the project venv:
 
 # Build and upload the result to the Spain 2026 Drive "kmz" folder
 .venv/Scripts/python.exe -m tools.kmz.build --upload
+
+# Curated single-purpose exports (see --filter below)
+.venv/Scripts/python.exe -m tools.kmz.build --filter selected --upload
+.venv/Scripts/python.exe -m tools.kmz.build --filter lunch --upload
+.venv/Scripts/python.exe -m tools.kmz.build --filter cafes --upload
+.venv/Scripts/python.exe -m tools.kmz.build --filter bars --upload
 ```
 
 The build always reads the live **Locations** tab — the single source of
 truth. Options:
 
+- `--filter {all,selected,lunch,cafes,bars}` — restrict to one curated subset
+  *before* building, each writing its own standalone `spain2026_<filter>.kmz`
+  (default `all` keeps the plain `spain2026.kmz` filename, unchanged from
+  before this option existed). `selected` is the Selected-checkbox venues
+  (mirrors `--split-by selected`'s "Selected" half, but as a single file with
+  no "Candidates" counterpart). `lunch` is `Type == "Lunch Restaurant"`.
+  `cafes` is `Type == "Cafe"`. `bars` is `Type` in `{Bar, Cocktail Bar, Wine
+  Bar}`. Combine with `--split-by` to further split a filtered subset (e.g.
+  `--filter lunch --split-by region`).
 - `--split-by {none,region,type,selected}` — `none` (default) is one file /
   one layer. `region` or `type` emit one file per group. `selected` emits a
   `spain2026_selected.kmz` (the venues with the Selected box checked) and a
