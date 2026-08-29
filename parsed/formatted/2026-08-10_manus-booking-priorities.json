@@ -178,7 +178,7 @@
     },
     {
       "name": "Via Ferrata Cala del Molí",
-      "region": "Mallorca",
+      "region": "Costa Brava",
       "neighborhood": "Sant Feliu de Guíxols",
       "type": "Activity",
       "emoji": "🧗",
@@ -187,7 +187,7 @@
       "address": "Carrer de Sicília, 17220 Sant Feliu de Guíxols, Girona, Spain",
       "latitude": 41.779184,
       "longitude": 3.041884,
-      "google_map": "https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Mallorca%2C%20Spain",
+      "google_map": "https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Costa%20Brava%2C%20Spain",
       "references_anchor": "REFERENCES.md#via-ferrata-cala-del-moli",
       "references": [
         {

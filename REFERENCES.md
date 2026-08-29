@@ -2234,9 +2234,9 @@ Each section is linked from that tab's `References` column.
 
 ## 🧗 Via Ferrata Cala del Molí
 
-**Region:** Mallorca · **Neighborhood:** Sant Feliu de Guíxols · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$
+**Region:** Costa Brava · **Neighborhood:** Sant Feliu de Guíxols · **Type:** Activity · **Rating:** 4/5 · **Cost:** $$
 
-[Google Maps](https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Mallorca%2C%20Spain)
+[Google Maps](https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Costa%20Brava%2C%20Spain)
 
 ### Sources (3)
 
