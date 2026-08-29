@@ -35,6 +35,8 @@ This is a deliberately short list drawn from the workbook’s selected venues, t
 
 ### 1. Purobeach Illetas — booked Sunday anchor
 
+> [📍 Map](https://www.google.com/maps/search/Purobeach%20Illetas%2C%20Calvia%2C%20Mallorca%2C%20Spain) · 🚗 21 min (not walkable — 🚶 ~2 h)
+
 **Credential:** Booked itinerary anchor. **Logistics:** Approximately 17 minutes by car in free-flow conditions; allow more on Sunday. **Service:** The club operates Thursday–Sunday from 11:00 to 23:00.[1]
 
 The official 2026 restaurant menu is unusually easy for Chelsea: salmon-and-avocado tiradito, Nikkei tuna tartare, oysters, prawn Caesar salad, beluga-lentil salad with grilled salmon, fish tacos, salmon poke, vegan wok, Thai red-curry salmon, fresh fish, sea bass, country chicken, octopus and seafood paella.[2] Avoid the Iberian-ham-and-guanciale croquettes, beef carpaccio, burger, steaks and pulled-pork focaccia.
@@ -43,6 +45,8 @@ The official 2026 restaurant menu is unusually easy for Chelsea: salmon-and-avoc
 
 ### 2. Mercat de Santa Catalina — best authentic grazing lunch
 
+> [📍 Map](https://www.google.com/maps/search/Mercat%20de%20Santa%20Catalina%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚶 15 min / 🚗 9 min
+
 **Credential:** **Workbook pick + Instagram.** **Logistics:** Approximately 13 minutes on foot. **Service:** Monday–Saturday, with the main market operating in the morning through approximately 15:00; closed Sunday.[3]
 
 This is Palma’s smaller neighborhood market and the best way to combine Santa Catalina wandering with a casual lunch. The strongest workbook-supported moves are **Arume’s market sushi/seafood counter** and **Bar Joan Frau**. Arrive before 12:30 if you want the fullest selection and less crowding.
@@ -50,6 +54,8 @@ This is Palma’s smaller neighborhood market and the best way to combine Santa 
 > **Chelsea-safe strategy:** Order identifiable seafood sushi, oysters, grilled fish or a clearly described vegetable plate. Do not order an unspecified *variat* without asking what meats it contains.
 
 ### 3. El Camino — best food-first city lunch
+
+> [📍 Map](https://www.google.com/maps/search/El%20Camino%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚶 7 min
 
 **Credential:** **Iconic/editorial.** **Logistics:** Approximately 7 minutes on foot. **Service:** Tuesday–Saturday lunch; closed Sunday and Monday.[4]
 
@@ -61,6 +67,8 @@ El Camino is a lively marble-counter restaurant from the team behind London’s 
 
 ### 4. La Bodeguilla — closest traditional lunch
 
+> [📍 Map](https://www.google.com/maps/search/La%20Bodeguilla%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚶 <1 min (practically next door)
+
 **Credential:** **Instagram.** **Logistics:** Under two minutes from Palma Riad. **Service:** Continuous service from 13:00 daily.[6]
 
 This family-run wine shop and restaurant is the best answer when you want traditional Spanish-Mediterranean food without reorganizing the day. The cellar and rustic rooms are the point; lunch can be as small as two plates and a glass of wine or as substantial as grilled fish.
@@ -70,6 +78,8 @@ This family-run wine shop and restaurant is the best answer when you want tradit
 **Reserve:** Advisable through [La Bodeguilla](https://www.la-bodeguilla.com/en).
 
 ### 5. El Bungalow — best selected waterfront lunch
+
+> [📍 Map](https://www.google.com/maps/search/El%20Bungalow%2C%20Ciutat%20Jardi%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚗 15 min
 
 **Credential:** **Workbook pick.** **Logistics:** Approximately 15–20 minutes by taxi from Palma Riad. **Service:** Tuesday–Sunday lunch, approximately 13:00–16:00; closed Monday.[8]
 
@@ -81,6 +91,8 @@ The value is the setting: a family-run restaurant in a 1920s summer house direct
 
 ### 6. Sea Club at Cap Rocat — most spectacular destination lunch
 
+> [📍 Map](https://www.google.com/maps/search/Cap%20Rocat%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚗 23 min (not walkable — 🚶 4 h)
+
 **Credential:** **Two Instagram endorsements + iconic.** **Logistics:** Approximately 20–30 minutes by taxi from Palma Riad. **Service:** Daily lunch seatings around 13:00–15:15.[9]
 
 This is the most cinematic option in the guide: a clifftop open-air restaurant within a converted 19th-century fortress, with broad Bay of Palma views.[9] It is a true destination and carries a published minimum spend of approximately €70 per person.
@@ -90,6 +102,8 @@ This is the most cinematic option in the guide: a clifftop open-air restaurant w
 **Reserve:** Essential through [the official Sea Club booking page](https://caprocat-seaclub.myrestoo.net/en/reservar).
 
 ### 7. Rikito — selected, Instagram-credentialed Italian change of pace
+
+> [📍 Map](https://www.google.com/maps/search/Rikito%2C%20Santa%20Catalina%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚶 13 min / 🚗 9 min
 
 **Credential:** **Workbook pick + Instagram.** **Logistics:** Approximately 13 minutes on foot in Santa Catalina. **Service:** Daily lunch from approximately 13:30; weekend service runs later.[10]
 
@@ -101,6 +115,8 @@ Rikito makes sense when you want pasta and an energetic aesthetic room rather th
 
 ### 8. Mercat de l’Olivar — fastest central seafood lunch
 
+> [📍 Map](https://www.google.com/maps/search/Mercat%20de%20l%20Olivar%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚶 12 min
+
 **Credential:** **Workbook pick.** **Logistics:** Approximately 8 minutes on foot. **Service:** Thursday–Friday mornings through approximately 14:30 and Saturday through 15:00; closed Sunday.[12]
 
 Use this as a 30–60 minute lunch rather than a leisurely restaurant. Mercat Negre, Bar del Peix and the oyster counters are the most relevant components of the market’s official gastronomic offering.[12]
@@ -108,6 +124,8 @@ Use this as a 30–60 minute lunch rather than a leisurely restaurant. Mercat Ne
 > **Best order:** oysters, prawns or clearly identified seafood small plates. It is also useful for buying high-quality provisions for the boat.
 
 ### 9. La Rosa Vermutería — easiest traditional casual lunch
+
+> [📍 Map](https://www.google.com/maps/search/La%20Rosa%20Vermuteria%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚶 4 min
 
 **Credential:** **Iconic/editorial.** **Logistics:** Approximately 3 minutes on foot. **Service:** Daily from noon, with continuous service.[13]
 
@@ -118,6 +136,8 @@ Choose La Rosa for a lively vermouth, tortilla and tapas lunch rather than a rom
 **Reserve:** Advisable through [La Rosa’s official calendar](https://larosavermuteria.myrestoo.net/en/reservar).
 
 ### 10. OMBU Born — easiest shopping-day lunch
+
+> [📍 Map](https://www.google.com/maps/search/OMBU%2C%20Passeig%20des%20Born%2C%20Palma%2C%20Mallorca%2C%20Spain) · 🚶 5 min
 
 **Credential:** **Workbook pick.** **Logistics:** Approximately 5 minutes on foot. **Service:** Daily lunch from approximately 12:30 to 16:00.[15]
 
@@ -131,10 +151,10 @@ OMBU is not the most traditional lunch in Palma, but it is extremely useful: a l
 
 | Venue | Walk/taxi | When it earns the slot | Chelsea guidance |
 |---|---:|---|---|
-| **Sa Cranca** — **Workbook pick** | 17-minute walk | Marina views and a classic rice-house lunch | Seafood paella, grilled dorada or vegetable rice; confirm fish-only stock.[17] |
-| **Spot** — **Instagram** | 17-minute walk | Stylish, lively Santa Catalina lunch | Miso salmon, croaker ceviche, crispy cauliflower or aubergine croquettes.[18] |
-| **DÔME** — **Instagram** | Under 2 minutes | Brunch or a late arrival-day plate before 16:00 | Sea bass, fish ceviche, prawns/tofu noodles or cauliflower.[19] |
-| **Anssia, formerly Assaona** — **Instagram** | 10-minute taxi | Only if already in Portixol and a beachfront table is available | Tuna, ceviche, sole and sushi are easy; value and service feedback are less consistent.[20] |
+| **Sa Cranca** — **Workbook pick** ([📍 Map](https://www.google.com/maps/search/Sa%20Cranca%2C%20Palma%2C%20Mallorca%2C%20Spain)) | 🚶 17 min | Marina views and a classic rice-house lunch | Seafood paella, grilled dorada or vegetable rice; confirm fish-only stock.[17] |
+| **Spot** — **Instagram** ([📍 Map](https://www.google.com/maps/search/Spot%2C%20Placa%20de%20la%20Verge%20del%20Miracle%2C%20Palma%2C%20Mallorca%2C%20Spain)) | 🚶 18 min | Stylish, lively Santa Catalina lunch | Miso salmon, croaker ceviche, crispy cauliflower or aubergine croquettes.[18] |
+| **DÔME** — **Instagram** ([📍 Map](https://www.google.com/maps/search/DOME%2C%20Palma%2C%20Mallorca%2C%20Spain)) | 🚶 2 min | Brunch or a late arrival-day plate before 16:00 | Sea bass, fish ceviche, prawns/tofu noodles or cauliflower.[19] |
+| **Anssia, formerly Assaona** — **Instagram** ([📍 Map](https://www.google.com/maps/search/Assaona%2C%20Portixol%2C%20Palma%2C%20Mallorca%2C%20Spain)) | 🚗 10 min | Only if already in Portixol and a beachfront table is available | Tuna, ceviche, sole and sushi are easy; value and service feedback are less consistent.[20] |
 
 ## The four Palma lunches I would actually preserve
 

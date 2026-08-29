@@ -38,6 +38,8 @@ Deià does not need a long restaurant directory. The useful choices are the icon
 
 ### 1. Ca’s Patró March — booked flagship
 
+> [📍 Map](https://www.google.com/maps/search/Ca%20s%20Patro%20March%2C%20Cala%20Deia%2C%20Mallorca%2C%20Spain) · From Es Molí: 🚶 52 min / 🚗 12 min · From La Residencia: 🚶 37 min / 🚗 9 min
+
 **Credential:** **Workbook pick + Instagram + iconic.** **Setting:** Open-air seafood restaurant built into the rocks above Cala Deià. **Access:** Approximately 25–35 minutes downhill from Deià village, with a slower and hotter climb back; a taxi can reach the cove road, but parking and turning space are limited.
 
 The point is simple local seafood with one of Mallorca’s defining views. Current menu references emphasize grilled fish, prawns, squid, baby-fish fritters and salads.[1] The table—not an elaborate menu—is what is difficult to obtain.
@@ -47,6 +49,8 @@ The point is simple local seafood with one of Mallorca’s defining views. Curre
 **Booking:** Use the reservation already shown in your itinerary. The [official booking calendar](https://caspatromarch.myrestoo.net/en/reservar) is useful only for managing or checking public inventory.
 
 ### 2. Cala Muleta Snack Bar — correct lunch for the planned Es Molí cove day
+
+> [📍 Map](https://www.google.com/maps/search/Cala%20Muleta%2C%20Deia%2C%20Mallorca%2C%20Spain) · Shuttle-only (hotel shuttle 10:00/12:30/15:30) · Driving reference — from Es Molí: 🚗 19 min · from La Residencia: 🚗 16 min
 
 **Credential:** **Workbook itinerary anchor.** **Service:** Drinks 10:00–18:00 and food 13:00–16:00.[2] **Access:** Even Es Molí guests must reserve cove access in advance; the hotel shuttle runs to Muleta at 10:00, 12:30 and 15:30 and returns at 12:00, 15:00 and 18:00.[2]
 
@@ -58,6 +62,8 @@ This is a snack bar rather than a destination restaurant, which is exactly why i
 
 ### 3. Original Restaurante Sa Foradada — the high-effort iconic lunch
 
+> [📍 Map](https://www.google.com/maps/search/Restaurant%20Sa%20Foradada%2C%20Mallorca%2C%20Spain) · Trailhead at Son Marroig — from Es Molí: 🚗 14 min · from La Residencia: 🚗 8 min · then ~45–60 min hike down
+
 **Credential:** **Workbook pick + iconic.** **Service:** The current `@saforadada` profile lists approximately 12:30–16:00 and Thursday closure; confirm by phone before walking. **Access:** Driver or taxi to Son Marroig, followed by a roughly 45–60 minute descent and 60–90 minute return climb. The restaurant itself recommends arriving by boat, but confirms that the foot approach is possible.[3]
 
 This is the original operation at the tip of the peninsula, known for rice and paella cooked over wood, local fish, seafood and simple salads.[3]
@@ -67,6 +73,8 @@ This is the original operation at the tip of the peninsula, known for rice and p
 **Reserve/reconfirm:** **+34 616 087 499**. The correct site is [restaurantesaforadada.com](https://restaurantesaforadada.com/). Do not confuse it with the newer road-access Foradada Mar/Mirador complex at kilometer 65.5.
 
 ### 4. Hotel Corazón — best Instagram-credentialed scenic lunch
+
+> [📍 Map](https://www.google.com/maps/search/Hotel%20Corazon%2C%20Mallorca%2C%20Spain) · From Es Molí: 🚗 13 min · From La Residencia: 🚗 11 min
 
 **Credential:** **Three saved Instagram endorsements.** **Service:** Lunch 12:30–16:00 daily.[4] **Logistics:** Approximately 7–10 minutes from Deià by taxi or hotel-arranged car; do not treat it as a pleasant roadside walk.
 
@@ -78,6 +86,8 @@ Hotel Corazón’s appeal is its artist-run, bohemian-luxury farm setting betwee
 
 ### 5. Café Miró at La Residencia — best zero-logistics luxury lunch
 
+> [📍 Map](https://www.google.com/maps/search/Cafe%20Miro%2C%20La%20Residencia%2C%20Deia%2C%20Mallorca%2C%20Spain) · At La Residencia (your hotel from Sep 1) · From Es Molí: 🚶 18 min / 🚗 4 min
+
 **Credential:** **Two Instagram endorsements.** **Service:** Restaurant service from approximately 12:30 daily, with the bar open longer.[6] **Logistics:** On property at La Residencia; about a 10-minute village walk from Es Molí.
 
 The terrace overlooks Deià’s roofs and Tramuntana mountains. It is expensive, but unlike an off-site reservation, it can be shortened, delayed or expanded according to your energy level.
@@ -87,6 +97,8 @@ The terrace overlooks Deià’s roofs and Tramuntana mountains. It is expensive,
 **Reserve:** Advisable through [Café Miró’s official booking page](https://www.sevenrooms.com/reservations/mirorestaurant), especially for the terrace.
 
 ### 6. Ca’n Lluc — practical Cala Deià backup
+
+> [📍 Map](https://www.google.com/maps/search/Ca%20n%20Lluc%2C%20Cala%20Deia%2C%20Mallorca%2C%20Spain) · From Es Molí: 🚶 52 min / 🚗 12 min · From La Residencia: 🚶 37 min / 🚗 9 min
 
 **Credential:** **Workbook pick.** **Service:** Current local listings support summer lunch Thursday–Monday, with Tuesday and Wednesday closed; phone confirmation remains important because it lacks a reliable official calendar.[8] **Logistics:** On the same cove as Ca’s Patró March.
 
@@ -98,6 +110,8 @@ Food is simpler than its famous neighbor, but the terrace still sits above the w
 
 ### 7. de moniö — best light village lunch
 
+> [📍 Map](https://www.google.com/maps/search/de%20monio%2C%20Deia%2C%20Mallorca%2C%20Spain) · From Es Molí: 🚶 13 min / 🚗 2 min · From La Residencia: 🚶 5 min / 🚗 2 min
+
 **Credential:** **Workbook pick.** **Service:** Monday–Saturday; closed Sunday.[9] **Logistics:** Approximately 5 minutes from La Residencia and 8 minutes from Es Molí.
 
 This tiny vegetarian café and concept shop is ideal when dinner will be substantial. It combines matcha, coffee, pastries, sandwiches, salads and plant-based dishes with ceramics, jewelry and local pantry products.
@@ -107,6 +121,8 @@ This tiny vegetarian café and concept shop is ideal when dinner will be substan
 **Booking:** Walk in; the small footprint means it can fill at peak time.
 
 ### 8. NAMA — useful only if plans change
+
+> [📍 Map](https://www.google.com/maps/search/Nama%20restaurant%2C%20Deia%2C%20Mallorca%2C%20Spain) · From Es Molí: 🚶 13 min / 🚗 2 min · From La Residencia: 🚶 4 min / 🚗 2 min
 
 **Credential:** **Workbook pick + Instagram.** **Service:** Thursday–Monday from approximately noon; closed Tuesday and Wednesday.[10] **Logistics:** Approximately 4 minutes from La Residencia and 8 minutes from Es Molí.
 
@@ -118,11 +134,11 @@ NAMA is a strong lunch option in isolation, with summer rolls, calamari, pad Tha
 
 | Venue | Reason |
 |---|---|
-| **El Olivo** | Dinner-led and already booked; do not dilute the occasion with lunch. |
-| **Restaurante Sebastián** | Excellent dinner institution, not one of the strongest lunch-specific uses of limited time. |
-| **Balm** | Current service is dinner-only. |
-| **BARRACÓ** | Drinks, not lunch. |
-| **Bens d’Avall** | Closed during 2026. |
+| **El Olivo** ([📍 Map](https://www.google.com/maps/search/El%20Olivo%2C%20La%20Residencia%2C%20Deia%2C%20Mallorca%2C%20Spain)) | Dinner-led and already booked; do not dilute the occasion with lunch. |
+| **Restaurante Sebastián** ([📍 Map](https://www.google.com/maps/search/Restaurante%20Sebastian%2C%20Deia%2C%20Mallorca%2C%20Spain)) | Excellent dinner institution, not one of the strongest lunch-specific uses of limited time. |
+| **Balm** ([📍 Map](https://www.google.com/maps/search/Balm%20Restaurant%2C%20Deia%2C%20Mallorca%2C%20Spain)) | Current service is dinner-only. |
+| **BARRACÓ** ([📍 Map](https://www.google.com/maps/search/Barraco%2C%20Deia%2C%20Mallorca%2C%20Spain)) | Drinks, not lunch. |
+| **Bens d’Avall** ([📍 Map](https://www.google.com/maps/search/Bens%20d%20Avall%2C%20Mallorca%2C%20Spain)) | Closed during 2026. |
 
 ## The three lunches that matter most
 

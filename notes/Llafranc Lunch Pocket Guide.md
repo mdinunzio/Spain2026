@@ -36,6 +36,8 @@ The Costa Brava list is organized by **how the lunch fits the day**, not merely 
 
 ### 1. Toc al Mar — iconic Aiguablava beach lunch
 
+> [📍 Map](https://www.google.com/maps/search/Toc%20al%20Mar%2C%20Costa%20Brava%2C%20Spain) · 🚗 16 min (not walkable — 🚶 ~1 h 45)
+
 **Credential:** **Two Instagram endorsements + iconic.** **Logistics:** Approximately 15–20 minutes by car from Mas Pastora; reserve parking time and do not expect an easy spontaneous taxi pickup. **Service:** The official site states daily lunch and dinner from April through September.[1]
 
 This is the clearest answer to “where should we have a classic Costa Brava beach lunch?” The restaurant sits on Aiguablava’s sand and specializes in wild local fish and shellfish cooked over oak.[1]
@@ -46,6 +48,8 @@ This is the clearest answer to “where should we have a classic Costa Brava bea
 
 ### 2. Cap Sa Sal — strongest Instagram signal
 
+> [📍 Map](https://www.google.com/maps/search/Cap%20Sa%20Sal%2C%20Costa%20Brava%2C%20Spain) · 🚗 27 min
+
 **Credential:** **Workbook pick + three Instagram endorsements.** **Logistics:** Approximately 24–30 minutes by car from Mas Pastora. **Service:** Lunch around 13:00–15:30 daily in the current season.[3]
 
 The terrace projects above the Mediterranean on the Begur coast and is more polished than a rustic chiringuito. It is the right choice when scenery, wine and a long composed meal matter more than being directly on the sand.
@@ -55,6 +59,8 @@ The terrace projects above the Mediterranean on the Begur coast and is more poli
 **Reserve:** Essential via [Cap Sa Sal](https://www.capsasalrestaurant.com/en/main-en/), **+34 972 62 43 75**, or **reserves@capsasalrestaurant.com**.
 
 ### 3. Sa Rascassa — best hidden-cove lunch
+
+> [📍 Map](https://www.google.com/maps/search/Hostal%20Sa%20Rascassa%2C%20Aiguafreda%2C%20Begur%2C%20Spain) · 🚗 26 min
 
 **Credential:** **Instagram + iconic.** **Logistics:** Approximately 23–30 minutes by car, followed by a short walk into Cala d’Aiguafreda. Confirm the return taxi in advance if neither person will drive. **Service:** Seasonal lunch; use the live calendar because specific closure days vary.[5]
 
@@ -68,6 +74,8 @@ Sa Rascassa feels like a private refuge: a small dining area beneath mature pine
 
 ### 4. Tragamar — best easy beach lunch
 
+> [📍 Map](https://www.google.com/maps/search/Tragamar%2C%20Canadell%2C%20Costa%20Brava%2C%20Spain) · 🚶 21 min / 🚗 14 min
+
 **Credential:** **Iconic/local fit.** **Logistics:** Approximately 15–20 minutes along the Camí de Ronda from Mas Pastora to Canadell Beach. **Service:** Daily summer lunch.[7]
 
 Tragamar is the most natural spontaneous “walk somewhere beautiful and eat” option. The terrace faces Canadell Beach, and lunch can lead directly into swimming or a continued wander through Calella.
@@ -78,6 +86,8 @@ Tragamar is the most natural spontaneous “walk somewhere beautiful and eat” 
 
 ### 5. La Blava — selected waterside Port Bo lunch
 
+> [📍 Map](https://www.google.com/maps/search/La%20Blava%2C%20Costa%20Brava%2C%20Spain) · 🚶 24 min / 🚗 14 min
+
 **Credential:** **Workbook pick.** **Logistics:** Approximately 20–25 minutes on foot via the coastal path. **Service:** Seasonal lunch, generally 13:00–16:00.[9]
 
 La Blava occupies a former fisherman’s house beneath Calella’s stone arches, with tables almost at water level. It is one of the strongest settings in town, but because your itinerary already includes La Blava for Tuesday dinner, lunch should be a future-trip or schedule-change option rather than a second visit.
@@ -85,6 +95,8 @@ La Blava occupies a former fisherman’s house beneath Calella’s stone arches,
 > **Best order:** jig-caught squid, tuna tartare, sea bass or fish *socarrat*. Avoid the *mar i muntanya* rice and anything containing black sausage.[10]
 
 ### 6. Margarita — Instagram-credentialed Calella alternative
+
+> [📍 Map](https://www.google.com/maps/search/Margarita%2C%20Calella%20de%20Palafrugell%2C%20Costa%20Brava%2C%20Spain) · 🚶 25 min / 🚗 14 min
 
 **Credential:** **Instagram.** **Logistics:** Approximately 20–25 minutes along the coastal path. **Service:** Daily lunch in season.[11]
 
@@ -96,6 +108,8 @@ Margarita is lighter, brighter and more contemporary than La Blava, with a water
 
 ### 7. Calau — best spontaneous no-reservation lunch
 
+> [📍 Map](https://www.google.com/maps/search/Calau%2C%20Costa%20Brava%2C%20Spain) · 🚶 24 min / 🚗 13 min
+
 **Credential:** **Iconic spontaneous pick.** **Logistics:** Approximately 20–25 minutes along the coastal path, opposite Port Bo. **Service:** Lunch around 12:30–15:30 daily in the current season.[13]
 
 Calau works when no one wants to commit to a full seafood meal. Cold pintxos sit on the bar and hot items circulate; you take what looks good and the restaurant counts the skewers.
@@ -105,6 +119,8 @@ Calau works when no one wants to commit to a full seafood meal. Cold pintxos sit
 **Booking:** Walk-in only; a wait is part of the format.
 
 ### 8. El Balcó de Calella — view-first alternative
+
+> [📍 Map](https://www.google.com/maps/search/El%20Balco%20de%20Calella%2C%20Costa%20Brava%2C%20Spain) · 🚶 32 min / 🚗 14 min
 
 **Credential:** **Instagram.** **Logistics:** Approximately 30–35 minutes on foot or a short taxi; the uphill position creates the panorama. **Service:** Lunch around 13:00–15:15; check the live calendar.[14]
 
@@ -118,6 +134,8 @@ Choose El Balcó when you want a wide view over the entire Calella bay rather th
 
 ### 9. Cala Pedrosa chiringuito — hike-reward lunch
 
+> [📍 Map](https://www.google.com/maps/search/Cala%20Pedrosa%2C%20Tamariu%2C%20Costa%20Brava%2C%20Spain) · Direct coastal-path distance per Google Maps: 🚶 ~42 min · this guide's Sant Sebastià-detour trail runs longer (🚶 75–90 min) · 🚗 5 min to the nearest road access point
+
 **Credential:** **Iconic adventure pick.** **Logistics:** Roughly 75–90 minutes on foot from Llafranc via Sant Sebastià; the trail is steep and rugged in places. It is not a 28-minute casual walk. **Service:** Highly seasonal, weather-dependent and publicly reported closed Wednesday; call the same morning rather than relying on directory hours.[16]
 
 The tiny converted fisherman’s barraca is memorable because access is by trail or boat. Food is simple: fish of the day, calamari, mussels, tortilla and occasional rice or fideuà.
@@ -128,6 +146,8 @@ The tiny converted fisherman’s barraca is memorable because access is by trail
 
 ### 10. Sa Barca, formerly Es Furió — Sa Tuna cove lunch
 
+> [📍 Map](https://www.google.com/maps/search/Sa%20Barca%2C%20Sa%20Tuna%2C%20Begur%2C%20Spain) · 🚗 27 min
+
 **Credential:** **Instagram.** **Logistics:** Approximately 24–30 minutes by car. **Service:** Seasonal lunch around 13:00–15:30; reconfirm because the restaurant recently changed identity.[17]
 
 This is the direct-at-the-cove option in Sa Tuna, with an oak grill and whole fish. Search for **Sa Barca**, not only Es Furió, when navigating.
@@ -137,6 +157,8 @@ This is the direct-at-the-cove option in Sa Tuna, with an oak grill and whole fi
 **Reserve:** Advisable at [Sa Barca](https://sabarca.me/?lang=en) or **+34 972 62 37 65**.
 
 ### 11. Sa Donzella at Hostal Ses Negres — Sa Riera beach alternative
+
+> [📍 Map](https://www.google.com/maps/search/Hostal%20Ses%20Negres%2C%20Sa%20Riera%2C%20Costa%20Brava%2C%20Spain) · 🚗 22 min
 
 **Credential:** **Instagram.** **Logistics:** Approximately 23–30 minutes by car. **Service:** Seasonal; exact September service requires telephone confirmation because the online module is not reliable.[19]
 
@@ -150,6 +172,8 @@ This is the broader, easier-menu alternative to Sa Rascassa: directly at Sa Rier
 
 ### 12. El Pedró, Pals — best pairing with Mas Oller
 
+> [📍 Map](https://www.google.com/maps/search/El%20Pedro%2C%20Pals%2C%20Costa%20Brava%2C%20Spain) · 🚗 21 min
+
 **Credential:** **Iconic logistics pick.** **Logistics:** Approximately 15–20 minutes from Mas Pastora and only a short drive from Mas Oller; the restaurant sits inside Pals’s medieval old town. **Service:** Monday–Wednesday lunch around 13:00–15:30; closed Thursday.[20]
 
 After the 11:00 Mas Oller tour, this is the best balance of regional food, stone-village atmosphere and manageable meal length. It leaves time to walk Pals without turning the entire day into another tasting-menu production.
@@ -159,6 +183,8 @@ After the 11:00 Mas Oller tour, this is the best balance of regional food, stone
 **Reserve:** Advisable through [El Pedró’s official calendar](https://elpedropals.myrestoo.net/en/reservar) or **+34 972 636 983**.
 
 ### 13. Vicus, Pals — refined alternative
+
+> [📍 Map](https://www.google.com/maps/search/Vicus%2C%20Pals%2C%20Costa%20Brava%2C%20Spain) · 🚗 17 min
 
 **Credential:** **Instagram + Michelin.** **Logistics:** Approximately 15–20 minutes by car and close to Mas Oller. **Service:** Tuesday–Thursday lunch for your relevant dates; closed Monday.[22]
 
@@ -170,7 +196,7 @@ Vicus offers more contemporary Catalan cooking and a longer, more polished meal 
 
 ## Lower-priority cove backup
 
-**Chiringuito d’Aiguafreda** is worth using only if you are already at the cove and cannot obtain Sa Rascassa. The view and location are attractive, but food/value feedback is less consistent. Choose grilled turbot, octopus or Caprese salad; ask about meat stock in rice and avoid roast-meat croquettes.[24]
+**Chiringuito d’Aiguafreda** ([📍 Map](https://www.google.com/maps/search/Cala%20Aiguafreda%2C%20Begur%2C%20Spain) · 🚗 26 min) is worth using only if you are already at the cove and cannot obtain Sa Rascassa. The view and location are attractive, but food/value feedback is less consistent. Choose grilled turbot, octopus or Caprese salad; ask about meat stock in rice and avoid roast-meat croquettes.[24]
 
 ## The four lunches I would actually preserve
 
