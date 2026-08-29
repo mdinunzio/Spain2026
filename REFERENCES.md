@@ -7,9 +7,9 @@ Each section is linked from that tab's `References` column.
 `parsed/formatted/`, not this file.*
 
 
-*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note, 2026-08-27_palma-thursday-note, 2026-08-27_sep7-lunch-options*
+*Batches included: 2026-07-17_costa-brava-gemini, 2026-07-17_mallorca-instagram-16, 2026-07-17_substack-mallorca-considered, 2026-07-21_gemini-three-leg-itinerary, 2026-07-21_manus-deia-santanyi-curated-list, 2026-07-22_manus-beachfront-hotel-alternatives, 2026-07-22_manus-instagram-batch2-costa-brava, 2026-07-23_manual-finds, 2026-07-24_manus-palma-master-list, 2026-07-27_manus-wine-bar-matches, 2026-07-29_infatuation-palma-best-restaurants, 2026-07-29_manus-calella-palafrugell-guide, 2026-08-10_manus-booking-priorities, 2026-08-10_manus-instagram-batch3-4-costa-brava, 2026-08-10_reddit-can-lluc, 2026-08-10_saforadada-sea-view-restaurants, 2026-08-18_instagram-soller-nacarat, 2026-08-21_manus-pocket-guides, 2026-08-24_bensdavall-closure, 2026-08-24_claude-palma-traditional-views, 2026-08-25_manus-soller-saturday-guide, 2026-08-26_chiringuitos-note-gaps, 2026-08-26_llafranc-dinner-plan, 2026-08-26_manus-mas-oller-day-plan, 2026-08-26_manus-palma-sunday-dinner-views, 2026-08-26_thursday-llafranc-note, 2026-08-27_palma-thursday-note, 2026-08-27_sep7-lunch-options, 2026-08-29_lunch-guides-rementions*
 
-*336 venues · 604 sources*
+*336 venues · 608 sources*
 
 ---
 
@@ -193,8 +193,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Hotel+Es+Mol%C3%AD+%28La+Muleta+cove%29%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Lunch pocket guide (repo)** · 2026-08-29 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Dei%C3%A0%20Lunch%20Pocket%20Guide.md)
+  - Lunch mechanics per the Aug 29 guide: the cove's own snack bar serves drinks 10:00–18:00 and food 13:00–16:00 (salads, sandwiches, burgers, prepared dishes off the day's blackboard) — even Es Molí guests must book cove access in advance via recepcion@esmoli.com, then ride the hotel shuttle (10:00/12:30/15:30 out, 12:00/15:00/18:00 back). This is the correct lunch for the planned cove day — don't leave for a formal restaurant.
 - **Instagram — Caitlin Eliza (@caitlinelizaxo)** · 2026-05-24 · 110,898 views · 3,689 likes · [DYuzlPFzDK1](https://www.instagram.com/p/DYuzlPFzDK1/)
   - Booked it on a TikTok tip and raved: "exceeds all expectations by a thousand… genuinely could not be happier — this is my dream." The reel centers on the hotel's private cove, La Muleta — turquoise water, pine-backed cliffs, dining terraces, loungers in sun and shade, steps into the sea, food served at the cove. 5/5.
 
@@ -1115,10 +1117,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Es%20Furi%C3%B3%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Instagram — Sea Salt Living (@seasaltliving.gr)** · [DLh9N9OIi6n](https://www.instagram.com/p/DLh9N9OIi6n/)
   - Starred on the Begur foodies list — 'try the arroz mar.'
+- **Lunch pocket guide (repo)** · 2026-08-29 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Lunch%20Pocket%20Guide.md)
+  - ⚠️ Name update per the Aug 29 lunch guide: now trading as SA BARCA (search that name, not Es Furió, on maps and booking sites) — same Sa Tuna cove terrace, oak grill, whole fish. Reconfirm the rebrand before booking; reserve at sabarca.me or +34 972 62 37 65.
 
 ---
 
@@ -1247,10 +1251,12 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Hostal%20Ses%20Negres%2C%20Costa%20Brava%2C%20Spain)
 
-### Sources (1)
+### Sources (2)
 
 - **Instagram — Duda Sarmento (@dudasarmento_)** · [DZcatLpjZGv](https://www.instagram.com/p/DZcatLpjZGv/)
   - Her 'secret' best breakfast in Begur, ⭐⭐⭐⭐⭐ — beach-view coffee, scrambled eggs, grilled cheese near Sa Riera beach.
+- **Lunch pocket guide (repo)** · 2026-08-29 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Lunch%20Pocket%20Guide.md)
+  - The in-house restaurant is called SA DONZELLA — sardines, grilled squid, cod with pisto, lobster and rice dishes, directly on Sa Riera beach. Per the Aug 29 lunch guide: the broader, easier-menu alternative to Sa Rascassa; September service needs a phone confirmation (+34 689 692 858) since the online booking module is unreliable.
 
 ---
 
@@ -2432,8 +2438,10 @@ Each section is linked from that tab's `References` column.
 
 [Google Maps](https://www.google.com/maps/search/Assaona%2C+Mallorca%2C+Spain)
 
-### Sources (1)
+### Sources (2)
 
+- **Lunch pocket guide (repo)** · 2026-08-29 · [link](https://github.com/mdinunzio/Spain2026/blob/main/notes/Palma%20Lunch%20Pocket%20Guide.md)
+  - ⚠️ Name update per the Aug 29 lunch guide: rebranded to ANSSIA (Gastrobeach Club) — same Portixol beachfront spot. Tuna, ceviche, sole and sushi are Chelsea-easy; value/service feedback is less consistent than the destination picks. 🚗 10 min from Palma Riad.
 - **Instagram — SheerLuxe (@sheerluxe)** · 2026-06-22 · 533,938 views · 11,869 likes · [DZ5b-NuNBcS](https://www.instagram.com/p/DZ5b-NuNBcS/)
   - Beach club on the Palma beachfront at Portixol. 4/5.
 

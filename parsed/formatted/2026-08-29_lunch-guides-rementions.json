@@ -1,0 +1,128 @@
+{
+  "batch": "2026-08-29_lunch-guides-rementions",
+  "region": "Mallorca + Costa Brava",
+  "source_count": 3,
+  "venue_count": 4,
+  "locations": [
+    {
+      "name": "Es Furió",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Tuna, Begur",
+      "type": "Lunch Restaurant",
+      "emoji": "🥘",
+      "description": "Star pick on Sea Salt Living's Begur food list, right on the Sa Tuna waterfront — 'try the arroz mar' (seafood rice). The lunch anchor for a Sa Tuna cove day. ⚠️ Name update per the Aug 29 lunch guide: now trading as SA BARCA (search that name, not Es Furió, on maps and booking sites) — same Sa Tuna cove terrace, oak grill, whole fish. Reconfirm the rebrand before booking; reserve at sabarca.me or +34 972 62 37 65.",
+      "cost_range": "$$$",
+      "address": "Passeig de l'Àncora, S/N, 17255 Sa Tuna, Girona, Spain",
+      "latitude": 41.960228,
+      "longitude": 3.229423,
+      "google_map": "https://www.google.com/maps/search/Es%20Furi%C3%B3%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#es-furio",
+      "rating": 4,
+      "tags": "lunch, renamed, rice, sa-barca, sa-tuna, seafood, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ],
+      "references": [
+        {
+          "source": "Lunch pocket guide (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Lunch%20Pocket%20Guide.md",
+          "date": "2026-08-29",
+          "note": "⚠️ Name update per the Aug 29 lunch guide: now trading as SA BARCA (search that name, not Es Furió, on maps and booking sites) — same Sa Tuna cove terrace, oak grill, whole fish. Reconfirm the rebrand before booking; reserve at sabarca.me or +34 972 62 37 65."
+        }
+      ]
+    },
+    {
+      "name": "Assaona",
+      "region": "Mallorca",
+      "neighborhood": "Portixol, Palma",
+      "type": "Beach Club",
+      "emoji": "🏖️",
+      "description": "Beach club on the Palma beachfront at Portixol, recommended by SheerLuxe. The convenient city-adjacent option rather than a destination — Gran Folies is the better club in this batch. ⚠️ Name update per the Aug 29 lunch guide: rebranded to ANSSIA (Gastrobeach Club) — same Portixol beachfront spot. Tuna, ceviche, sole and sushi are Chelsea-easy; value/service feedback is less consistent than the destination picks. 🚗 10 min from Palma Riad.",
+      "cost_range": "$$$",
+      "address": "Passeig Portitxol, s/n, Platja de Palma i Pla de Sant Jordi, 07006 Palma, Illes Balears, Spain",
+      "latitude": 39.5609593,
+      "longitude": 2.6662431,
+      "google_map": "https://www.google.com/maps/search/Assaona%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#assaona",
+      "rating": 3,
+      "tags": "anssia, beach-club, palma, renamed, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ],
+      "references": [
+        {
+          "source": "Lunch pocket guide (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Palma%20Lunch%20Pocket%20Guide.md",
+          "date": "2026-08-29",
+          "note": "⚠️ Name update per the Aug 29 lunch guide: rebranded to ANSSIA (Gastrobeach Club) — same Portixol beachfront spot. Tuna, ceviche, sole and sushi are Chelsea-easy; value/service feedback is less consistent than the destination picks. 🚗 10 min from Palma Riad."
+        }
+      ]
+    },
+    {
+      "name": "Hostal Ses Negres",
+      "region": "Costa Brava",
+      "neighborhood": "Sa Riera, Begur",
+      "type": "Cafe",
+      "emoji": "☕",
+      "description": "Duda Sarmento's '-secret- (not secret anymore) best place to have breakfast in Begur' — beach-view coffee, scrambled eggs and grilled cheese just above Platja de Sa Riera. Low-key hostal café, ideal before a Sa Riera/Illa Roja beach morning. The in-house restaurant is called SA DONZELLA — sardines, grilled squid, cod with pisto, lobster and rice dishes, directly on Sa Riera beach. Per the Aug 29 lunch guide: the broader, easier-menu alternative to Sa Rascassa; September service needs a phone confirmation (+34 689 692 858) since the online booking module is unreliable.",
+      "cost_range": "$$",
+      "address": "Carrer del Mar, 8, Platja de, 17255 Sa Riera, Girona, Spain",
+      "latitude": 41.97191369999999,
+      "longitude": 3.2112818,
+      "google_map": "https://www.google.com/maps/search/Hostal%20Ses%20Negres%2C%20Costa%20Brava%2C%20Spain",
+      "references_anchor": "REFERENCES.md#hostal-ses-negres",
+      "rating": 4,
+      "tags": "beach-view, breakfast, cafe, casual, sa-donzella, sa-riera",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ],
+      "references": [
+        {
+          "source": "Lunch pocket guide (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Llafranc%20Lunch%20Pocket%20Guide.md",
+          "date": "2026-08-29",
+          "note": "The in-house restaurant is called SA DONZELLA — sardines, grilled squid, cod with pisto, lobster and rice dishes, directly on Sa Riera beach. Per the Aug 29 lunch guide: the broader, easier-menu alternative to Sa Rascassa; September service needs a phone confirmation (+34 689 692 858) since the online booking module is unreliable."
+        }
+      ]
+    },
+    {
+      "name": "Hotel Es Molí (La Muleta cove)",
+      "region": "Mallorca",
+      "neighborhood": "Deià",
+      "type": "Hotel",
+      "emoji": "🏖️",
+      "description": "Deià hotel whose draw is its private beach cove, La Muleta: clear turquoise water, pine-backed cliffs, dining terraces, loungers in sun and shade, steps straight into the sea, food served down at the cove. Caitlin Eliza booked it on a tip and said it \"exceeds all expectations by a thousand — this is my dream.\" Single-source rave. The private-cove setup is the Arienzo Beach Club analog. Lunch mechanics per the Aug 29 guide: the cove's own snack bar serves drinks 10:00–18:00 and food 13:00–16:00 (salads, sandwiches, burgers, prepared dishes off the day's blackboard) — even Es Molí guests must book cove access in advance via recepcion@esmoli.com, then ride the hotel shuttle (10:00/12:30/15:30 out, 12:00/15:00/18:00 back). This is the correct lunch for the planned cove day — don't leave for a formal restaurant.",
+      "cost_range": "$$$",
+      "address": "Carretera, s/n, 07179 Valldemossa, Illes Balears, Spain",
+      "latitude": 39.746983,
+      "longitude": 2.6433875,
+      "google_map": "https://www.google.com/maps/search/Hotel+Es+Mol%C3%AD+%28La+Muleta+cove%29%2C+Mallorca%2C+Spain",
+      "references_anchor": "REFERENCES.md#hotel-es-moli-la-muleta-cove",
+      "rating": 5,
+      "tags": "hotel, lunch-onsite, private-beach, shuttle-only, swimming, tramuntana, waterfront",
+      "source_rating_raw": null,
+      "geocode_query": null,
+      "geo_note": null,
+      "flags": [
+        "existing-entry"
+      ],
+      "references": [
+        {
+          "source": "Lunch pocket guide (repo)",
+          "url": "https://github.com/mdinunzio/Spain2026/blob/main/notes/Dei%C3%A0%20Lunch%20Pocket%20Guide.md",
+          "date": "2026-08-29",
+          "note": "Lunch mechanics per the Aug 29 guide: the cove's own snack bar serves drinks 10:00–18:00 and food 13:00–16:00 (salads, sandwiches, burgers, prepared dishes off the day's blackboard) — even Es Molí guests must book cove access in advance via recepcion@esmoli.com, then ride the hotel shuttle (10:00/12:30/15:30 out, 12:00/15:00/18:00 back). This is the correct lunch for the planned cove day — don't leave for a formal restaurant."
+        }
+      ]
+    }
+  ]
+}
