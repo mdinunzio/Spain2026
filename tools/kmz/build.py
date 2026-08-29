@@ -35,12 +35,53 @@ MY_MAPS_LAYER_LIMIT = 10
 
 # Curated single-purpose exports, layered on top of --split-by. Each maps to
 # one predicate over the full venue list and one output filename/doc label.
+#
+# A venue's Type is exclusive (one row, one category), but its Tags are not —
+# a Dinner Restaurant tagged "lunch" genuinely works as a lunch spot, and a
+# hotel restaurant tagged "cocktails" genuinely works as a drinks stop. So
+# these filters match on Type *or* a tag-substring check, letting one venue
+# land in more than one export instead of being locked to its Type.
+#
+# Substrings (not exact tags) so every phrasing variant is caught in one shot
+# — "lunch", "quick-lunch", "lunch-deal", "no-tuesday-lunch", a future
+# "casual-lunch", etc. all match on the root "lunch" without listing each one.
+# Each substring here was checked against the live tag vocabulary for false
+# positives (e.g. "wine" matches only wine-* tags, nothing unrelated).
+LUNCH_TAG_SUBSTRINGS = ("lunch",)
+CAFE_TAG_SUBSTRINGS = (
+    "cafe", "coffee", "brunch", "breakfast", "baker", "roast", "pastr",
+    "matcha", "churro", "ensaimada", "llonguet", "flat-white", "bagel",
+)
+BAR_TAG_SUBSTRINGS = (
+    "cocktail", "wine", "vermout", "vermut", "cava", "mixolog", "speakeasy",
+    "nightcap", "aperitif", "mezcal", "agave", "drink", "beach-bar",
+)
+
+
+def has_tag_substring(venue: Venue, substrings: tuple[str, ...]) -> bool:
+    """Whether any of a venue's comma-separated tags contains any substring."""
+    tags = (t.strip().lower() for t in (venue.tags or "").split(","))
+    return any(sub in tag for tag in tags if tag for sub in substrings)
+
+
+def _is_bar(venue: Venue) -> bool:
+    # "wine" (the substring) legitimately matches wine-bar/wine-list/wine-geek/
+    # catalan-wine/etc., but every Winery-type venue also carries a bare
+    # "wine" tag — a winery tour is a scheduled tasting, not a quick-drink
+    # stop, so exclude that Type outright regardless of which tag matched.
+    if venue.venue_type == "Winery":
+        return False
+    return venue.venue_type in {"Bar", "Cocktail Bar", "Wine Bar"} or has_tag_substring(
+        venue, BAR_TAG_SUBSTRINGS
+    )
+
+
 FILTER_PREDICATES = {
     "all": lambda v: True,
     "selected": lambda v: v.selected,
-    "lunch": lambda v: v.venue_type == "Lunch Restaurant",
-    "cafes": lambda v: v.venue_type == "Cafe",
-    "bars": lambda v: v.venue_type in {"Bar", "Cocktail Bar", "Wine Bar"},
+    "lunch": lambda v: v.venue_type == "Lunch Restaurant" or has_tag_substring(v, LUNCH_TAG_SUBSTRINGS),
+    "cafes": lambda v: v.venue_type == "Cafe" or has_tag_substring(v, CAFE_TAG_SUBSTRINGS),
+    "bars": _is_bar,
 }
 FILTER_LABELS = {
     "all": "Spain 2026",
