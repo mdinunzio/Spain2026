@@ -51,3 +51,27 @@ When you want to explore the city beyond the restaurants.
 | **Es Baluard Museum** | 🚶 10 min · [📍 Map](https://www.google.com/maps/search/Es+Baluard+Museum+of+Modern+Art%2C+Mallorca%2C+Spain) | Palma's contemporary art museum built directly into the old city walls. | Excellent modern art, plus a massive terrace with sweeping views over the harbor (free to access the terrace). |
 | **Es Jonquet Windmills** | 🚶 19 min · [📍 Map](https://www.google.com/maps/search/Es+Jonquet+Windmills%2C+Mallorca%2C+Spain) | A short walk from Santa Catalina to the historic windmill quarter. | It provides a fantastic, elevated sunset viewpoint over the harbor and a glimpse into Palma's agricultural past. |
 | **Mercat de l'Olivar** | 🚶 12 min · [📍 Map](https://www.google.com/maps/search/Mercat%20de%20l%27Olivar%2C%20Palma%2C%20Mallorca%2C%20Spain) | Palma's main indoor market. | A sensory overload of Balearic cheeses, garlic strings, and fresh seafood. Grab a glass of wine and some ibérico ham at one of the stands. |
+
+---
+
+## ⭐ Your Selected Picks (from the sheet)
+
+Every venue you've ✔-checked on the Locations tab for this region, in one place — including the booked anchors. Times from **the Palma Riad**; tap 📍 for Google Maps.
+
+| Venue | Type | From Hotel | ★ | Why it's on your list |
+| :--- | :--- | :--- | :---: | :--- |
+| **Ferrocarril de Sóller (1912 train)** [📍 Map](https://www.google.com/maps/search/Ferrocarril%20de%20S%C3%B3ller%20%281912%20train%29%2C%20Mallorca%2C%20Spain) | Attraction | 🚶 16 min · 🚗 14 min | 5 | Vintage 1912 wooden train from Palma through the Tramuntana to Sóller (~1 h each way; ~$46 round trip) — twice endors… |
+| **Gran Folies Beach Club** [📍 Map](https://www.google.com/maps/search/Gran%20Folies%20Beach%20Club%2C%20Mallorca%2C%20Spain) | Beach Club | 🚗 37 min | 5 | Cliffside beach club with a pool above Cala Llamp near Port d'Andratx. |
+| **El Bungalow** [📍 Map](https://www.google.com/maps/search/El%20Bungalow%2C%20Mallorca%2C%20Spain) | Dinner Restaurant | 🚗 15 min | 4 | 1920s beach house at sea level on the rocks of Ciutat Jardí, family-run as a restaurant since 1983 and beloved by loc… |
+| **El Llorenç Rooftop** [📍 Map](https://www.google.com/maps/search/El%20Lloren%C3%A7%20Rooftop%2C%20Mallorca%2C%20Spain) | Cocktail Bar | 🚶 18 min · 🚗 10 min | 4 | Rooftop of the El Llorenç hotel — the longest infinity pool in Palma with views over the bay and cathedral. |
+| **Hostal Cuba Sky Bar** [📍 Map](https://www.google.com/maps/search/Hostal%20Cuba%20Sky%20Bar%2C%20Mallorca%2C%20Spain) | Cocktail Bar | 🚶 13 min | 4 | The quintessential Palma sunset spot — a rooftop with sweeping marina and cathedral views; aim for 6–7pm drinks. |
+| **Palma Cathedral (La Seu)** [📍 Map](https://www.google.com/maps/search/Palma%20Cathedral%20%28La%20Seu%29%2C%20Mallorca%2C%20Spain) | Attraction | 🚶 11 min | 4 | The iconic Gothic cathedral over the water, with striking interior modifications by Antoni Gaudí — the city's must-se… |
+| **Santa Catalina Market** [📍 Map](https://www.google.com/maps/search/Santa%20Catalina%20Market%2C%20Mallorca%2C%20Spain) | Market | 🚶 15 min | 4 | The Mercat de Santa Catalina — Palma's smaller, older neighborhood market hall: produce, a fish corner, and a handful… |
+| **Stagier** [📍 Map](https://www.google.com/maps/search/Stagier%2C%20Mallorca%2C%20Spain) | Dinner Restaurant | 🚶 18 min · 🚗 8 min | 4 | Tiny, romantic Chilean-Peruvian fusion room in Santa Catalina — chimichurri-butter sourdough, lobster-filled avocado… |
+| **Basilica de Sant Francesc** [📍 Map](https://www.google.com/maps/search/Basilica%20de%20Sant%20Francesc%2C%20Mallorca%2C%20Spain) | Attraction | 🚶 12 min | 3 | A stunning 13th-century Gothic church with a beautiful, peaceful cloister. |
+| **Mercat de l'Olivar** [📍 Map](https://www.google.com/maps/search/Mercat%20de%20l%27Olivar%2C%20Mallorca%2C%20Spain) | Market | 🚶 12 min | 3 | Palma's big covered market since the 1950s — Balearic cheeses, olives, local salts, plus eat-in stalls: Mercat Negre… |
+| **OMBU Born** [📍 Map](https://www.google.com/maps/search/OMBU%20Born%2C%20Mallorca%2C%20Spain) | Dinner Restaurant | 🚶 5 min | 3 | Creative global tapas with a big outdoor terrace right on the Passeig des Born — tuna, scallop, prawns, octopus, salm… |
+| **Rikito** [📍 Map](https://www.google.com/maps/search/Rikito%2C%20Mallorca%2C%20Spain) | Dinner Restaurant | 🚶 13 min | 3 | Pizza and pasta in Santa Catalina, recommended by SheerLuxe. |
+| **Royal Palace of La Almudaina** [📍 Map](https://www.google.com/maps/search/Royal%20Palace%20of%20La%20Almudaina%2C%20Mallorca%2C%20Spain) | Attraction | 🚶 7 min | 3 | The historic Moorish-era royal residence right beside the cathedral. |
+| **Sa Cranca** [📍 Map](https://www.google.com/maps/search/Sa%20Cranca%2C%20Mallorca%2C%20Spain) | Dinner Restaurant | 🚶 17 min · 🚗 6 min | 3 | Palma's long-running paella and rice specialist on the Passeig Marítim — marina and yachts in front, the cathedral li… |
+| **Sama** [📍 Map](https://www.google.com/maps/search/Sama%2C%20Mallorca%2C%20Spain) | Cafe | 🚶 15 min | 3 | Coffee shop in Santa Catalina, described by SheerLuxe as cute. |

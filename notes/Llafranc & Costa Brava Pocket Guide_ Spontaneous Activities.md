@@ -45,3 +45,15 @@ When you want to browse or take a short drive to explore.
 ## 🌊 Other Spontaneous Ideas
 - **Rent a Kayak or SUP:** Walk down to the Llafranc or Calella beachfront and rent a kayak or stand-up paddleboard for an hour. Paddle along the cliffs to discover tiny, hidden sea caves you cannot reach on foot.
 - **Hora del Vermut:** Adopt the local Catalan tradition. At 12:30 PM, sit at any beachfront cafe in Llafranc, order a glass of local vermouth on ice with an olive, and share a plate of anchovies or chips before lunch.
+
+---
+
+## ⭐ Your Selected Picks (from the sheet)
+
+Every venue you've ✔-checked on the Locations tab for this region, in one place — including the booked anchors. Times from **Hotel Mas Pastora**; tap 📍 for Google Maps.
+
+| Venue | Type | From Hotel | ★ | Why it's on your list |
+| :--- | :--- | :--- | :---: | :--- |
+| **Cap Sa Sal** [📍 Map](https://www.google.com/maps/search/Cap%20Sa%20Sal%2C%20Costa%20Brava%2C%20Spain) | Dinner Restaurant | 🚗 27 min | 5 | Sea-view terrace restaurant on the Aiguablava cliffs below Begur — the strongest restaurant signal in the batch, appe… |
+| **La Blava** [📍 Map](https://www.google.com/maps/search/La%20Blava%2C%20Costa%20Brava%2C%20Spain) | Dinner Restaurant | 🚶 24 min · 🚗 14 min | 4 | Tucked under Calella's traditional stone arches (the voltes) right on the Port Bo sand — widely considered one of the… |
+| **Via Ferrata Cala del Molí** [📍 Map](https://www.google.com/maps/search/Via%20Ferrata%20Cala%20del%20Mol%C3%AD%2C%20Mallorca%2C%20Spain) | Activity | 🚗 32 min | 4 | The only sea-cliff via ferrata in Europe — 20 m above the waves, K1–K2 beginner-friendly, 2-3 hours with Nepalese rop… |

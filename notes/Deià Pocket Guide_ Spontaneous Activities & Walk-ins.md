@@ -41,3 +41,25 @@ When you have a few hours to kill and want to move your legs without planning ah
 For the best sunset views without a dinner reservation, drive to **Son Marroig** (🚗 8 min · [📍 Map](https://www.google.com/maps/search/Son%20Marroig%2C%20Mallorca%2C%20Spain)). This historic estate features a neoclassical marble temple perched on the cliff edge and is universally considered the best sunset viewpoint on the island. Just drive or taxi over about an hour before sunset.
 
 Alternatively, if you prefer not to leave the hotel, **Bar Miró at La Residencia** (at your hotel · [📍 Map](https://www.google.com/maps/search/Caf%C3%A9+Miro+La+Residencia%2C+Dei%C3%A0%2C+Mallorca%2C+Spain)) offers live music, excellent cocktails, and mountain views right from their own terrace.
+
+---
+
+## ⭐ Your Selected Picks (from the sheet)
+
+Every venue you've ✔-checked on the Locations tab for this region, in one place — including the booked anchors. Times from **La Residencia**; tap 📍 for Google Maps.
+
+| Venue | Type | From Hotel | ★ | Why it's on your list |
+| :--- | :--- | :--- | :---: | :--- |
+| **Ca's Patró March** [📍 Map](https://www.google.com/maps/search/Ca%27s%20Patr%C3%B3%20March%2C%20Mallorca%2C%20Spain) | Lunch Restaurant | 🚶 37 min · 🚗 9 min | 5 | Rustic, open-air seafood restaurant built into the cliffside above Cala Deià, right on the water — famous from The Ni… **Famous waterside lunch spot** |
+| **Hotel Es Molí (La Muleta cove)** [📍 Map](https://www.google.com/maps/search/Hotel%20Es%20Mol%C3%AD%20%28La%20Muleta%20cove%29%2C%20Mallorca%2C%20Spain) | Hotel | 🚶 14 min | 5 | Deià hotel whose draw is its private beach cove, La Muleta: clear turquoise water, pine-backed cliffs, dining terrace… **Aug 30 - Sep 1** |
+| **Perfect Charter** [📍 Map](https://www.google.com/maps/search/Perfect%20Charter%2C%20Mallorca%2C%20Spain) | Activity | 🚗 26 min | 5 | The named, bookable operator behind Jessie Granader's favorite day — a full-day private charter out of Port de Sóller… |
+| **BARRACÓ** [📍 Map](https://www.google.com/maps/search/BARRAC%C3%93%2C%20Mallorca%2C%20Spain) | Cocktail Bar | 🚶 5 min | 4 | A cool-looking open-air cocktail bar tucked into Deià — thatched shade sails, bamboo screening and woven-rope stools… |
+| **Camí dels Pintors** [📍 Map](https://www.google.com/maps/search/Cam%C3%AD%20dels%20Pintors%2C%20Mallorca%2C%20Spain) | Attraction | trailhead at Cala Deià: 🚶 37 min / 🚗 9 min | 4 | The 'Painters' Path' — a panoramic coastal hike out of Deià that Jessie called spectacular and meditative, run along… **Hike leading to Ca's Patró March** |
+| **La Residencia, A Belmond Hotel** [📍 Map](https://www.google.com/maps/search/La%20Residencia%2C%20A%20Belmond%20Hotel%2C%20Mallorca%2C%20Spain) | Hotel | your hotel | 4 | Iconic Belmond property in Deià — mountain views, Mallorcan antiques, an incredible art collection, olive groves, old… **Sep 1 - Sep 3** |
+| **Nama** [📍 Map](https://www.google.com/maps/search/Nama%2C%20Mallorca%2C%20Spain) | Dinner Restaurant | 🚶 4 min | 4 | Asian-Mediterranean fusion right in Deià village with a stunning outdoor terrace over the valley — 'the best Thai foo… **Amazing Asian food, very cool terrace** |
+| **Restaurante Sebastián** [📍 Map](https://www.google.com/maps/search/Restaurante%20Sebasti%C3%A1n%2C%20Mallorca%2C%20Spain) | Dinner Restaurant | 🚶 5 min | 4 | A Deià institution since 1994, set in a 250-year-old former stable with an elegant interior and a lemon garden. |
+| **Sa Foradada** [📍 Map](https://www.google.com/maps/search/Sa%20Foradada%2C%20Mallorca%2C%20Spain) | Lunch Restaurant | 🚗 8 min to Son Marroig, then ~45–60 min hike down (or boat from Port de Sóller) | 4 | Wood-fired paella cooked on the cliffs at the tip of the Sa Foradada peninsula, below Son Marroig — rice and paella o… |
+| **Son Marroig** [📍 Map](https://www.google.com/maps/search/Son%20Marroig%2C%20Mallorca%2C%20Spain) | Attraction | 🚗 8 min | 4 | Archduke Ludwig Salvator's clifftop estate 10 minutes from Deià — per Manus, 'the single best sunset viewpoint on the… |
+| **de moniö** [📍 Map](https://www.google.com/maps/search/de%20moni%C3%B6%2C%20Mallorca%2C%20Spain) | Cafe | 🚶 5 min | 4 | A tiny, much-loved vegetarian café and concept shop in the heart of Deià (Carrer Felipe Bauzà 1) — celebrated matcha,… **Cute cafe for coffee stop in town** |
+| **Ca'n Lluc** [📍 Map](https://www.google.com/maps/search/Ca%27n%20Lluc%2C%20Mallorca%2C%20Spain) | Lunch Restaurant | 🚶 37 min · 🚗 9 min | 3 | The second beach restaurant at Cala Deià — on the same rocks as Ca's Patró March, about 30 meters along the cove. |
+| **El Olivo** [📍 Map](https://www.google.com/maps/search/El%20Olivo%2C%20Mallorca%2C%20Spain) | Dinner Restaurant | 🚶 2 min | 2 | Fine-dining restaurant at Belmond La Residencia — now BOOKED for the Wed Sep 2 sunset terrace dinner, exactly the for… **Fine dining** |
